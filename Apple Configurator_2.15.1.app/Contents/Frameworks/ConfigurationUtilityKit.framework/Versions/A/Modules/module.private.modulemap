@@ -1,5 +1,0 @@
-framework module ConfigurationUtilityKit_Private [system] {
-    umbrella header "ConfigurationUtilityKit_Private.h"
-    module * { export * }
-    export *
-}

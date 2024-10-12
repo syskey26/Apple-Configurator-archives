@@ -1,6 +1,0 @@
-/* (No Comment) */
-"CNFGACT-07-NO_BASE_NAME_PROVIDED" = "Er is geen basisnaam opgegeven in de taakinterface.";
-
-/* INPUT ERRORS */
-"CNFGACT-07-NO_INPUT_ERROR" = "Er zijn geen ECID-verwijzingen naar aangesloten apparaten aan deze taak doorgegeven.";
-

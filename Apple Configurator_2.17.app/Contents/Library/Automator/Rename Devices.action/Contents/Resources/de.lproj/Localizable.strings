@@ -1,6 +1,0 @@
-/* (No Comment) */
-"CNFGACT-07-NO_BASE_NAME_PROVIDED" = "In der Aktionsschnittstelle wurde kein Basisname eingegeben.";
-
-/* INPUT ERRORS */
-"CNFGACT-07-NO_INPUT_ERROR" = "Es wurden keine ECID-Referenzen auf verbundene Geräte an diese Aktion übergeben.";
-

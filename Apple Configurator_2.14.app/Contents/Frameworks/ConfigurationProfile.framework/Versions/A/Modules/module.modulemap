@@ -1,6 +1,0 @@
-framework module ConfigurationProfile {
-    umbrella header "ConfigurationProfile.h"
-    
-    module * { export * }
-    export *
-}

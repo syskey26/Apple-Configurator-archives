@@ -1,9 +1,0 @@
-/* Class = "NSTextFieldCell"; title = "Fetching trust anchor certificates from MDM server…"; ObjectID = "8Xo-av-4KR"; */
-"8Xo-av-4KR.title" = "Récupération des certificats d’ancrage fiables à partir du serveur MDM…";
-
-/* Class = "NSTextFieldCell"; title = "Unable to verify the server's enrollment URL."; ObjectID = "gxl-MG-e8Z"; */
-"gxl-MG-e8Z.title" = "Impossible de vérifier l’URL d’inscription du serveur.";
-
-/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "sQ5-8L-Gyq"; */
-"sQ5-8L-Gyq.title" = "Étiquette multiligne";
-

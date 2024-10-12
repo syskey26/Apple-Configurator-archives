@@ -1,6 +1,0 @@
-/* (No Comment) */
-"CNFGACT-07-NO_BASE_NAME_PROVIDED" = "操作界面中未输入基本名称。";
-
-/* INPUT ERRORS */
-"CNFGACT-07-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
-

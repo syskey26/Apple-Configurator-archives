@@ -1,6 +1,0 @@
-/* (No Comment) */
-"CNFGACT-07-NO_BASE_NAME_PROVIDED" = "No se ha introducido ningún nombre de base en la interfaz de acciones.";
-
-/* INPUT ERRORS */
-"CNFGACT-07-NO_INPUT_ERROR" = "No se ha derivado a esta acción ninguna referencia de ECID a los dispositivos conectados.";
-

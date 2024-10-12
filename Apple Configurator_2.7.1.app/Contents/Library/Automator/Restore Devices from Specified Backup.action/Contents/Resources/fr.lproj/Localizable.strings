@@ -1,9 +1,0 @@
-/* CHECK ERRORS */
-"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "La sauvegarde d’appareil sélectionnée n’existe pas sur ce système.";
-
-/* INPUT ERRORS */
-"CNFGACT-12-NO_INPUT_ERROR" = "Aucune référence ECID aux appareils connectés n’a été transmise à cette action.";
-
-/* (No Comment) */
-"CNFGACT-12-NO_SELECTION_ERROR" = "Aucune sauvegarde d’appareil n’a été sélectionnée dans l’interface de l’action.";
-

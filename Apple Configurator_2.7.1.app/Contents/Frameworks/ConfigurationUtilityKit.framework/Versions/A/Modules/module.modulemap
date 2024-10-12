@@ -1,6 +1,0 @@
-framework module ConfigurationUtilityKit {
-  umbrella header "ConfigurationUtilityKit.h"
-
-  export *
-  module * { export * }
-}

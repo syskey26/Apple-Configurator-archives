@@ -1,9 +1,0 @@
-/* CHECK ERRORS */
-"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "선택한 기기 백업이 이 시스템에 없습니다.";
-
-/* INPUT ERRORS */
-"CNFGACT-12-NO_INPUT_ERROR" = "연결된 기기의 ECID 참조가 이 동작에 전달되지 않았습니다.";
-
-/* (No Comment) */
-"CNFGACT-12-NO_SELECTION_ERROR" = "동작 인터페이스에서 기기 백업을 선택하지 않았습니다.";
-

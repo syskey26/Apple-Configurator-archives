@@ -1,9 +1,0 @@
-/* INPUT ERRORS */
-"CNFGACT-13-NO_INPUT_ERROR" = "Aucune référence ECID aux appareils connectés n’a été transmise à cette action.";
-
-/* (No Comment) */
-"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH" = "Le mot de passe des sauvegardes de l’appareil n’a pas été saisi et confirmé au sein de l’interface d’action « Restaurer les appareils à partir de sauvegardes ».";
-
-/* (No Comment) */
-"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "ERREUR DE MOT DE PASSE";
-

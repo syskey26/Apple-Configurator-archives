@@ -1,9 +1,0 @@
-/* CHECK ERRORS */
-"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "La copia de seguridad del dispositivo seleccionada no se encuentra en este sistema.";
-
-/* INPUT ERRORS */
-"CNFGACT-12-NO_INPUT_ERROR" = "No se ha derivado a esta acción ninguna referencia de ECID a los dispositivos conectados.";
-
-/* (No Comment) */
-"CNFGACT-12-NO_SELECTION_ERROR" = "No se ha seleccionado ninguna copia de seguridad del dispositivo en la interfaz de acciones.";
-

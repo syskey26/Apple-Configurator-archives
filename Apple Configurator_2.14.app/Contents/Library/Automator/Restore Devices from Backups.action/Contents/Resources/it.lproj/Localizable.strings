@@ -1,9 +1,0 @@
-/* INPUT ERRORS */
-"CNFGACT-13-NO_INPUT_ERROR" = "Nessun riferimento ECID ai dispositivi collegati è stato passato a questa azione.";
-
-/* (No Comment) */
-"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH" = "La password per i backup dispositivo non è stata inserita né confermata nell'interfaccia di azione “Ripristina dispositivi da backup”.";
-
-/* (No Comment) */
-"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "ERRORE PASSWORD";
-

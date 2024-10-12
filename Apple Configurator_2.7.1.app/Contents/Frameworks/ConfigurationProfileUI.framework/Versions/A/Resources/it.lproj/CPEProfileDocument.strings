@@ -1,9 +1,0 @@
-/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
-"5.title" = "Finestra";
-
-/* Class = "NSBox"; title = "Signed Profile Warning View"; ObjectID = "LQe-72-fDP"; */
-"LQe-72-fDP.title" = "Vista di avviso profilo firmato";
-
-/* Class = "NSTextFieldCell"; title = "This profile has been signed and cannot be edited."; ObjectID = "rNF-LI-f5Q"; */
-"rNF-LI-f5Q.title" = "Il profilo è stato firmato e non può essere modificato.";
-

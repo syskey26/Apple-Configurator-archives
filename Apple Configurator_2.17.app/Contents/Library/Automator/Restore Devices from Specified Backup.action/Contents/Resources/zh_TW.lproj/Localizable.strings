@@ -1,9 +1,0 @@
-/* CHECK ERRORS */
-"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "所選的裝置備份不存在於此系統上。";
-
-/* INPUT ERRORS */
-"CNFGACT-12-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
-
-/* (No Comment) */
-"CNFGACT-12-NO_SELECTION_ERROR" = "未在動作介面中選取裝置備份。";
-

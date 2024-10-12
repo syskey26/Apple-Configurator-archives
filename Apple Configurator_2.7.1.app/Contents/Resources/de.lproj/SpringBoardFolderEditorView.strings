@@ -1,9 +1,0 @@
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Close Folder"; ObjectID = "IMT-CR-GP5"; */
-"IMT-CR-GP5.ibExternalAccessibilityDescription" = "Ordner schließen";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Close the folder."; ObjectID = "IMT-CR-GP5"; */
-"IMT-CR-GP5.ibShadowedToolTip" = "Den Ordner schließen.";
-
-/* Class = "NSTextFieldCell"; placeholderString = "Folder"; ObjectID = "o05-bP-Gsl"; */
-"o05-bP-Gsl.placeholderString" = "Ordner";
-
