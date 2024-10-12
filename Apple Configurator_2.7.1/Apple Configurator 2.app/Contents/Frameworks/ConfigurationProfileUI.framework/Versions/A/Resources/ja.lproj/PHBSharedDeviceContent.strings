@@ -1,0 +1,30 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "0Bv-Le-3ej"; */
+"0Bv-Le-3ej.ibShadowedIsNilPlaceholder" = "[オプション]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "5t2-xo-qfv"; */
+"5t2-xo-qfv.ibShadowedIsNilPlaceholder" = "[オプション]";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Cxl-sK-88M"; */
+"Cxl-sK-88M.title" = "（監視対象のみ）";
+
+/* Class = "NSTextFieldCell"; title = "Lock Screen Message"; ObjectID = "h0Q-vt-djc"; */
+"h0Q-vt-djc.title" = "ロック画面のメッセージ";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed at the bottom of the login window and lock screen"; ObjectID = "sbv-SZ-dpI"; */
+"sbv-SZ-dpI.title" = "ログインウインドウとロック画面の一番下に表示されるメッセージ";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed on the login window and lock screen"; ObjectID = "tiz-EG-ryi"; */
+"tiz-EG-ryi.title" = "ログインウインドウとロック画面に表示されるメッセージ";
+
+/* Class = "NSTextFieldCell"; title = "Asset Tag Information"; ObjectID = "UwA-ul-QbA"; */
+"UwA-ul-QbA.title" = "資産タグ情報";
+
+/* Class = "NSTextFieldCell"; title = "\"If Lost, Return to…\" Message"; ObjectID = "Ypp-Fg-qmf"; */
+"Ypp-Fg-qmf.title" = "“紛失した場合の返却先…”メッセージ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "yxj-3K-sb3"; */
+"yxj-3K-sb3.ibExternalAccessibilityDescription" = "アカウント名：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Lock Screen Message payload"; ObjectID = "zqg-Jh-OH0"; */
+"zqg-Jh-OH0.ibShadowedToolTip" = "ロック画面のメッセージペイロードを削除します";
+

@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "設定自定安裝選項的選項。根據預設，會使用最新的產品版本。";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作會回復其識別碼已傳送到此動作作為輸入的裝置。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "回復裝置";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. 保留一切權利。";
+

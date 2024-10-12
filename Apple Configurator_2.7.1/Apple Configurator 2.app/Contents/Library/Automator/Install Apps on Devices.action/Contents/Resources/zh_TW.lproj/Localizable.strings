@@ -1,0 +1,12 @@
+/* (No Comment) */
+"CNFGACT-05-MISSING_FILE" = "指示的位置中沒有此行動 App 檔案：";
+
+/* (No Comment) */
+"CNFGACT-05-NO_APPS_LOCATED" = "沒有位於此系統上的行動 App 檔案。";
+
+/* INPUT ERRORS */
+"CNFGACT-05-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
+
+/* (No Comment) */
+"CNFGACT-05-NO_SELECTION_ERROR" = "未選取行動 App 檔案。";
+

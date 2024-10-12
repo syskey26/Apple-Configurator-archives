@@ -1,0 +1,36 @@
+/* Class = "NSBox"; title = "Box"; ObjectID = "133"; */
+"133.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "134"; */
+"134.title" = "Box";
+
+/* Class = "NSTabViewItem"; label = "Payloads"; ObjectID = "170"; */
+"170.label" = "Cargas";
+
+/* Class = "NSTabViewItem"; label = "Placeholder"; ObjectID = "171"; */
+"171.label" = "Marcador de posición";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "339"; */
+"339.title" = "Text Cell";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Icon"; ObjectID = "373"; */
+"373.ibExternalAccessibilityDescription" = "Icono";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Title>>"; ObjectID = "376"; */
+"376.title" = "<<DNL Title>>";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Text>>"; ObjectID = "377"; */
+"377.title" = "<<DNL Text>>";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Payload Name>>"; ObjectID = "QdN-Ex-Nl3"; */
+"QdN-Ex-Nl3.title" = "<<DNL Payload Name>>";
+
+/* Class = "NSButtonCell"; title = "Configure"; ObjectID = "Qn0-fO-kxw"; */
+"Qn0-fO-kxw.title" = "Configurar";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Payload Description>>"; ObjectID = "vlS-ve-T9L"; */
+"vlS-ve-T9L.title" = "<<DNL Payload Description>>";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZOc-87-OsR"; */
+"ZOc-87-OsR.title" = "Box";
+

@@ -1,0 +1,89 @@
+/* Class = "NSTextFieldCell"; title = "The following items can be exported from the previous version and saved as files for use with Apple Configurator 2."; ObjectID = "2ng-G4-myo"; */
+"2ng-G4-myo.title" = "I seguenti elementi possono essere esportati dalla versione precedente e salvati come file da utilizzare con Apple Configurator 2.";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator 2 has a new model for managing devices that does not use a database to store device configurations, apps, or other media. If you used a previous version of Apple Configurator, this assistant will help you export its data and convert your device configurations into blueprints.\n\nClick Next to continue."; ObjectID = "3nh-ls-dNu"; */
+"3nh-ls-dNu.title" = "Apple Configurator 2 ha un nuovo metodo di gestione dei dispositivi che non utilizza un database per archiviare le configurazioni, le app e gli altri elementi multimediali dei dispositivi. Se hai utilizzato una versione precedente di Apple Configurator, questo assistente ti aiuterà a esportare i dati e a convertire le configurazioni dei dispositivi in modelli.
+
+Fai clic su Avanti per continuare.";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "6IH-rG-y2C"; */
+"6IH-rG-y2C.title" = "testo";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator 2 is prepared to migrate your data from the previous version. Below is a summary of the data that you have selected to migrate. All other data will not be migrated."; ObjectID = "9Gd-Mk-sLG"; */
+"9Gd-Mk-sLG.title" = "Apple Configurator 2 è pronto a trasferire i dati dalla versione precedente. Di seguito è visualizzato un riepilogo dei dati che hai selezionato per il trasferimento. Tutti gli altri dati non verranno trasferiti.";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL X GB of data will be migrated:>>"; ObjectID = "9rn-OP-YkD"; */
+"9rn-OP-YkD.title" = "<<DNL X GB of data will be migrated:>>";
+
+/* Class = "NSButtonCell"; title = "Export Volume Purchase Program Codes"; ObjectID = "11e-Ik-gcW"; */
+"11e-Ik-gcW.title" = "Esporta codici Volume Purchase Program";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "36z-kb-OBJ"; */
+"36z-kb-OBJ.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "Your Prepare settings and supervised device configurations can be converted to Apple Configurator 2 blueprints. One blueprint will be created for each unique supervised device configuration. Each blueprint will contain individual copies of each enterprise app."; ObjectID = "b4V-fl-xM7"; */
+"b4V-fl-xM7.title" = "Le impostazioni di preparazione e le configurazioni dei dispositivi supervisionati possono essere convertite in modelli di Apple Configurator 2. Verrà creato un modello per ogni configurazione unica dei dispositivi supervisionati. Ciascun modello conterrà copie individuali di ogni app aziendale.";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "cak-j0-BhB"; */
+"cak-j0-BhB.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator uses Managed Distribution licenses to install apps purchased through the Volume Purchase Program (VPP). You no longer have to import spreadsheets of VPP codes. You will be prompted to enter your VPP Facilitator credentials when installing apps with Apple Configurator. Your VPP codes can be exported from the previous version and saved as files. "; ObjectID = "cuV-h5-hGN"; */
+"cuV-h5-hGN.title" = "Apple Configurator utilizza licenze per la distribuzione gestita per installare le app acquistate tramite Volume Purchase Program (VPP). Non sarà più necessario importare fogli di calcolo di codici VPP. Ti verrà richiesto di inserire le credenziali del coordinatore VPP durante l'installazione delle app con Apple Configurator. I codici VPP possono essere esportati dalla versione precedente e salvati come file. ";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "F7o-rW-gAU"; */
+"F7o-rW-gAU.title" = "testo";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Estimated time remaining: 0 hour 0 min…>>"; ObjectID = "gFh-Cb-nwJ"; */
+"gFh-Cb-nwJ.title" = "<<DNL Estimated time remaining: 0 hour 0 min…>>";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "GIM-oK-uwY"; */
+"GIM-oK-uwY.title" = "testo";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "hcG-KE-tga"; */
+"hcG-KE-tga.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "hcT-9m-7ez"; */
+"hcT-9m-7ez.title" = "testo";
+
+/* Class = "NSTextFieldCell"; title = "Analyzing data…"; ObjectID = "hmA-td-ifj"; */
+"hmA-td-ifj.title" = "Analizzo dati…";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator 2 Migration Assistant is currently migrating your data. Do not shutdown or put your computer to sleep until this process completes."; ObjectID = "Jpd-wd-rfU"; */
+"Jpd-wd-rfU.title" = "Assistente Migrazione di Apple Configurator 2 sta attualmente trasferendo i dati. Non spegnere né mettere il computer in stop fino al completamento del processo.";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "kyJ-4Z-PGV"; */
+"kyJ-4Z-PGV.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "Ldd-ah-Gxe"; */
+"Ldd-ah-Gxe.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "N5M-7J-fXK"; */
+"N5M-7J-fXK.title" = "testo";
+
+/* Class = "NSTextFieldCell"; title = "Your data has been successfully migrated to Apple Configurator 2."; ObjectID = "nt2-GA-FQB"; */
+"nt2-GA-FQB.title" = "I dati sono stati trasferiti correttamente su Apple Configurator 2.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oda-wv-B5h"; */
+"oda-wv-B5h.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OkZ-DK-9Tf"; */
+"OkZ-DK-9Tf.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qJa-ca-uDe"; */
+"qJa-ca-uDe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Supervised device backups can be exported from the previous version into iTunes for use with Apple Configurator 2. Because the backups are no longer compressed, they may use significant disk space."; ObjectID = "RQe-1W-ROp"; */
+"RQe-1W-ROp.title" = "I backup dei dispositivi supervisionati possono essere esportati dalla versione precedente in iTunes per essere utilizzati con Apple Configurator 2. Poiché i backup non sono più compressi, potrebbero occupare una quantità di spazio su disco significativa.";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "sY9-ax-HyP"; */
+"sY9-ax-HyP.title" = "testo";
+
+/* Class = "NSTextFieldCell"; title = "Migrate Redemption Codes to Managed Distribution"; ObjectID = "une-KY-0DL"; */
+"une-KY-0DL.title" = "Trasferisci codici di rimborso nella distribuzione gestita";
+
+/* Class = "NSTextFieldCell"; title = "Migration Successful"; ObjectID = "W8j-pf-GbS"; */
+"W8j-pf-GbS.title" = "Trasferimento riuscito";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "xJi-Js-XhD"; */
+"xJi-Js-XhD.title" = "<<DNL>>";
+

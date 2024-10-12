@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3AQ-A4-5ws"; */
+"3AQ-A4-5ws.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Profile filename"; ObjectID = "19b-fe-9P9"; */
+"19b-fe-9P9.headerCell.title" = "描述檔名稱";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "A1E-pT-DkD"; */
+"A1E-pT-DkD.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Private Key:"; ObjectID = "afh-Kx-JFl"; */
+"afh-Kx-JFl.title" = "專用密鑰：";
+
+/* Class = "NSTextFieldCell"; title = "Add the configuration and provisioning profiles to be installed on the devices:"; ObjectID = "e1C-Y8-QOF"; */
+"e1C-Y8-QOF.title" = "加入要安裝到此裝置上的設定和佈建描述檔：";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "eKn-q2-Skq"; */
+"eKn-q2-Skq.title" = "移除";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "kTq-J9-akq"; */
+"kTq-J9-akq.headerCell.title" = "路徑";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select private key…"; ObjectID = "lDR-Ox-uet"; */
+"lDR-Ox-uet.placeholder" = "選擇專用密鑰⋯";
+
+/* Class = "NSButtonCell"; title = "Clear All"; ObjectID = "mRX-ga-d0e"; */
+"mRX-ga-d0e.title" = "全部清除";
+
+/* Class = "NSTextFieldCell"; title = "Certificate:"; ObjectID = "N3f-RP-rsx"; */
+"N3f-RP-rsx.title" = "憑證：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Omm-Hu-qxE"; */
+"Omm-Hu-qxE.title" = "OtherViews";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qcj-5F-muJ"; */
+"qcj-5F-muJ.title" = "Box";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select certificate…"; ObjectID = "qzY-qA-qDY"; */
+"qzY-qA-qDY.placeholder" = "選擇憑證⋯";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "s9W-wj-cl8"; */
+"s9W-wj-cl8.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "WlI-Oc-qdU"; */
+"WlI-Oc-qdU.title" = "加入";
+
+/* Class = "NSButtonCell"; title = "Install profiles without confirmation. (requires a supervised device identity)"; ObjectID = "WUl-A4-pxx"; */
+"WUl-A4-pxx.title" = "不經確認即安裝描述檔（需要受監管的裝置身分）。";
+

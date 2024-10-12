@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "3UQ-dn-UnJ"; */
+"3UQ-dn-UnJ.title" = "帳號名稱";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "9AN-RE-V1G"; */
+"9AN-RE-V1G.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "Dmy-g2-oMt"; */
+"Dmy-g2-oMt.title" = "電子郵件位址";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "HxF-Rc-CLS"; */
+"HxF-Rc-CLS.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSTextFieldCell"; title = "The full name of the user for the account"; ObjectID = "J0N-2j-2jE"; */
+"J0N-2j-2jE.title" = "帳號使用者的全名";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the account"; ObjectID = "jaD-uq-4MJ"; */
+"jaD-uq-4MJ.title" = "帳號的顯示名稱";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "NJv-AZ-3lN"; */
+"NJv-AZ-3lN.ibExternalAccessibilityDescription" = "帳號名稱：";
+
+/* Class = "NSTextFieldCell"; title = "Google Account"; ObjectID = "o1i-Jr-T54"; */
+"o1i-Jr-T54.title" = "Google 帳號";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "ocl-wY-MWj"; */
+"ocl-wY-MWj.ibShadowedIsNilPlaceholder" = "[必要]";
+
+/* Class = "NSTextFieldCell"; title = "The Google email address of the account"; ObjectID = "YdT-F3-DzP"; */
+"YdT-F3-DzP.title" = "帳號的 Google 電子郵件位址";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "yPA-5d-RGA"; */
+"yPA-5d-RGA.title" = "帳號描述";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Google Account payload"; ObjectID = "zmR-kF-f9B"; */
+"zmR-kF-f9B.ibShadowedToolTip" = "加入 Google 帳號承載資料";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Google Account payload"; ObjectID = "ZrE-jv-7uP"; */
+"ZrE-jv-7uP.ibShadowedToolTip" = "移除 Google 帳號承載資料";
+

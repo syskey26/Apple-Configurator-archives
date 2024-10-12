@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Existen opciones para indicar ceros a la izquierda y separadores entre el nombre de base y la cadena numérica.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Esta acción renombra, con una secuencia numérica, los dispositivos cuyos identificadores se han derivado a esta acción como datos de entrada.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Renombrar dispositivos";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2022 Apple Inc. Todos los derechos reservados.";
+

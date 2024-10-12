@@ -1,0 +1,57 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "Window";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "7Oj-UX-iL8"; */
+"7Oj-UX-iL8.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "18"; */
+"18.title" = "Guardar";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "19"; */
+"19.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Host Name or IP Address:"; ObjectID = "22"; */
+"22.title" = "Nombre de host o dirección IP:";
+
+/* Class = "NSComboBoxCell"; 339-Xe-Mot.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "339-Xe-Mot"; */
+"339-Xe-Mot.ibShadowedObjectValues[0]" = "Ítem 1";
+
+/* Class = "NSComboBoxCell"; 339-Xe-Mot.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "339-Xe-Mot"; */
+"339-Xe-Mot.ibShadowedObjectValues[1]" = "Ítem 2";
+
+/* Class = "NSComboBoxCell"; 339-Xe-Mot.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "339-Xe-Mot"; */
+"339-Xe-Mot.ibShadowedObjectValues[2]" = "Ítem 3";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "bZq-YU-2JJ"; */
+"bZq-YU-2JJ.title" = "Puerto:";
+
+/* Class = "NSButtonCell"; title = "Use TLS"; ObjectID = "c9M-g2-bQZ"; */
+"c9M-g2-bQZ.title" = "Usar TLS";
+
+/* Class = "NSTextFieldCell"; title = "Resource path:"; ObjectID = "Fgr-LM-4DH"; */
+"Fgr-LM-4DH.title" = "Ruta del recurso:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Choose an IP address…"; ObjectID = "iJO-Is-NAJ"; */
+"iJO-Is-NAJ.ibShadowedIsNilPlaceholder" = "Seleccionar una dirección IP…";
+
+/* Class = "NSComboBoxCell"; MXx-AQ-EaV.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "MXx-AQ-EaV"; */
+"MXx-AQ-EaV.ibShadowedObjectValues[0]" = "Ítem 1";
+
+/* Class = "NSComboBoxCell"; MXx-AQ-EaV.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "MXx-AQ-EaV"; */
+"MXx-AQ-EaV.ibShadowedObjectValues[1]" = "Ítem 2";
+
+/* Class = "NSComboBoxCell"; MXx-AQ-EaV.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "MXx-AQ-EaV"; */
+"MXx-AQ-EaV.ibShadowedObjectValues[2]" = "Ítem 3";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Choose an IP address…"; ObjectID = "VLg-pJ-87a"; */
+"VLg-pJ-87a.ibShadowedIsNilPlaceholder" = "Seleccionar una dirección IP…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Manually"; ObjectID = "WrP-LM-WAh"; */
+"WrP-LM-WAh.ibShadowedIsNilPlaceholder" = "Manualmente";
+
+/* Class = "NSMenuItem"; title = "<<DNL Discovered Printers>>"; ObjectID = "wuX-X2-a64"; */
+"wuX-X2-a64.title" = "<<DNL Discovered Printers>>";
+
+/* Class = "NSTextFieldCell"; title = "Configure printer:"; ObjectID = "Yiw-Rb-MNU"; */
+"Yiw-Rb-MNU.title" = "Configurar impresora:";
+

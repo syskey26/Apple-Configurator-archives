@@ -1,0 +1,15 @@
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_EXIST" = "Questo file di certificato non era nella posizione prevista: ";
+
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_SET" = "Nessun file di certificato scelto.";
+
+/* INPUT ERRORS */
+"CNFGACT-02-NO_INPUT_ERROR" = "Nessun riferimento ECID ai dispositivi collegati è stato passato a questa azione.";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_EXIST" = "Questo file di chiave privata non era nella posizione prevista: ";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_SET" = "Nessun file di chiave privata scelto.";
+

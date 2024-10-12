@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-08-INVALID_CERTIFICATE_TYPE" = "El archivo de certificado indicado no es del tipo: “public.x509-certificate”";
+
+/* (No Comment) */
+"CNFGACT-08-MISSING_ENROLLMENT_URL" = "No se ha proporcionado ninguna URL de inscripción de MDM.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_FOUND" = "No se ha encontrado ningún archivo de certificado ancla de confianza en la ubicación especificada.";
+
+/* MDM ERRORS */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_INDICATED" = "No se ha seleccionado ningún archivo de certificado ancla de confianza en la interfaz de acciones.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_FOUND" = "No se ha encontrado ningún archivo de certificado de host en la ubicación especificada.";
+
+/* SUPERVISION ERRORS */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_INDICATED" = "No se ha seleccionado ningún archivo de certificado de host en la interfaz de acciones.";
+
+/* INPUT ERRORS */
+"CNFGACT-08-NO_INPUT_ERROR" = "No se ha derivado a esta acción ninguna referencia de ECID a los dispositivos conectados.";
+

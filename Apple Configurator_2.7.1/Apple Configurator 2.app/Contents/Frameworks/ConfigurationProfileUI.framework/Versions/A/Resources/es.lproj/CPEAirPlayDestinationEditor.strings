@@ -1,0 +1,36 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Choose an AirPlay destination to which the device can connect."; ObjectID = "17"; */
+"17.title" = "Selecciona un destino AirPlay al que se pueda conectar el dispositivo.";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "18"; */
+"18.title" = "Guardar";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "19"; */
+"19.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Connect:"; ObjectID = "20"; */
+"20.title" = "Conectar:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "21"; */
+"21.title" = "Contraseña:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "22"; */
+"22.title" = "Nombre:";
+
+/* Class = "NSButtonCell"; title = "Discoverable (Bonjour)"; ObjectID = "24"; */
+"24.title" = "Modo visible (Bonjour)";
+
+/* Class = "NSButtonCell"; title = "Undiscoverable"; ObjectID = "25"; */
+"25.title" = "Invisible";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "26"; */
+"26.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "95"; */
+"95.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "109"; */
+"109.title" = "Table View Cell";
+

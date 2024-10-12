@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Generate a new supervision identity"; ObjectID = "Knf-rv-Wih"; */
+"Knf-rv-Wih.title" = "Genera una nuova identità di supervisione";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "ujt-0c-7Yr"; */
+"ujt-0c-7Yr.title" = "Pulsante di scelta";
+
+/* Class = "NSButtonCell"; title = "Choose an existing supervision identity"; ObjectID = "x4P-82-257"; */
+"x4P-82-257.title" = "Scegli un'identità di supervisione esistente";
+
+/* Class = "NSTextFieldCell"; title = "Generate or choose a supervision identity."; ObjectID = "X6F-eh-22r"; */
+"X6F-eh-22r.title" = "Genera o scegli un'identità di supervisione.";
+

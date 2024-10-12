@@ -1,0 +1,39 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name"; ObjectID = "5oW-xG-enW"; */
+"5oW-xG-enW.ibExternalAccessibilityDescription" = "이름";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "7w9-QV-YQl"; */
+"7w9-QV-YQl.placeholderString" = "필수사항";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "agF-Ik-sIQ"; */
+"agF-Ik-sIQ.title" = "저장";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "azH-yX-wdO"; */
+"azH-yX-wdO.title" = "윈도우";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "bTX-4M-eOS"; */
+"bTX-4M-eOS.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "Enrollment URL:"; ObjectID = "C60-db-8E6"; */
+"C60-db-8E6.title" = "등록 URL:";
+
+/* Class = "NSTextFieldCell"; title = "Click (+) to add certificates."; ObjectID = "CCI-d4-rdc"; */
+"CCI-d4-rdc.title" = "인증서를 추가하려면 (+)를 클릭하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dHK-ke-nQN"; */
+"dHK-ke-nQN.title" = "Text Cell";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enrollment URL"; ObjectID = "hab-ub-sjp"; */
+"hab-ub-sjp.ibExternalAccessibilityDescription" = "등록 URL";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "NgJ-El-y6Z"; */
+"NgJ-El-y6Z.title" = "이름:";
+
+/* Class = "NSTextFieldCell"; title = "No Trust Anchors"; ObjectID = "Qdg-g5-ZA2"; */
+"Qdg-g5-ZA2.title" = "신뢰할 수 있는 앵커 없음";
+
+/* Class = "NSTextFieldCell"; title = "Trust Certificates:"; ObjectID = "XSH-Jw-AWq"; */
+"XSH-Jw-AWq.title" = "신뢰할 수 있는 인증서:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "YUo-fv-8Qv"; */
+"YUo-fv-8Qv.placeholderString" = "필수사항";
+

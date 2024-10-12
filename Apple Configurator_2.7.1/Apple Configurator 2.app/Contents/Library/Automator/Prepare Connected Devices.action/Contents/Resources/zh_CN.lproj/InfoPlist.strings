@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "准备参数有三组：MDM 管理、监督和设备设置助理选项。";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDSummary" = "此操作将准备设备（其标识符作为输入传递到此操作）。";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "准备设备";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2016-2018 Apple Inc. 保留一切权利。";
+

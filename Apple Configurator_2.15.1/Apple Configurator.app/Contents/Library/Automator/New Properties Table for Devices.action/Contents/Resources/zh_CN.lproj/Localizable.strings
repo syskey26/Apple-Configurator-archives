@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-06-CANCEL_BUTTON_TITLE" = "取消";
+
+/* (No Comment) */
+"CNFGACT-06-CONTINUE_BUTTON_TITLE" = "再次选取";
+
+/* (No Comment) */
+"CNFGACT-06-DATA_CONVERSION_ERROR" = "数据未转换";
+
+/* (No Comment) */
+"CNFGACT-06-DEFAULT_TABLE_TITLE" = "设备属性";
+
+/* INPUT ERRORS */
+"CNFGACT-06-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
+
+/* (No Comment) */
+"CNFGACT-06-PROPERTY_NOT_SUPPORTED" = "此操作中不支持使用“App”和“系统 App”属性。";
+
+/* (No Comment) */
+"CNFGACT-06-PROPERTY_NOT_SUPPORTED_TITLE" = "属性不受支持";
+

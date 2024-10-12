@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "<<DNL 15 minutes remaining…>>"; ObjectID = "CBP-sv-W0A"; */
+"CBP-sv-W0A.title" = "<<DNL 15 minutes remaining…>>";
+
+/* Class = "NSWindow"; title = "Event Progress"; ObjectID = "t9t-6v-H67"; */
+"t9t-6v-H67.title" = "Voortgang activiteit";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL: Updating iOS on 2 devices>>"; ObjectID = "tpN-nm-tUU"; */
+"tpN-nm-tUU.title" = "<<DNL: Updating iOS on 2 devices>>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WNg-Ge-8os"; */
+"WNg-Ge-8os.title" = "Annuleer";
+
+/* Class = "NSButtonCell"; title = "DNL Apply to all"; ObjectID = "Ywh-z0-Ght"; */
+"Ywh-z0-Ght.title" = "DNL Apply to all";
+

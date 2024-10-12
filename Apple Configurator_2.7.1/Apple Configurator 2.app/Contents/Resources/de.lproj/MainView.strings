@@ -1,0 +1,174 @@
+/* Class = "NSMenuItem"; title = "Set Locale…"; ObjectID = "1bM-3N-Fet"; */
+"1bM-3N-Fet.title" = "Ort festlegen …";
+
+/* Class = "NSMenuItem"; title = "Clear Restrictions Passcode"; ObjectID = "3ey-2q-YV6"; */
+"3ey-2q-YV6.title" = "Einschränkungscode löschen";
+
+/* Class = "NSMenuItem"; title = "Export"; ObjectID = "3ss-rl-WOs"; */
+"3ss-rl-WOs.title" = "Exportieren";
+
+/* Class = "NSMenuItem"; title = "Documents…"; ObjectID = "5FE-fs-j2w"; */
+"5FE-fs-j2w.title" = "Dokumente …";
+
+/* Class = "NSMenu"; title = "Export"; ObjectID = "6Uw-WA-Ryg"; */
+"6Uw-WA-Ryg.title" = "Exportieren";
+
+/* Class = "NSMenuItem"; title = "Erase All Content and Settings"; ObjectID = "6Vh-tK-vp2"; */
+"6Vh-tK-vp2.title" = "Inhalte & Einstellungen löschen";
+
+/* Class = "NSMenuItem"; title = "Add Apps from iTunes Store…"; ObjectID = "7oF-n7-AvR"; */
+"7oF-n7-AvR.title" = "Apps vom iTunes Store hinzufügen …";
+
+/* Class = "NSMenuItem"; title = "Prepare…"; ObjectID = "8fi-iq-o8A"; */
+"8fi-iq-o8A.title" = "Vorbereiten …";
+
+/* Class = "NSMenuItem"; title = "Shell Command..."; ObjectID = "8sc-UT-p5P"; */
+"8sc-UT-p5P.title" = "Shell-Befehl …";
+
+/* Class = "NSMenuItem"; title = "Back Up"; ObjectID = "9TI-P4-X17"; */
+"9TI-P4-X17.title" = "Backup erstellen";
+
+/* Class = "NSMenu"; title = "Actions"; ObjectID = "aKX-jy-8gw"; */
+"aKX-jy-8gw.title" = "Aktionen";
+
+/* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "BMG-5S-8lD"; */
+"BMG-5S-8lD.title" = "Erweitert";
+
+/* Class = "NSMenuItem"; title = "Restore from Backup…"; ObjectID = "cit-r7-mRV"; */
+"cit-r7-mRV.title" = "Aus Backup wiederherstellen …";
+
+/* Class = "NSMenu"; title = "Internal"; ObjectID = "DuM-Rd-WH2"; */
+"DuM-Rd-WH2.title" = "Intern";
+
+/* Class = "NSMenuItem"; title = "Apps…"; ObjectID = "gNM-we-1EO"; */
+"gNM-we-1EO.title" = "Apps …";
+
+/* Class = "NSMenuItem"; title = "Profiles…"; ObjectID = "Idz-Ak-hDn"; */
+"Idz-Ak-hDn.title" = "Profile …";
+
+/* Class = "NSMenuItem"; title = "Set Send Diagnostics…"; ObjectID = "IId-BL-deY"; */
+"IId-BL-deY.title" = "Senden von Diagnosedaten festlegen …";
+
+/* Class = "NSMenuItem"; title = "Activate"; ObjectID = "iRW-hI-LFC"; */
+"iRW-hI-LFC.title" = "Aktivieren";
+
+/* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "IVl-yG-kWJ"; */
+"IVl-yG-kWJ.title" = "Informationen";
+
+/* Class = "NSMenuItem"; title = "Revive Device"; ObjectID = "iwS-Bp-m0o"; */
+"iwS-Bp-m0o.title" = "Gerät reparieren";
+
+/* Class = "NSMenuItem"; title = "Update…"; ObjectID = "KTQ-se-yKd"; */
+"KTQ-se-yKd.title" = "Aktualisieren …";
+
+/* Class = "NSMenuItem"; title = "SSH as root"; ObjectID = "LDb-9x-ReV"; */
+"LDb-9x-ReV.title" = "SSH als root";
+
+/* Class = "NSMenuItem"; title = "Apps…"; ObjectID = "LIu-8I-d9H"; */
+"LIu-8I-d9H.title" = "Apps …";
+
+/* Class = "NSMenu"; title = "Remove"; ObjectID = "Lln-Yz-OzO"; */
+"Lln-Yz-OzO.title" = "Entfernen";
+
+/* Class = "NSMenu"; title = "Modify"; ObjectID = "Lpc-YP-ndn"; */
+"Lpc-YP-ndn.title" = "Ändern";
+
+/* Class = "NSMenuItem"; title = "Wallpapers…"; ObjectID = "nBT-yB-Kn0"; */
+"nBT-yB-Kn0.title" = "Hintergrundbilder …";
+
+/* Class = "NSMenuItem"; title = "Restart Device"; ObjectID = "nH4-ok-IVf"; */
+"nH4-ok-IVf.title" = "Gerät neu starten";
+
+/* Class = "NSMenuItem"; title = "Modify"; ObjectID = "ni0-aE-FS6"; */
+"ni0-aE-FS6.title" = "Ändern";
+
+/* Class = "NSMenu"; title = "Advanced"; ObjectID = "nmh-kN-6fE"; */
+"nmh-kN-6fE.title" = "Erweitert";
+
+/* Class = "NSMenuItem"; title = "Restore"; ObjectID = "Nqg-Rg-CNK"; */
+"Nqg-Rg-CNK.title" = "Wiederherstellen";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "NUN-yi-aeA"; */
+"NUN-yi-aeA.title" = "Entfernen";
+
+/* Class = "NSMenuItem"; title = "Info…"; ObjectID = "o8J-s6-1ZA"; */
+"o8J-s6-1ZA.title" = "Informationen …";
+
+/* Class = "NSMenuItem"; title = "Enter Recovery"; ObjectID = "O51-3T-es9"; */
+"O51-3T-es9.title" = "In den Wiederherstellungsmodus wechseln";
+
+/* Class = "NSMenuItem"; title = "Enable Encrypted Backups…"; ObjectID = "rh6-mM-utP"; */
+"rh6-mM-utP.title" = "Verschlüsselte Backups aktivieren …";
+
+/* Class = "NSMenuItem"; title = "Save Unlock Token"; ObjectID = "rPF-nW-MmJ"; */
+"rPF-nW-MmJ.title" = "Token zum Entsperren sichern";
+
+/* Class = "NSMenu"; title = "Apply"; ObjectID = "rrm-hE-4tj"; */
+"rrm-hE-4tj.title" = "Anwenden";
+
+/* Class = "NSMenuItem"; title = "Home Screen Layout…"; ObjectID = "sRJ-Ri-c3N"; */
+"sRJ-Ri-c3N.title" = "Home-Bildschirmlayout …";
+
+/* Class = "NSMenuItem"; title = "Tags…"; ObjectID = "SST-pT-GHT"; */
+"SST-pT-GHT.title" = "Tags …";
+
+/* Class = "NSMenuItem"; title = "Add Apps from Mac…"; ObjectID = "svq-og-Rn6"; */
+"svq-og-Rn6.title" = "Apps vom Mac hinzufügen …";
+
+/* Class = "NSMenuItem"; title = "Set Language…"; ObjectID = "SXN-HA-Wpw"; */
+"SXN-HA-Wpw.title" = "Sprache festlegen …";
+
+/* Class = "NSMenuItem"; title = "Device Name…"; ObjectID = "sY1-7K-cy8"; */
+"sY1-7K-cy8.title" = "Gerätename …";
+
+/* Class = "NSMenuItem"; title = "Profiles…"; ObjectID = "ulk-WQ-TXC"; */
+"ulk-WQ-TXC.title" = "Profile …";
+
+/* Class = "NSMenuItem"; title = "Apply"; ObjectID = "uq7-9S-iqQ"; */
+"uq7-9S-iqQ.title" = "Anwenden";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "v1q-vy-mD1"; */
+"v1q-vy-mD1.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Pair with this Mac"; ObjectID = "Vgr-Uo-zY0"; */
+"Vgr-Uo-zY0.title" = "Mit diesem Mac koppeln";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "vHS-je-svH"; */
+"vHS-je-svH.title" = "Übersicht";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "vLQ-wk-beP"; */
+"vLQ-wk-beP.title" = "Hinzufügen";
+
+/* Class = "NSMenuItem"; title = "Deactivate"; ObjectID = "Vz5-vA-izc"; */
+"Vz5-vA-izc.title" = "Deaktivieren";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "WIa-8h-doA"; */
+"WIa-8h-doA.title" = "Duplizieren";
+
+/* Class = "NSMenuItem"; title = "Set Cloud Configuration…"; ObjectID = "XhZ-ZI-HLL"; */
+"XhZ-ZI-HLL.title" = "Cloud-Konfiguration einstellen …";
+
+/* Class = "NSMenuItem"; title = "Internal"; ObjectID = "XV1-qT-8bU"; */
+"XV1-qT-8bU.title" = "Intern";
+
+/* Class = "NSMenuItem"; title = "Unpair with this Mac"; ObjectID = "XZL-4r-P8t"; */
+"XZL-4r-P8t.title" = "Von diesem Mac trennen";
+
+/* Class = "NSMenuItem"; title = "Get Cloud Configuration…"; ObjectID = "y2y-qy-UfN"; */
+"y2y-qy-UfN.title" = "Cloud-Konfiguration erhalten …";
+
+/* Class = "NSMenuItem"; title = "Clear Passcode"; ObjectID = "yYR-cj-wBo"; */
+"yYR-cj-wBo.title" = "Code löschen";
+
+/* Class = "NSMenu"; title = "Add"; ObjectID = "zJO-E7-u2e"; */
+"zJO-E7-u2e.title" = "Hinzufügen";
+
+/* Class = "NSMenuItem"; title = "Shut Down Device"; ObjectID = "zVa-9j-M64"; */
+"zVa-9j-M64.title" = "Gerät herunterfahren";
+
+/* Class = "NSMenuItem"; title = "Documents…"; ObjectID = "ZXE-uO-YVa"; */
+"ZXE-uO-YVa.title" = "Dokumente …";
+
+/* Class = "NSMenuItem"; title = "Start Single App Mode…"; ObjectID = "zXp-qU-kLv"; */
+"zXp-qU-kLv.title" = "Einzel-App-Modus starten …";
+

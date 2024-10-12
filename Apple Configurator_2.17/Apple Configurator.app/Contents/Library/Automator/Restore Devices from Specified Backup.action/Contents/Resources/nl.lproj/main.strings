@@ -1,0 +1,33 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0Hi-9r-phU"; */
+"0Hi-9r-phU.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "8GW-NS-O1I"; */
+"8GW-NS-O1I.title" = "Werk bij";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Name"; ObjectID = "bR5-wT-M0L"; */
+"bR5-wT-M0L.headerCell.title" = "Apparaatnaam";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "G28-A9-LtN"; */
+"G28-A9-LtN.headerCell.title" = "Datum";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "J55-am-HSh"; */
+"J55-am-HSh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ktO-Ah-GgC"; */
+"ktO-Ah-GgC.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Select the backup to be restored to all devices:"; ObjectID = "mrr-AG-1ae"; */
+"mrr-AG-1ae.title" = "Selecteer de reservekopie die je op alle apparaten wilt terugzetten:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Serial Number"; ObjectID = "OqL-0X-ZfW"; */
+"OqL-0X-ZfW.headerCell.title" = "Serienummer";
+
+/* Class = "NSTableColumn"; headerCell.title = "🔒"; ObjectID = "qlq-uB-xVe"; */
+"qlq-uB-xVe.headerCell.title" = "🔒";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ugr-aE-LEa"; */
+"Ugr-aE-LEa.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Password for Backup:"; ObjectID = "wzn-FJ-NcZ"; */
+"wzn-FJ-NcZ.title" = "Wachtwoord voor reservekopie:";
+

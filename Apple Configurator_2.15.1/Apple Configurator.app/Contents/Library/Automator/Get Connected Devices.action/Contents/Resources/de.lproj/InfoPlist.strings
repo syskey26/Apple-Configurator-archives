@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Diese Aktion nimmt keine Eingaben an";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Es gibt Optionen, dass nur Ergebnisse für bestimmte Gerätetypen ausgegeben werden sollen.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDSummary" = "Diese Aktion liefert eine Liste der ECID-IDs an die iOS-Geräte, die mit diesem Computer verbunden sind.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Verbundene Geräte erhalten";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015–2022 Apple Inc. Alle Rechte vorbehalten.";
+

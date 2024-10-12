@@ -1,0 +1,9 @@
+/* INPUT ERRORS */
+"CNFGACT-13-NO_INPUT_ERROR" = "接続されたデバイスのECID参照がこのアクションに渡されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH" = "デバイスバックアップ用のパスワードが“バックアップからデバイスを復元”アクションインターフェイスで入力および確定されていません。";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "パスワードエラー";
+

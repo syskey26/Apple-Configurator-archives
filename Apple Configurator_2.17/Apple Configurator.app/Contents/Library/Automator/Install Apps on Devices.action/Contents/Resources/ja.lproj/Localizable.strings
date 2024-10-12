@@ -1,0 +1,12 @@
+/* (No Comment) */
+"CNFGACT-05-MISSING_FILE" = "このモバイルアプリファイルは、指定された場所にありませんでした:";
+
+/* (No Comment) */
+"CNFGACT-05-NO_APPS_LOCATED" = "このシステムでモバイルアプリファイルが見つかりませんでした。";
+
+/* INPUT ERRORS */
+"CNFGACT-05-NO_INPUT_ERROR" = "接続されたデバイスのECID参照がこのアクションに渡されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-05-NO_SELECTION_ERROR" = "モバイルアプリファイルが選択されませんでした。";
+

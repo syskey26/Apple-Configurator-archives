@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "The following items can be exported from the previous version and saved as files for use with Apple Configurator 2."; ObjectID = "2ng-G4-myo"; */
+"2ng-G4-myo.title" = "以下の項目は、以前のバージョンから書き出して、Apple Configurator 2で使用するファイルとして保存できます。";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator 2 has a new model for managing devices that does not use a database to store device configurations, apps, or other media. If you used a previous version of Apple Configurator, this assistant will help you export its data and convert your device configurations into blueprints.\n\nClick Next to continue."; ObjectID = "3nh-ls-dNu"; */
+"3nh-ls-dNu.title" = "Apple Configurator 2は、データベースを使ってデバイス構成、App、その他のメディアを保存しない、デバイスを管理するための新しいモデルです。以前のバージョンのApple Configuratorをお使いの場合は、このアシスタントに従って、そのデータを書き出してデバイス構成をブループリントに変換してください。\n\n続ける場合は“次へ”をクリックしてください。";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "6IH-rG-y2C"; */
+"6IH-rG-y2C.title" = "テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator 2 is prepared to migrate your data from the previous version. Below is a summary of the data that you have selected to migrate. All other data will not be migrated."; ObjectID = "9Gd-Mk-sLG"; */
+"9Gd-Mk-sLG.title" = "Apple Configurator 2で以前のバージョンからデータを移行する準備ができました。以下に、移行を選択したデータの概要を示します。その他のデータは移行されません。";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL X GB of data will be migrated:>>"; ObjectID = "9rn-OP-YkD"; */
+"9rn-OP-YkD.title" = "<<DNL X GB of data will be migrated:>>";
+
+/* Class = "NSButtonCell"; title = "Export Volume Purchase Program Codes"; ObjectID = "11e-Ik-gcW"; */
+"11e-Ik-gcW.title" = "Volume Purchase Program コードを書き出す";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "36z-kb-OBJ"; */
+"36z-kb-OBJ.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "Your Prepare settings and supervised device configurations can be converted to Apple Configurator 2 blueprints. One blueprint will be created for each unique supervised device configuration. Each blueprint will contain individual copies of each enterprise app."; ObjectID = "b4V-fl-xM7"; */
+"b4V-fl-xM7.title" = "準備設定と監視対象デバイス構成をApple Configurator 2ブループリントに変換できます。一意の監視対象デバイス構成ごとに1つのブループリントが作成されます。ブループリントには、各エンタープライズAppの個別のコピーが含まれます。";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "cak-j0-BhB"; */
+"cak-j0-BhB.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator uses Managed Distribution licenses to install apps purchased through the Volume Purchase Program (VPP). You no longer have to import spreadsheets of VPP codes. You will be prompted to enter your VPP Facilitator credentials when installing apps with Apple Configurator. Your VPP codes can be exported from the previous version and saved as files. "; ObjectID = "cuV-h5-hGN"; */
+"cuV-h5-hGN.title" = "Apple Configuratorは、管理配布ライセンスを使用して、Volume Purchase Program（VPP）で購入したAppをインストールします。VPPコードのスプレッドシートを読み込む必要はなくなりました。Apple ConfiguratorでAppをインストールするときに、VPP Facilitator資格情報の入力を求められます。VPPコードは以前のバージョンから書き出してファイルとして保存できます。 ";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "F7o-rW-gAU"; */
+"F7o-rW-gAU.title" = "テキスト";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Estimated time remaining: 0 hour 0 min…>>"; ObjectID = "gFh-Cb-nwJ"; */
+"gFh-Cb-nwJ.title" = "<<DNL Estimated time remaining: 0 hour 0 min…>>";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "GIM-oK-uwY"; */
+"GIM-oK-uwY.title" = "テキスト";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "hcG-KE-tga"; */
+"hcG-KE-tga.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "hcT-9m-7ez"; */
+"hcT-9m-7ez.title" = "テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Analyzing data…"; ObjectID = "hmA-td-ifj"; */
+"hmA-td-ifj.title" = "データを分析中...";
+
+/* Class = "NSTextFieldCell"; title = "Apple Configurator 2 Migration Assistant is currently migrating your data. Do not shutdown or put your computer to sleep until this process completes."; ObjectID = "Jpd-wd-rfU"; */
+"Jpd-wd-rfU.title" = "Apple Configurator 2移行アシスタントは、現在データを移行しています。この処理が完了するまで、コンピュータをシステム終了したりスリープ状態にしたりしないでください。";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "kyJ-4Z-PGV"; */
+"kyJ-4Z-PGV.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "Ldd-ah-Gxe"; */
+"Ldd-ah-Gxe.title" = "<<DNL>>";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "N5M-7J-fXK"; */
+"N5M-7J-fXK.title" = "テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Your data has been successfully migrated to Apple Configurator 2."; ObjectID = "nt2-GA-FQB"; */
+"nt2-GA-FQB.title" = "データはApple Configurator 2に正常に移行されました。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oda-wv-B5h"; */
+"oda-wv-B5h.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OkZ-DK-9Tf"; */
+"OkZ-DK-9Tf.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qJa-ca-uDe"; */
+"qJa-ca-uDe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Supervised device backups can be exported from the previous version into iTunes for use with Apple Configurator 2. Because the backups are no longer compressed, they may use significant disk space."; ObjectID = "RQe-1W-ROp"; */
+"RQe-1W-ROp.title" = "監視対象デバイスのバックアップは、以前のバージョンからiTunesに書き出して、Apple Configurator 2で使用できます。バックアップは圧縮されなくなったため、かなりのディスク領域を消費する可能性があります。";
+
+/* Class = "NSTextFieldCell"; title = "text"; ObjectID = "sY9-ax-HyP"; */
+"sY9-ax-HyP.title" = "テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Migrate Redemption Codes to Managed Distribution"; ObjectID = "une-KY-0DL"; */
+"une-KY-0DL.title" = "引き換えコードを管理配布に移行";
+
+/* Class = "NSTextFieldCell"; title = "Migration Successful"; ObjectID = "W8j-pf-GbS"; */
+"W8j-pf-GbS.title" = "移行が成功しました";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "xJi-Js-XhD"; */
+"xJi-Js-XhD.title" = "<<DNL>>";
+

@@ -1,0 +1,15 @@
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_EXIST" = "이 인증서 파일이 예상되는 위치에 없습니다. ";
+
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_SET" = "인증서 파일을 선택하지 않았습니다.";
+
+/* INPUT ERRORS */
+"CNFGACT-02-NO_INPUT_ERROR" = "연결된 기기의 ECID 참조가 이 동작에 전달되지 않았습니다.";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_EXIST" = "이 개인 키 파일이 예상되는 위치에 없습니다. ";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_SET" = "개인 키 파일을 선택하지 않았습니다.";
+

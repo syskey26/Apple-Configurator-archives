@@ -1,0 +1,234 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2HL-OF-CJ2"; */
+"2HL-OF-CJ2.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Passcode Locked"; ObjectID = "3Xy-q2-8Vx"; */
+"3Xy-q2-8Vx.headerCell.title" = "암호 잠금";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4B7-6z-n64"; */
+"4B7-6z-n64.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5na-gr-lQh"; */
+"5na-gr-lQh.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Production Hardware"; ObjectID = "6RA-Z2-fNQ"; */
+"6RA-Z2-fNQ.headerCell.title" = "생산 하드웨어";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6XA-Pu-OLP"; */
+"6XA-Pu-OLP.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "iPad"; ObjectID = "8Ba-bF-csy"; */
+"8Ba-bF-csy.title" = "iPad";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8iC-hG-ee9"; */
+"8iC-hG-ee9.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8jy-44-1CX"; */
+"8jy-44-1CX.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Accepts Supervision"; ObjectID = "9j1-eT-jJ4"; */
+"9j1-eT-jJ4.headerCell.title" = "감독 승인";
+
+/* Class = "NSTableColumn"; headerCell.title = "Activation State"; ObjectID = "9Xm-uf-KYf"; */
+"9Xm-uf-KYf.headerCell.title" = "활성화 상태";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "19f-0A-iW7"; */
+"19f-0A-iW7.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "31i-yM-PoN"; */
+"31i-yM-PoN.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Build Version"; ObjectID = "aaZ-4y-FPp"; */
+"aaZ-4y-FPp.headerCell.title" = "빌드 버전";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ah0-I5-Pje"; */
+"Ah0-I5-Pje.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enclosure Color"; ObjectID = "aMw-z7-Lfj"; */
+"aMw-z7-Lfj.headerCell.title" = "외장 색상";
+
+/* Class = "NSTableColumn"; headerCell.title = "Updates"; ObjectID = "AXC-Va-gzb"; */
+"AXC-Va-gzb.headerCell.title" = "업데이트";
+
+/* Class = "NSTableColumn"; headerCell.title = "Product Version"; ObjectID = "bZL-dC-9j1"; */
+"bZL-dC-9j1.headerCell.title" = "제품 버전";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "c7y-bX-x65"; */
+"c7y-bX-x65.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "50"; ObjectID = "clG-vF-T76"; */
+"clG-vF-T76.title" = "50";
+
+/* Class = "NSTextFieldCell"; title = "10"; ObjectID = "cyN-6j-t5g"; */
+"cyN-6j-t5g.title" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DhU-8m-oj8"; */
+"DhU-8m-oj8.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dpq-0j-syh"; */
+"Dpq-0j-syh.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hardware"; ObjectID = "DxB-Kz-yoK"; */
+"DxB-Kz-yoK.headerCell.title" = "하드웨어";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dY0-Vd-Lzc"; */
+"dY0-Vd-Lzc.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Silver"; ObjectID = "dY3-S3-79G"; */
+"dY3-S3-79G.title" = "은색";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ega-Sz-6Zf"; */
+"Ega-Sz-6Zf.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Station"; ObjectID = "eqw-ve-uFo"; */
+"eqw-ve-uFo.headerCell.title" = "스테이션";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F1z-zb-2Za"; */
+"F1z-zb-2Za.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "0x792805E3C9"; ObjectID = "f3F-Yh-pdN"; */
+"f3F-Yh-pdN.title" = "0x792805E3C9";
+
+/* Class = "NSTextFieldCell"; title = "Sample iPad Name"; ObjectID = "ffa-Nz-jMc"; */
+"ffa-Nz-jMc.title" = "iPad 이름 샘플";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Fgz-Tb-q1d"; */
+"Fgz-Tb-q1d.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Serial Number"; ObjectID = "FN0-pw-xwY"; */
+"FN0-pw-xwY.headerCell.title" = "일련 번호";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fWd-r5-lcC"; */
+"fWd-r5-lcC.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gb3-L8-XM8"; */
+"Gb3-L8-XM8.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ge1-kI-llD"; */
+"Ge1-kI-llD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gjg-Oj-vfP"; */
+"Gjg-Oj-vfP.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Is Supervised"; ObjectID = "gwg-ii-SkV"; */
+"gwg-ii-SkV.headerCell.title" = "감독 여부";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gYE-54-EzQ"; */
+"gYE-54-EzQ.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Type"; ObjectID = "hdP-cW-l2h"; */
+"hdP-cW-l2h.headerCell.title" = "기기 유형";
+
+/* Class = "NSTextFieldCell"; title = "ACME Inc."; ObjectID = "HFa-dt-KJR"; */
+"HFa-dt-KJR.title" = "ACME Inc.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HhE-8V-wBr"; */
+"HhE-8V-wBr.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "huY-da-VK5"; */
+"huY-da-VK5.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "j5k-Jx-fCG"; */
+"j5k-Jx-fCG.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Black"; ObjectID = "JlE-R5-Cdb"; */
+"JlE-R5-Cdb.title" = "검은색";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "js2-UY-6tw"; */
+"js2-UY-6tw.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "iPad2,3"; ObjectID = "juv-YZ-QSE"; */
+"juv-YZ-QSE.title" = "iPad2,3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Battery"; ObjectID = "JVs-Vx-N5N"; */
+"JVs-Vx-N5N.headerCell.title" = "배터리";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Class"; ObjectID = "LFW-8Z-iar"; */
+"LFW-8Z-iar.headerCell.title" = "기기 클래스";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lhq-Qj-5Zj"; */
+"lhq-Qj-5Zj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Organization Department"; ObjectID = "LIH-jr-Ow6"; */
+"LIH-jr-Ow6.headerCell.title" = "부서";
+
+/* Class = "NSTableColumn"; headerCell.title = "iCloud Backups"; ObjectID = "LNn-EA-dE6"; */
+"LNn-EA-dE6.headerCell.title" = "iCloud 백업";
+
+/* Class = "NSTableColumn"; headerCell.title = "Organization Email"; ObjectID = "Mcs-09-kU9"; */
+"Mcs-09-kU9.headerCell.title" = "이메일";
+
+/* Class = "NSTableColumn"; headerCell.title = "Organization Name"; ObjectID = "NoA-yZ-T8F"; */
+"NoA-yZ-T8F.headerCell.title" = "조직명";
+
+/* Class = "NSTableColumn"; headerCell.title = "Is Paired"; ObjectID = "Oen-fv-gdX"; */
+"Oen-fv-gdX.headerCell.title" = "쌍으로 연결 여부";
+
+/* Class = "NSTableColumn"; headerCell.title = "Charging"; ObjectID = "p6N-Mm-A4A"; */
+"p6N-Mm-A4A.headerCell.title" = "충전 중";
+
+/* Class = "NSTableColumn"; headerCell.title = "Port"; ObjectID = "pVs-kT-3d1"; */
+"pVs-kT-3d1.headerCell.title" = "포트";
+
+/* Class = "NSTableColumn"; headerCell.title = "ECID"; ObjectID = "qFs-2m-7NY"; */
+"qFs-2m-7NY.headerCell.title" = "ECID";
+
+/* Class = "NSTextFieldCell"; title = "email@acme.com"; ObjectID = "Qgb-ys-PMZ"; */
+"Qgb-ys-PMZ.title" = "email@acme.com";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "r6V-n6-GIr"; */
+"r6V-n6-GIr.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Capacity"; ObjectID = "rJU-wE-7nC"; */
+"rJU-wE-7nC.headerCell.title" = "용량";
+
+/* Class = "NSTextFieldCell"; title = "13A244"; ObjectID = "rJv-2K-5Hk"; */
+"rJv-2K-5Hk.title" = "13A244";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Sgb-Px-RB0"; */
+"Sgb-Px-RB0.headerCell.title" = "이름";
+
+/* Class = "NSTableColumn"; headerCell.title = "Model"; ObjectID = "soC-YA-bh6"; */
+"soC-YA-bh6.headerCell.title" = "모델";
+
+/* Class = "NSTableColumn"; headerCell.title = "Encrypts Backups"; ObjectID = "sY5-4M-EQY"; */
+"sY5-4M-EQY.headerCell.title" = "백업 암호화";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tqJ-pu-fnT"; */
+"tqJ-pu-fnT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "867-5309"; ObjectID = "u9X-ao-bzO"; */
+"u9X-ao-bzO.title" = "867-5309";
+
+/* Class = "NSTextFieldCell"; title = "Engineering"; ObjectID = "UBc-sc-kL9"; */
+"UBc-sc-kL9.title" = "엔지니어링";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UUD-jU-fyw"; */
+"UUD-jU-fyw.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "FFFFFFFFE800000E"; ObjectID = "VKW-7D-5io"; */
+"VKW-7D-5io.title" = "FFFFFFFFE800000E";
+
+/* Class = "NSTableColumn"; headerCell.title = "UDID"; ObjectID = "VNs-lE-CQo"; */
+"VNs-lE-CQo.headerCell.title" = "UDID";
+
+/* Class = "NSTableColumn"; headerCell.title = "Color"; ObjectID = "Vve-D5-L65"; */
+"Vve-D5-L65.headerCell.title" = "색상";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wgT-VA-3po"; */
+"wgT-VA-3po.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wxq-hG-Tu6"; */
+"wxq-hG-Tu6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "10"; ObjectID = "z8j-SL-hl1"; */
+"z8j-SL-hl1.title" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZGa-OU-dJc"; */
+"ZGa-OU-dJc.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Organization Phone"; ObjectID = "zHB-Vk-XKA"; */
+"zHB-Vk-XKA.headerCell.title" = "전화번호";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "ZkW-db-M2Y"; */
+"ZkW-db-M2Y.headerCell.title" = "상태";
+

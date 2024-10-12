@@ -1,0 +1,81 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "1d9-Nb-gz3"; */
+"1d9-Nb-gz3.ibShadowedIsNilPlaceholder" = "[optional]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "1nm-IY-trA"; */
+"1nm-IY-trA.ibExternalAccessibilityDescription" = "Accountname:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Principal URL:"; ObjectID = "3pl-TF-hUa"; */
+"3pl-TF-hUa.ibExternalAccessibilityDescription" = "Benutzeranmelde-URL:";
+
+/* Class = "NSTextFieldCell"; title = "The display name for the macOS Server account"; ObjectID = "019-OK-xrk"; */
+"019-OK-xrk.title" = "Der angezeigte Name des macOS Serveraccounts";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[required]"; ObjectID = "73h-wd-hnz"; */
+"73h-wd-hnz.placeholderString" = "[erforderlich]";
+
+/* Class = "NSTextFieldCell"; title = "The password for the account"; ObjectID = "ami-QI-Aq8"; */
+"ami-QI-Aq8.title" = "Das Passwort für den Account";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Server Account payload"; ObjectID = "BVX-yn-GHi"; */
+"BVX-yn-GHi.ibShadowedToolTip" = "Server-Account-Payload entfernen";
+
+/* Class = "NSTextFieldCell"; title = "The host name, IP address, or URL of the server"; ObjectID = "c7S-Wx-fd3"; */
+"c7S-Wx-fd3.title" = "Der Hostname, die IP-Adresse oder die URL des Servers.";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "cHt-so-xub"; */
+"cHt-so-xub.title" = "Accountbeschreibung";
+
+/* Class = "NSTextFieldCell"; placeholderString = "My Server Account"; ObjectID = "D9a-KD-Xpm"; */
+"D9a-KD-Xpm.placeholderString" = "Mein Serveraccount";
+
+/* Class = "NSTextFieldCell"; title = "macOS Server Account"; ObjectID = "dCQ-y9-GSo"; */
+"dCQ-y9-GSo.title" = "macOS Serveraccount";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "DLz-0W-7N2"; */
+"DLz-0W-7N2.ibShadowedIsNilPlaceholder" = "[erforderlich]";
+
+/* Class = "NSTextFieldCell"; title = "The user name of the account"; ObjectID = "eb4-sf-3Su"; */
+"eb4-sf-3Su.title" = "Der Benutzername des Accounts";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "fYP-mz-dsY"; */
+"fYP-mz-dsY.ibShadowedIsNilPlaceholder" = "[erforderlich]";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "GnV-oA-tf0"; */
+"GnV-oA-tf0.ibShadowedToolTip" = "Dieses Feld wird für Geräte benötigt, die vorbereitet oder betreut werden";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "gUb-th-uxQ"; */
+"gUb-th-uxQ.ibShadowedToolTip" = "Dieses Feld wird für Geräte benötigt, die vorbereitet oder betreut werden";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "GuN-OF-fvy"; */
+"GuN-OF-fvy.ibShadowedIsNilPlaceholder" = "[optional]";
+
+/* Class = "NSTextFieldCell"; placeholderString = "osxserver.example.com"; ObjectID = "Irp-pu-jRN"; */
+"Irp-pu-jRN.placeholderString" = "osxserver.example.com";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Server Account payload"; ObjectID = "K8Q-M9-6Rt"; */
+"K8Q-M9-6Rt.ibShadowedToolTip" = "Server-Account-Payload hinzufügen";
+
+/* Class = "NSTextFieldCell"; title = "The port to connect to for the documents service"; ObjectID = "pSW-hj-dBv"; */
+"pSW-hj-dBv.title" = "Der Port zum Verbinden mit dem Dokumentendienst";
+
+/* Class = "NSTextFieldCell"; title = "Server Address"; ObjectID = "UrS-8P-iUO"; */
+"UrS-8P-iUO.title" = "Serveradresse";
+
+/* Class = "NSTextFieldCell"; title = "Documents Server Port"; ObjectID = "vVB-Qi-yg4"; */
+"vVB-Qi-yg4.title" = "Dokumenten-Server-Port";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "wGu-r8-vPK"; */
+"wGu-r8-vPK.title" = "Passwort";
+
+/* Class = "NSTextFieldCell"; placeholderString = "8071"; ObjectID = "WRv-8Y-njq"; */
+"WRv-8Y-njq.placeholderString" = "8071";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "yW8-jS-6S0"; */
+"yW8-jS-6S0.title" = "Benutzername";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Username:"; ObjectID = "Yxy-Bc-dXI"; */
+"Yxy-Bc-dXI.ibExternalAccessibilityDescription" = "Accountbenutzername:";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Account Password:"; ObjectID = "Zql-Wq-Iab"; */
+"Zql-Wq-Iab.ibExternalAccessibilityDescription" = "Accountpasswort:";
+

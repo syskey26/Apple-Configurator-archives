@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Enter information about the organization."; ObjectID = "5h6-Dc-Jp0"; */
+"5h6-Dc-Jp0.title" = "Introduce información sobre la organización.";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "dBL-rC-ofb"; */
+"dBL-rC-ofb.title" = "Correo:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Email"; ObjectID = "dvM-nV-aJI"; */
+"dvM-nV-aJI.ibExternalAccessibilityDescription" = "Correo electrónico";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Required"; ObjectID = "etg-6I-JY3"; */
+"etg-6I-JY3.ibShadowedIsNilPlaceholder" = "Obligatorio";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "Required"; ObjectID = "etg-6I-JY3"; */
+"etg-6I-JY3.ibShadowedNoSelectionPlaceholder" = "Obligatorio";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNotApplicablePlaceholder = "Required"; ObjectID = "etg-6I-JY3"; */
+"etg-6I-JY3.ibShadowedNotApplicablePlaceholder" = "Obligatorio";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone"; ObjectID = "g0I-VT-TqJ"; */
+"g0I-VT-TqJ.ibExternalAccessibilityDescription" = "Teléfono";
+
+/* Class = "NSTextFieldCell"; title = "Phone:"; ObjectID = "hjb-ws-Xuf"; */
+"hjb-ws-Xuf.title" = "Teléfono:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "IdR-6Q-GSo"; */
+"IdR-6Q-GSo.title" = "Nombre:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "rMZ-XX-fvy"; */
+"rMZ-XX-fvy.title" = "Dirección:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Address"; ObjectID = "Ts8-fZ-sgN"; */
+"Ts8-fZ-sgN.ibExternalAccessibilityDescription" = "Dirección";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "Vhk-00-dAP"; */
+"Vhk-00-dAP.placeholderString" = "Obligatorio";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name"; ObjectID = "z3R-gv-P6n"; */
+"z3R-gv-P6n.ibExternalAccessibilityDescription" = "Nombre";
+

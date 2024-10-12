@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Confirm:"; ObjectID = "G3j-d3-tmZ"; */
+"G3j-d3-tmZ.title" = "Conferma:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "Hif-qg-gnc"; */
+"Hif-qg-gnc.title" = "Verifica";
+
+/* Class = "NSButtonCell"; title = "Backups are secured with a password"; ObjectID = "NWY-qU-yUM"; */
+"NWY-qU-yUM.title" = "I backup sono protetti con una password";
+

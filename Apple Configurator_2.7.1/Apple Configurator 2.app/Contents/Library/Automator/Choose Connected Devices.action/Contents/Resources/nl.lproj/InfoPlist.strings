@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Bij deze taak is geen invoer mogelijk";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Je kunt ervoor kiezen om het serienummer van het apparaat op te nemen in de gegevenstekenreeks die voor elk apparaat wordt weergegeven.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID-aanduidingen";
+
+/* (No Comment) */
+"AMDSummary" = "Met deze taak retourneer je een lijst met ECID-aanduidingen van aangesloten iOS-apparaten die door de gebruiker in een lijst zijn geselecteerd.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Kies aangesloten apparaten";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Alle rechten voorbehouden.";
+

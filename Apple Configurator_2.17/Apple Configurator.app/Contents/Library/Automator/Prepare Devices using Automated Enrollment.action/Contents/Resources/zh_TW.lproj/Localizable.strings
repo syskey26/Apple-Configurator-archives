@@ -1,0 +1,15 @@
+/* INPUT ERRORS */
+"CNFGACT-19-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
+
+/* (No Comment) */
+"CNFGACT-19-NO_PROFILE_FILE" = "必須在「使用自動註冊準備裝置」動作介面中選擇包含 Wi-Fi 網路的設定描述檔。";
+
+/* (No Comment) */
+"CNFGACT-19-NO_USER_NAME" = "並未在「使用自動註冊準備裝置」動作介面中輸入使用者名稱。";
+
+/* (No Comment) */
+"CNFGACT-19-PASSWORD_MISSING_OR_MISMATCH" = "未輸入裝置註冊的密碼，且未在「使用自動註冊準備裝置」動作介面中確認。";
+
+/* (No Comment) */
+"CNFGACT-19-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "密碼錯誤";
+

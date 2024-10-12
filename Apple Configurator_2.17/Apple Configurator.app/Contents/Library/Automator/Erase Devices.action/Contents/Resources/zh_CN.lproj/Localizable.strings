@@ -1,0 +1,15 @@
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_EXIST" = "此证书文件不在预期的位置中：";
+
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_SET" = "未选取证书文件。";
+
+/* INPUT ERRORS */
+"CNFGACT-02-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_EXIST" = "此专用密钥文件不在预期的位置中：";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_SET" = "未选取专用密钥文件。";
+

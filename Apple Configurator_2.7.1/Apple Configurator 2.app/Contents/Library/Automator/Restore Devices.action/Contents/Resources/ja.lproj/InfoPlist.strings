@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別子";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "カスタムのインストールオプションを設定するオプションがあります。デフォルトでは、最新の製品バージョンが使用されます。";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別子";
+
+/* (No Comment) */
+"AMDSummary" = "このアクションにより、識別子が入力としてこのアクションに渡されたデバイスが復元されます。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "デバイスを復元";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. All rights reserved.";
+

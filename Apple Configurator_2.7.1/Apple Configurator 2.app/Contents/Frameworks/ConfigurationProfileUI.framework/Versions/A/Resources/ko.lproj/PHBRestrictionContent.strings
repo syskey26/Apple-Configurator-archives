@@ -1,0 +1,423 @@
+/* Class = "NSButtonCell"; title = "Automatically join Classroom classes without prompting (supervised only)"; ObjectID = "0B6-W0-K6C"; */
+"0B6-W0-K6C.title" = "대화상자를 표시하지 않고 교실 앱의 수업에 자동으로 참여(감독 중인 기기만 가능)";
+
+/* Class = "NSTextFieldCell"; title = "Sets the maximum allowed ratings"; ObjectID = "0gS-xX-2vi"; */
+"0gS-xX-2vi.title" = "허용되는 최대 등급 설정";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to lock to an app and lock the device without prompting (supervised only)"; ObjectID = "0qH-8b-FXH"; */
+"0qH-8b-FXH.title" = "교실 앱에서 대화상자를 표시하지 않고 앱 및 기기 잠그기 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Force encrypted backups"; ObjectID = "0Y2-4l-JMW"; */
+"0Y2-4l-JMW.title" = "암호화된 백업 강제";
+
+/* Class = "NSButtonCell"; title = "Allow adding VPN configurations (supervised only)"; ObjectID = "1fJ-hd-xoe"; */
+"1fJ-hd-xoe.title" = "VPN 구성 추가 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow Define (supervised only)"; ObjectID = "1q3-kS-Zfe"; */
+"1q3-kS-Zfe.title" = "정의 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSTextFieldCell"; title = "Sets the region for the ratings"; ObjectID = "1YH-eP-WV9"; */
+"1YH-eP-WV9.title" = "등급에 대한 영역 설정";
+
+/* Class = "NSButtonCell"; title = "Allow dictation (supervised only)"; ObjectID = "2vN-is-nHX"; */
+"2vN-is-nHX.title" = "받아쓰기 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenuItem"; title = "Japan"; ObjectID = "3nh-NO-5xI"; */
+"3nh-NO-5xI.title" = "일본";
+
+/* Class = "NSButtonCell"; title = "Enable JavaScript"; ObjectID = "3RZ-VN-kEK"; */
+"3RZ-VN-kEK.title" = "JavaScript 활성화";
+
+/* Class = "NSMenuItem"; title = "Only allow some apps"; ObjectID = "3u0-wt-4t2"; */
+"3u0-wt-4t2.title" = "일부 앱만 허용";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular plan settings (supervised only)"; ObjectID = "4Gl-jW-47m"; */
+"4Gl-jW-47m.title" = "셀룰러 요금제 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4Id-HF-776"; */
+"4Id-HF-776.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "From current website only"; ObjectID = "4jq-RJ-3GY"; */
+"4jq-RJ-3GY.title" = "현재 웹 사이트에서만";
+
+/* Class = "NSButtonCell"; title = "Require Face ID authentication before AutoFill (supervised only)"; ObjectID = "5hD-GF-Shf"; */
+"5hD-GF-Shf.title" = "암호 자동 완성 전에 Face ID 인증 요구(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying account settings (supervised only)"; ObjectID = "5Vq-za-axl"; */
+"5Vq-za-axl.title" = "계정 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Enable Siri profanity filter (supervised only)"; ObjectID = "6bL-R3-anA"; */
+"6bL-R3-anA.title" = "Siri 선정적 내용 필터 활성화(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Disallow AirPrint to destinations with untrusted certificates (supervised only)"; ObjectID = "6BT-32-ox1"; */
+"6BT-32-ox1.title" = "신뢰할 수 없는 인증서를 사용하는 대상에 AirPrint 허용 안 함(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow Handoff"; ObjectID = "7Cz-Ad-jhg"; */
+"7Cz-Ad-jhg.title" = "Handoff 허용";
+
+/* Class = "NSButtonCell"; title = "Allow explicit sexual content in iBooks Store"; ObjectID = "7mE-uj-8Ko"; */
+"7mE-uj-8Ko.title" = "iBooks Store에서 무삭제판 성인용 콘텐츠 허용";
+
+/* Class = "NSButtonCell"; title = "Show user-generated content in Siri (supervised only)"; ObjectID = "7ZE-K2-JGS"; */
+"7ZE-K2-JGS.title" = "Siri에서 사용자 생성 콘텐츠 보기(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow spell check (supervised only)"; ObjectID = "8Y4-oV-Rjs"; */
+"8Y4-oV-Rjs.title" = "맞춤법 검사 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Library"; ObjectID = "9jN-FC-shr"; */
+"9jN-FC-shr.title" = "iCloud 사진 보관함 허용";
+
+/* Class = "NSButtonCell"; title = "Allow setting up new nearby devices (supervised only)"; ObjectID = "9Lc-kC-L6B"; */
+"9Lc-kC-L6B.title" = "새로운 주변 기기 설정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow Apple Music (supervised only)"; ObjectID = "71t-Hh-dbR"; */
+"71t-Hh-dbR.title" = "Apple Music 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSTextFieldCell"; title = "Restrictions"; ObjectID = "A3z-D6-Muc"; */
+"A3z-D6-Muc.title" = "제한사항";
+
+/* Class = "NSButtonCell"; title = "Allow managed apps to store data in iCloud"; ObjectID = "a5e-0e-9Q8"; */
+"a5e-0e-9Q8.title" = "관리되는 앱이 iCloud에 데이터를 저장하도록 허용";
+
+/* Class = "NSButtonCell"; title = "Allow keyboard shortcuts (supervised only)"; ObjectID = "a8L-jR-9fK"; */
+"a8L-jR-9fK.title" = "키보드 단축키 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Force fraud warning"; ObjectID = "Adp-BI-EVC"; */
+"Adp-BI-EVC.title" = "위조 경고 강제";
+
+/* Class = "NSButtonCell"; title = "Allow iBooks Store (supervised only)"; ObjectID = "ae5-Yb-0hp"; */
+"ae5-Yb-0hp.title" = "iBooks Store 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Sharing"; ObjectID = "aIl-Fr-DGY"; */
+"aIl-Fr-DGY.title" = "iCloud 사진 공유 허용";
+
+/* Class = "NSButtonCell"; title = "Allow multiplayer gaming (supervised only)"; ObjectID = "Awk-IL-Zp6"; */
+"Awk-IL-Zp6.title" = "멀티플레이어 게임 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Force limited ad tracking"; ObjectID = "AwO-qo-882"; */
+"AwO-qo-882.title" = "광고 추적 강제 제한";
+
+/* Class = "NSButtonCell"; title = "Allow predictive keyboard (supervised only)"; ObjectID = "b3o-Lw-Qf3"; */
+"b3o-Lw-Qf3.title" = "자동 완성 키보드 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow playback of explicit music, podcasts & iTunes U media"; ObjectID = "B5r-rK-xAv"; */
+"B5r-rK-xAv.title" = "무삭제판 음악, 팟캐스트 및 iTunes U 미디어 재생 허용";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Remote app (tvOS only)"; ObjectID = "c3B-OD-p7h"; */
+"c3B-OD-p7h.title" = "리모컨 앱과 쌍으로 연결 허용(tvOS만 가능)";
+
+/* Class = "NSTextFieldCell"; title = "Accept cookies"; ObjectID = "cId-Oh-89y"; */
+"cId-Oh-89y.title" = "쿠키 허용";
+
+/* Class = "NSButtonCell"; title = "Treat AirDrop as unmanaged destination"; ObjectID = "COC-1o-iu8"; */
+"COC-1o-iu8.title" = "AirDrop을 관리되지 않는 대상으로 취급";
+
+/* Class = "NSTextFieldCell"; title = "TV Shows:"; ObjectID = "cQS-2G-kb1"; */
+"cQS-2G-kb1.title" = "TV 프로그램:";
+
+/* Class = "NSButtonCell"; title = "Allow storage of AirPrint credentials in Keychain (supervised only)"; ObjectID = "czs-vo-RkA"; */
+"czs-vo-RkA.title" = "키체인에 AirPrint 자격 증명 저장 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Bluetooth settings (supervised only)"; ObjectID = "d2R-Fc-7fF"; */
+"d2R-Fc-7fF.title" = "Bluetooth 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenuItem"; title = "From websites I visit"; ObjectID = "DDb-j3-CfW"; */
+"DDb-j3-CfW.title" = "내가 방문한 웹 사이트";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "dio-Gq-2r4"; */
+"dio-Gq-2r4.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "United Kingdom"; ObjectID = "dLJ-Bj-MeC"; */
+"dLJ-Bj-MeC.title" = "영국";
+
+/* Class = "NSButtonCell"; title = "Defer software updates for"; ObjectID = "Dml-bm-sgS"; */
+"Dml-bm-sgS.title" = "다음 기간 동안 소프트웨어 업데이트 연기:";
+
+/* Class = "NSButtonCell"; title = "Allow USB accessories while device is locked (supervised only)"; ObjectID = "DoI-q4-7IY"; */
+"DoI-q4-7IY.title" = "  기기가 잠겨 있는 동안 USB 액세서리의 연결 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenuItem"; title = "Ireland"; ObjectID = "drH-te-3JJ"; */
+"drH-te-3JJ.title" = "아일랜드";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "DRj-ZE-e8g"; */
+"DRj-ZE-e8g.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Require passcode on first AirPlay pairing"; ObjectID = "E1k-ol-9XO"; */
+"E1k-ol-9XO.title" = "첫 번째 AirPlay 쌍으로 연결 시 암호 필요";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[0] = "Functionality"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[0]" = "기능";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[1] = "Apps"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[1]" = "앱";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[2] = "Media Content"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[2]" = "미디어 콘텐츠";
+
+/* Class = "NSButtonCell"; title = "Allow automatic app downloads (supervised only)"; ObjectID = "EHd-Mw-7OG"; */
+"EHd-Mw-7OG.title" = "앱 자동 다운로드 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenuItem"; title = "Australia"; ObjectID = "EkE-Sr-GAB"; */
+"EkE-Sr-GAB.title" = "오스트레일리아";
+
+/* Class = "NSButtonCell"; title = "Show Today view in Lock screen"; ObjectID = "EPc-22-i7Y"; */
+"EPc-22-i7Y.title" = "잠금 화면에서 오늘 보기";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular data app settings (supervised only)"; ObjectID = "fet-eL-1tV"; */
+"fet-eL-1tV.title" = "셀룰러 데이터 앱 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow Wallet notifications in Lock screen"; ObjectID = "Fex-gB-fdh"; */
+"Fex-gB-fdh.title" = "잠금 화면에서 Wallet 알림 허용";
+
+/* Class = "NSButtonCell"; title = "Allow documents from unmanaged sources in managed destinations"; ObjectID = "FRy-Ib-alv"; */
+"FRy-Ib-alv.title" = "관리되지 않는 소스의 도큐멘트를 관리되는 대상에서 허용";
+
+/* Class = "NSButtonCell"; title = "Allow backup of enterprise books"; ObjectID = "g0l-5R-sjb"; */
+"g0l-5R-sjb.title" = "기업용 책 백업 허용";
+
+/* Class = "NSTextFieldCell"; title = "Apps:"; ObjectID = "GoC-0i-NlS"; */
+"GoC-0i-NlS.title" = "앱:";
+
+/* Class = "NSButtonCell"; title = "Allow discovery of AirPrint printers using iBeacons (supervised only)"; ObjectID = "got-w9-Z6k"; */
+"got-w9-Z6k.title" = "iBeacon을 사용하여 AirPrint 프린터 발견 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow use of Safari"; ObjectID = "HbG-wk-FfB"; */
+"HbG-wk-FfB.title" = "Safari 사용 허용";
+
+/* Class = "NSTextFieldCell"; title = "Ratings region"; ObjectID = "HhL-55-Qmz"; */
+"HhL-55-Qmz.title" = "국가별 등급";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "HKg-JH-Le5"; */
+"HKg-JH-Le5.headerCell.title" = "앱 이름";
+
+/* Class = "NSButtonCell"; title = "Allow in-app purchase"; ObjectID = "HoC-yJ-GNl"; */
+"HoC-yJ-GNl.title" = "앱 내 구입 허용";
+
+/* Class = "NSButtonCell"; title = "Allow AirPrint (supervised only)"; ObjectID = "HV4-Nn-PJY"; */
+"HV4-Nn-PJY.title" = "AirPrint 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow voice dialing while device is locked"; ObjectID = "Hx6-f3-0hD"; */
+"Hx6-f3-0hD.title" = "기기가 잠겨 있는 동안 음성으로 전화 걸기 허용";
+
+/* Class = "NSButtonCell"; title = "Allow FaceTime"; ObjectID = "hXe-UE-CVw"; */
+"hXe-UE-CVw.title" = "FaceTime 허용";
+
+/* Class = "NSButtonCell"; title = "Allow modifying diagnostics settings (supervised only)"; ObjectID = "HyF-8X-NuK"; */
+"HyF-8X-NuK.title" = "진단 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Show Control Center in Lock screen"; ObjectID = "iGP-M5-iHw"; */
+"iGP-M5-iHw.title" = "잠금 화면에서 제어 센터 보기";
+
+/* Class = "NSButtonCell"; title = "Allow use of iTunes Store"; ObjectID = "ihX-yL-qQc"; */
+"ihX-yL-qQc.title" = "iTunes Store 사용 허용";
+
+/* Class = "NSButtonCell"; title = "Join only Wi-Fi networks installed by a Wi-Fi payload (supervised only)"; ObjectID = "izz-0X-Sqt"; */
+"izz-0X-Sqt.title" = "Wi-Fi 페이로드로 설치된 Wi-Fi 네트워크에만 연결(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow automatic sync while roaming"; ObjectID = "j6a-Mq-bSC"; */
+"j6a-Mq-bSC.title" = "로밍 중 자동 동기화 허용";
+
+/* Class = "NSTextFieldCell"; title = "Restrict App Usage (supervised only)"; ObjectID = "Jeq-mv-xeB"; */
+"Jeq-mv-xeB.title" = "앱 사용 제한(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Find My Friends settings (supervised only)"; ObjectID = "jIl-Rh-G02"; */
+"jIl-Rh-G02.title" = "나의 친구 찾기 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JKU-Rp-d7Z"; */
+"JKU-Rp-d7Z.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Do not allow some apps"; ObjectID = "jlw-gD-gRt"; */
+"jlw-gD-gRt.title" = "일부 앱 허용 안 함";
+
+/* Class = "NSButtonCell"; title = "Allow trusting new enterprise app authors"; ObjectID = "kI8-lJ-suJ"; */
+"kI8-lJ-suJ.title" = "새로운 기업용 앱 저자 신뢰 허용";
+
+/* Class = "NSButtonCell"; title = "Allow removing system apps (supervised only)"; ObjectID = "kkM-Bb-xz7"; */
+"kkM-Bb-xz7.title" = "시스템 앱 제거 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps"; ObjectID = "kkU-Do-vn5"; */
+"kkU-Do-vn5.title" = "앱 설치 허용";
+
+/* Class = "NSButtonCell"; title = "Allow modifying restrictions (supervised only)"; ObjectID = "Kuc-3z-033"; */
+"Kuc-3z-033.title" = "제한사항 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow installing configuration profiles (supervised only)"; ObjectID = "L4z-om-2yl"; */
+"L4z-om-2yl.title" = "구성 프로파일 설치 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps using App Store (supervised only)"; ObjectID = "Lc2-ax-anS"; */
+"Lc2-ax-anS.title" = "App Store를 사용하여 앱 설치 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow use of News (supervised only)"; ObjectID = "lPc-wI-edp"; */
+"lPc-wI-edp.title" = "News 사용 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow AirPlay and View Screen by Classroom"; ObjectID = "Lwc-eb-eCs"; */
+"Lwc-eb-eCs.title" = "교실 앱의 AirPlay 및 화면 보기 허용";
+
+/* Class = "NSMenuItem"; title = "France"; ObjectID = "LzS-ZU-HaA"; */
+"LzS-ZU-HaA.title" = "프랑스";
+
+/* Class = "NSButtonCell"; title = "Allow auto correction (supervised only)"; ObjectID = "MaY-dz-I4v"; */
+"MaY-dz-I4v.title" = "자동 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "mJs-ff-dPg"; */
+"mJs-ff-dPg.title" = "항상";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Keychain"; ObjectID = "MnI-Vu-kXd"; */
+"MnI-Vu-kXd.title" = "iCloud 키체인 허용";
+
+/* Class = "NSButtonCell"; title = "Allow use of Game Center (supervised only)"; ObjectID = "mOQ-gG-834"; */
+"mOQ-gG-834.title" = "Game Center 사용 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to perform AirPlay and View Screen without prompting (supervised only)"; ObjectID = "N9X-zG-Ux4"; */
+"N9X-zG-Ux4.title" = "교실 앱에서 대화상자를 표시하지 않고 AirPlay 및 화면 보기 실행 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Wallpaper (supervised only)"; ObjectID = "nt5-Dd-9PT"; */
+"nt5-Dd-9PT.title" = "배경화면 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Restrictions payload"; ObjectID = "o5s-UI-ygh"; */
+"o5s-UI-ygh.ibShadowedToolTip" = "제한사항 페이로드를 제거합니다.";
+
+/* Class = "NSButtonCell"; title = "Allow Touch ID / Face ID to unlock device"; ObjectID = "O8F-NJ-2z7"; */
+"O8F-NJ-2z7.title" = "기기 잠금 해제에 Touch ID/Face ID 허용";
+
+/* Class = "NSButtonCell"; title = "Allow Radio (supervised only)"; ObjectID = "Okg-vm-QPh"; */
+"Okg-vm-QPh.title" = "라디오 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud documents & data"; ObjectID = "oKy-td-LGy"; */
+"oKy-td-LGy.title" = "iCloud 도큐멘트 및 데이터 허용";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "onz-Bf-5Iv"; */
+"onz-Bf-5Iv.title" = "안 함";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[app bundle identifier]"; ObjectID = "Oyi-6U-vIi"; */
+"Oyi-6U-vIi.ibShadowedIsNilPlaceholder" = "[앱 번들 식별자]";
+
+/* Class = "NSButtonCell"; title = "Allow use of Podcasts (supervised only)"; ObjectID = "Ozd-jU-Kbj"; */
+"Ozd-jU-Kbj.title" = "팟캐스트 사용 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow adding Game Center friends"; ObjectID = "P1m-cs-0JM"; */
+"P1m-cs-0JM.title" = "Game Center 친구 추가 허용";
+
+/* Class = "NSButtonCell"; title = "Allow Siri Suggestions"; ObjectID = "P8b-S8-S2K"; */
+"P8b-S8-S2K.title" = "Siri 제안 허용";
+
+/* Class = "NSButtonCell"; title = "Allow modifying device name (supervised only)"; ObjectID = "q82-0Z-SL5"; */
+"q82-0Z-SL5.title" = "기기 이름 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Require iTunes Store password for all purchases"; ObjectID = "QmL-p3-AuT"; */
+"QmL-p3-AuT.title" = "구입할 때마다 항상 iTunes Store 암호 요구";
+
+/* Class = "NSTextFieldCell"; title = "Movies:"; ObjectID = "r8y-MF-Al8"; */
+"r8y-MF-Al8.title" = "동영상:";
+
+/* Class = "NSButtonCell"; title = "Allow Siri while device is locked"; ObjectID = "rEm-w3-fK4"; */
+"rEm-w3-fK4.title" = "기기가 잠겨 있는 동안 Siri 허용";
+
+/* Class = "NSButtonCell"; title = "Block pop-ups"; ObjectID = "RYU-j0-AnO"; */
+"RYU-j0-AnO.title" = "팝업 차단";
+
+/* Class = "NSButtonCell"; title = "Show Notification Center in Lock screen"; ObjectID = "s2U-AI-aeF"; */
+"s2U-AI-aeF.title" = "잠금 화면에서 알림 센터 보기";
+
+/* Class = "NSButtonCell"; title = "Allow removing apps (supervised only)"; ObjectID = "S3b-0B-Kcb"; */
+"S3b-0B-Kcb.title" = "앱 제거 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Enable AutoFill"; ObjectID = "Szq-xc-NgQ"; */
+"Szq-xc-NgQ.title" = "자동 완성 활성화";
+
+/* Class = "NSButtonCell"; title = "Allow Siri"; ObjectID = "TdO-92-QxM"; */
+"TdO-92-QxM.title" = "Siri 허용";
+
+/* Class = "NSTextFieldCell"; title = "days (supervised only)"; ObjectID = "Tfa-6p-nX6"; */
+"Tfa-6p-nX6.title" = "일(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow Erase All Content and Settings (supervised only)"; ObjectID = "TgG-ZN-qc3"; */
+"TgG-ZN-qc3.title" = "모든 콘텐츠 및 설정 지우기 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Touch ID fingerprints / Face ID faces (supervised only)"; ObjectID = "TUM-Lo-RlT"; */
+"TUM-Lo-RlT.title" = "Touch ID 지문 / Face ID 얼굴 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Require teacher permission to leave Classroom unmanaged classes (supervised only)"; ObjectID = "tvf-FA-dMF"; */
+"tvf-FA-dMF.title" = "교실 앱의 관리되지 않는 수업에서 나갈 때 교사 허락 요구(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow documents from managed sources in unmanaged destinations"; ObjectID = "TXi-lj-fkV"; */
+"TXi-lj-fkV.title" = "관리되는 소스의 도큐멘트를 관리되지 않는 대상에서 허용";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "u5G-Ob-dEJ"; */
+"u5G-Ob-dEJ.title" = "견본 앱";
+
+/* Class = "NSButtonCell"; title = "Allow notes and highlights sync for enterprise books"; ObjectID = "vCI-GN-sjx"; */
+"vCI-GN-sjx.title" = "기업용 책에 대한 메모 및 하이라이트 동기화 허용";
+
+/* Class = "NSButtonCell"; title = "Force Apple Watch wrist detection"; ObjectID = "vH2-UC-dXV"; */
+"vH2-UC-dXV.title" = "Apple Watch 손목 인식 강제 적용";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud backup"; ObjectID = "voz-XM-2Zg"; */
+"voz-XM-2Zg.title" = "iCloud 백업 허용";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with non-Configurator hosts (supervised only)"; ObjectID = "VWA-9U-8IK"; */
+"VWA-9U-8IK.title" = "Configurator가 아닌 호스트와 쌍으로 연결 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenuItem"; title = "Germany"; ObjectID = "WBd-Cy-qrD"; */
+"WBd-Cy-qrD.title" = "독일";
+
+/* Class = "NSButtonCell"; title = "Allow incoming AirPlay requests (tvOS only)"; ObjectID = "Wnw-qO-PzC"; */
+"Wnw-qO-PzC.title" = "들어오는 AirPlay 요청 허용(tvOS만 가능)";
+
+/* Class = "NSMenuItem"; title = "Allow all apps"; ObjectID = "Wqr-XV-m0E"; */
+"Wqr-XV-m0E.title" = "모든 앱 허용";
+
+/* Class = "NSButtonCell"; title = "Allow My Photo Stream (disallowing can cause data loss)"; ObjectID = "Wwu-cp-A9R"; */
+"Wwu-cp-A9R.title" = "나의 사진 스트림 허용(허용하지 않으면 데이터가 유실될 수 있음)";
+
+/* Class = "NSMenuItem"; title = "New Zealand"; ObjectID = "WXA-x4-Sg2"; */
+"WXA-x4-Sg2.title" = "뉴질랜드";
+
+/* Class = "NSButtonCell"; title = "Allow users to accept untrusted TLS certificates"; ObjectID = "Xc4-WH-wlp"; */
+"Xc4-WH-wlp.title" = "사용자가 신뢰할 수 없는 TLS 인증서에 동의하는 것을 허용";
+
+/* Class = "NSMenuItem"; title = "United States"; ObjectID = "xHL-0R-cuV"; */
+"xHL-0R-cuV.title" = "미국";
+
+/* Class = "NSButtonCell"; title = "Allow sending diagnostic and usage data to Apple"; ObjectID = "xHT-z2-ce7"; */
+"xHT-z2-ce7.title" = "Apple에 진단 및 사용 데이터 전송 허용";
+
+/* Class = "NSButtonCell"; title = "Allow automatic updates to certificate trust settings"; ObjectID = "XVo-8o-bbO"; */
+"XVo-8o-bbO.title" = "인증서 신뢰 설정에 자동 업데이트 허용";
+
+/* Class = "NSButtonCell"; title = "Allow use of camera"; ObjectID = "Y4L-jD-IRx"; */
+"Y4L-jD-IRx.title" = "카메라 사용 허용";
+
+/* Class = "NSMenuItem"; title = "Canada"; ObjectID = "Yep-uV-EyS"; */
+"Yep-uV-EyS.title" = "캐나다";
+
+/* Class = "NSButtonCell"; title = "Allow AirDrop (supervised only)"; ObjectID = "yNA-Sf-jSK"; */
+"yNA-Sf-jSK.title" = "AirDrop 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow screenshots and screen recording"; ObjectID = "YRO-iy-0qu"; */
+"YRO-iy-0qu.title" = "스크린샷 및 화면 기록 허용";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YuF-w4-7dI"; */
+"YuF-w4-7dI.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow modifying notification settings (supervised only)"; ObjectID = "YvP-g2-uSW"; */
+"YvP-g2-uSW.title" = "알림 설정 수정 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YWw-SQ-hoJ"; */
+"YWw-SQ-hoJ.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Apple Watch (supervised only)"; ObjectID = "Z9Z-KB-npQ"; */
+"Z9Z-KB-npQ.title" = "Apple Watch와 쌍으로 연결 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSButtonCell"; title = "Allow iMessage (supervised only)"; ObjectID = "Ze7-tf-9mq"; */
+"Ze7-tf-9mq.title" = "iMessage 허용(감독 중인 기기만 가능)";
+
+/* Class = "NSTextFieldCell"; title = "Allowed content ratings"; ObjectID = "zfH-dV-32a"; */
+"zfH-dV-32a.title" = "허용된 콘텐츠 등급";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "ZNS-5y-Oes"; */
+"ZNS-5y-Oes.title" = "30";
+
+/* Class = "NSButtonCell"; title = "Allow modifying passcode (supervised only)"; ObjectID = "zTh-3f-4PF"; */
+"zTh-3f-4PF.title" = "암호 수정 허용(감독 중인 기기만 가능)";
+

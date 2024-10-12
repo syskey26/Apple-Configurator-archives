@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identifiants ECID";
+
+/* (No Comment) */
+"AMDNote" = "Certaines données privées, telles que les mots de passe, ne sont restaurées que si la sauvegarde a été chiffrée à l’aide d’un mot de passe, ou si l’appareil ciblé est la source d’origine de la sauvegarde.";
+
+/* (No Comment) */
+"AMDOptions" = "Un mot de passe partagé unique, utilisé pour accéder à toutes les sauvegardes chiffrées de l’appareil, peut être saisi dans la présentation des actions.";
+
+/* (No Comment) */
+"AMDRequires" = "Les appareils doivent être effacés avant de pouvoir y restaurer des sauvegardes.";
+
+/* (No Comment) */
+"AMDResult" = "Identifiants ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Cette action restaure des sauvegardes sur les appareils indiqués.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Restaurer les appareils à partir de sauvegardes";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "sauvegarde";
+
+/* AMKeyword localized strings */
+"configurator" = "configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "mobile";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2022 Apple Inc. Tous droits réservés.";
+

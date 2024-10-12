@@ -1,0 +1,13 @@
+/* (No Comment) */
+"CNFGACT-11-DIALOG_PROMPT" = "기기 선택:";
+
+/* Localizable.strings
+  Choose Connected Devices
+
+  Created by Sal Soghoian on 1/15/15.
+  Copyright (c) 2015-2018 Apple Inc. All rights reserved. */
+"CNFGACT-11-NO_CONNECTED_DEVICES" = "이 컴퓨터에 연결된 기기가 없습니다.";
+
+/* (No Comment) */
+"CNFGACT-11-NO_RESPONDING_DEVICES" = "이 컴퓨터에 연결된 기기가 응답하지 않습니다.";
+

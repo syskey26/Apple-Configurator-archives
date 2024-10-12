@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Es gibt eine Option, um einen kurzen Text, der auf dem Sperrbildschirm des Geräts angezeigt werden soll, anzugeben. Wähle das Markierungsfeld aus, um den Gerätenamen anzuzeigen.";
+
+/* (No Comment) */
+"AMDRequires" = "Diese Aktion funktioniert nur mit betreuten Geräten und für sie ist die Verwendung eines Zertifikats und privater Schlüsseldateien erforderlich.";
+
+/* (No Comment) */
+"AMDResult" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDSummary" = "Diese Aktion kopiert eine JPEG-Datei auf die angegebenen Geräte und stellt sie über die angegebenen Parameter als Standardhintergrundbild ein.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Hintergrundbild auf Geräte installieren";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Alle Rechte vorbehalten.";
+

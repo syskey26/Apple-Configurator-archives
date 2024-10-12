@@ -1,0 +1,427 @@
+/* Class = "NSButtonCell"; title = "Automatically join Classroom classes without prompting (supervised only)"; ObjectID = "0B6-W0-K6C"; */
+"0B6-W0-K6C.title" = "Iscriviti ai corsi di Classroom senza chiedere (solo supervisionati)";
+
+/* Class = "NSTextFieldCell"; title = "Sets the maximum allowed ratings"; ObjectID = "0gS-xX-2vi"; */
+"0gS-xX-2vi.title" = "Imposta le classifiche massime consentite";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to lock to an app and lock the device without prompting (supervised only)"; ObjectID = "0qH-8b-FXH"; */
+"0qH-8b-FXH.title" = "Consenti a Classroom di bloccarsi su un'app e di bloccare il dispositivo senza chiedere (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Force encrypted backups"; ObjectID = "0Y2-4l-JMW"; */
+"0Y2-4l-JMW.title" = "Forza backup codificati";
+
+/* Class = "NSButtonCell"; title = "Allow adding VPN configurations (supervised only)"; ObjectID = "1fJ-hd-xoe"; */
+"1fJ-hd-xoe.title" = "Consenti aggiunta configurazioni VPN (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow Define (supervised only)"; ObjectID = "1q3-kS-Zfe"; */
+"1q3-kS-Zfe.title" = "Consenti Definisci (solo supervisionati)";
+
+/* Class = "NSTextFieldCell"; title = "Sets the region for the ratings"; ObjectID = "1YH-eP-WV9"; */
+"1YH-eP-WV9.title" = "Imposta la regione per le classifiche";
+
+/* Class = "NSButtonCell"; title = "Allow dictation (supervised only)"; ObjectID = "2vN-is-nHX"; */
+"2vN-is-nHX.title" = "Consenti dettatura (solo supervisionati)";
+
+/* Class = "NSMenuItem"; title = "Japan"; ObjectID = "3nh-NO-5xI"; */
+"3nh-NO-5xI.title" = "Giappone";
+
+/* Class = "NSButtonCell"; title = "Enable JavaScript"; ObjectID = "3RZ-VN-kEK"; */
+"3RZ-VN-kEK.title" = "Abilita JavaScript";
+
+/* Class = "NSMenuItem"; title = "Only allow some apps"; ObjectID = "3u0-wt-4t2"; */
+"3u0-wt-4t2.title" = "Consenti solo alcune app";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular plan settings (supervised only)"; ObjectID = "4Gl-jW-47m"; */
+"4Gl-jW-47m.title" = "Consenti modifica impostazioni piano dati cellulare (solo
+supervisionati)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4Id-HF-776"; */
+"4Id-HF-776.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "From current website only"; ObjectID = "4jq-RJ-3GY"; */
+"4jq-RJ-3GY.title" = "Solo dal sito web attuale";
+
+/* Class = "NSButtonCell"; title = "Require Face ID authentication before AutoFill (supervised only)"; ObjectID = "5hD-GF-Shf"; */
+"5hD-GF-Shf.title" = "Richiedi l'autenticazione tramite Face ID prima di consentire il completamento automatico delle informazioni (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying account settings (supervised only)"; ObjectID = "5Vq-za-axl"; */
+"5Vq-za-axl.title" = "Consenti modifica impostazioni account (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Enable Siri profanity filter (supervised only)"; ObjectID = "6bL-R3-anA"; */
+"6bL-R3-anA.title" = "Abilita filtro volgarità di Siri (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Disallow AirPrint to destinations with untrusted certificates (supervised only)"; ObjectID = "6BT-32-ox1"; */
+"6BT-32-ox1.title" = "Non consentire destinazioni AirPrint con certificati non attendibili (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow Handoff"; ObjectID = "7Cz-Ad-jhg"; */
+"7Cz-Ad-jhg.title" = "Consenti Handoff";
+
+/* Class = "NSButtonCell"; title = "Allow explicit sexual content in iBooks Store"; ObjectID = "7mE-uj-8Ko"; */
+"7mE-uj-8Ko.title" = "Consenti contenuto erotico esplicito in iBooks Store";
+
+/* Class = "NSButtonCell"; title = "Show user-generated content in Siri (supervised only)"; ObjectID = "7ZE-K2-JGS"; */
+"7ZE-K2-JGS.title" = "Mostra contenuto generato dall'utente in Siri (solo
+supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow spell check (supervised only)"; ObjectID = "8Y4-oV-Rjs"; */
+"8Y4-oV-Rjs.title" = "Consenti controllo ortografico (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Library"; ObjectID = "9jN-FC-shr"; */
+"9jN-FC-shr.title" = "Consenti libreria foto di iCloud";
+
+/* Class = "NSButtonCell"; title = "Allow setting up new nearby devices (supervised only)"; ObjectID = "9Lc-kC-L6B"; */
+"9Lc-kC-L6B.title" = "Consenti la configurazione di nuovi dispositivi nelle vicinanze (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow Apple Music (supervised only)"; ObjectID = "71t-Hh-dbR"; */
+"71t-Hh-dbR.title" = "Consenti Apple Music (solo supervisionati)";
+
+/* Class = "NSTextFieldCell"; title = "Restrictions"; ObjectID = "A3z-D6-Muc"; */
+"A3z-D6-Muc.title" = "Restrizioni";
+
+/* Class = "NSButtonCell"; title = "Allow managed apps to store data in iCloud"; ObjectID = "a5e-0e-9Q8"; */
+"a5e-0e-9Q8.title" = "Consenti alle app gestite di archiviare dati in iCloud";
+
+/* Class = "NSButtonCell"; title = "Allow keyboard shortcuts (supervised only)"; ObjectID = "a8L-jR-9fK"; */
+"a8L-jR-9fK.title" = "Consenti abbreviazioni da tastiera (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Force fraud warning"; ObjectID = "Adp-BI-EVC"; */
+"Adp-BI-EVC.title" = "Forza avviso di frode";
+
+/* Class = "NSButtonCell"; title = "Allow iBooks Store (supervised only)"; ObjectID = "ae5-Yb-0hp"; */
+"ae5-Yb-0hp.title" = "Consenti iBooks Store (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Sharing"; ObjectID = "aIl-Fr-DGY"; */
+"aIl-Fr-DGY.title" = "Consenti condivisione foto di iCloud";
+
+/* Class = "NSButtonCell"; title = "Allow multiplayer gaming (supervised only)"; ObjectID = "Awk-IL-Zp6"; */
+"Awk-IL-Zp6.title" = "Consenti gioco multigiocatore (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Force limited ad tracking"; ObjectID = "AwO-qo-882"; */
+"AwO-qo-882.title" = "Forza limitazione raccolta dati pubblicitari";
+
+/* Class = "NSButtonCell"; title = "Allow predictive keyboard (supervised only)"; ObjectID = "b3o-Lw-Qf3"; */
+"b3o-Lw-Qf3.title" = "Consenti tastiera predittiva (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow playback of explicit music, podcasts & iTunes U media"; ObjectID = "B5r-rK-xAv"; */
+"B5r-rK-xAv.title" = "Consenti la riproduzione di musica, podcast e file\nmultimediali iTunes U espliciti";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Remote app (tvOS only)"; ObjectID = "c3B-OD-p7h"; */
+"c3B-OD-p7h.title" = "Consenti abbinamento con l'app Remote (solo tvOS)";
+
+/* Class = "NSTextFieldCell"; title = "Accept cookies"; ObjectID = "cId-Oh-89y"; */
+"cId-Oh-89y.title" = "Accetta cookie";
+
+/* Class = "NSButtonCell"; title = "Treat AirDrop as unmanaged destination"; ObjectID = "COC-1o-iu8"; */
+"COC-1o-iu8.title" = "Tratta AirDrop come destinazione non gestita";
+
+/* Class = "NSTextFieldCell"; title = "TV Shows:"; ObjectID = "cQS-2G-kb1"; */
+"cQS-2G-kb1.title" = "Programmi TV:";
+
+/* Class = "NSButtonCell"; title = "Allow storage of AirPrint credentials in Keychain (supervised only)"; ObjectID = "czs-vo-RkA"; */
+"czs-vo-RkA.title" = "Consenti archiviazione credenziali AirPrint nel portachiavi (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Bluetooth settings (supervised only)"; ObjectID = "d2R-Fc-7fF"; */
+"d2R-Fc-7fF.title" = "Consenti modifica delle impostazioni Bluetooth (solo supervisionati)";
+
+/* Class = "NSMenuItem"; title = "From websites I visit"; ObjectID = "DDb-j3-CfW"; */
+"DDb-j3-CfW.title" = "Dai siti web che visito";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "dio-Gq-2r4"; */
+"dio-Gq-2r4.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "United Kingdom"; ObjectID = "dLJ-Bj-MeC"; */
+"dLJ-Bj-MeC.title" = "Regno Unito";
+
+/* Class = "NSButtonCell"; title = "Defer software updates for"; ObjectID = "Dml-bm-sgS"; */
+"Dml-bm-sgS.title" = "Rimanda aggiornamenti software per";
+
+/* Class = "NSButtonCell"; title = "Allow USB accessories while device is locked (supervised only)"; ObjectID = "DoI-q4-7IY"; */
+"DoI-q4-7IY.title" = "Consenti accessori USB mentre il dispositivo è bloccato (solo supervisionati)";
+
+/* Class = "NSMenuItem"; title = "Ireland"; ObjectID = "drH-te-3JJ"; */
+"drH-te-3JJ.title" = "Irlanda";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "DRj-ZE-e8g"; */
+"DRj-ZE-e8g.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Require passcode on first AirPlay pairing"; ObjectID = "E1k-ol-9XO"; */
+"E1k-ol-9XO.title" = "Richiedi codice al primo abbinamento con AirPlay";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[0] = "Functionality"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[0]" = "Funzionalità";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[1] = "Apps"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[1]" = "App";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[2] = "Media Content"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[2]" = "Contenuti multimediali";
+
+/* Class = "NSButtonCell"; title = "Allow automatic app downloads (supervised only)"; ObjectID = "EHd-Mw-7OG"; */
+"EHd-Mw-7OG.title" = "Consenti download app automatici (solo supervisionati)";
+
+/* Class = "NSMenuItem"; title = "Australia"; ObjectID = "EkE-Sr-GAB"; */
+"EkE-Sr-GAB.title" = "Australia";
+
+/* Class = "NSButtonCell"; title = "Show Today view in Lock screen"; ObjectID = "EPc-22-i7Y"; */
+"EPc-22-i7Y.title" = "Mostra Oggi in blocco schermo";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular data app settings (supervised only)"; ObjectID = "fet-eL-1tV"; */
+"fet-eL-1tV.title" = "Consenti modifica impostazioni app dati cellulare (solo\nsupervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow Wallet notifications in Lock screen"; ObjectID = "Fex-gB-fdh"; */
+"Fex-gB-fdh.title" = "Consenti notifiche Wallet in blocco schermo";
+
+/* Class = "NSButtonCell"; title = "Allow documents from unmanaged sources in managed destinations"; ObjectID = "FRy-Ib-alv"; */
+"FRy-Ib-alv.title" = "Consenti documenti da sorgenti non gestite in destinazioni gestite";
+
+/* Class = "NSButtonCell"; title = "Allow backup of enterprise books"; ObjectID = "g0l-5R-sjb"; */
+"g0l-5R-sjb.title" = "Consenti backup dei libri aziendali";
+
+/* Class = "NSTextFieldCell"; title = "Apps:"; ObjectID = "GoC-0i-NlS"; */
+"GoC-0i-NlS.title" = "App:";
+
+/* Class = "NSButtonCell"; title = "Allow discovery of AirPrint printers using iBeacons (supervised only)"; ObjectID = "got-w9-Z6k"; */
+"got-w9-Z6k.title" = "Consenti rilevamento stampanti AirPrint con iBeacon (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow use of Safari"; ObjectID = "HbG-wk-FfB"; */
+"HbG-wk-FfB.title" = "Consenti utilizzo di Safari";
+
+/* Class = "NSTextFieldCell"; title = "Ratings region"; ObjectID = "HhL-55-Qmz"; */
+"HhL-55-Qmz.title" = "Regione classifiche";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "HKg-JH-Le5"; */
+"HKg-JH-Le5.headerCell.title" = "Nome app";
+
+/* Class = "NSButtonCell"; title = "Allow in-app purchase"; ObjectID = "HoC-yJ-GNl"; */
+"HoC-yJ-GNl.title" = "Consenti acquisti in-app";
+
+/* Class = "NSButtonCell"; title = "Allow AirPrint (supervised only)"; ObjectID = "HV4-Nn-PJY"; */
+"HV4-Nn-PJY.title" = "Consenti AirPrint (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow voice dialing while device is locked"; ObjectID = "Hx6-f3-0hD"; */
+"Hx6-f3-0hD.title" = "Consenti composizione vocale mentre il dispositivo è bloccato";
+
+/* Class = "NSButtonCell"; title = "Allow FaceTime"; ObjectID = "hXe-UE-CVw"; */
+"hXe-UE-CVw.title" = "Consenti FaceTime";
+
+/* Class = "NSButtonCell"; title = "Allow modifying diagnostics settings (supervised only)"; ObjectID = "HyF-8X-NuK"; */
+"HyF-8X-NuK.title" = "Consenti modifica impostazioni diagnosi (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Show Control Center in Lock screen"; ObjectID = "iGP-M5-iHw"; */
+"iGP-M5-iHw.title" = "Mostra Centro di Controllo in blocco schermo";
+
+/* Class = "NSButtonCell"; title = "Allow use of iTunes Store"; ObjectID = "ihX-yL-qQc"; */
+"ihX-yL-qQc.title" = "Consenti utilizzo di iTunes Store";
+
+/* Class = "NSButtonCell"; title = "Join only Wi-Fi networks installed by a Wi-Fi payload (supervised only)"; ObjectID = "izz-0X-Sqt"; */
+"izz-0X-Sqt.title" = "Accedi solo alle reti Wi-Fi installati da payload Wi-Fi (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow automatic sync while roaming"; ObjectID = "j6a-Mq-bSC"; */
+"j6a-Mq-bSC.title" = "Consenti sincronizzazione automatica durante il roaming";
+
+/* Class = "NSTextFieldCell"; title = "Restrict App Usage (supervised only)"; ObjectID = "Jeq-mv-xeB"; */
+"Jeq-mv-xeB.title" = "Limita utilizzo app (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Find My Friends settings (supervised only)"; ObjectID = "jIl-Rh-G02"; */
+"jIl-Rh-G02.title" = "Consenti la modifica delle impostazioni di “Trova i miei amici” (solo supervisionati)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JKU-Rp-d7Z"; */
+"JKU-Rp-d7Z.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Do not allow some apps"; ObjectID = "jlw-gD-gRt"; */
+"jlw-gD-gRt.title" = "Non consentire alcune app";
+
+/* Class = "NSButtonCell"; title = "Allow trusting new enterprise app authors"; ObjectID = "kI8-lJ-suJ"; */
+"kI8-lJ-suJ.title" = "Consenti autorizzazione nuovi autori app aziendali";
+
+/* Class = "NSButtonCell"; title = "Allow removing system apps (supervised only)"; ObjectID = "kkM-Bb-xz7"; */
+"kkM-Bb-xz7.title" = "Consenti rimozione app di sistema (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps"; ObjectID = "kkU-Do-vn5"; */
+"kkU-Do-vn5.title" = "Consenti installazione applicazioni";
+
+/* Class = "NSButtonCell"; title = "Allow modifying restrictions (supervised only)"; ObjectID = "Kuc-3z-033"; */
+"Kuc-3z-033.title" = "Consenti modifica restrizioni (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow installing configuration profiles (supervised only)"; ObjectID = "L4z-om-2yl"; */
+"L4z-om-2yl.title" = "Consenti l'installazione di profili di configurazione
+(solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps using App Store (supervised only)"; ObjectID = "Lc2-ax-anS"; */
+"Lc2-ax-anS.title" = "Consenti installazioni app tramite App Store (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow use of News (supervised only)"; ObjectID = "lPc-wI-edp"; */
+"lPc-wI-edp.title" = "Consenti utilizzo di News (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow AirPlay and View Screen by Classroom"; ObjectID = "Lwc-eb-eCs"; */
+"Lwc-eb-eCs.title" = "Consenti AirPlay e visualizzazione schermo da parte di Classroom";
+
+/* Class = "NSMenuItem"; title = "France"; ObjectID = "LzS-ZU-HaA"; */
+"LzS-ZU-HaA.title" = "Francia";
+
+/* Class = "NSButtonCell"; title = "Allow auto correction (supervised only)"; ObjectID = "MaY-dz-I4v"; */
+"MaY-dz-I4v.title" = "Consenti correzione automatica (solo supervisionati)";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "mJs-ff-dPg"; */
+"mJs-ff-dPg.title" = "Sempre";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Keychain"; ObjectID = "MnI-Vu-kXd"; */
+"MnI-Vu-kXd.title" = "Consenti portachiavi iCloud";
+
+/* Class = "NSButtonCell"; title = "Allow use of Game Center (supervised only)"; ObjectID = "mOQ-gG-834"; */
+"mOQ-gG-834.title" = "Consenti utilizzo di Game Center (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to perform AirPlay and View Screen without prompting (supervised only)"; ObjectID = "N9X-zG-Ux4"; */
+"N9X-zG-Ux4.title" = "Consenti a Classroom di usare AirPlay e la visualizzazione dello schermo senza chiedere (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Wallpaper (supervised only)"; ObjectID = "nt5-Dd-9PT"; */
+"nt5-Dd-9PT.title" = "Consenti modifica sfondo (solo supervisionati)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Restrictions payload"; ObjectID = "o5s-UI-ygh"; */
+"o5s-UI-ygh.ibShadowedToolTip" = "Rimuovi payload restrizioni";
+
+/* Class = "NSButtonCell"; title = "Allow Touch ID / Face ID to unlock device"; ObjectID = "O8F-NJ-2z7"; */
+"O8F-NJ-2z7.title" = "Consenti lo sblocco del dispositivo con Touch ID/Face ID";
+
+/* Class = "NSButtonCell"; title = "Allow Radio (supervised only)"; ObjectID = "Okg-vm-QPh"; */
+"Okg-vm-QPh.title" = "Consenti Radio (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud documents & data"; ObjectID = "oKy-td-LGy"; */
+"oKy-td-LGy.title" = "Consenti documenti e dati di iCloud";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "onz-Bf-5Iv"; */
+"onz-Bf-5Iv.title" = "Mai";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[app bundle identifier]"; ObjectID = "Oyi-6U-vIi"; */
+"Oyi-6U-vIi.ibShadowedIsNilPlaceholder" = "[identificatore pacchetto app]";
+
+/* Class = "NSButtonCell"; title = "Allow use of Podcasts (supervised only)"; ObjectID = "Ozd-jU-Kbj"; */
+"Ozd-jU-Kbj.title" = "Consenti utilizzo di Podcast (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow adding Game Center friends"; ObjectID = "P1m-cs-0JM"; */
+"P1m-cs-0JM.title" = "Consenti aggiunta amici Game Center";
+
+/* Class = "NSButtonCell"; title = "Allow Siri Suggestions"; ObjectID = "P8b-S8-S2K"; */
+"P8b-S8-S2K.title" = "Consenti suggerimenti di Siri";
+
+/* Class = "NSButtonCell"; title = "Allow modifying device name (supervised only)"; ObjectID = "q82-0Z-SL5"; */
+"q82-0Z-SL5.title" = "Consenti modifica nome dispositivo (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Require iTunes Store password for all purchases"; ObjectID = "QmL-p3-AuT"; */
+"QmL-p3-AuT.title" = "Richiedi la password di iTunes Store per tutti gli acquisti";
+
+/* Class = "NSTextFieldCell"; title = "Movies:"; ObjectID = "r8y-MF-Al8"; */
+"r8y-MF-Al8.title" = "Film:";
+
+/* Class = "NSButtonCell"; title = "Allow Siri while device is locked"; ObjectID = "rEm-w3-fK4"; */
+"rEm-w3-fK4.title" = "Consenti Siri mentre il dispositivo è bloccato";
+
+/* Class = "NSButtonCell"; title = "Block pop-ups"; ObjectID = "RYU-j0-AnO"; */
+"RYU-j0-AnO.title" = "Blocca pop-up";
+
+/* Class = "NSButtonCell"; title = "Show Notification Center in Lock screen"; ObjectID = "s2U-AI-aeF"; */
+"s2U-AI-aeF.title" = "Mostra Centro Notifiche in blocco schermo";
+
+/* Class = "NSButtonCell"; title = "Allow removing apps (supervised only)"; ObjectID = "S3b-0B-Kcb"; */
+"S3b-0B-Kcb.title" = "Consenti rimozione app (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Enable AutoFill"; ObjectID = "Szq-xc-NgQ"; */
+"Szq-xc-NgQ.title" = "Abilita riempimento automatico";
+
+/* Class = "NSButtonCell"; title = "Allow Siri"; ObjectID = "TdO-92-QxM"; */
+"TdO-92-QxM.title" = "Consenti Siri";
+
+/* Class = "NSTextFieldCell"; title = "days (supervised only)"; ObjectID = "Tfa-6p-nX6"; */
+"Tfa-6p-nX6.title" = "giorni (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow Erase All Content and Settings (supervised only)"; ObjectID = "TgG-ZN-qc3"; */
+"TgG-ZN-qc3.title" = "Consenti inizializzazione di tutti i contenuti e delle impostazioni\n(solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Touch ID fingerprints / Face ID faces (supervised only)"; ObjectID = "TUM-Lo-RlT"; */
+"TUM-Lo-RlT.title" = "Consenti modifica impronte Touch ID/volti Face ID (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Require teacher permission to leave Classroom unmanaged classes (supervised only)"; ObjectID = "tvf-FA-dMF"; */
+"tvf-FA-dMF.title" = "Richiedi il permesso del docente quando l'alunno vuole abbandonare una classe non gestita (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow documents from managed sources in unmanaged destinations"; ObjectID = "TXi-lj-fkV"; */
+"TXi-lj-fkV.title" = "Consenti documenti da sorgenti gestite in destinazioni non gestite";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "u5G-Ob-dEJ"; */
+"u5G-Ob-dEJ.title" = "App di esempio";
+
+/* Class = "NSButtonCell"; title = "Allow notes and highlights sync for enterprise books"; ObjectID = "vCI-GN-sjx"; */
+"vCI-GN-sjx.title" = "Consenti sincronizzazione di note ed evidenziazioni dei libri\naziendali";
+
+/* Class = "NSButtonCell"; title = "Force Apple Watch wrist detection"; ObjectID = "vH2-UC-dXV"; */
+"vH2-UC-dXV.title" = "Forza rilevamento polso Apple Watch";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud backup"; ObjectID = "voz-XM-2Zg"; */
+"voz-XM-2Zg.title" = "Consenti backup iCloud";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with non-Configurator hosts (supervised only)"; ObjectID = "VWA-9U-8IK"; */
+"VWA-9U-8IK.title" = "Consenti abbinamento con host non di Configurator (solo
+supervisionati)";
+
+/* Class = "NSMenuItem"; title = "Germany"; ObjectID = "WBd-Cy-qrD"; */
+"WBd-Cy-qrD.title" = "Germania";
+
+/* Class = "NSButtonCell"; title = "Allow incoming AirPlay requests (tvOS only)"; ObjectID = "Wnw-qO-PzC"; */
+"Wnw-qO-PzC.title" = "Consenti richieste AirPlay in entrata (solo tvOS)";
+
+/* Class = "NSMenuItem"; title = "Allow all apps"; ObjectID = "Wqr-XV-m0E"; */
+"Wqr-XV-m0E.title" = "Consenti tutte le app";
+
+/* Class = "NSButtonCell"; title = "Allow My Photo Stream (disallowing can cause data loss)"; ObjectID = "Wwu-cp-A9R"; */
+"Wwu-cp-A9R.title" = "Consenti “Il mio streaming foto” (la disabilitazione può causare la perdita di dati)";
+
+/* Class = "NSMenuItem"; title = "New Zealand"; ObjectID = "WXA-x4-Sg2"; */
+"WXA-x4-Sg2.title" = "Nuova Zelanda";
+
+/* Class = "NSButtonCell"; title = "Allow users to accept untrusted TLS certificates"; ObjectID = "Xc4-WH-wlp"; */
+"Xc4-WH-wlp.title" = "Consenti agli utenti di accettare i certificati TLS non attendibili";
+
+/* Class = "NSMenuItem"; title = "United States"; ObjectID = "xHL-0R-cuV"; */
+"xHL-0R-cuV.title" = "Stati Uniti";
+
+/* Class = "NSButtonCell"; title = "Allow sending diagnostic and usage data to Apple"; ObjectID = "xHT-z2-ce7"; */
+"xHT-z2-ce7.title" = "Consenti invio dati di diagnosi e utilizzo a Apple";
+
+/* Class = "NSButtonCell"; title = "Allow automatic updates to certificate trust settings"; ObjectID = "XVo-8o-bbO"; */
+"XVo-8o-bbO.title" = "Consenti aggiornamenti automatici delle impostazioni\ndi attendibilità dei certificati";
+
+/* Class = "NSButtonCell"; title = "Allow use of camera"; ObjectID = "Y4L-jD-IRx"; */
+"Y4L-jD-IRx.title" = "Consenti uso fotocamera";
+
+/* Class = "NSMenuItem"; title = "Canada"; ObjectID = "Yep-uV-EyS"; */
+"Yep-uV-EyS.title" = "Canada";
+
+/* Class = "NSButtonCell"; title = "Allow AirDrop (supervised only)"; ObjectID = "yNA-Sf-jSK"; */
+"yNA-Sf-jSK.title" = "Consenti AirDrop (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow screenshots and screen recording"; ObjectID = "YRO-iy-0qu"; */
+"YRO-iy-0qu.title" = "Consenti istantanee e registrazione schermo";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YuF-w4-7dI"; */
+"YuF-w4-7dI.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow modifying notification settings (supervised only)"; ObjectID = "YvP-g2-uSW"; */
+"YvP-g2-uSW.title" = "Consenti la modifica delle impostazioni relative alle notifiche (solo supervisionati)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YWw-SQ-hoJ"; */
+"YWw-SQ-hoJ.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Apple Watch (supervised only)"; ObjectID = "Z9Z-KB-npQ"; */
+"Z9Z-KB-npQ.title" = "Consenti abbinamento con Apple Watch (solo supervisionati)";
+
+/* Class = "NSButtonCell"; title = "Allow iMessage (supervised only)"; ObjectID = "Ze7-tf-9mq"; */
+"Ze7-tf-9mq.title" = "Consenti iMessage (solo supervisionati)";
+
+/* Class = "NSTextFieldCell"; title = "Allowed content ratings"; ObjectID = "zfH-dV-32a"; */
+"zfH-dV-32a.title" = "Classifiche di contenuti consentite";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "ZNS-5y-Oes"; */
+"ZNS-5y-Oes.title" = "30";
+
+/* Class = "NSButtonCell"; title = "Allow modifying passcode (supervised only)"; ObjectID = "zTh-3f-4PF"; */
+"zTh-3f-4PF.title" = "Consenti modifica codice (solo supervisionati)";
+

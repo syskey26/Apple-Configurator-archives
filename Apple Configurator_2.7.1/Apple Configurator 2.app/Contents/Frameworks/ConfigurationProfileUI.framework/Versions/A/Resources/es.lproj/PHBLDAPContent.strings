@@ -1,0 +1,90 @@
+/* Class = "NSTextFieldCell"; title = "Account Password"; ObjectID = "4iF-4i-Iz7"; */
+"4iF-4i-Iz7.title" = "Contraseña de la cuenta";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4NN-QS-Q3L"; */
+"4NN-QS-Q3L.title" = "OtherViews";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "4tY-pL-w7k"; */
+"4tY-pL-w7k.ibExternalAccessibilityDescription" = "Nombre de la cuenta:";
+
+/* Class = "NSTextFieldCell"; title = "Search Settings"; ObjectID = "8OT-2d-xVF"; */
+"8OT-2d-xVF.title" = "Ajustes de búsqueda";
+
+/* Class = "NSTableColumn"; headerCell.title = "Description"; ObjectID = "79m-1g-EYj"; */
+"79m-1g-EYj.headerCell.title" = "Descripción";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Username:"; ObjectID = "cDz-9H-k7R"; */
+"cDz-9H-k7R.ibExternalAccessibilityDescription" = "Nombre de usuario de la cuenta:";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the account (e.g. \"Company LDAP Account\")"; ObjectID = "dN2-V4-8WX"; */
+"dN2-V4-8WX.title" = "El nombre visible de la cuenta (p. ej. “Cuenta LDAP de la empresa”)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "fdd-6F-kTo"; */
+"fdd-6F-kTo.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSTextFieldCell"; title = "Account User Name"; ObjectID = "Fjd-KA-isU"; */
+"Fjd-KA-isU.title" = "Nombre de usuario de la cuenta";
+
+/* Class = "NSTextFieldCell"; title = "The user name for this LDAP account"; ObjectID = "g2c-r9-a5J"; */
+"g2c-r9-a5J.title" = "El nombre de usuario de esta cuenta LDAP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "g6i-aj-idX"; */
+"g6i-aj-idX.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "G08-Sy-Omk"; */
+"G08-Sy-Omk.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gmv-GD-EGS"; */
+"gmv-GD-EGS.title" = "Text Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "H0k-to-bBn"; */
+"H0k-to-bBn.ibShadowedIsNilPlaceholder" = "[obligatorio]";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove LDAP payload"; ObjectID = "HH2-LU-W9Z"; */
+"HH2-LU-W9Z.ibShadowedToolTip" = "Eliminar carga LDAP";
+
+/* Class = "NSTextFieldCell"; title = "The password for this LDAP account"; ObjectID = "J60-Tr-q0z"; */
+"J60-Tr-q0z.title" = "La contraseña de esta cuenta LDAP";
+
+/* Class = "NSTextFieldCell"; title = "Search settings for this LDAP server"; ObjectID = "k0H-KM-JDk"; */
+"k0H-KM-JDk.title" = "Ajustes de búsqueda para este servidor LDAP";
+
+/* Class = "NSTableColumn"; headerCell.title = "Search Base"; ObjectID = "KDH-WI-fne"; */
+"KDH-WI-fne.headerCell.title" = "Base de búsqueda";
+
+/* Class = "NSTextFieldCell"; title = "The LDAP host name or IP address"; ObjectID = "KuX-nC-6YJ"; */
+"KuX-nC-6YJ.title" = "El nombre de host LDAP o la dirección IP";
+
+/* Class = "NSTextFieldCell"; title = "Account Host Name"; ObjectID = "lom-QW-1gJ"; */
+"lom-QW-1gJ.title" = "Nombre de host de la cuenta";
+
+/* Class = "NSMenuItem"; title = "One Level"; ObjectID = "M5r-kQ-DD3"; */
+"M5r-kQ-DD3.title" = "Un nivel";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "m7T-9a-8Yo"; */
+"m7T-9a-8Yo.title" = "Usar SSL";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "mYf-4E-i0b"; */
+"mYf-4E-i0b.title" = "Descripción de la cuenta";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Account Password:"; ObjectID = "nfl-Jk-Wc3"; */
+"nfl-Jk-Wc3.ibExternalAccessibilityDescription" = "Contraseña de la cuenta:";
+
+/* Class = "NSMenuItem"; title = "Base"; ObjectID = "OeJ-L4-2Js"; */
+"OeJ-L4-2Js.title" = "Base";
+
+/* Class = "NSTableColumn"; headerCell.title = "Scope"; ObjectID = "PLJ-5P-Eyk"; */
+"PLJ-5P-Eyk.headerCell.title" = "Ámbito";
+
+/* Class = "NSMenuItem"; title = "Subtree"; ObjectID = "tsC-Dg-5rt"; */
+"tsC-Dg-5rt.title" = "Subdirectorio";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add LDAP payload"; ObjectID = "UOf-vq-jGm"; */
+"UOf-vq-jGm.ibShadowedToolTip" = "Añadir carga LDAP";
+
+/* Class = "NSTextFieldCell"; title = "LDAP"; ObjectID = "yh5-eD-0OF"; */
+"yh5-eD-0OF.title" = "LDAP";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YkW-b8-mRh"; */
+"YkW-b8-mRh.title" = "Text Cell";
+

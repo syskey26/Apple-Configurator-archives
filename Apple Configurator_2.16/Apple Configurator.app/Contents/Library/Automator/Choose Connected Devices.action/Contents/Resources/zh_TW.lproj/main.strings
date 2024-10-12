@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "This action displays a list of devices connected to this computer and allows the user to choose from them."; ObjectID = "1Mi-pB-9eR"; */
+"1Mi-pB-9eR.title" = "此動作會顯示已連接此電腦的裝置列表，並允許使用者從中選擇。";
+
+/* Class = "NSMenuItem"; title = "Device Type"; ObjectID = "d97-Wa-bgd"; */
+"d97-Wa-bgd.title" = "裝置類型";
+
+/* Class = "NSButtonCell"; title = "Device Serial Number"; ObjectID = "ihr-Cf-nmE"; */
+"ihr-Cf-nmE.title" = "裝置序號";
+
+/* Class = "NSTextFieldCell"; title = "+  Device Name  +"; ObjectID = "Kci-QG-DwY"; */
+"Kci-QG-DwY.title" = "+  裝置名稱  +";
+
+/* Class = "NSMenuItem"; title = "Device Class"; ObjectID = "ugR-wI-CkB"; */
+"ugR-wI-CkB.title" = "裝置類別";
+
+/* Class = "NSTextFieldCell"; title = "+  Device ECID"; ObjectID = "Uon-Au-3DR"; */
+"Uon-Au-3DR.title" = "+ 裝置 ECID";
+
+/* Class = "NSTextFieldCell"; title = "Example:"; ObjectID = "XbP-Es-QOo"; */
+"XbP-Es-QOo.title" = "範例：";
+
+/* Class = "NSTextFieldCell"; title = "Select the data that should be displayed for each device:"; ObjectID = "zo8-3V-5Nj"; */
+"zo8-3V-5Nj.title" = "選擇每一部裝置應該顯示的資料：";
+

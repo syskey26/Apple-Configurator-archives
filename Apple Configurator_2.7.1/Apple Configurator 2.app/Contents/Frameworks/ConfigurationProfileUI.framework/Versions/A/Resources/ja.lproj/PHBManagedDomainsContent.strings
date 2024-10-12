@@ -1,0 +1,42 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1xM-Sn-arp"; */
+"1xM-Sn-arp.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "5j5-TA-Nmw"; */
+"5j5-TA-Nmw.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Safari Password Autofill Domains (supervised only)"; ObjectID = "17h-ko-Njk"; */
+"17h-ko-Njk.title" = "Safariでパスワードを自動入力するドメイン（監視対象のみ）";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "191-hK-98T"; */
+"191-hK-98T.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Unmarked Email Domains"; ObjectID = "a1t-93-AN4"; */
+"a1t-93-AN4.title" = "マークされていないメールドメイン";
+
+/* Class = "NSTextFieldCell"; title = "Email addresses not matching any of these domains will be marked in Mail"; ObjectID = "cE2-V3-ydB"; */
+"cE2-V3-ydB.title" = "これらのドメインと一致しないメールアドレスは“メール”でマークされます";
+
+/* Class = "NSTextFieldCell"; title = "URL patterns of domains from which documents will be considered managed"; ObjectID = "cSG-Gm-bQC"; */
+"cSG-Gm-bQC.title" = "ドメインの URL パターンがこれらと一致する書類は管理対象と見なされます";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "fmU-42-C6x"; */
+"fmU-42-C6x.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "h22-ES-mLw"; */
+"h22-ES-mLw.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Domains payload"; ObjectID = "nDO-9G-9S7"; */
+"nDO-9G-9S7.ibShadowedToolTip" = "ドメインペイロードを削除します";
+
+/* Class = "NSTextFieldCell"; title = "URL patterns of websites for which passwords can be saved"; ObjectID = "OIx-BA-9XN"; */
+"OIx-BA-9XN.title" = "パスワードを保存できるWebサイトのURLパターン";
+
+/* Class = "NSTextFieldCell"; title = "Managed Safari Web Domains"; ObjectID = "Qqv-4p-oBV"; */
+"Qqv-4p-oBV.title" = "管理対象の Safari Web ドメイン";
+
+/* Class = "NSTextFieldCell"; title = "Domains"; ObjectID = "Tqg-oa-Zrt"; */
+"Tqg-oa-Zrt.title" = "ドメイン";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xcA-hx-lab"; */
+"xcA-hx-lab.title" = "Text Cell";
+

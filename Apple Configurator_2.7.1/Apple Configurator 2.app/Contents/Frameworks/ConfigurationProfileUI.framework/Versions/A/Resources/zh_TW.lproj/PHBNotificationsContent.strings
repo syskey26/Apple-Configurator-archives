@@ -1,0 +1,81 @@
+/* Class = "NSTextFieldCell"; title = "Settings:"; ObjectID = "3gO-AL-jRa"; */
+"3gO-AL-jRa.title" = "設定：";
+
+/* Class = "NSButtonCell"; title = "Sounds"; ObjectID = "04f-mz-3ei"; */
+"04f-mz-3ei.title" = "提示聲";
+
+/* Class = "NSButtonCell"; title = "Badge App Icon"; ObjectID = "4WZ-q6-ycL"; */
+"4WZ-q6-ycL.title" = "App 包含標記圖像";
+
+/* Class = "NSButtonCell"; title = "Show on Lock Screen"; ObjectID = "4xJ-Vs-jY8"; */
+"4xJ-Vs-jY8.title" = "顯示於鎖定畫面";
+
+/* Class = "NSMenuItem"; title = "Multiple Styles"; ObjectID = "6nd-ss-mJQ"; */
+"6nd-ss-mJQ.title" = "多種樣式";
+
+/* Class = "NSTextFieldCell"; title = "<DNL App Name>"; ObjectID = "7XJ-eh-WL5"; */
+"7XJ-eh-WL5.title" = "<DNL App Name>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Multiple Apps"; ObjectID = "19r-6Y-pFE"; */
+"19r-6Y-pFE.ibShadowedMultipleValuesPlaceholder" = "多個 App";
+
+/* Class = "NSTextFieldCell"; title = "App Name:"; ObjectID = "a5L-Ia-StL"; */
+"a5L-Ia-StL.title" = "App 名稱：";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "AF2-Xl-RfQ"; */
+"AF2-Xl-RfQ.title" = "範例 App";
+
+/* Class = "NSTextFieldCell"; title = "<DNL body text>"; ObjectID = "B6s-x8-oLL"; */
+"B6s-x8-oLL.title" = "<DNL body text>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "db2-nl-0Aj"; */
+"db2-nl-0Aj.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Unlocked Alert Style:"; ObjectID = "g2J-Bl-4eU"; */
+"g2J-Bl-4eU.title" = "已解鎖的提示樣式：";
+
+/* Class = "NSMenuItem"; title = "Banners"; ObjectID = "hcB-BS-PmB"; */
+"hcB-BS-PmB.title" = "橫幅";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IBm-2e-PdY"; */
+"IBm-2e-PdY.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "IXZ-LA-rob"; */
+"IXZ-LA-rob.title" = "無";
+
+/* Class = "NSTextFieldCell"; title = "Configure notification settings for each app"; ObjectID = "JUm-Xb-hqQ"; */
+"JUm-Xb-hqQ.title" = "配置每一個 App 的通知設定";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "kqa-kb-mcd"; */
+"kqa-kb-mcd.title" = "儲存";
+
+/* Class = "NSMenuItem"; title = "Alerts"; ObjectID = "OgT-HX-7lA"; */
+"OgT-HX-7lA.title" = "提示";
+
+/* Class = "NSTextFieldCell"; title = "Notification Settings"; ObjectID = "pHu-KL-1X4"; */
+"pHu-KL-1X4.title" = "通知設定";
+
+/* Class = "NSTextFieldCell"; title = "<DNL Notification Settings for “X”>"; ObjectID = "PWb-dI-dpj"; */
+"PWb-dI-dpj.title" = "<DNL Notification Settings for “X”>";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Notifications payload"; ObjectID = "t1F-Ng-iwa"; */
+"t1F-Ng-iwa.ibShadowedToolTip" = "移除「通知」承載資料";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "UQb-wM-3u2"; */
+"UQb-wM-3u2.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Show in Notification Center"; ObjectID = "uQX-td-mfo"; */
+"uQX-td-mfo.title" = "顯示於通知中心";
+
+/* Class = "NSButtonCell"; title = "Allow Notifications"; ObjectID = "XcA-hz-OiS"; */
+"XcA-hz-OiS.title" = "允許通知";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "yFx-EM-VmV"; */
+"yFx-EM-VmV.title" = "（僅限監管）";
+
+/* Class = "NSTextFieldCell"; title = "Notifications"; ObjectID = "YQs-dZ-qYt"; */
+"YQs-dZ-qYt.title" = "通知";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "zqr-Om-gKg"; */
+"zqr-Om-gKg.headerCell.title" = "App 名稱";
+

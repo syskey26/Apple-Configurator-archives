@@ -1,0 +1,63 @@
+/* Class = "NSTableColumn"; headerCell.title = "Seller"; ObjectID = "0nZ-wI-tkZ"; */
+"0nZ-wI-tkZ.headerCell.title" = "Vendeur";
+
+/* Class = "NSTableColumn"; headerCell.title = "Genre"; ObjectID = "6Gz-EW-nUS"; */
+"6Gz-EW-nUS.headerCell.title" = "Genre";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "95D-BB-BYW"; */
+"95D-BB-BYW.headerCell.title" = "Nom";
+
+/* Class = "NSTableColumn"; headerCell.title = "Purchase Date"; ObjectID = "612-sF-SbQ"; */
+"612-sF-SbQ.headerCell.title" = "Date d’achat";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "bZK-2t-rGX"; */
+"bZK-2t-rGX.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "c9v-LR-Vys"; */
+"c9v-LR-Vys.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "haq-hr-XtP"; */
+"haq-hr-XtP.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hyy-AW-fxZ"; */
+"hyy-AW-fxZ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IL1-le-sxk"; */
+"IL1-le-sxk.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IVe-82-FC6"; */
+"IVe-82-FC6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "JXe-Op-VXk"; */
+"JXe-Op-VXk.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kPU-sP-gGx"; */
+"kPU-sP-gGx.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oxG-FW-wVj"; */
+"oxG-FW-wVj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Release Date"; ObjectID = "RDL-V4-5WH"; */
+"RDL-V4-5WH.headerCell.title" = "Date de publication";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Rjs-pv-8Ll"; */
+"Rjs-pv-8Ll.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RXU-oQ-X1u"; */
+"RXU-oQ-X1u.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Tqa-8Q-m4C"; */
+"Tqa-8Q-m4C.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "VSO-tB-TSa"; */
+"VSO-tB-TSa.headerCell.title" = "Version";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "xok-B5-v1t"; */
+"xok-B5-v1t.headerCell.title" = "Type";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ymc-kN-hia"; */
+"ymc-kN-hia.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ymv-LU-STp"; */
+"Ymv-LU-STp.title" = "Text Cell";
+

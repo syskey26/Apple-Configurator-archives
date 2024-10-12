@@ -1,0 +1,18 @@
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "76E-qe-4dg"; */
+"76E-qe-4dg.title" = "Sichern";
+
+/* Class = "NSButtonCell"; title = "Reload"; ObjectID = "eT7-Hl-1Rc"; */
+"eT7-Hl-1Rc.title" = "Neu laden";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "l0W-pd-YI3"; */
+"l0W-pd-YI3.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "Wmv-mh-zA3"; */
+"Wmv-mh-zA3.title" = "Löschen";
+
+/* Class = "NSButtonCell"; title = "Mark"; ObjectID = "X93-Lh-2iR"; */
+"X93-Lh-2iR.title" = "Markieren";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "YEz-Xp-hSe"; */
+"YEz-Xp-hSe.title" = "Table View Cell";
+

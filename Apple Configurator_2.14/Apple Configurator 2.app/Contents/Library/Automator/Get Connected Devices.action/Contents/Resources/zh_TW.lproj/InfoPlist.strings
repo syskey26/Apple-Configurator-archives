@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "此動作不採用輸入";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "僅針對特定類型的裝置傳回結果的選項。";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作會傳回 ECID 識別碼列表至此電腦已連接的 iOS 裝置。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "取得連線的裝置";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. 保留一切權利。";
+

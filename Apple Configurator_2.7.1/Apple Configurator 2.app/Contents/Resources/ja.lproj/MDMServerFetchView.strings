@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Fetching trust anchor certificates from MDM server…"; ObjectID = "8Xo-av-4KR"; */
+"8Xo-av-4KR.title" = "MDMサーバからトラストアンカー証明書を取得中…";
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify the server's enrollment URL."; ObjectID = "gxl-MG-e8Z"; */
+"gxl-MG-e8Z.title" = "サーバの登録 URL を確認できません。";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "sQ5-8L-Gyq"; */
+"sQ5-8L-Gyq.title" = "複数行のラベル";
+

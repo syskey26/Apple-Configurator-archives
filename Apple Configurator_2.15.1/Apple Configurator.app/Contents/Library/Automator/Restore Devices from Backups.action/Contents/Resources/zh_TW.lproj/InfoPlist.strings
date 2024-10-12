@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDNote" = "只有在備份已使用密碼加密或目標裝置為備份的原始來源時，才能回復某些私密資料（如密碼）。";
+
+/* (No Comment) */
+"AMDOptions" = "可在動作顯示方式中輸入單一共用密碼，該密碼將會用來取用所有加密的裝置備份。";
+
+/* (No Comment) */
+"AMDRequires" = "裝置必須先完整清除，才能將備份回復到裝置中。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作會將備份回復至指定的裝置。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "從備份回復裝置";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "備份";
+
+/* AMKeyword localized strings */
+"configurator" = "configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "行動電話";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2022 Apple Inc. 保留一切權利。";
+

@@ -1,0 +1,15 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hpG-s9-hIn"; */
+"hpG-s9-hIn.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Click the add (+) button to append a token. Each device will be named identically, numbered sequentially, and the tokens will be replaced with unique variables."; ObjectID = "lNd-7T-HLl"; */
+"lNd-7T-HLl.title" = "点按添加按钮 (+) 来追加令牌。每个设备将以相同名称命名、按顺序编号并使用唯一的变量替换令牌。";
+
+/* Class = "NSTextFieldCell"; title = "Rename device"; ObjectID = "T4o-TI-1ip"; */
+"T4o-TI-1ip.title" = "给设备重新命名";
+
+/* Class = "NSButtonCell"; title = "Rename"; ObjectID = "u0i-Uk-3Gn"; */
+"u0i-Uk-3Gn.title" = "重新命名";
+

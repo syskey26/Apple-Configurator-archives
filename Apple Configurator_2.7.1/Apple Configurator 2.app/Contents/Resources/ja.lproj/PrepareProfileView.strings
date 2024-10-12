@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "aE8-vF-dts"; */
+"aE8-vF-dts.title" = "選択...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Network Profile"; ObjectID = "Dit-aQ-ckj"; */
+"Dit-aQ-ckj.ibExternalAccessibilityDescription" = "ネットワークプロファイルを削除";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the selected network profile."; ObjectID = "Dit-aQ-ckj"; */
+"Dit-aQ-ckj.ibShadowedToolTip" = "選択したネットワークプロファイルを削除します。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "None"; ObjectID = "ePs-Is-0Qt"; */
+"ePs-Is-0Qt.placeholderString" = "なし";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "f2B-hE-jSs"; */
+"f2B-hE-jSs.ibShadowedIsNilPlaceholder" = "なし";
+
+/* Class = "NSTextFieldCell"; title = "The device will communicate with the Device Enrollment Program and the MDM server to complete enrollment. If needed, choose a configuration profile containing your Wi-Fi network settings. "; ObjectID = "HfJ-8R-qsT"; */
+"HfJ-8R-qsT.title" = "デバイスは Device Enrollment Program および MDM サーバと通信して登録を完了します。必要に応じて、お使いの Wi-Fi ネットワーク設定を含む構成プロファイルを選択してください。";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "mYl-Bp-ATg"; */
+"mYl-Bp-ATg.title" = "プロファイル：";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "rgc-GB-MZO"; */
+"rgc-GB-MZO.title" = "<<DNL>>";
+

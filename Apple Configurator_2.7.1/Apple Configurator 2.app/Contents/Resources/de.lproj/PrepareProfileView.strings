@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "aE8-vF-dts"; */
+"aE8-vF-dts.title" = "Auswählen …";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Network Profile"; ObjectID = "Dit-aQ-ckj"; */
+"Dit-aQ-ckj.ibExternalAccessibilityDescription" = "Netzwerkprofil entfernen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the selected network profile."; ObjectID = "Dit-aQ-ckj"; */
+"Dit-aQ-ckj.ibShadowedToolTip" = "Entfernt das ausgewählte Netzwerkprofil.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "None"; ObjectID = "ePs-Is-0Qt"; */
+"ePs-Is-0Qt.placeholderString" = "Ohne";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "f2B-hE-jSs"; */
+"f2B-hE-jSs.ibShadowedIsNilPlaceholder" = "Ohne";
+
+/* Class = "NSTextFieldCell"; title = "The device will communicate with the Device Enrollment Program and the MDM server to complete enrollment. If needed, choose a configuration profile containing your Wi-Fi network settings. "; ObjectID = "HfJ-8R-qsT"; */
+"HfJ-8R-qsT.title" = "Das Gerät kommuniziert mit dem Programm für die Geräteregistrierung und dem MDM-Server, um die Registrierung abzuschließen. Wähle bei Bedarf ein Konfigurationsprofil, dass deine WLAN-Einstellungen enthält. ";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "mYl-Bp-ATg"; */
+"mYl-Bp-ATg.title" = "Profil:";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "rgc-GB-MZO"; */
+"rgc-GB-MZO.title" = "<<DNL>>";
+

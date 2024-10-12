@@ -1,0 +1,60 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "3gS-dq-X59"; */
+"3gS-dq-X59.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Removable"; ObjectID = "14I-DS-OoJ"; */
+"14I-DS-OoJ.headerCell.title" = "Extraíble";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "52y-rW-4mM"; */
+"52y-rW-4mM.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "a1q-os-wk0"; */
+"a1q-os-wk0.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aSe-Yz-fXT"; */
+"aSe-Yz-fXT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "btz-Mk-GiX"; */
+"btz-Mk-GiX.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "cxv-qP-d1u"; */
+"cxv-qP-d1u.headerCell.title" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dz0-l3-hCB"; */
+"Dz0-l3-hCB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gkz-yy-Zpz"; */
+"gkz-yy-Zpz.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "UUID"; ObjectID = "GN5-sW-7M2"; */
+"GN5-sW-7M2.headerCell.title" = "UUID";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "HxY-5c-xVo"; */
+"HxY-5c-xVo.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Identifier"; ObjectID = "Jgm-tW-OWk"; */
+"Jgm-tW-OWk.headerCell.title" = "Identificador";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "maC-to-Kux"; */
+"maC-to-Kux.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mb7-BY-yRD"; */
+"mb7-BY-yRD.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Order"; ObjectID = "Ndo-fy-RlJ"; */
+"Ndo-fy-RlJ.headerCell.title" = "Orden";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "ttZ-eS-J8L"; */
+"ttZ-eS-J8L.headerCell.title" = "Versión";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uHQ-Rw-W4W"; */
+"uHQ-Rw-W4W.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ul5-EA-a8c"; */
+"Ul5-EA-a8c.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "xUF-a7-btl"; */
+"xUF-a7-btl.headerCell.title" = "Clase";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Zqe-zW-SdE"; */
+"Zqe-zW-SdE.title" = "Text Cell";
+

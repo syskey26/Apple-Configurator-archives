@@ -1,0 +1,24 @@
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_EXIST" = "預期的位置中沒有此憑證檔案：";
+
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_SET" = "未選擇憑證檔案。";
+
+/* DIALOG PROMPT */
+"CNFGACT-03-DIALOG_PROMPT" = "選擇要在裝置上安裝的描述檔：";
+
+/* INPUT ERRORS */
+"CNFGACT-03-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
+
+/* (No Comment) */
+"CNFGACT-03-NO_SELECTION_ERROR" = "未選擇描述檔檔案。";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_EXIST" = "預期的位置中沒有此專用密鑰檔案：";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_SET" = "未選擇專用密鑰檔案。";
+
+/* (No Comment) */
+"CNFGACT-03-PROFILE_FILE_NOT_EXIST" = "預期的位置中沒有此描述檔：";
+

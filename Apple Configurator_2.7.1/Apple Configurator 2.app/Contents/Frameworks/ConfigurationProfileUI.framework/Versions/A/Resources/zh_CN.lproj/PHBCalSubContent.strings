@@ -1,0 +1,60 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "2gQ-Ou-fBG"; */
+"2gQ-Ou-fBG.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Description:"; ObjectID = "5bq-2k-E2z"; */
+"5bq-2k-E2z.ibExternalAccessibilityDescription" = "描述：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "8Xf-Ga-kQ3"; */
+"8Xf-Ga-kQ3.ibShadowedIsNilPlaceholder" = "[必填]";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "27c-Mz-VoM"; */
+"27c-Mz-VoM.title" = "用户名";
+
+/* Class = "NSTextFieldCell"; title = "The user name for this subscription"; ObjectID = "82p-7Z-Our"; */
+"82p-7Z-Our.title" = "此订阅的用户名";
+
+/* Class = "NSTextFieldCell"; title = "The URL of the calendar file"; ObjectID = "ABN-2i-SkJ"; */
+"ABN-2i-SkJ.title" = "日历文件的 URL";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "AJh-pQ-vc9"; */
+"AJh-pQ-vc9.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Subscribed Calendar payload"; ObjectID = "bXC-ut-N11"; */
+"bXC-ut-N11.ibShadowedToolTip" = "添加“已订阅的日历”有效负载";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "h3A-gw-jJY"; */
+"h3A-gw-jJY.title" = "使用 SSL";
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "hI1-Yn-7Eq"; */
+"hI1-Yn-7Eq.title" = "描述";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "ihW-GT-Rsw"; */
+"ihW-GT-Rsw.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "JhY-Bn-LrN"; */
+"JhY-Bn-LrN.ibExternalAccessibilityDescription" = "密码：";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "Jmy-tR-Rlc"; */
+"Jmy-tR-Rlc.ibExternalAccessibilityDescription" = "用户名：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Subscribed Calendar payload"; ObjectID = "OXd-Xb-qqI"; */
+"OXd-Xb-qqI.ibShadowedToolTip" = "移除“已订阅的日历”有效负载";
+
+/* Class = "NSTextFieldCell"; title = "Subscribed Calendar"; ObjectID = "qWO-El-JA7"; */
+"qWO-El-JA7.title" = "已订阅的日历";
+
+/* Class = "NSTextFieldCell"; title = "URL"; ObjectID = "ROO-1S-5oG"; */
+"ROO-1S-5oG.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "The description of the calendar subscription"; ObjectID = "rxi-kC-uvG"; */
+"rxi-kC-uvG.title" = "日历订阅的描述";
+
+/* Class = "NSTextFieldCell"; title = "The password for this subscription"; ObjectID = "w7q-h4-e3C"; */
+"w7q-h4-e3C.title" = "此订阅的密码";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "URL:"; ObjectID = "xfP-y3-cn7"; */
+"xfP-y3-cn7.ibExternalAccessibilityDescription" = "URL：";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "ycu-TU-w3P"; */
+"ycu-TU-w3P.title" = "密码";
+

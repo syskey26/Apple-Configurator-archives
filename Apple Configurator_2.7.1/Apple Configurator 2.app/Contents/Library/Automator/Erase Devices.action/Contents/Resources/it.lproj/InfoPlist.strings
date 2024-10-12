@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "IMPORTANTE: l'utilizzo del certificato di supervisione e dei file con chiave privata non è richiesto per i dispositivi con iOS 9 o versione successiva.";
+
+/* (No Comment) */
+"AMDResult" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Questa azione cancellerà il contenuto e le impostazioni sui dispositivi i cui identificatori sono stati passati a questa azione come input.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Inizializza dispositivi";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Tutti i diritti riservati.";
+

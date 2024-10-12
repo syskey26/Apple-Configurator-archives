@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Restore from"; ObjectID = "1a1-Kv-ySm"; */
+"1a1-Kv-ySm.title" = "恢复来源";
+
+/* Class = "NSTextFieldCell"; title = "Target"; ObjectID = "1Bw-PZ-Ngq"; */
+"1Bw-PZ-Ngq.title" = "目标";
+
+/* Class = "NSTextFieldCell"; title = "Wallpaper"; ObjectID = "9Lh-qh-qdy"; */
+"9Lh-qh-qdy.title" = "墙纸";
+
+/* Class = "NSMenuItem"; title = "iPad, iPhone, and iPod touch"; ObjectID = "73n-Jz-00x"; */
+"73n-Jz-00x.title" = "iPad、iPhone 和 iPod touch";
+
+/* Class = "NSTextFieldCell"; title = "Storage"; ObjectID = "ebT-BL-rmc"; */
+"ebT-BL-rmc.title" = "储存空间";
+
+/* Class = "NSTextFieldCell"; title = "Tags"; ObjectID = "g5f-2w-0Vb"; */
+"g5f-2w-0Vb.title" = "标记";
+
+/* Class = "NSMenuItem"; title = "iPhone and iPod touch"; ObjectID = "g72-yv-iYn"; */
+"g72-yv-iYn.title" = "iPhone 和 iPod touch";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "N/A"; ObjectID = "hTa-uP-LOX"; */
+"hTa-uP-LOX.ibShadowedIsNilPlaceholder" = "不详";
+
+/* Class = "NSTextFieldCell"; title = "Perform prepare, restore, or update actions and they will appear here."; ObjectID = "ImX-69-uFh"; */
+"ImX-69-uFh.title" = "执行准备、恢复或更新操作后它们会出现在这里。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear Name"; ObjectID = "iXJ-Rg-4sQ"; */
+"iXJ-Rg-4sQ.ibExternalAccessibilityDescription" = "清除名称";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the Modify Device Name action from the blueprint."; ObjectID = "iXJ-Rg-4sQ"; */
+"iXJ-Rg-4sQ.ibShadowedToolTip" = "将“修改设备名称”操作从蓝图移除。";
+
+/* Class = "NSBox"; title = "Name Editing Box"; ObjectID = "jFJ-dR-cj5"; */
+"jFJ-dR-cj5.title" = "名称编辑框";
+
+/* Class = "NSTextFieldCell"; title = "Device Name"; ObjectID = "kCX-Mt-8oJ"; */
+"kCX-Mt-8oJ.title" = "设备名称";
+
+/* Class = "NSTextFieldCell"; title = "No Actions"; ObjectID = "KUM-YM-G5x"; */
+"KUM-YM-G5x.title" = "无操作";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear Wallpaper"; ObjectID = "ldT-sZ-lSx"; */
+"ldT-sZ-lSx.ibExternalAccessibilityDescription" = "清除墙纸";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the Modify Wallpaper action from the blueprint."; ObjectID = "ldT-sZ-lSx"; */
+"ldT-sZ-lSx.ibShadowedToolTip" = "将“修改墙纸”操作从蓝图移除。";
+
+/* Class = "NSTextFieldCell"; title = "Perform other device actions and they will appear here."; ObjectID = "NhD-6C-vNN"; */
+"NhD-6C-vNN.title" = "执行其他设备操作后它们会出现在这里。";
+
+/* Class = "NSTextFieldCell"; title = "No Actions"; ObjectID = "Nk8-jo-Ijy"; */
+"Nk8-jo-Ijy.title" = "无操作";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "N/A"; ObjectID = "Nmt-aG-3Je"; */
+"Nmt-aG-3Je.ibShadowedIsNilPlaceholder" = "不详";
+
+/* Class = "NSTextFieldCell"; title = "Home Screen"; ObjectID = "NnX-Qh-HuZ"; */
+"NnX-Qh-HuZ.title" = "主屏幕";
+
+/* Class = "NSBox"; title = "Image Box"; ObjectID = "oSK-7e-Izw"; */
+"oSK-7e-Izw.title" = "图像框";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear Tags"; ObjectID = "owY-sA-8rB"; */
+"owY-sA-8rB.ibExternalAccessibilityDescription" = "清除标记";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the Add Tags action from the blueprint."; ObjectID = "owY-sA-8rB"; */
+"owY-sA-8rB.ibShadowedToolTip" = "将“添加标记”操作从蓝图移除。";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "targets"; ObjectID = "PmW-LN-QEH"; */
+"PmW-LN-QEH.ibExternalAccessibilityDescription" = "目标";
+
+/* Class = "NSTextFieldCell"; title = "DNL Total"; ObjectID = "Rhf-JM-Ei9"; */
+"Rhf-JM-Ei9.title" = "DNL Total";
+
+/* Class = "NSMenuItem"; title = "Apple TV"; ObjectID = "Thm-JL-w09"; */
+"Thm-JL-w09.title" = "Apple TV";
+
+/* Class = "NSMenuItem"; title = "iPad"; ObjectID = "UiK-GB-wPy"; */
+"UiK-GB-wPy.title" = "iPad";
+
+/* Class = "NSTextFieldCell"; placeholderString = "DNL Device Name"; ObjectID = "VCF-gM-xDt"; */
+"VCF-gM-xDt.placeholderString" = "DNL Device Name";
+
+/* Class = "NSTextFieldCell"; title = "Lock Screen"; ObjectID = "xuM-XK-MaB"; */
+"xuM-XK-MaB.title" = "锁定屏幕";
+

@@ -1,0 +1,183 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "0Hv-au-1NO"; */
+"0Hv-au-1NO.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Filter Name"; ObjectID = "0ub-tI-iny"; */
+"0ub-tI-iny.title" = "Nom du filtre";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the app containing filter providers"; ObjectID = "1zH-90-NsP"; */
+"1zH-90-NsP.title" = "Identifiant de paquet de l’app contenant les fournisseurs de filtre";
+
+/* Class = "NSTextFieldCell"; title = "Password for authenticating the service"; ObjectID = "2nV-O5-VYa"; */
+"2nV-O5-VYa.title" = "Mot de passe d’authentification du service";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "3at-bt-nMY"; */
+"3at-bt-nMY.title" = "Nom d’utilisateur";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "4Q7-wS-sUm"; */
+"4Q7-wS-sUm.headerCell.title" = "URL";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Content Filter payload"; ObjectID = "5XQ-VA-FIj"; */
+"5XQ-VA-FIj.ibShadowedToolTip" = "Supprimer les données utiles du filtre de contenu";
+
+/* Class = "NSTextFieldCell"; title = "Service Address"; ObjectID = "9qy-73-tOo"; */
+"9qy-73-tOo.title" = "Adresse du service";
+
+/* Class = "NSButtonCell"; title = "Filter WebKit Traffic"; ObjectID = "AgY-C4-0Bu"; */
+"AgY-C4-0Bu.title" = "Filtrer le trafic WebKit";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "ahv-OB-lEF"; */
+"ahv-OB-lEF.title" = "<content here>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "AJH-eP-ncR"; */
+"AJH-eP-ncR.ibShadowedIsNilPlaceholder" = "Ajouter des certificats aux données utiles Certificats";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address or URL for the device"; ObjectID = "bdz-fE-KTL"; */
+"bdz-fE-KTL.title" = "Nom d’hôte, adresse IP ou URL de l’appareil";
+
+/* Class = "NSTextFieldCell"; title = "Content Filter"; ObjectID = "BgD-Ac-dss"; */
+"BgD-Ac-dss.title" = "Filtre de contenu";
+
+/* Class = "NSTextFieldCell"; title = "Additional URLs that will not be allowed"; ObjectID = "C1Q-o9-BZc"; */
+"C1Q-o9-BZc.title" = "URL supplémentaires qui ne seront pas accessibles";
+
+/* Class = "NSTextFieldCell"; title = "Custom Data"; ObjectID = "ciD-n0-eAj"; */
+"ciD-n0-eAj.title" = "Données personnalisées";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "CnD-19-coF"; */
+"CnD-19-coF.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSMenuItem"; title = "Plugin (Third Party App)"; ObjectID = "Cvn-4H-TH7"; */
+"Cvn-4H-TH7.title" = "Module (app tierce)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dLC-L1-GSh"; */
+"dLC-L1-GSh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Blacklisted URLs"; ObjectID = "e2v-dv-oua"; */
+"e2v-dv-oua.title" = "URL sur liste noire";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "E2w-8u-xH3"; */
+"E2w-8u-xH3.ibShadowedIsNilPlaceholder" = "Nouvelle entrée";
+
+/* Class = "NSTextFieldCell"; title = "Filter Type"; ObjectID = "eQV-4M-GYX"; */
+"eQV-4M-GYX.title" = "Type de filtre";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "g3W-hr-CBr"; */
+"g3W-hr-CBr.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "hHq-bp-tH7"; */
+"hHq-bp-tH7.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hlr-RC-w2B"; */
+"hlr-RC-w2B.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "idt-sk-YwH"; */
+"idt-sk-YwH.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JKe-uu-9TB"; */
+"JKe-uu-9TB.title" = "Text Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "kAI-CN-c7u"; */
+"kAI-CN-c7u.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "kcj-0Q-gvp"; */
+"kcj-0Q-gvp.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "Allowed URLs which will be shown as bookmarks"; ObjectID = "kjP-nT-iNa"; */
+"kjP-nT-iNa.title" = "URL autorisées, qui s’afficheront en tant que signets";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Lab-q2-kwT"; */
+"Lab-q2-kwT.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bookmark"; ObjectID = "mqo-Pe-SVA"; */
+"mqo-Pe-SVA.headerCell.title" = "Signet";
+
+/* Class = "NSTextFieldCell"; title = "User name for authenticating the service"; ObjectID = "mTp-8Z-M06"; */
+"mTp-8Z-M06.title" = "Nom d’utilisateur pour l’authentification du service";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Mtr-As-7PF"; */
+"Mtr-As-7PF.title" = "(sous supervision)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "N5e-xt-GaJ"; */
+"N5e-xt-GaJ.headerCell.title" = "Valeur";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NX1-9c-5zX"; */
+"NX1-9c-5zX.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Organization parameter for use by the filter provider"; ObjectID = "oeX-uw-B6U"; */
+"oeX-uw-B6U.title" = "Paramètre d’organisation à utiliser par le fournisseur de filtre";
+
+/* Class = "NSTextFieldCell"; title = "Specific URLs that will be allowed"; ObjectID = "Olw-LJ-aq2"; */
+"Olw-LJ-aq2.title" = "URL qui seront accessibles";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "OQT-NS-7mm"; */
+"OQT-NS-7mm.ibShadowedIsNilPlaceholder" = "Nouvelle entrée";
+
+/* Class = "NSDictionaryController"; Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Key"; ObjectID = "Q3T-eW-fv8"; */
+"Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Clé";
+
+/* Class = "NSDictionaryController"; Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1] = "Value"; ObjectID = "Q3T-eW-fv8"; */
+"Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "Valeur";
+
+/* Class = "NSTextFieldCell"; title = "Certificate"; ObjectID = "QlE-Re-aiD"; */
+"QlE-Re-aiD.title" = "Certificat";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "QSa-6V-iYc"; */
+"QSa-6V-iYc.headerCell.title" = "Nom";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "QVz-FC-ItS"; */
+"QVz-FC-ItS.ibShadowedIsNilPlaceholder" = "Nouvelle entrée";
+
+/* Class = "NSTextFieldCell"; title = "Specific Websites"; ObjectID = "rdL-eB-5vW"; */
+"rdL-eB-5vW.title" = "Certains sites web";
+
+/* Class = "NSButtonCell"; title = "Filter Socket Traffic"; ObjectID = "v6n-R7-1i8"; */
+"v6n-R7-1i8.title" = "Filtrer le trafic de socket";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "vL7-Oc-SQD"; */
+"vL7-Oc-SQD.ibShadowedIsNilPlaceholder" = "Nouvelle entrée";
+
+/* Class = "NSTextFieldCell"; title = "Certificate for authenticating to the service"; ObjectID = "vor-OP-m3h"; */
+"vor-OP-m3h.title" = "Certificat d’authentification auprès du service";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "W8L-5z-Pxe"; */
+"W8L-5z-Pxe.ibShadowedIsNilPlaceholder" = "Nouvelle entrée";
+
+/* Class = "NSTextFieldCell"; title = "Permitted URLs"; ObjectID = "WJN-Ai-Zmt"; */
+"WJN-Ai-Zmt.title" = "URL autorisées";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "WYG-0N-QKU"; */
+"WYG-0N-QKU.headerCell.title" = "Clé";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wyw-T9-Iop"; */
+"wyw-T9-Iop.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Organization"; ObjectID = "xCh-10-eXA"; */
+"xCh-10-eXA.title" = "Organisation";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the filter in the app and on the device"; ObjectID = "XQ1-Fr-Nes"; */
+"XQ1-Fr-Nes.title" = "Nom du filtre affiché dans l’app et sur l’appareil";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "y8f-r3-ubL"; */
+"y8f-r3-ubL.headerCell.title" = "URL";
+
+/* Class = "NSMenuItem"; title = "Built-in: Specific Websites Only"; ObjectID = "yAw-zm-rTP"; */
+"yAw-zm-rTP.title" = "Intégré : certains sites web seulement";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "yf3-SX-l4O"; */
+"yf3-SX-l4O.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "YnK-mc-9oo"; */
+"YnK-mc-9oo.title" = "Mot de passe";
+
+/* Class = "NSMenuItem"; title = "Built-in: Limit Adult Content"; ObjectID = "z44-Sb-NV4"; */
+"z44-Sb-NV4.title" = "Intégré : limiter le contenu pour adultes";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZhA-s7-Edw"; */
+"ZhA-s7-Edw.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Custom configuration data for the filter"; ObjectID = "zHv-3e-HRd"; */
+"zHv-3e-HRd.title" = "Données de configuration personnalisées pour le filtre";
+
+/* Class = "NSTextFieldCell"; title = "Identifier"; ObjectID = "zNe-jc-n6a"; */
+"zNe-jc-n6a.title" = "Identifiant";
+

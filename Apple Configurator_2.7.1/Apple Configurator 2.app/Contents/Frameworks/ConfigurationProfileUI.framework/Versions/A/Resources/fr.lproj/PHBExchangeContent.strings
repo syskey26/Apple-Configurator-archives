@@ -1,0 +1,213 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Add Exchange payload"; ObjectID = "2Yd-kG-xoh"; */
+"2Yd-kG-xoh.ibShadowedToolTip" = "Ajouter les données utiles d’Exchange";
+
+/* Class = "NSButtonCell"; title = "Allow recent addresses to be synced"; ObjectID = "5fa-cE-5A3"; */
+"5fa-cE-5A3.title" = "Autoriser la synchronisation des adresses récentes";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "User:"; ObjectID = "6Co-c1-JcW"; */
+"6Co-c1-JcW.ibExternalAccessibilityDescription" = "Utilisateur :";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "6g0-La-lk1"; */
+"6g0-La-lk1.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSButtonCell"; title = "Use only in Mail"; ObjectID = "8FB-uY-wUQ"; */
+"8FB-uY-wUQ.title" = "Utiliser uniquement dans Mail";
+
+/* Class = "NSTextFieldCell"; title = "Certificate used to sign messages sent from this account"; ObjectID = "8ym-yi-lOi"; */
+"8ym-yi-lOi.title" = "Certificat utilisé pour signer les messages envoyés à partir de ce compte";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "21j-sq-Y74"; */
+"21j-sq-Y74.ibShadowedIsNilPlaceholder" = "Ajouter des certificats aux données utiles Certificats";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[optional]"; ObjectID = "45C-a1-waj"; */
+"45C-a1-waj.placeholderString" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "The address of the account (e.g. \"john@example.com\")"; ObjectID = "A8s-O1-DfV"; */
+"A8s-O1-DfV.title" = "Adresse du compte (ex : « jean@example.com »)";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Credential Name"; ObjectID = "a9C-65-tKK"; */
+"a9C-65-tKK.title" = "Nom des informations d’identification";
+
+/* Class = "NSMenuItem"; title = "No Limit"; ObjectID = "A50-3g-BXk"; */
+"A50-3g-BXk.title" = "pas de limite";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "afW-YC-bWL"; */
+"afW-YC-bWL.title" = "<content here>";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Exchange ActiveSync Server:"; ObjectID = "aKn-ga-ipA"; */
+"aKn-ga-ipA.ibExternalAccessibilityDescription" = "Serveur Exchange ActiveSync :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "AR9-Wa-bdJ"; */
+"AR9-Wa-bdJ.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "auL-R6-JXq"; */
+"auL-R6-JXq.title" = "OtherViews";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[defaults to username@host]"; ObjectID = "B3y-dN-Uuk"; */
+"B3y-dN-Uuk.ibShadowedIsNilPlaceholder" = "[par défaut nomdutilisateur@hote]";
+
+/* Class = "NSTextFieldCell"; title = "Allow the user to choose whether to encrypt each message"; ObjectID = "B4Q-G2-NP4"; */
+"B4Q-G2-NP4.title" = "Donner le choix à l’utilisateur de chiffrer ou non les messages";
+
+/* Class = "NSTextFieldCell"; title = "Signing certificate"; ObjectID = "bEX-eX-5TY"; */
+"bEX-eX-5TY.title" = "Certificat de signature";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "bGf-ac-fPO"; */
+"bGf-ac-fPO.ibShadowedToolTip" = "Ce champ est requis pour les appareils en cours de préparation ou supervisés";
+
+/* Class = "NSTextFieldCell"; title = "Name or description for ActiveSync"; ObjectID = "bgM-Ia-jTK"; */
+"bgM-Ia-jTK.title" = "Nom ou description pour ActiveSync";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Exchange payload"; ObjectID = "BM6-WZ-I6B"; */
+"BM6-WZ-I6B.ibShadowedToolTip" = "Supprimer les données utiles d’Exchange";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "bT8-Yi-s3q"; */
+"bT8-Yi-s3q.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 week"; ObjectID = "BtX-29-ioF"; */
+"BtX-29-ioF.title" = "1 semaine";
+
+/* Class = "NSTextFieldCell"; title = "User"; ObjectID = "Cbh-HO-2N3"; */
+"Cbh-HO-2N3.title" = "Utilisateur";
+
+/* Class = "NSButtonCell"; title = "Enable S/MIME message encryption"; ObjectID = "cic-C9-2lC"; */
+"cic-C9-2lC.title" = "Activer le chiffrement des messages S/MIME";
+
+/* Class = "NSTextFieldCell"; title = "Exchange ActiveSync Host"; ObjectID = "ckT-eR-qtY"; */
+"ckT-eR-qtY.title" = "Hôte Exchange ActiveSync";
+
+/* Class = "NSTextFieldCell"; title = "Include this account in recent address syncing"; ObjectID = "cy5-8K-kBW"; */
+"cy5-8K-kBW.title" = "Inclure ce compte à la synchronisation des adresses récentes";
+
+/* Class = "NSButtonCell"; title = "Allow Mail Drop"; ObjectID = "D6y-s0-LSy"; */
+"D6y-s0-LSy.title" = "Autoriser Mail Drop";
+
+/* Class = "NSTextFieldCell"; title = "Past Days of Mail to Sync"; ObjectID = "Deb-bL-dKr"; */
+"Deb-bL-dKr.title" = "Derniers jours de Mail à synchroniser";
+
+/* Class = "NSTextFieldCell"; title = "Name for the Exchange ActiveSync account"; ObjectID = "dja-mi-86o"; */
+"dja-mi-86o.title" = "Nom du compte Exchange ActiveSync";
+
+/* Class = "NSTextFieldCell"; title = "Allow Mail Drop for this account"; ObjectID = "dre-6L-232"; */
+"dre-6L-232.title" = "Autoriser Mail Drop pour ce compte";
+
+/* Class = "NSButtonCell"; title = "Enable S/MIME message signing"; ObjectID = "dVl-bW-EyH"; */
+"dVl-bW-EyH.title" = "Activer la signature des messages S/MIME";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Description:"; ObjectID = "FFy-9j-aq2"; */
+"FFy-9j-aq2.ibExternalAccessibilityDescription" = "Description du compte :";
+
+/* Class = "NSTextFieldCell"; title = "The number of past days of mail to synchronize"; ObjectID = "fk9-6b-bQL"; */
+"fk9-6b-bQL.title" = "Le nombre des derniers jours du Mail à synchroniser";
+
+/* Class = "NSMenuItem"; title = "1 month"; ObjectID = "gWj-QI-MYx"; */
+"gWj-QI-MYx.title" = "1 mois";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the ActiveSync account"; ObjectID = "i4W-6T-u2a"; */
+"i4W-6T-u2a.title" = "Référence pour l’authentification du compte ActiveSync";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "Iax-6w-qO4"; */
+"Iax-6w-qO4.title" = "<content here>";
+
+/* Class = "NSTextFieldCell"; title = "Sign messages from this account by default"; ObjectID = "IhM-gI-o6c"; */
+"IhM-gI-o6c.title" = "Signer les messages de ce compte par défaut";
+
+/* Class = "NSMenuItem"; title = "2 weeks"; ObjectID = "Iin-0o-bwv"; */
+"Iin-0o-bwv.title" = "2 semaines";
+
+/* Class = "NSMenuItem"; title = "3 days"; ObjectID = "IRv-oU-S5W"; */
+"IRv-oU-S5W.title" = "3 jours";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Email Address:"; ObjectID = "JFt-xe-y11"; */
+"JFt-xe-y11.ibExternalAccessibilityDescription" = "Adresse e-mail :";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "lsb-1E-6CB"; */
+"lsb-1E-6CB.title" = "Mot de passe";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "m2H-n7-5hB"; */
+"m2H-n7-5hB.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSMenuItem"; title = "1 day"; ObjectID = "oxh-z5-aY8"; */
+"oxh-z5-aY8.title" = "1 jour";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[defaults to user@host]"; ObjectID = "pTH-fS-imd"; */
+"pTH-fS-imd.placeholderString" = "[par défaut utilisateur@hote]";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "Pxp-wp-tTS"; */
+"Pxp-wp-tTS.ibShadowedToolTip" = "Ce champ est requis pour les appareils en cours de préparation ou supervisés";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "PXy-JI-WdP"; */
+"PXy-JI-WdP.ibShadowedIsNilPlaceholder" = "[définir sur l’appareil]";
+
+/* Class = "NSTextFieldCell"; title = "The password for the account (e.g. \"MyP4ssw0rd!\")"; ObjectID = "qcl-6t-jj9"; */
+"qcl-6t-jj9.title" = "Le mot de passe du compte (ex : « MonMotdePasse! »)";
+
+/* Class = "NSTextFieldCell"; title = "Send outgoing mail from this account only from Mail app"; ObjectID = "qhD-0n-nmb"; */
+"qhD-0n-nmb.title" = "Envoyer seulement à partir de l’app Mail le courrier sortant de ce compte ";
+
+/* Class = "NSButtonCell"; title = "Allow messages to be moved"; ObjectID = "qrp-gc-Lnf"; */
+"qrp-gc-Lnf.title" = "Autoriser le déplacement de messages";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "qXd-hm-Q0h"; */
+"qXd-hm-Q0h.title" = "Nom du compte";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "QyO-C0-9Rn"; */
+"QyO-C0-9Rn.title" = "Utiliser SSL";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificates' tab"; ObjectID = "sgb-I5-Tuq"; */
+"sgb-I5-Tuq.ibShadowedToolTip" = "Ajouter des identités au profil via l’onglet « Certificats »";
+
+/* Class = "NSButtonCell"; title = "Enable per-message encryption switch"; ObjectID = "t90-hc-PfW"; */
+"t90-hc-PfW.title" = "Activer le commutateur de chiffrement par message";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificates' tab"; ObjectID = "tFP-xE-zjU"; */
+"tFP-xE-zjU.ibShadowedToolTip" = "Ajouter des identités au profil via l’onglet « Certificats »";
+
+/* Class = "NSTextFieldCell"; title = "Encrypt messages from this account by default"; ObjectID = "tiH-W3-Hcu"; */
+"tiH-W3-Hcu.title" = "Chiffrer les messages de ce compte par défaut";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificates' tab"; ObjectID = "u9A-5i-GB5"; */
+"u9A-5i-GB5.ibShadowedToolTip" = "Ajouter des identités au profil via l’onglet « Certificats »";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Authentication Credential Name:"; ObjectID = "ukb-aX-CWN"; */
+"ukb-aX-CWN.ibExternalAccessibilityDescription" = "Nom des informations d’authentification :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "US5-Cx-WzL"; */
+"US5-Cx-WzL.ibExternalAccessibilityDescription" = "Mot de passe :";
+
+/* Class = "NSTextFieldCell"; title = "Microsoft Exchange Server"; ObjectID = "VKm-Ok-Tgi"; */
+"VKm-Ok-Tgi.title" = "Microsoft Exchange Server";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Credential"; ObjectID = "vRf-J8-LZw"; */
+"vRf-J8-LZw.title" = "Informations d’authentification";
+
+/* Class = "NSTextFieldCell"; title = "Certificate used to decrypt messages sent to this account"; ObjectID = "VVo-97-8Fx"; */
+"VVo-97-8Fx.title" = "Certificat utilisé pour déchiffrer les messages envoyés à ce compte";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select an encryption certificate to enable this switch"; ObjectID = "Wcm-aL-z7L"; */
+"Wcm-aL-z7L.ibShadowedToolTip" = "Sélectionner un certificat de chiffrement pour activer ce commutateur";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "wdv-fs-i2j"; */
+"wdv-fs-i2j.ibShadowedIsNilPlaceholder" = "Ajouter des certificats aux données utiles Certificats";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "xTW-WV-Xny"; */
+"xTW-WV-Xny.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "xvM-yc-MtE"; */
+"xvM-yc-MtE.title" = "<content here>";
+
+/* Class = "NSTextFieldCell"; title = "Encryption certificate"; ObjectID = "XWW-R0-Vf2"; */
+"XWW-R0-Vf2.title" = "Certificat de chiffrement";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "yeG-20-Oae"; */
+"yeG-20-Oae.title" = "Adresse e-mail";
+
+/* Class = "NSTextFieldCell"; title = "Exchange ActiveSync"; ObjectID = "yrF-SK-iEc"; */
+"yrF-SK-iEc.title" = "Exchange ActiveSync";
+
+/* Class = "NSTextFieldCell"; title = "The user of the account with optional domain (e.g. \"user\" or \"domain\\user\")"; ObjectID = "zlU-YH-Xal"; */
+"zlU-YH-Xal.title" = "Utilisateur du compte avec domaine en option (ex. : « utilisateur » ou « domaine\utilisateur »)";
+
+/* Class = "NSTextFieldCell"; title = "Messages can be moved from this account to another"; ObjectID = "zxA-tb-3kC"; */
+"zxA-tb-3kC.title" = "Vous pouvez déplacer les messages entre ce compte et un autre compte";
+

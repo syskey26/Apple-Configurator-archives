@@ -1,0 +1,10 @@
+/* Localizable.strings
+  Restore Devices
+
+  Created by Sal Soghoian on 1/15/15.
+  Copyright (c) 2015-2022 Apple Inc. All rights reserved. */
+"CNFGACT-09-NO_INPUT_ERROR" = "연결된 기기의 ECID 참조가 이 동작에 전달되지 않았습니다.";
+
+/* (No Comment) */
+"CNFGACT-09-PROBLEM_RESTORING" = "기기를 복원하는 데 문제가 발생했습니다.";
+

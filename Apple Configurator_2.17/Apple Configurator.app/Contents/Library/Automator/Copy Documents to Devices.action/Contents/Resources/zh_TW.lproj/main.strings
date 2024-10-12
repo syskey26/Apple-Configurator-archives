@@ -1,0 +1,45 @@
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "0x4-d1-iFh"; */
+"0x4-d1-iFh.title" = "項目 1";
+
+/* Class = "NSMenuItem"; title = "by entering its bundle identifier…"; ObjectID = "7xP-vC-IJu"; */
+"7xP-vC-IJu.title" = "輸入其套件識別碼⋯";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "75x-Qy-aLu"; */
+"75x-Qy-aLu.title" = "更新";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Aww-gB-qXx"; */
+"Aww-gB-qXx.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "Hfm-Xr-cwX"; */
+"Hfm-Xr-cwX.title" = "加入";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "LFs-xq-AZf"; */
+"LFs-xq-AZf.title" = "移除";
+
+/* Class = "NSTextFieldCell"; title = "Identify the application to be associated with the documents:"; ObjectID = "lNJ-Rr-eJE"; */
+"lNJ-Rr-eJE.title" = "識別要與文件產生關聯的應用程式：";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ODu-qw-w1n"; */
+"ODu-qw-w1n.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Document filename"; ObjectID = "Om4-dC-Zy6"; */
+"Om4-dC-Zy6.headerCell.title" = "文件檔名";
+
+/* Class = "NSButtonCell"; title = "Clear All"; ObjectID = "R03-Sy-VXk"; */
+"R03-Sy-VXk.title" = "全部清除";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "RwQ-KM-w67"; */
+"RwQ-KM-w67.headerCell.title" = "路徑";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "sZk-kP-POo"; */
+"sZk-kP-POo.title" = "項目 3";
+
+/* Class = "NSTextFieldCell"; title = "Add the documents to copy, associated with the app indicated above, to the list below:"; ObjectID = "t1g-Gd-9KR"; */
+"t1g-Gd-9KR.title" = "在下方的列表中加入要拷貝的文件（與上方顯示的 App 相關的文件）：";
+
+/* Class = "NSMenuItem"; title = "by choosing its app file on this computer…"; ObjectID = "tfP-dR-KxG"; */
+"tfP-dR-KxG.title" = "在此電腦上選擇其 App 檔案⋯";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "vWs-qg-puM"; */
+"vWs-qg-puM.title" = "項目 2";
+

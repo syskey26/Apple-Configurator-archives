@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDNote" = "Diese Aktion bietet keinen Mechanismus, um einzustellen, ob ein Backup-Archiv verschlüsselt werden soll. Aktivieren der Backup-Verschlüsselung und Einstellen eines Passworts für das Gerätearchiv ist über „Apple Configurator“ möglich.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDSummary" = "Diese Aktion erstellt Backup-Archive für die vorbereiteten iOS-Geräte, deren ECIDS als Eingabe an diese Aktion gegeben wurden. Ein Backup kann nur nach Beenden des Systemassistenten von einem betriebsbereiten iOS-Gerät erstellt werden. Die erstellten iOS-Gerätebackups werden an dem Ort gespeichert, den auch iTunes verwendet.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Backup der angegebenen Geräte erstellen";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015–2021 Apple Inc. Alle Rechte vorbehalten.";
+

@@ -1,0 +1,156 @@
+/* Class = "NSButtonCell"; title = "Privacy"; ObjectID = "1X5-qg-SEo"; */
+"1X5-qg-SEo.title" = "Privacy";
+
+/* Class = "NSButtonCell"; title = "Activate and complete enrollment"; ObjectID = "5iW-XB-hOb"; */
+"5iW-XB-hOb.title" = "Attiva e completa la registrazione";
+
+/* Class = "NSMenuItem"; title = "Show only some steps"; ObjectID = "7Rt-yg-yQd"; */
+"7Rt-yg-yQd.title" = "Mostra solo alcuni passi";
+
+/* Class = "NSButtonCell"; title = "Region"; ObjectID = "8tX-JC-KIW"; */
+"8tX-JC-KIW.title" = "Zona";
+
+/* Class = "NSButtonCell"; title = "True Tone"; ObjectID = "8Ue-jK-ht3"; */
+"8Ue-jK-ht3.title" = "True Tone";
+
+/* Class = "NSTextFieldCell"; title = "Setup Assistant:"; ObjectID = "9Os-5m-98d"; */
+"9Os-5m-98d.title" = "Impostazione Assistita:";
+
+/* Class = "NSMenuItem"; title = "Show all steps"; ObjectID = "aKJ-Im-deT"; */
+"aKJ-Im-deT.title" = "Mostra tutti i passi";
+
+/* Class = "NSMenuItem"; title = "Don’t show any of these steps"; ObjectID = "Api-ru-K8o"; */
+"Api-ru-K8o.title" = "Non mostrare nessuno di questi passi";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show the 'iMessage & FaceTime' pane (China only)"; ObjectID = "bP7-HC-tUZ"; Note = "See PurpleBuddy - PHONE_NUMBER_PERMISSION_TITLE"; */
+"bP7-HC-tUZ.ibShadowedToolTip" = "Mostra il pannello “iMessage e FaceTime” (solo Cina)";
+
+/* Class = "NSButtonCell"; title = "Apple ID"; ObjectID = "bti-yS-xkd"; */
+"bti-yS-xkd.title" = "ID Apple";
+
+/* Class = "NSButtonCell"; title = "Apple ID"; ObjectID = "C3B-ZD-uOK"; */
+"C3B-ZD-uOK.title" = "ID Apple";
+
+/* Class = "NSButtonCell"; title = "Sign In to Your TV Provider"; ObjectID = "dBN-aR-qsX"; */
+"dBN-aR-qsX.title" = "Accedi all’account del tuo provider TV";
+
+/* Class = "NSButtonCell"; title = "Location Services"; ObjectID = "dfd-uS-nd3"; */
+"dfd-uS-nd3.title" = "Servizi di localizzazione";
+
+/* Class = "NSButtonCell"; title = "iMessage"; ObjectID = "DXV-8y-fmG"; */
+"DXV-8y-fmG.title" = "iMessage";
+
+/* Class = "NSButtonCell"; title = "App Analytics"; ObjectID = "ESk-kr-JgK"; */
+"ESk-kr-JgK.title" = "Analisi app";
+
+/* Class = "NSTextFieldCell"; title = "Preparing devices is the first step in any deployment. You need to prepare devices before you distribute them to users."; ObjectID = "Fnq-fI-MbX"; */
+"Fnq-fI-MbX.title" = "La preparazione dei dispositivi è il primo passo di qualsiasi distribuzione: prima di consegnare i dispositivi agli utenti, devi prepararli.";
+
+/* Class = "NSButtonCell"; title = "Apple Pay"; ObjectID = "gVo-VL-Ytl"; */
+"gVo-VL-Ytl.title" = "Apple Pay";
+
+/* Class = "NSTextFieldCell"; title = "Setup Assistant:"; ObjectID = "gX7-Ty-poQ"; */
+"gX7-Ty-poQ.title" = "Impostazione Assistita:";
+
+/* Class = "NSButtonCell"; title = "Passcode"; ObjectID = "GzX-Rf-4CE"; */
+"GzX-Rf-4CE.title" = "Codice";
+
+/* Class = "NSButtonCell"; title = "Language"; ObjectID = "h5K-wL-KhX"; */
+"h5K-wL-KhX.title" = "Lingua";
+
+/* Class = "NSMenuItem"; title = "Manual Configuration"; ObjectID = "hQB-d6-dEw"; */
+"hQB-d6-dEw.title" = "Configurazione manuale";
+
+/* Class = "NSButtonCell"; title = "New Feature Highlights"; ObjectID = "HsQ-xL-Tez"; */
+"HsQ-xL-Tez.title" = "Info nuove funzionalità";
+
+/* Class = "NSButtonCell"; title = "Sync TV Home Screen Layout"; ObjectID = "huu-8M-LB8"; */
+"huu-8M-LB8.title" = "Sincronizza layout schermata Home TV";
+
+/* Class = "NSButtonCell"; title = "Siri"; ObjectID = "J8m-UX-4Hc"; */
+"J8m-UX-4Hc.title" = "Siri";
+
+/* Class = "NSButtonCell"; title = "Keyboard"; ObjectID = "jfd-w3-VPr"; */
+"jfd-w3-VPr.title" = "Tastiera";
+
+/* Class = "NSMenuItem"; title = "Show all steps"; ObjectID = "jpS-et-QaR"; */
+"jpS-et-QaR.title" = "Mostra tutti i passi";
+
+/* Class = "NSButtonCell"; title = "Add to Device Enrollment Program"; ObjectID = "K6R-FC-6Gu"; */
+"K6R-FC-6Gu.title" = "Aggiungi al programma di registrazione dispositivi";
+
+/* Class = "NSButtonCell"; title = "App Analytics"; ObjectID = "Kje-Fg-TPb"; */
+"Kje-Fg-TPb.title" = "Analisi app";
+
+/* Class = "NSTextFieldCell"; title = "When preparing with Automated Enrollment, the devices download their configuration from the Device Enrollment Program."; ObjectID = "KRt-gr-2eN"; */
+"KRt-gr-2eN.title" = "Quando i dispositivi si preparano alla registrazione automatica, scaricano la configurazione dal programma di registrazione dispositivi.";
+
+/* Class = "NSButtonCell"; title = "Enable Shared iPad"; ObjectID = "KUm-1Z-Mlu"; */
+"KUm-1Z-Mlu.title" = "Abilita iPad condiviso";
+
+/* Class = "NSButtonCell"; title = "Privacy"; ObjectID = "mbV-hh-Wxt"; */
+"mbV-hh-Wxt.title" = "Privacy";
+
+/* Class = "NSButtonCell"; title = "Apps & Data"; ObjectID = "Mc4-7V-1e8"; */
+"Mc4-7V-1e8.title" = "App e dati";
+
+/* Class = "NSButtonCell"; title = "Touch ID"; ObjectID = "moB-ge-Uez"; */
+"moB-ge-Uez.title" = "Touch ID";
+
+/* Class = "NSButtonCell"; title = "Set Up Your Apple TV"; ObjectID = "mRB-zh-P3d"; */
+"mRB-zh-P3d.title" = "Configura Apple TV";
+
+/* Class = "NSTextFieldCell"; title = "Choose which steps will be presented to the user in Setup Assistant."; ObjectID = "MSL-BW-2UJ"; */
+"MSL-BW-2UJ.title" = "Scegli quali passi verranno presentati all'utente in Impostazione Assistita.";
+
+/* Class = "NSButtonCell"; title = "See the World"; ObjectID = "n6U-B3-e4k"; */
+"n6U-B3-e4k.title" = "Osserva il mondo";
+
+/* Class = "NSTextFieldCell"; title = "Prepare with:"; ObjectID = "Ndp-3L-aRp"; */
+"Ndp-3L-aRp.title" = "Prepara con:";
+
+/* Class = "NSButtonCell"; title = "Supervise devices"; ObjectID = "Nox-S3-pSe"; */
+"Nox-S3-pSe.title" = "Supervisiona dispositivi";
+
+/* Class = "NSButtonCell"; title = "Display Zoom"; ObjectID = "Nzv-Ix-HDe"; */
+"Nzv-Ix-HDe.title" = "Zoom schermo";
+
+/* Class = "NSButtonCell"; title = "Siri and Dictation"; ObjectID = "Oua-rW-1T7"; */
+"Oua-rW-1T7.title" = "Siri e Dettatura";
+
+/* Class = "NSButtonCell"; title = "Region"; ObjectID = "OXa-ic-fPV"; */
+"OXa-ic-fPV.title" = "Zona";
+
+/* Class = "NSTextFieldCell"; title = "Choose which steps will be presented to the user in Setup Assistant."; ObjectID = "P2h-Ne-8Mg"; */
+"P2h-Ne-8Mg.title" = "Scegli quali passi verranno presentati all'utente in Impostazione Assistita.";
+
+/* Class = "NSButtonCell"; title = "Location Services"; ObjectID = "QxV-MU-18t"; */
+"QxV-MU-18t.title" = "Servizi di localizzazione";
+
+/* Class = "NSButtonCell"; title = "Move from Android"; ObjectID = "scQ-3j-Yjq"; */
+"scQ-3j-Yjq.title" = "Migra da Android";
+
+/* Class = "NSButtonCell"; title = "Language"; ObjectID = "TIO-I1-BOl"; */
+"TIO-I1-BOl.title" = "Lingua";
+
+/* Class = "NSButtonCell"; title = "Home Button"; ObjectID = "tsL-4M-8TY"; */
+"tsL-4M-8TY.title" = "Tasto Home";
+
+/* Class = "NSButtonCell"; title = "Where is this Apple TV"; ObjectID = "ttd-5E-ROI"; */
+"ttd-5E-ROI.title" = "Dove si trova Apple TV";
+
+/* Class = "NSMenuItem"; title = "Don’t show any of these steps"; ObjectID = "ukt-lI-TVx"; */
+"ukt-lI-TVx.title" = "Non mostrare nessuno di questi passi";
+
+/* Class = "NSButtonCell"; title = "Allow devices to pair with other computers"; ObjectID = "vz2-D6-5tu"; */
+"vz2-D6-5tu.title" = "Consenti l'abbinamento dei dispositivi con altri computer";
+
+/* Class = "NSButtonCell"; title = "Watch Migration"; ObjectID = "WiV-gj-mPZ"; */
+"WiV-gj-mPZ.title" = "Migrazione Watch";
+
+/* Class = "NSMenuItem"; title = "Show only some steps"; ObjectID = "Xai-ap-KVh"; */
+"Xai-ap-KVh.title" = "Mostra solo alcuni passi";
+
+/* Class = "NSMenuItem"; title = "Automated Enrollment"; ObjectID = "Zpw-MU-nZk"; */
+"Zpw-MU-nZk.title" = "Registrazione automatica";
+

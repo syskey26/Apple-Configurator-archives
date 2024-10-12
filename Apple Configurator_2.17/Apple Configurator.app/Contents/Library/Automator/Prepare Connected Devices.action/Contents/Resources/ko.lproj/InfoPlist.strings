@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "세 가지의 준비된 매개변수 그룹에는 MDM 관리, 감독 및 기기 설정 지원 옵션이 있습니다.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDSummary" = "이 동작은 기기를 준비합니다. 식별자는 이 동작에 입력으로 전달됩니다.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "기기 준비";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2016-2023 Apple Inc. 모든 권리 보유.";
+

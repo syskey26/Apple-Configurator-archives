@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDNote" = "Alcuni dati privati come le password verranno ripristinati solo se il backup è stato codificato con una password oppure se il dispositivo di destinazione era la fonte originale del backup.";
+
+/* (No Comment) */
+"AMDOptions" = "Se il backup selezionato è codificato, la password deve essere inserita nel campo di input della password.";
+
+/* (No Comment) */
+"AMDRequires" = "I dispositivi necessitano di una inizializzazione dei contenuti e delle impostazioni prima di poterli ripristinare tramite il backup.";
+
+/* (No Comment) */
+"AMDResult" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDSummary" = "L'azione ripristinerà i dispositivi passati da un singolo backup specificato.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Ripristina dispositivi dal backup specificato";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "backup";
+
+/* AMKeyword localized strings */
+"configurator" = "configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "mobile";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Tutti i diritti riservati.";
+

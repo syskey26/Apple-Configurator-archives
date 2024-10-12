@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "3UQ-dn-UnJ"; */
+"3UQ-dn-UnJ.title" = "Nom du compte";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "9AN-RE-V1G"; */
+"9AN-RE-V1G.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "Dmy-g2-oMt"; */
+"Dmy-g2-oMt.title" = "Adresse e-mail";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "HxF-Rc-CLS"; */
+"HxF-Rc-CLS.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "The full name of the user for the account"; ObjectID = "J0N-2j-2jE"; */
+"J0N-2j-2jE.title" = "Le nom complet de l’utilisateur de ce compte";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the account"; ObjectID = "jaD-uq-4MJ"; */
+"jaD-uq-4MJ.title" = "Nom d’affichage du compte";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "NJv-AZ-3lN"; */
+"NJv-AZ-3lN.ibExternalAccessibilityDescription" = "Nom du compte :";
+
+/* Class = "NSTextFieldCell"; title = "Google Account"; ObjectID = "o1i-Jr-T54"; */
+"o1i-Jr-T54.title" = "Compte Google";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "ocl-wY-MWj"; */
+"ocl-wY-MWj.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSTextFieldCell"; title = "The Google email address of the account"; ObjectID = "YdT-F3-DzP"; */
+"YdT-F3-DzP.title" = "L’adresse e-mail Google du compte";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "yPA-5d-RGA"; */
+"yPA-5d-RGA.title" = "Description du compte";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Google Account payload"; ObjectID = "zmR-kF-f9B"; */
+"zmR-kF-f9B.ibShadowedToolTip" = "Ajouter les données utiles du compte Google";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Google Account payload"; ObjectID = "ZrE-jv-7uP"; */
+"ZrE-jv-7uP.ibShadowedToolTip" = "Supprimer les données utiles du compte Google";
+

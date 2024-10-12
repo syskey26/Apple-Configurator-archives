@@ -1,0 +1,18 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "cdU-GS-4rR"; */
+"cdU-GS-4rR.title" = "Auswählen";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Crk-er-wX7"; */
+"Crk-er-wX7.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "IXs-7E-nRW"; */
+"IXs-7E-nRW.title" = "Abbrechen";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O6q-4v-wd8"; */
+"O6q-4v-wd8.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Choose a certificate:"; ObjectID = "YDa-E8-yl1"; */
+"YDa-E8-yl1.title" = "Zertifikat auswählen:";
+

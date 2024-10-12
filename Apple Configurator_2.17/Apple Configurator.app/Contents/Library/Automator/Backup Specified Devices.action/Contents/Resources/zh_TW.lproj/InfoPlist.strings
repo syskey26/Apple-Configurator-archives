@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDNote" = "此動作並未提供是否要加密備份封存檔的設定機制。啟用備份加密和為裝置封存檔設定密碼的程序必須在 Apple Configurator 應用程式中執行。";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作將會為準備的 iOS 裝置（其 ECID 已傳遞至此動作作為輸入）製作備份封存檔。當 iOS 裝置退出「設定輔助程式」後，便僅能從已開機的 iOS 裝置取得備份。製作的 iOS 裝置備份會儲存在 iTunes 應用程式所使用的相同位置。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "備份指定的裝置";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. 保留一切權利。";
+

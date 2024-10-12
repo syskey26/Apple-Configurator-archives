@@ -1,0 +1,1164 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "0rZ-ge-Po7"; */
+"0rZ-ge-Po7.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "0t2-py-VcS"; */
+"0t2-py-VcS.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "0U0-gv-WMg"; */
+"0U0-gv-WMg.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "Voice Mail"; ObjectID = "1AZ-Oh-GFK"; */
+"1AZ-Oh-GFK.title" = "Segreteria";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "1bg-vW-xlM"; */
+"1bg-vW-xlM.title" = "Bassa";
+
+/* Class = "NSTextFieldCell"; title = "Captive Networking App Bundle Identifiers"; ObjectID = "1BI-vy-Krz"; */
+"1BI-vy-Krz.title" = "Identificatori pacchetti app con reti Captive";
+
+/* Class = "NSMenuItem"; title = "Always establish"; ObjectID = "1HD-OW-FHs"; */
+"1HD-OW-FHs.title" = "Stabilisci sempre";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "1hs-Bh-d73"; */
+"1hs-Bh-d73.title" = "Account";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "1tC-E3-ToR"; */
+"1tC-E3-ToR.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "01Y-3x-a1g"; */
+"01Y-3x-a1g.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "2iu-Ls-V4v"; */
+"2iu-Ls-V4v.title" = "<contenuto qui>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "2y4-9Y-mUx"; */
+"2y4-9Y-mUx.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "3eR-gK-0uS"; */
+"3eR-gK-0uS.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "3iK-rr-pFI"; */
+"3iK-rr-pFI.title" = "<contenuto qui>";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for the proxy server"; ObjectID = "3nR-sv-nLx"; */
+"3nR-sv-nLx.title" = "Nome host o indirizzo IP e numero di porta per il server proxy";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "3SW-pe-zNR"; */
+"3SW-pe-zNR.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSTextFieldCell"; title = "NAT Keepalive Interval"; ObjectID = "3Xu-mC-f9N"; */
+"3Xu-mC-f9N.title" = "Intervallo keepalive NAT";
+
+/* Class = "NSTextFieldCell"; title = "User name used to connect to the proxy"; ObjectID = "4s2-vG-JlU"; */
+"4s2-vG-JlU.title" = "Nome utente utilizzato per connettersi al server proxy";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "4Ta-OF-4S8"; */
+"4Ta-OF-4S8.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "4tt-Ah-b6m"; */
+"4tt-Ah-b6m.title" = "Account";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Server URL"; ObjectID = "5dZ-r2-Rs0"; */
+"5dZ-r2-Rs0.title" = "URL server proxy";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "5l4-v5-ed6"; */
+"5l4-v5-ed6.title" = "Server";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "05o-te-nzH"; */
+"05o-te-nzH.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Number Of Days:"; ObjectID = "5t9-JD-EQz"; */
+"5t9-JD-EQz.ibExternalAccessibilityDescription" = "Numero di giorni:";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "5Yq-mL-90U"; */
+"5Yq-mL-90U.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "6Ay-vY-g4Q"; */
+"6Ay-vY-g4Q.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "6Gb-qN-nfC"; */
+"6Gb-qN-nfC.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "06Q-j7-175"; */
+"06Q-j7-175.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Custom Data"; ObjectID = "6zy-Zg-kKa"; */
+"6zy-Zg-kKa.title" = "Dati personalizzati";
+
+/* Class = "NSButtonCell"; title = "Password"; ObjectID = "7LL-tM-yI3"; */
+"7LL-tM-yI3.title" = "Password";
+
+/* Class = "NSTextFieldCell"; title = "Integrity Algorithm"; ObjectID = "7qL-nR-qwL"; */
+"7qL-nR-qwL.title" = "Algoritmo integrità";
+
+/* Class = "NSTextFieldCell"; title = "Common name of the server certificate issuer"; ObjectID = "7qW-7F-WQm"; */
+"7qW-7F-WQm.title" = "Nome comune dell'autorità che emette il certificato server";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "7qz-H8-ToG"; */
+"7qz-H8-ToG.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSMenuItem"; title = "18"; ObjectID = "7Xm-Sz-9Bu"; */
+"7Xm-Sz-9Bu.title" = "18";
+
+/* Class = "NSTextFieldCell"; title = "Enable extended authentication"; ObjectID = "8A2-qT-dSC"; */
+"8A2-qT-dSC.title" = "Abilita autenticazione estesa";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Number Of Hours:"; ObjectID = "8ci-cf-30h"; */
+"8ci-cf-30h.ibExternalAccessibilityDescription" = "Numero di ore:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "8dj-kd-DCv"; */
+"8dj-kd-DCv.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSSegmentedCell"; 8KB-wO-nm6.ibShadowedLabels[0] = "Cellular"; ObjectID = "8KB-wO-nm6"; */
+"8KB-wO-nm6.ibShadowedLabels[0]" = "Cellulare";
+
+/* Class = "NSSegmentedCell"; 8KB-wO-nm6.ibShadowedLabels[1] = "Wi-Fi"; ObjectID = "8KB-wO-nm6"; */
+"8KB-wO-nm6.ibShadowedLabels[1]" = "Wi-Fi";
+
+/* Class = "NSMenuItem"; title = "Drop traffic"; ObjectID = "8SC-Ua-tzv"; */
+"8SC-Ua-tzv.title" = "Rilascia traffico";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "8V9-7h-LHX"; */
+"8V9-7h-LHX.title" = "Nessuna";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the connection"; ObjectID = "8WI-nB-nHT"; */
+"8WI-nB-nHT.title" = "Credenziale per l'autenticazione della connessione";
+
+/* Class = "NSMenuItem"; title = "Never establish"; ObjectID = "9Lb-EL-Q8H"; */
+"9Lb-EL-Q8H.title" = "Non stabilire mai";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "9pC-gt-rON"; */
+"9pC-gt-rON.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSMenuItem"; title = "Allow traffic outside tunnel"; ObjectID = "9zB-MI-aha"; */
+"9zB-MI-aha.title" = "Consenti traffico fuori dal tunnel";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "32g-Go-bKC"; */
+"32g-Go-bKC.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "User Authentication"; ObjectID = "60A-WA-8Jy"; */
+"60A-WA-8Jy.title" = "Autenticazione utente";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "85L-Uc-SCR"; */
+"85L-Uc-SCR.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Identifier for the custom SSL VPN"; ObjectID = "89c-az-bV3"; */
+"89c-az-bV3.title" = "Identificatore per SSL VPN personalizzato";
+
+/* Class = "NSMenuItem"; title = "AES-256-GCM"; ObjectID = "94g-sO-gug"; */
+"94g-sO-gug.title" = "AES-256-GCM";
+
+/* Class = "NSTextFieldCell"; title = "Diffie-Hellman group number"; ObjectID = "126-lA-16j"; */
+"126-lA-16j.title" = "Numero gruppo Diffie Hellman";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "624-VY-E7T"; */
+"624-VY-E7T.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSMenuItem"; title = "PPTP (iOS 9 and OS X 10.11 and earlier)"; ObjectID = "891-z9-B08"; */
+"891-z9-B08.title" = "PPTP (iOS 9 e OS X 10.11 e versioni precedenti)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "a1h-2c-v3N"; */
+"a1h-2c-v3N.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Remote Identifier"; ObjectID = "a4O-Tg-hk7"; */
+"a4O-Tg-hk7.title" = "Identificatore remoto";
+
+/* Class = "NSMenuItem"; title = "F5 SSL"; ObjectID = "A7T-Ub-oNI"; */
+"A7T-Ub-oNI.title" = "F5 SSL";
+
+/* Class = "NSMenuItem"; title = "5 minutes"; ObjectID = "acH-Gh-BtP"; */
+"acH-Gh-BtP.title" = "5 minuti";
+
+/* Class = "NSTextFieldCell"; title = "Identity Certificate"; ObjectID = "aih-Xk-qdx"; */
+"aih-Xk-qdx.title" = "Certificato identità";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "aIZ-MZ-hYV"; */
+"aIZ-MZ-hYV.title" = "Password";
+
+/* Class = "NSTextFieldCell"; title = "User Authentication"; ObjectID = "AJO-Ed-ZGx"; */
+"AJO-Ed-ZGx.title" = "Autenticazione utente";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "Aka-3D-DWx"; */
+"Aka-3D-DWx.title" = "Account";
+
+/* Class = "NSTextFieldCell"; title = "Password for authenticating the connection"; ObjectID = "aLx-2l-zs6"; */
+"aLx-2l-zs6.title" = "Password per l'autenticazione della connessione";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "An7-Jr-KB3"; */
+"An7-Jr-KB3.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "User name/Password"; ObjectID = "Aoi-w1-cYU"; */
+"Aoi-w1-cYU.title" = "Nome utente/password";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "AP9-GN-w7D"; */
+"AP9-GN-w7D.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Encryption Algorithm"; ObjectID = "apc-5c-0oN"; */
+"apc-5c-0oN.title" = "Algoritmo di codifica";
+
+/* Class = "NSMenuItem"; title = "Certificate"; ObjectID = "APV-eG-J4Q"; */
+"APV-eG-J4Q.title" = "Certificato";
+
+/* Class = "NSMenuItem"; title = "Establish if needed"; ObjectID = "aun-8n-1Kq"; */
+"aun-8n-1Kq.title" = "Stabilisci se necessario";
+
+/* Class = "NSTextFieldCell"; title = "Group Name"; ObjectID = "av7-Zc-5CE"; */
+"av7-Zc-5CE.title" = "Nome gruppo";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "aWm-JC-R97"; */
+"aWm-JC-R97.title" = "Nome utente";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "AWy-pd-X71"; */
+"AWy-pd-X71.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret"; ObjectID = "aY3-21-KD8"; */
+"aY3-21-KD8.title" = "Segreto condiviso";
+
+/* Class = "NSMenuItem"; title = "Allow traffic outside tunnel"; ObjectID = "b1x-IR-eyN"; */
+"b1x-IR-eyN.title" = "Consenti traffico fuori dal tunnel";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "b2p-Ty-LnE"; */
+"b2p-Ty-LnE.headerCell.title" = "Valore";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "B7j-59-YGX"; */
+"B7j-59-YGX.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "NSTextFieldCell"; title = "Connection Type"; ObjectID = "B7U-Z7-JaQ"; */
+"B7U-Z7-JaQ.title" = "Tipo di connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "baq-oS-m94"; */
+"baq-oS-m94.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "Bce-Lq-iAx"; */
+"Bce-Lq-iAx.title" = "Server";
+
+/* Class = "NSMenuItem"; title = "SHA1-96"; ObjectID = "bfI-tz-m3T"; */
+"bfI-tz-m3T.title" = "SHA1-96";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add server name"; ObjectID = "bGD-gG-DPC"; */
+"bGD-gG-DPC.ibShadowedToolTip" = "Aggiungi nome server";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "bkJ-hc-ROD"; */
+"bkJ-hc-ROD.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add VPN payload"; ObjectID = "bmh-cg-dyj"; */
+"bmh-cg-dyj.ibShadowedToolTip" = "Aggiungi payload VPN";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "BsQ-Yl-LtQ"; */
+"BsQ-Yl-LtQ.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "bSZ-Wn-Lyn"; */
+"bSZ-Wn-Lyn.title" = "Account";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "Buj-vR-8pm"; */
+"Buj-vR-8pm.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSButtonCell"; title = "Password"; ObjectID = "bvp-f9-Pfr"; */
+"bvp-f9-Pfr.title" = "Password";
+
+/* Class = "NSTextFieldCell"; title = "FQDN, UserFQDN, Address or ASN1DN local identifier"; ObjectID = "bXe-dX-aRi"; */
+"bXe-dX-aRi.title" = "FQDN, UserFQDN, indirizzo o identificatore locale ASN1DN";
+
+/* Class = "NSTextFieldCell"; title = "Keys and string values for custom data"; ObjectID = "BxN-fA-M7h"; */
+"BxN-fA-M7h.title" = "Valori chiave e stringa per dati personalizzati";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "c2f-OU-MDJ"; */
+"c2f-OU-MDJ.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "c7S-Ww-6Wb"; */
+"c7S-Ww-6Wb.title" = "Server";
+
+/* Class = "NSMenuItem"; title = "ECDSA521"; ObjectID = "cDI-OO-Crl"; */
+"cDI-OO-Crl.title" = "ECDSA521";
+
+/* Class = "NSButtonCell"; title = "Use same tunnel configuration for Cellular and Wi-Fi"; ObjectID = "CdP-MV-Iny"; */
+"CdP-MV-Iny.title" = "Usa la stessa configurazione tunnel per dati cellulare e Wi-Fi";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "CEN-Gt-6H7"; */
+"CEN-Gt-6H7.title" = "Account";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "CHw-IM-gS9"; */
+"CHw-IM-gS9.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSMenuItem"; title = "Custom SSL"; ObjectID = "CMd-tB-lp0"; */
+"CMd-tB-lp0.title" = "SSL personalizzato";
+
+/* Class = "NSButtonCell"; title = "Disable Mobility and Multihoming"; ObjectID = "CpZ-SW-CVC"; */
+"CpZ-SW-CVC.title" = "Disabilita mobilità e multihoming";
+
+/* Class = "NSMenuItem"; title = "AES-128-GCM"; ObjectID = "CQ7-cw-QIW"; */
+"CQ7-cw-QIW.title" = "AES-128-GCM";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "cUe-nV-orm"; */
+"cUe-nV-orm.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "Provider Bundle Identifier"; ObjectID = "cVD-a6-G4w"; */
+"cVD-a6-G4w.title" = "Identificatore pacchetto provider";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret"; ObjectID = "cWp-Jy-KYV"; */
+"cWp-Jy-KYV.title" = "Segreto condiviso";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "d3l-pk-5fH"; */
+"d3l-pk-5fH.title" = "Account";
+
+/* Class = "NSButtonCell"; title = "Enable NAT keepalive while the device is asleep"; ObjectID = "d3Z-Cs-Im0"; */
+"d3Z-Cs-Im0.title" = "Abilita keepalive NAT mentre il dispositivo è in stop";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the connection"; ObjectID = "D7e-6F-0uP"; */
+"D7e-6F-0uP.title" = "Credenziale per l'autenticazione della connessione";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "D09-Eh-zXX"; */
+"D09-Eh-zXX.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Check Point Mobile VPN"; ObjectID = "D35-d3-S31"; */
+"D35-d3-S31.title" = "Check Point Mobile VPN";
+
+/* Class = "NSTextFieldCell"; title = "Password for authenticating the connection"; ObjectID = "D42-xe-uHD"; */
+"D42-xe-uHD.title" = "Password per l'autenticazione della connessione";
+
+/* Class = "NSMenuItem"; title = "Aruba VIA"; ObjectID = "D95-6v-PE4"; */
+"D95-6v-PE4.title" = "Aruba VIA";
+
+/* Class = "NSDictionaryController"; dAr-lc-dcU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Key"; ObjectID = "dAr-lc-dcU"; */
+"dAr-lc-dcU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "Chiave";
+
+/* Class = "NSDictionaryController"; dAr-lc-dcU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1] = "Value"; ObjectID = "dAr-lc-dcU"; */
+"dAr-lc-dcU.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "Valore";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "dDN-3c-e4o"; */
+"dDN-3c-e4o.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "Domain and host names that will establish a VPN"; ObjectID = "diq-Yd-8zx"; */
+"diq-Yd-8zx.title" = "Nomi host e domini che stabiliranno una connessione VPN";
+
+/* Class = "NSTextFieldCell"; title = "Server and Port"; ObjectID = "Dji-ej-hB2"; */
+"Dji-ej-hB2.title" = "Server e porta";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "dPu-VV-DXv"; */
+"dPu-VV-DXv.title" = "5";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "dqn-GR-mnp"; */
+"dqn-GR-mnp.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Authentication type for connection"; ObjectID = "dT0-JY-zkL"; */
+"dT0-JY-zkL.title" = "Tipo di autenticazione per la connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "DtL-qZ-Hlh"; */
+"DtL-qZ-Hlh.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSMenuItem"; title = "SHA2-512"; ObjectID = "dUj-Y2-D38"; */
+"dUj-Y2-D38.title" = "SHA2-512";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "DWG-yb-sgO"; */
+"DWG-yb-sgO.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "URL used to retrieve proxy settings"; ObjectID = "e1Q-j4-wTf"; */
+"e1Q-j4-wTf.title" = "URL utilizzato per recuperare le impostazioni del proxy";
+
+/* Class = "NSMenuItem"; title = "AES-256"; ObjectID = "eAs-Hh-IVa"; */
+"eAs-Hh-IVa.title" = "AES-256";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "eBV-DC-C7w"; */
+"eBV-DC-C7w.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the connection"; ObjectID = "eDH-Pj-uE2"; */
+"eDH-Pj-uE2.title" = "Credenziale per l'autenticazione della connessione";
+
+/* Class = "NSMenuItem"; title = "AES-128"; ObjectID = "eEy-Dk-vEv"; */
+"eEy-Dk-vEv.title" = "AES-128";
+
+/* Class = "NSTextFieldCell"; title = "Lifetime In Minutes"; ObjectID = "Ei5-fJ-f0G"; */
+"Ei5-fJ-f0G.title" = "Durata In minuti";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "ejv-aP-azz"; */
+"ejv-aP-azz.title" = "Account";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "eKG-eP-nMI"; */
+"eKG-eP-nMI.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "Ekh-nO-zSc"; */
+"Ekh-nO-zSc.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSTextFieldCell"; title = "Shared secret for the connection"; ObjectID = "eN6-Fh-l0I"; */
+"eN6-Fh-l0I.title" = "Chiave condivisa per la connessione";
+
+/* Class = "NSButtonCell"; title = "Allow traffic from all captive networking apps outside VPN tunnel"; ObjectID = "ER1-YX-7tV"; */
+"ER1-YX-7tV.title" = "Consenti traffico dalle app con reti Captive fuori dal tunnel VPN";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eST-EN-80e"; */
+"eST-EN-80e.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "EAP Authentication"; ObjectID = "f1X-xx-LrY"; */
+"f1X-xx-LrY.title" = "Autenticazione EAP";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the connection"; ObjectID = "f02-gC-pZc"; */
+"f02-gC-pZc.title" = "Credenziale per l'autenticazione della connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "f3t-ja-i3U"; */
+"f3t-ja-i3U.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "NSTextFieldCell"; title = "Authentication type for connection"; ObjectID = "f9W-do-7nt"; */
+"f9W-do-7nt.title" = "Tipo di autenticazione per la connessione";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "F51-fN-blT"; */
+"F51-fN-blT.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "FaU-Uh-TLk"; */
+"FaU-Uh-TLk.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSMenuItem"; title = "1 hour"; ObjectID = "Fbm-2c-CoI"; */
+"Fbm-2c-CoI.title" = "1 ora";
+
+/* Class = "NSTextFieldCell"; title = "Realm"; ObjectID = "Ffy-cN-Vco"; */
+"Ffy-cN-Vco.title" = "Area di autenticazione";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "fhp-cm-bh9"; */
+"fhp-cm-bh9.title" = "OtherViews";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "fjo-U0-COY"; */
+"fjo-U0-COY.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSTextFieldCell"; title = "User Authentication"; ObjectID = "Fld-X3-Jgg"; */
+"Fld-X3-Jgg.title" = "Autenticazione utente";
+
+/* Class = "NSTextFieldCell"; title = "Type of the issued certificate (Machine Authentication only)"; ObjectID = "fUu-yD-HS5"; */
+"fUu-yD-HS5.title" = "Tipo di certificato emesso (solo autenticazione computer)";
+
+/* Class = "NSButtonCell"; title = "Prompt for Password"; ObjectID = "G0G-fE-Id7"; */
+"G0G-fE-Id7.title" = "Richiedi password";
+
+/* Class = "NSTextFieldCell"; title = "Login Group or Domain"; ObjectID = "G9j-ps-7rX"; */
+"G9j-ps-7rX.title" = "Gruppo o dominio di login";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "g51-wm-nQ7"; */
+"g51-wm-nQ7.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "geP-Af-jYn"; */
+"geP-Af-jYn.title" = "Server";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gEs-95-Hac"; */
+"gEs-95-Hac.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Detection interval for the connection"; ObjectID = "GGS-RM-KIZ"; */
+"GGS-RM-KIZ.title" = "Intervallo rilevamento per la connessione";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "gLl-7C-0He"; */
+"gLl-7C-0He.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "goF-zb-6CS"; */
+"goF-zb-6CS.title" = "Password";
+
+/* Class = "NSButtonCell"; title = "Enable certificate revocation check"; ObjectID = "GP6-m2-rfZ"; */
+"GP6-m2-rfZ.title" = "Abilita la verifica della revoca dei certificati";
+
+/* Class = "NSTextFieldCell"; title = "Level of data encryption applied to the connection"; ObjectID = "gQj-KK-Nuj"; */
+"gQj-KK-Nuj.title" = "Livello di codifica dei dati applicato alla connessione";
+
+/* Class = "NSTextFieldCell"; title = "Identifier"; ObjectID = "gTJ-jm-5cp"; */
+"gTJ-jm-5cp.title" = "Identificatore";
+
+/* Class = "NSButtonCell"; title = "Allow user to disable automatic connection"; ObjectID = "GUD-GC-Ruv"; */
+"GUD-GC-Ruv.title" = "Consenti all'utente di disabilitare la connessione automatica";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret"; ObjectID = "gWt-79-aGf"; */
+"gWt-79-aGf.title" = "Segreto condiviso";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "GZ6-kX-ujH"; */
+"GZ6-kX-ujH.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "h0D-0Q-5D2"; */
+"h0D-0Q-5D2.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "SA lifetime (rekey interval) in minutes"; ObjectID = "h3d-u3-tX4"; */
+"h3d-u3-tX4.title" = "Durata SA (intervallo Rekey) in minuti";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "h7E-IR-YjO"; */
+"h7E-IR-YjO.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Setup"; ObjectID = "Hag-93-7ma"; */
+"Hag-93-7ma.title" = "Configurazione proxy";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "Han-L2-gba"; */
+"Han-L2-gba.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "hCt-i7-IvJ"; */
+"hCt-i7-IvJ.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Local Identifier"; ObjectID = "Hd0-Bg-VVE"; */
+"Hd0-Bg-VVE.title" = "Identificatore locale";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "Hd2-Rm-7NR"; */
+"Hd2-Rm-7NR.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSTextFieldCell"; title = "Authentication type for connection"; ObjectID = "Hha-2t-HUP"; */
+"Hha-2t-HUP.title" = "Tipo di autenticazione per la connessione";
+
+/* Class = "NSButtonCell"; title = "RSA SecureID"; ObjectID = "hhS-5m-rFM"; */
+"hhS-5m-rFM.title" = "RSA SecurID";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the provider to use for this configuration"; ObjectID = "HHV-HQ-x98"; */
+"HHV-HQ-x98.title" = "Identificatore del pacchetto del provider da usare per questa configurazione";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "hkE-Cf-8iD"; */
+"hkE-Cf-8iD.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSTextFieldCell"; title = "Shared secret for the connection"; ObjectID = "hRR-vt-zqe"; */
+"hRR-vt-zqe.title" = "Chiave condivisa per la connessione";
+
+/* Class = "NSTextFieldCell"; title = "Diffie-Hellman Group"; ObjectID = "hYo-ys-Wnz"; */
+"hYo-ys-Wnz.title" = "Gruppo Diffie-Hellman";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "Hz2-Az-83B"; */
+"Hz2-Az-83B.title" = "Media";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "I24-Sj-lWa"; */
+"I24-Sj-lWa.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "15 minutes"; ObjectID = "i77-7B-hoY"; */
+"i77-7B-hoY.title" = "15 minuti";
+
+/* Class = "NSMenuItem"; title = "1 minute"; ObjectID = "IEs-2U-CMu"; */
+"IEs-2U-CMu.title" = "1 minuto";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "iFQ-Ri-zoR"; */
+"iFQ-Ri-zoR.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "iiN-lN-TxU"; */
+"iiN-lN-TxU.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Imu-SW-Y2f"; */
+"Imu-SW-Y2f.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTableColumn"; headerCell.title = "Match Domain or Host"; ObjectID = "IOc-0E-heP"; */
+"IOc-0E-heP.headerCell.title" = "Dominio o host";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "iOq-3C-BMm"; */
+"iOq-3C-BMm.title" = "Pulsante di scelta";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "isr-f5-KkL"; */
+"isr-f5-KkL.title" = "Account";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "iYQ-pl-iCm"; */
+"iYQ-pl-iCm.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "16"; ObjectID = "J1Y-03-YVL"; */
+"J1Y-03-YVL.title" = "16";
+
+/* Class = "NSTextFieldCell"; title = "Disconnect after given time idle"; ObjectID = "J9Q-Rr-T4G"; */
+"J9Q-Rr-T4G.title" = "Disconnetti dopo un tempo di inattività specificato";
+
+/* Class = "NSTextFieldCell"; title = "Identity Certificate"; ObjectID = "JCE-ab-b6X"; */
+"JCE-ab-b6X.title" = "Certificato identità";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "jcN-jk-RtL"; */
+"jcN-jk-RtL.title" = "secondi";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "Jdc-Wg-2oE"; */
+"Jdc-Wg-2oE.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "jDO-bM-jJw"; */
+"jDO-bM-jJw.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JE0-a9-OdT"; */
+"JE0-a9-OdT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "jFI-ZC-sSu"; */
+"jFI-ZC-sSu.title" = "Server";
+
+/* Class = "NSMenuItem"; title = "Drop traffic"; ObjectID = "JMl-tf-E5U"; */
+"JMl-tf-E5U.title" = "Rilascia traffico";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "jPe-Io-FAw"; */
+"jPe-Io-FAw.title" = "Server";
+
+/* Class = "NSMenuItem"; title = "14"; ObjectID = "JPu-x4-2HE"; */
+"JPu-x4-2HE.title" = "14";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "jVh-hC-aJi"; */
+"jVh-hC-aJi.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "Jyu-Sv-s9L"; */
+"Jyu-Sv-s9L.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "k7V-FG-FDi"; */
+"k7V-FG-FDi.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "Kk8-fW-X24"; */
+"Kk8-fW-X24.title" = "<contenuto qui>";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "kKs-Ce-ZJG"; */
+"kKs-Ce-ZJG.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Cisco Legacy AnyConnect"; ObjectID = "klJ-wK-Z95"; */
+"klJ-wK-Z95.title" = "Cisco Legacy AnyConnect";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "Knv-r6-85S"; */
+"Knv-r6-85S.title" = "Nessuna";
+
+/* Class = "NSMenuItem"; title = "Allow traffic via tunnel"; ObjectID = "knX-0E-UfQ"; */
+"knX-0E-UfQ.title" = "Consenti traffico attraverso il tunnel";
+
+/* Class = "NSMenuItem"; title = "DES"; ObjectID = "koH-qr-8ZC"; */
+"koH-qr-8ZC.title" = "DES";
+
+/* Class = "NSMenuItem"; title = "Certificate"; ObjectID = "kRl-Su-xUx"; */
+"kRl-Su-xUx.title" = "Certificato";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "KUh-lE-W1b"; */
+"KUh-lE-W1b.title" = "Automatica";
+
+/* Class = "NSTextFieldCell"; title = "Integrity algorithm to use"; ObjectID = "KUh-Qb-bSJ"; */
+"KUh-Qb-bSJ.title" = "Algoritmo di integrità da utilizzare";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "kZc-f7-38J"; */
+"kZc-f7-38J.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "l4t-lV-Eag"; */
+"l4t-lV-Eag.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSTextFieldCell"; title = "Cellular Services"; ObjectID = "LAw-Cw-ycU"; */
+"LAw-Cw-ycU.title" = "Servizi di tipo cellulare";
+
+/* Class = "NSTextFieldCell"; title = "Credential"; ObjectID = "LE1-b9-MHS"; */
+"LE1-b9-MHS.title" = "Credenziale";
+
+/* Class = "NSTextFieldCell"; title = "Server Certificate Issuer Common Name"; ObjectID = "le1-P9-KxY"; */
+"le1-P9-KxY.title" = "Nome comune autorità emittente certificato server";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "leU-Aa-Rij"; */
+"leU-Aa-Rij.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Lfb-db-yxU"; */
+"Lfb-db-yxU.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "LJN-hk-lyb"; */
+"LJN-hk-lyb.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Disconnect after this length of time idle"; ObjectID = "ljZ-1o-H34"; */
+"ljZ-1o-H34.title" = "Disconnetti se inattivo oltre il tempo indicato";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "lOj-Fe-ISB"; */
+"lOj-Fe-ISB.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Password for authenticating the connection"; ObjectID = "LPC-Wp-jje"; */
+"LPC-Wp-jje.title" = "Password per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "LRn-fe-YL9"; */
+"LRn-fe-YL9.title" = "Password";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "Ltx-w3-iQb"; */
+"Ltx-w3-iQb.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "lUd-V6-Vmh"; */
+"lUd-V6-Vmh.title" = "Account";
+
+/* Class = "NSTextFieldCell"; title = "AirPrint"; ObjectID = "Lvw-zA-5xv"; */
+"Lvw-zA-5xv.title" = "AirPrint";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "lWX-9N-7xh"; */
+"lWX-9N-7xh.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Traffic from these apps will be allowed outside the VPN tunnel"; ObjectID = "Lxu-GM-0Vl"; */
+"Lxu-GM-0Vl.title" = "Il traffico proveniente da queste app verrà consentito fuori dal tunnel VPN";
+
+/* Class = "NSButtonCell"; title = "Enable VPN On Demand"; ObjectID = "LZ7-Rk-lKc"; */
+"LZ7-Rk-lKc.title" = "Abilita VPN su richiesta";
+
+/* Class = "NSMenuItem"; title = "30 minutes"; ObjectID = "m11-hN-6fH"; */
+"m11-hN-6fH.title" = "30 minuti";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "m67-iN-1Ld"; */
+"m67-iN-1Ld.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSButtonCell"; title = "Enable EAP"; ObjectID = "maD-6g-IIt"; */
+"maD-6g-IIt.title" = "Abilita EAP";
+
+/* Class = "NSTextFieldCell"; title = "Configures proxies to be used with this VPN connection"; ObjectID = "MCf-bF-wtR"; */
+"MCf-bF-wtR.title" = "Configura proxy da utilizzare con la connessione VPN";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "Mo9-pY-w6T"; */
+"Mo9-pY-w6T.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "mrH-sS-QyR"; */
+"mrH-sS-QyR.title" = ":";
+
+/* Class = "NSTextFieldCell"; title = "Dead Peer Detection Rate"; ObjectID = "mSa-tl-QkM"; */
+"mSa-tl-QkM.title" = "Frequenza rilevamento dead peer";
+
+/* Class = "NSMenuItem"; title = "SonicWALL Mobile Connect"; ObjectID = "MW0-Fh-2tu"; */
+"MW0-Fh-2tu.title" = "SonicWALL Mobile Connect";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "mZt-Ns-g0t"; */
+"mZt-Ns-g0t.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "Disconnect On Idle"; ObjectID = "nRe-lg-rso"; */
+"nRe-lg-rso.title" = "Disconnetti se inattivo";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "NXo-Mh-ooL"; */
+"NXo-Mh-ooL.title" = "Server";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "nyE-f5-Bqf"; */
+"nyE-f5-Bqf.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "o1x-Wx-Tkm"; */
+"o1x-Wx-Tkm.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "O3n-PS-wwA"; */
+"O3n-PS-wwA.title" = "Mai";
+
+/* Class = "NSMenuItem"; title = "Allow traffic outside tunnel"; ObjectID = "O9d-mX-hto"; */
+"O9d-mX-hto.title" = "Consenti traffico fuori dal tunnel";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "oCm-yD-x1V"; */
+"oCm-yD-x1V.title" = "Pulsante di scelta";
+
+/* Class = "NSTextFieldCell"; title = "Realm for authenticating the connection"; ObjectID = "OeC-Qk-q17"; */
+"OeC-Qk-q17.title" = "Area di autenticazione per la connessione";
+
+/* Class = "NSMenuItem"; title = "15"; ObjectID = "oEu-8n-dTv"; */
+"oEu-8n-dTv.title" = "15";
+
+/* Class = "NSTextFieldCell"; title = "FQDN, UserFQDN, Address or ASN1DN remote identifier"; ObjectID = "ofZ-aJ-uGi"; */
+"ofZ-aJ-uGi.title" = "FQDN, UserFQDN, indirizzo o identificatore remoto ASN1DN";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "ohu-c8-j9f"; */
+"ohu-c8-j9f.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "oIh-Ts-AeE"; */
+"oIh-Ts-AeE.title" = "<contenuto qui>";
+
+/* Class = "NSButtonCell"; title = "Use Hybrid Authentication"; ObjectID = "on7-aU-7mD"; */
+"on7-aU-7mD.title" = "Utilizza autenticazione ibrida";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove server name"; ObjectID = "OoM-ek-Esx"; */
+"OoM-ek-Esx.ibShadowedToolTip" = "Rimuovi nome server";
+
+/* Class = "NSTextFieldCell"; title = "1440"; ObjectID = "oqw-80-XuO"; */
+"oqw-80-XuO.title" = "1440";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "P4D-un-Ljc"; */
+"P4D-un-Ljc.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required for EAP with Certificate auth]"; ObjectID = "PCj-w0-lPl"; */
+"PCj-w0-lPl.ibShadowedIsNilPlaceholder" = "[richiesto per EAP con autenticazione certificato]";
+
+/* Class = "NSTextFieldCell"; title = "Login Group or Domain for authenticating the connection"; ObjectID = "Pda-2r-5tO"; */
+"Pda-2r-5tO.title" = "Dominio o gruppo per l'autenticazione della connessione";
+
+/* Class = "NSButtonCell"; title = "Always-on VPN (supervised only)"; ObjectID = "PDc-T0-UmK"; */
+"PDc-T0-UmK.title" = "VPN sempre attiva (solo supervisionati)";
+
+/* Class = "NSTableColumn"; headerCell.title = "On Demand Action"; ObjectID = "pdH-dh-iR8"; */
+"pdH-dh-iR8.headerCell.title" = "Connessione VPN";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "pGL-U3-SzW"; */
+"pGL-U3-SzW.title" = "minuti";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PGv-bN-qy3"; */
+"PGv-bN-qy3.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "PQc-XK-YEG"; */
+"PQc-XK-YEG.title" = "20";
+
+/* Class = "NSTextFieldCell"; title = "Group"; ObjectID = "ptf-Pd-5tE"; */
+"ptf-Pd-5tE.title" = "Gruppo";
+
+/* Class = "NSMenuItem"; title = "Cisco AnyConnect"; ObjectID = "pTw-dB-bnV"; */
+"pTw-dB-bnV.title" = "Cisco AnyConnect";
+
+/* Class = "NSTextFieldCell"; title = "Authentication type for connection"; ObjectID = "pvr-cb-A11"; */
+"pvr-cb-A11.title" = "Tipo di autenticazione per la connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "pWG-YF-hNw"; */
+"pWG-YF-hNw.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "Group for authenticating the connection"; ObjectID = "PxY-FP-Zsw"; */
+"PxY-FP-Zsw.title" = "Gruppo per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "Password used to authenticate with the proxy"; ObjectID = "Q9U-16-hsy"; */
+"Q9U-16-hsy.title" = "Password utilizzata per l'autenticazione con il proxy";
+
+/* Class = "NSTextFieldCell"; title = "Request PIN during connection and send with authentication"; ObjectID = "q82-Lv-B7X"; */
+"q82-Lv-B7X.title" = "Richiedi PIN durante la connessione e invia con autenticazione";
+
+/* Class = "NSTextFieldCell"; title = "Machine Authentication"; ObjectID = "qbq-hk-LPg"; */
+"qbq-hk-LPg.title" = "Autenticazione computer";
+
+/* Class = "NSTextFieldCell"; title = "Local Identifier"; ObjectID = "qds-Fh-EGr"; */
+"qds-Fh-EGr.title" = "Identificatore locale";
+
+/* Class = "NSMenuItem"; title = "L2TP"; ObjectID = "QIy-6P-LoY"; */
+"QIy-6P-LoY.title" = "L2TP";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "qkX-zw-6xC"; */
+"qkX-zw-6xC.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "QnG-aH-irz"; */
+"QnG-aH-irz.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "Authentication type for connection"; ObjectID = "Qrx-bj-T6G"; */
+"Qrx-bj-T6G.title" = "Tipo di autenticazione per la connessione";
+
+/* Class = "NSMenuItem"; title = "After interval"; ObjectID = "qu4-tU-mGp"; */
+"qu4-tU-mGp.title" = "Dopo intervallo";
+
+/* Class = "NSTextFieldCell"; title = "Remote Identifier"; ObjectID = "QuD-bL-Rbx"; */
+"QuD-bL-Rbx.title" = "Identificatore remoto";
+
+/* Class = "NSButtonCell"; title = "Send all traffic through VPN"; ObjectID = "QxE-Qb-Xw7"; */
+"QxE-Qb-Xw7.title" = "Invia tutto il traffico mediante VPN";
+
+/* Class = "NSMenuItem"; title = "3DES"; ObjectID = "QzW-Sm-vZ4"; */
+"QzW-Sm-vZ4.title" = "3DES";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "QZY-TE-cei"; */
+"QZY-TE-cei.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Include User PIN"; ObjectID = "r9a-Ql-yoG"; */
+"r9a-Ql-yoG.title" = "Includi PIN utente";
+
+/* Class = "NSTextFieldCell"; title = "Common name of the server certificate"; ObjectID = "rBn-fw-7aw"; */
+"rBn-fw-7aw.title" = "Nome comune del certificato server";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "rG3-Fn-osr"; */
+"rG3-Fn-osr.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "Rm3-UO-rSK"; */
+"Rm3-UO-rSK.title" = "Alta";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "rvu-T2-gFD"; */
+"rvu-T2-gFD.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RWW-ln-U1d"; */
+"RWW-ln-U1d.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "s2D-Qg-7Ov"; */
+"s2D-Qg-7Ov.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSMenuItem"; title = "SHA2-384"; ObjectID = "S7D-IS-D7j"; */
+"S7D-IS-D7j.title" = "SHA2-384";
+
+/* Class = "NSTextFieldCell"; title = "Authenticate using secret, name, and server-side certificate"; ObjectID = "s7T-4m-ege"; */
+"s7T-4m-ege.title" = "Autentica utilizzando nome, segreto e certificato del server";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "s8o-La-wIA"; */
+"s8o-La-wIA.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Encryption Level"; ObjectID = "sbn-JK-eWp"; */
+"sbn-JK-eWp.title" = "Livello di codifica";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "sFu-SI-4xs"; */
+"sFu-SI-4xs.headerCell.title" = "Chiave";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "sgS-CU-z0N"; */
+"sgS-CU-z0N.title" = "Automatica";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "SPM-zU-79u"; */
+"SPM-zU-79u.title" = "1";
+
+/* Class = "NSMenuItem"; title = "Password+Certificate"; ObjectID = "SQ9-X8-Fac"; */
+"SQ9-X8-Fac.title" = "Password e certificato";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "SwE-f7-k6k"; */
+"SwE-f7-k6k.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSMenuItem"; title = "Pulse Secure"; ObjectID = "swm-Os-rXF"; */
+"swm-Os-rXF.title" = "Pulse Secure";
+
+/* Class = "NSMenuItem"; title = "ECDSA384"; ObjectID = "swU-9c-fH7"; */
+"swU-9c-fH7.title" = "ECDSA384";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "SwV-s0-kAm"; */
+"SwV-s0-kAm.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove server name"; ObjectID = "sZM-30-Wtp"; */
+"sZM-30-Wtp.ibShadowedToolTip" = "Rimuovi nome server";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "T8f-pG-f5r"; */
+"T8f-pG-f5r.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "19"; ObjectID = "t9v-WS-ZGe"; */
+"t9v-WS-ZGe.title" = "19";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "TAt-mQ-BbB"; */
+"TAt-mQ-BbB.title" = "2";
+
+/* Class = "NSMenuItem"; title = "SHA1-160"; ObjectID = "TAv-M7-Tsc"; */
+"TAv-M7-Tsc.title" = "SHA1-160";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "Tbd-ez-0v6"; */
+"Tbd-ez-0v6.title" = "<contenuto qui>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Te2-I4-jRp"; */
+"Te2-I4-jRp.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "TEe-1g-NIN"; */
+"TEe-1g-NIN.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSSegmentedCell"; Tg4-94-ylW.ibShadowedLabels[0] = "IKE SA Params"; ObjectID = "Tg4-94-ylW"; */
+"Tg4-94-ylW.ibShadowedLabels[0]" = "Parametri SA IKE";
+
+/* Class = "NSSegmentedCell"; Tg4-94-ylW.ibShadowedLabels[1] = "Child SA Params"; ObjectID = "Tg4-94-ylW"; */
+"Tg4-94-ylW.ibShadowedLabels[1]" = "Parametri SA figlio";
+
+/* Class = "NSTextFieldCell"; title = "Role for authenticating the connection"; ObjectID = "Th9-Lj-VIe"; */
+"Th9-Lj-VIe.title" = "Ruolo per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "FQDN, UserFQDN, Address or ASN1DN local identifier"; ObjectID = "ti6-WS-Vea"; */
+"ti6-WS-Vea.title" = "FQDN, UserFQDN, indirizzo o identificatore locale ASN1DN";
+
+/* Class = "NSMenuItem"; title = "Allow traffic via tunnel"; ObjectID = "TkI-vc-z8K"; */
+"TkI-vc-z8K.title" = "Consenti traffico attraverso il tunnel";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "tLh-8i-rgD"; */
+"tLh-8i-rgD.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSMenuItem"; title = "IKEv2"; ObjectID = "tLT-Uk-rUG"; */
+"tLT-Uk-rUG.title" = "IKEv2";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "Tya-Tr-b2C"; */
+"Tya-Tr-b2C.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "U8G-Ec-0Rr"; */
+"U8G-Ec-0Rr.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Manual"; ObjectID = "ubt-0d-srt"; */
+"ubt-0d-srt.title" = "Manuale";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "uEV-IF-Jpz"; */
+"uEV-IF-Jpz.title" = "Account";
+
+/* Class = "NSMenuItem"; title = "Certificate"; ObjectID = "UFi-r7-yCz"; */
+"UFi-r7-yCz.title" = "Certificato";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "Ugz-gE-Gnx"; */
+"Ugz-gE-Gnx.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSMenuItem"; title = "Allow traffic via tunnel"; ObjectID = "uib-um-ZR7"; */
+"uib-um-ZR7.title" = "Consenti traffico attraverso il tunnel";
+
+/* Class = "NSMenuItem"; title = "Drop traffic"; ObjectID = "ulx-EY-M7d"; */
+"ulx-EY-M7d.title" = "Rilascia traffico";
+
+/* Class = "NSTextFieldCell"; title = "Server Certificate Common Name"; ObjectID = "UNN-Vp-RVx"; */
+"UNN-Vp-RVx.title" = "Nome comune certificato server";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "uoS-iV-Jud"; */
+"uoS-iV-Jud.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "Disconnect on Idle"; ObjectID = "uRI-AA-ZIH"; */
+"uRI-AA-ZIH.title" = "Disconnetti se inattivo";
+
+/* Class = "NSMenuItem"; title = "RSA"; ObjectID = "uRk-5l-e8q"; */
+"uRk-5l-e8q.title" = "RSA";
+
+/* Class = "NSTextFieldCell"; title = "FQDN, UserFQDN, Address or ASN1DN remote identifier"; ObjectID = "UrV-GQ-5qF"; */
+"UrV-GQ-5qF.title" = "FQDN, UserFQDN, indirizzo o identificatore remoto ASN1DN";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "usO-tt-MbK"; */
+"usO-tt-MbK.title" = "Nessuna";
+
+/* Class = "NSTextFieldCell"; title = "VPN"; ObjectID = "uug-2p-DcS"; */
+"uug-2p-DcS.title" = "VPN";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Uv0-s5-gq0"; */
+"Uv0-s5-gq0.title" = "OtherViews";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "Uvv-PF-Zia"; */
+"Uvv-PF-Zia.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "NSMenuItem"; title = "2 minutes"; ObjectID = "uxk-Li-SiH"; */
+"uxk-Li-SiH.title" = "2 minuti";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "uzq-aN-cQ8"; */
+"uzq-aN-cQ8.title" = "Password";
+
+/* Class = "NSMenuItem"; title = "Never establish"; ObjectID = "uzw-qY-RJH"; */
+"uzw-qY-RJH.title" = "Non stabilire mai";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add server name"; ObjectID = "vAw-uM-dqv"; */
+"vAw-uM-dqv.ibShadowedToolTip" = "Aggiungi nome server";
+
+/* Class = "NSMenuItem"; title = "21"; ObjectID = "vaX-C9-Wif"; */
+"vaX-C9-Wif.title" = "21";
+
+/* Class = "NSTextFieldCell"; title = "Group identifier for the connection"; ObjectID = "vB1-qa-bjw"; */
+"vB1-qa-bjw.title" = "Identificatore gruppo per la connessione";
+
+/* Class = "NSButtonCell"; title = "Use IPv4 / IPv6 Internal Subnet Attributes"; ObjectID = "Vcg-bx-06n"; */
+"Vcg-bx-06n.title" = "Utilizza attributi sottorete interna IPv4/IPv6";
+
+/* Class = "NSTextFieldCell"; title = "Encryption algorithm to use"; ObjectID = "vfH-F7-uX4"; */
+"vfH-F7-uX4.title" = "Algoritmo di codifica da utilizzare";
+
+/* Class = "NSMenuItem"; title = "ECDSA256"; ObjectID = "vjt-w6-Dtw"; */
+"vjt-w6-Dtw.title" = "ECDSA256";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "VKd-j1-ExD"; */
+"VKd-j1-ExD.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "User account for authenticating the connection"; ObjectID = "vlg-lM-kdg"; */
+"vlg-lM-kdg.title" = "Account utente per l'autenticazione della connessione";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the connection (displayed on the device)"; ObjectID = "vlv-cK-1O9"; */
+"vlv-cK-1O9.title" = "Nome visualizzato della connessione (visualizzato sul dispositivo)";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Type"; ObjectID = "vOr-ok-UKc"; */
+"vOr-ok-UKc.title" = "Tipo di certificato";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "VR7-hh-PDH"; */
+"VR7-hh-PDH.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "vR9-5U-Dlp"; */
+"vR9-5U-Dlp.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "VsU-rv-dmi"; */
+"VsU-rv-dmi.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSMenuItem"; title = "Juniper SSL"; ObjectID = "vY9-78-xsP"; */
+"vY9-78-xsP.title" = "Juniper SSL";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the connection"; ObjectID = "W0B-dp-UCg"; */
+"W0B-dp-UCg.title" = "Credenziale per l'autenticazione della connessione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Wam-rB-RJt"; */
+"Wam-rB-RJt.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSMenuItem"; title = "17"; ObjectID = "WBq-u2-jbT"; */
+"WBq-u2-jbT.title" = "17";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "wPf-zj-CLl"; */
+"wPf-zj-CLl.title" = "OtherViews";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "WQj-jG-wve"; */
+"WQj-jG-wve.ibShadowedIsNilPlaceholder" = "Aggiungi certificati nel payload Certificati";
+
+/* Class = "NSMenuItem"; title = "Establish if needed"; ObjectID = "wQn-nS-vVI"; */
+"wQn-nS-vVI.title" = "Stabilisci se necessario";
+
+/* Class = "NSMenuItem"; title = "IPsec"; ObjectID = "WrV-gv-UDo"; */
+"WrV-gv-UDo.title" = "IPsec";
+
+/* Class = "NSMenuItem"; title = "Always establish"; ObjectID = "wub-I9-dz2"; */
+"wub-I9-dz2.title" = "Stabilisci sempre";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "WX8-fk-8Wa"; */
+"WX8-fk-8Wa.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "wYl-E6-xo9"; */
+"wYl-E6-xo9.title" = "Mai";
+
+/* Class = "NSTextFieldCell"; title = "Prompt user for password on the device"; ObjectID = "WYz-kJ-1e3"; */
+"WYz-kJ-1e3.title" = "Richiedi all'utente la password per il dispositivo";
+
+/* Class = "NSTableColumn"; headerCell.title = "Match Domain or Host"; ObjectID = "x4D-nW-zzN"; */
+"x4D-nW-zzN.headerCell.title" = "Dominio o host";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove VPN payload"; ObjectID = "X8a-6z-1Md"; */
+"X8a-6z-1Md.ibShadowedToolTip" = "Rimuovi payload VPN";
+
+/* Class = "NSTextFieldCell"; title = "Identity Certificate"; ObjectID = "Xbj-Rd-2WJ"; */
+"Xbj-Rd-2WJ.title" = "Certificato identità";
+
+/* Class = "NSTextFieldCell"; title = "Shared secret for the connection"; ObjectID = "XBn-do-mBZ"; */
+"XBn-do-mBZ.title" = "Chiave condivisa per la connessione";
+
+/* Class = "NSButtonCell"; title = "Allow traffic from captive web sheet outside the VPN tunnel"; ObjectID = "Xkq-RO-wZG"; */
+"Xkq-RO-wZG.title" = "Consenti traffico dalla schermata web Captive fuori dal tunnel VPN";
+
+/* Class = "NSTextFieldCell"; title = "Account"; ObjectID = "Xmk-pG-VRA"; */
+"Xmk-pG-VRA.title" = "Account";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "XMm-Ds-j6g"; */
+"XMm-Ds-j6g.title" = "Nessuna";
+
+/* Class = "NSButtonCell"; title = "RSA SecurID"; ObjectID = "xoc-aG-S9G"; */
+"xoc-aG-S9G.title" = "RSA SecurID";
+
+/* Class = "NSButtonCell"; title = "Send all traffic through VPN"; ObjectID = "XPU-XD-pon"; */
+"XPU-XD-pon.title" = "Invia tutto il traffico mediante VPN";
+
+/* Class = "NSButtonCell"; title = "Enable VPN On Demand"; ObjectID = "xQF-Dp-owE"; */
+"xQF-Dp-owE.title" = "Abilita VPN su richiesta";
+
+/* Class = "NSTextFieldCell"; title = "Identity Certificate"; ObjectID = "xQZ-Wd-jsL"; */
+"xQZ-Wd-jsL.title" = "Certificato identità";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Xsp-d4-2dl"; */
+"Xsp-d4-2dl.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "xvs-YX-Irq"; */
+"xvs-YX-Irq.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Domain and host names that will establish a VPN"; ObjectID = "xx3-7J-CqS"; */
+"xx3-7J-CqS.title" = "Nomi host e domini che stabiliranno una connessione VPN";
+
+/* Class = "NSButtonCell"; title = "Enable perfect forward secrecy"; ObjectID = "Y9D-Hx-0lz"; */
+"Y9D-Hx-0lz.title" = "Abilita perfect forward secrecy";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "y9q-uY-CKQ"; */
+"y9q-uY-CKQ.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "NSTextFieldCell"; title = "Role"; ObjectID = "YAZ-zE-WnU"; */
+"YAZ-zE-WnU.title" = "Ruolo";
+
+/* Class = "NSMenuItem"; title = "Shared Secret / Group Name"; ObjectID = "YCI-tJ-f2N"; */
+"YCI-tJ-f2N.title" = "Segreto condiviso / Nome gruppo";
+
+/* Class = "NSButtonCell"; title = "Disable redirects"; ObjectID = "ydN-dN-zcR"; */
+"ydN-dN-zcR.title" = "Disabilita reindirizzamenti";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "yfk-3e-cbr"; */
+"yfk-3e-cbr.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Type of connection enabled by this policy"; ObjectID = "YKd-uk-8up"; */
+"YKd-uk-8up.title" = "Tipo di connessione abilitata da questa politica";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "YLD-aP-WlH"; */
+"YLD-aP-WlH.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "Ym5-Sn-Ogj"; */
+"Ym5-Sn-Ogj.ibShadowedIsNilPlaceholder" = "[impostato sul dispositivo]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Yug-Ov-Aht"; */
+"Yug-Ov-Aht.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Z6M-42-6fY"; */
+"Z6M-42-6fY.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Password"; ObjectID = "Z7e-Li-lyj"; */
+"Z7e-Li-lyj.title" = "Password";
+
+/* Class = "NSTextFieldCell"; title = "Service Exceptions"; ObjectID = "zCc-UY-UMt"; */
+"zCc-UY-UMt.title" = "Eccezioni servizio";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "zeY-Eb-KdJ"; */
+"zeY-Eb-KdJ.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "20"; ObjectID = "zG0-cv-k4B"; */
+"zG0-cv-k4B.title" = "20";
+
+/* Class = "NSMenuItem"; title = "SHA2-256"; ObjectID = "Zh0-xZ-5qI"; */
+"Zh0-xZ-5qI.title" = "SHA2-256";
+
+/* Class = "NSTableColumn"; headerCell.title = "On Demand Action"; ObjectID = "zIa-rK-8C0"; */
+"zIa-rK-8C0.headerCell.title" = "Connessione VPN";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name"; ObjectID = "ZIJ-SY-WdE"; */
+"ZIJ-SY-WdE.title" = "Nome connessione";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "znQ-6J-Sc1"; */
+"znQ-6J-Sc1.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address for server"; ObjectID = "zPF-xd-yuO"; */
+"zPF-xd-yuO.title" = "Nome host o indirizzo IP per il server";
+
+/* Class = "NSTextFieldCell"; title = "The minimum threshold is 20 seconds"; ObjectID = "ZpK-ei-Cy3"; */
+"ZpK-ei-Cy3.title" = "La soglia minima è 20 secondi";
+
+/* Class = "NSMenuItem"; title = "Maximum (128-bit)"; ObjectID = "Zx9-LB-Fqs"; */
+"Zx9-LB-Fqs.title" = "Massima (128 bit)";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "ZXX-Ih-GJd"; */
+"ZXX-Ih-GJd.ibShadowedToolTip" = "Questo campo è obbligatorio per i dispositivi che intendi preparare o supervisionare";
+

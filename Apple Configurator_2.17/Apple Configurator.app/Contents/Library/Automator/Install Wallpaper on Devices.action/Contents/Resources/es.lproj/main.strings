@@ -1,0 +1,102 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "use device name for overlay checkbox"; ObjectID = "0LB-2n-JGN"; */
+"0LB-2n-JGN.ibExternalAccessibilityDescription" = "opción de usar el nombre del dispositivo para la superposición";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Select to use the device name as the overlay text"; ObjectID = "0LB-2n-JGN"; */
+"0LB-2n-JGN.ibExternalAccessibilityHelp" = "Usar el nombre del dispositivo como texto superpuesto";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select to use the device name as the overlay text"; ObjectID = "0LB-2n-JGN"; */
+"0LB-2n-JGN.ibShadowedToolTip" = "Usar el nombre del dispositivo como texto superpuesto";
+
+/* Class = "AMTokenField"; ibExternalAccessibilityDescription = "overlay text input"; ObjectID = "6js-q3-1L1"; */
+"6js-q3-1L1.ibExternalAccessibilityDescription" = "superponer entrada de texto";
+
+/* Class = "AMTokenField"; ibExternalAccessibilityHelp = "Enter a short text string to be overlaid on the wallpaper"; ObjectID = "6js-q3-1L1"; */
+"6js-q3-1L1.ibExternalAccessibilityHelp" = "Introduce una cadena de texto corta para superponerla en el fondo de pantalla";
+
+/* Class = "AMTokenField"; ibShadowedToolTip = "Enter a short text string to be overlaid on the wallpaper"; ObjectID = "6js-q3-1L1"; */
+"6js-q3-1L1.ibShadowedToolTip" = "Introduce una cadena de texto corta para superponerla en el fondo de pantalla";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8i1-fn-6eJ"; */
+"8i1-fn-6eJ.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8nx-dA-L7f"; */
+"8nx-dA-L7f.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Image file:"; ObjectID = "9gs-8G-Wef"; */
+"9gs-8G-Wef.title" = "Archivo de imagen:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate:"; ObjectID = "a1d-W5-cwy"; */
+"a1d-W5-cwy.title" = "Certificado:";
+
+/* Class = "NSButtonCell"; title = "Use device name"; ObjectID = "GJ9-2z-J5E"; */
+"GJ9-2z-J5E.title" = "Usar nombre del dispositivo";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityDescription = "supervision certificate file selection popup"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.ibExternalAccessibilityDescription" = "menú desplegable de selección de archivo de certificado de supervisión";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityHelp = "Select the supervision certificate file"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.ibExternalAccessibilityHelp" = "Seleccionar el archivo de certificado de supervisión";
+
+/* Class = "AMPathPopUpButton"; ibShadowedToolTip = "Select the supervision certificate file"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.ibShadowedToolTip" = "Seleccionar el archivo de certificado de supervisión";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select certificate…"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.placeholder" = "Seleccionar certificado…";
+
+/* Class = "NSTextFieldCell"; title = "Screen:"; ObjectID = "KZv-fQ-Fyg"; */
+"KZv-fQ-Fyg.title" = "Pantalla:";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityDescription = "private key file chooser popup"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.ibExternalAccessibilityDescription" = "menú desplegable del selector de archivo de clave privada";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityHelp = "Select the private key file"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.ibExternalAccessibilityHelp" = "Seleccionar el archivo de la clave privada";
+
+/* Class = "AMPathPopUpButton"; ibShadowedToolTip = "Select the private key file"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.ibShadowedToolTip" = "Seleccionar el archivo de la clave privada";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select private key…"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.placeholder" = "Seleccionar clave privada…";
+
+/* Class = "NSMenuItem"; title = "Lock Screen"; ObjectID = "m1q-cd-KIy"; */
+"m1q-cd-KIy.title" = "Pantalla de bloqueo";
+
+/* Class = "NSTextFieldCell"; title = "Changing the wallpaper requires a supervised device identity."; ObjectID = "oks-M1-pj7"; */
+"oks-M1-pj7.title" = "Se necesita una identidad de dispositivo supervisada para cambiar el fondo de pantalla.";
+
+/* Class = "NSTextFieldCell"; title = "Private Key:"; ObjectID = "Rfs-jC-pF1"; */
+"Rfs-jC-pF1.title" = "Clave privada:";
+
+/* Class = "NSTextFieldCell"; title = "Text:"; ObjectID = "rSQ-U0-gYW"; */
+"rSQ-U0-gYW.title" = "Texto:";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityDescription = "image file chooser popup"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.ibExternalAccessibilityDescription" = "menú desplegable del selector de imagen";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityHelp = "Choose the image file to use as the wallpaper"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.ibExternalAccessibilityHelp" = "Usar el archivo de imagen como fondo de pantalla";
+
+/* Class = "AMPathPopUpButton"; ibShadowedToolTip = "Choose the image file to use as the wallpaper"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.ibShadowedToolTip" = "Usar el archivo de imagen como fondo de pantalla";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Choose JPEG image file…"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.placeholder" = "Seleccionar archivo de imagen JPEG…";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "screen selector popup"; ObjectID = "s4f-kj-8yl"; */
+"s4f-kj-8yl.ibExternalAccessibilityDescription" = "menú desplegable del selector de pantalla";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Select which screen the wallpaper is to be used with"; ObjectID = "s4f-kj-8yl"; */
+"s4f-kj-8yl.ibExternalAccessibilityHelp" = "Seleccionar la pantalla para la que se utilizará el fondo de pantalla";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select which screen the wallpaper is to be used with"; ObjectID = "s4f-kj-8yl"; */
+"s4f-kj-8yl.ibShadowedToolTip" = "Seleccionar la pantalla para la que se utilizará el fondo de pantalla";
+
+/* Class = "NSMenuItem"; title = "Both"; ObjectID = "sj8-Op-xFJ"; */
+"sj8-Op-xFJ.title" = "Ambas";
+
+/* Class = "NSMenuItem"; title = "Home Screen"; ObjectID = "ThN-YU-1uI"; */
+"ThN-YU-1uI.title" = "Pantalla de inicio";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YWS-yK-njm"; */
+"YWS-yK-njm.title" = "OtherViews";
+

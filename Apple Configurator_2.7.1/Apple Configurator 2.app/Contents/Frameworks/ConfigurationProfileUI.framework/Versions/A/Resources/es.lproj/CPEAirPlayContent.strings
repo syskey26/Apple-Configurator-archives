@@ -1,0 +1,33 @@
+/* Class = "NSTextFieldCell"; title = "AirPlay"; ObjectID = "2Dr-YW-ZNZ"; */
+"2Dr-YW-ZNZ.title" = "AirPlay";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "4M8-Um-Phd"; */
+"4M8-Um-Phd.ibShadowedIsNilPlaceholder" = "Nueva entrada";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Name"; ObjectID = "BeC-6q-ufy"; */
+"BeC-6q-ufy.headerCell.title" = "Nombre del dispositivo";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "BES-t6-mCr"; */
+"BES-t6-mCr.title" = "Texto";
+
+/* Class = "NSTextFieldCell"; title = "Whitelist"; ObjectID = "c1s-iT-dQS"; */
+"c1s-iT-dQS.title" = "Lista blanca";
+
+/* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "FY2-WD-zZh"; */
+"FY2-WD-zZh.headerCell.title" = "Contraseña";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device"; ObjectID = "ib6-h2-UNB"; */
+"ib6-h2-UNB.headerCell.title" = "Dispositivo";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "00:00:00:00:00:00"; ObjectID = "rDa-yv-QRz"; */
+"rDa-yv-QRz.ibShadowedIsNilPlaceholder" = "00:00:00:00:00:00";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "U00-Vz-ijT"; */
+"U00-Vz-ijT.ibShadowedIsNilPlaceholder" = "Nueva entrada";
+
+/* Class = "NSTextFieldCell"; title = "Passwords"; ObjectID = "ulm-0t-von"; */
+"ulm-0t-von.title" = "Contraseñas";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove AirPlay payload"; ObjectID = "Uqm-2k-EmE"; */
+"Uqm-2k-EmE.ibShadowedToolTip" = "Eliminar carga AirPlay";
+

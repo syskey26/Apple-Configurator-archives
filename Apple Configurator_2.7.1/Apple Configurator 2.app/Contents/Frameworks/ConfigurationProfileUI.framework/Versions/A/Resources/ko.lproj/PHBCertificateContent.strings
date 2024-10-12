@@ -1,0 +1,75 @@
+/* Class = "NSTextFieldCell"; title = "Certificate"; ObjectID = "0W9-aP-iWN"; */
+"0W9-aP-iWN.title" = "인증서";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Certificate payload"; ObjectID = "1Gn-ri-Cpt"; */
+"1Gn-ri-Cpt.ibShadowedToolTip" = "인증서 페이로드 제거";
+
+/* Class = "NSTextFieldCell"; title = "Name or description of the certificate"; ObjectID = "5RT-JT-Evd"; */
+"5RT-JT-Evd.title" = "인증서에 대한 이름 또는 설명";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "8jh-wq-Rsp"; */
+"8jh-wq-Rsp.ibShadowedIsNilPlaceholder" = "[필수사항]";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "8So-7c-AnC"; */
+"8So-7c-AnC.title" = "암호";
+
+/* Class = "NSTabViewItem"; label = "PKCS12"; ObjectID = "Anq-9i-RKI"; */
+"Anq-9i-RKI.label" = "PKCS12";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aPk-Ko-gEz"; */
+"aPk-Ko-gEz.title" = "Box";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This certificate has expired"; ObjectID = "bTC-xN-TXw"; */
+"bTC-xN-TXw.ibShadowedToolTip" = "이 인증서가 만료되었습니다.";
+
+/* Class = "NSTextFieldCell"; title = "Password protecting the PKCS12 file, used for installation without prompting"; ObjectID = "cHg-Hv-7Py"; */
+"cHg-Hv-7Py.title" = "요청 없이 설치하는 데 사용되는 PKCS12 파일을 보호하는 암호";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported Certificate Type"; ObjectID = "DoQ-4G-0Il"; */
+"DoQ-4G-0Il.title" = "지원되지 않는 인증서 유형";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[optional]"; ObjectID = "Fgg-M3-nY8"; */
+"Fgg-M3-nY8.placeholderString" = "[선택사항]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Certificate Name:"; ObjectID = "jKT-jd-SQk"; */
+"jKT-jd-SQk.ibExternalAccessibilityDescription" = "인증서 이름:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Name"; ObjectID = "KbT-1D-8Ua"; */
+"KbT-1D-8Ua.title" = "인증서 이름";
+
+/* Class = "NSTextFieldCell"; title = "(Expired)"; ObjectID = "kvD-JT-Gz4"; */
+"kvD-JT-Gz4.title" = "(만료됨)";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "pPb-Vq-u5G"; */
+"pPb-Vq-u5G.title" = "Box";
+
+/* Class = "NSTabViewItem"; label = "PKCS1"; ObjectID = "pVX-ZS-r6v"; */
+"pVX-ZS-r6v.label" = "PKCS1";
+
+/* Class = "NSTextFieldCell"; title = "PKCS1 (.cer, etc) or PKCS12 (.p12) files for inclusion on device"; ObjectID = "QCa-Is-AaF"; */
+"QCa-Is-AaF.title" = "기기에 포함시킬 PKCS1(.cer 등) 또는 PKCS12(.p12) 파일";
+
+/* Class = "NSTextFieldCell"; title = "This content is stored in Personal Information Exchange (PKCS12) format, and is password protected.  Other than the file name, no information can be displayed."; ObjectID = "QXi-OO-qe1"; */
+"QXi-OO-qe1.title" = "이 콘텐츠는 개인 정보 교환(PKCS12) 포맷으로 저장되며 암호로 보호됩니다. 기타 다른 파일 이름 정보는 표시할 수 없습니다.";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "RsR-yk-QYD"; */
+"RsR-yk-QYD.title" = "레이블";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "rVT-Ps-wp1"; */
+"rVT-Ps-wp1.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Certificate payload"; ObjectID = "TPC-86-ycf"; */
+"TPC-86-ycf.ibShadowedToolTip" = "인증서 페이로드 추가";
+
+/* Class = "NSTabViewItem"; label = "Unknown Cer"; ObjectID = "ua0-ax-aZb"; */
+"ua0-ax-aZb.label" = "알 수 없는 인증서";
+
+/* Class = "NSTextFieldCell"; title = "Certificate or Identity Data"; ObjectID = "WDP-o8-oyd"; */
+"WDP-o8-oyd.title" = "인증서 또는 신원 데이터";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "wrR-b5-iTO"; */
+"wrR-b5-iTO.ibExternalAccessibilityDescription" = "암호:";
+
+/* Class = "NSTextFieldCell"; title = "Personal Information Exchange"; ObjectID = "yNI-UP-f6c"; */
+"yNI-UP-f6c.title" = "개인 정보 교환";
+

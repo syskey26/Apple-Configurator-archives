@@ -1,0 +1,18 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Server"; ObjectID = "IFW-gv-cBB"; */
+"IFW-gv-cBB.ibExternalAccessibilityDescription" = "Servidor";
+
+/* Class = "NSMenuItem"; title = "Do not enroll in MDM"; ObjectID = "IXX-oE-f2P"; */
+"IXX-oE-f2P.title" = "No inscribir en MDM";
+
+/* Class = "NSTextFieldCell"; title = "Choose an MDM server to manage the devices remotely over the air, if desired."; ObjectID = "QqI-zl-5pj"; */
+"QqI-zl-5pj.title" = "Selecciona un servidor MDM para gestionar los dispositivos remotamente, si es necesario.";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "UxY-ig-KbX"; */
+"UxY-ig-KbX.title" = "Servidor:";
+
+/* Class = "NSMenuItem"; title = "<< DNL Existing Servers >>"; ObjectID = "WbY-Tq-2XL"; */
+"WbY-Tq-2XL.title" = "<< DNL Existing Servers >>";
+
+/* Class = "NSMenuItem"; title = "New Server…"; ObjectID = "Xgn-if-NnP"; */
+"Xgn-if-NnP.title" = "Nuevo servidor…";
+

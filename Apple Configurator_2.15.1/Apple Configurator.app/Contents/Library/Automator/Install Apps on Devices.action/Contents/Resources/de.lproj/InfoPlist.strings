@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDNote" = "Klicke auf die Taste „Aktualisieren“, um eine Liste der Dateien mobiler Apps auf deinem Computer anzuzeigen.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDSummary" = "Diese Aktion installiert die ausgewählten Dateien mobiler Apps auf den Geräten, deren IDs als Eingabe an die Aktion übergeben wurden.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Apps auf Geräte installieren";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015–2022 Apple Inc. Alle Rechte vorbehalten.";
+

@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDNote" = "암호를 사용하여 백업을 암호화하거나 대상 기기가 백업의 원본 소스인 경우 암호와 같은 일부 개인 데이터가 복원됩니다. ";
+
+/* (No Comment) */
+"AMDOptions" = "선택한 백업이 암호화된 경우 해당 암호를 입력 필드에 입력해야 합니다.";
+
+/* (No Comment) */
+"AMDRequires" = "기기에 백업을 복원하기 전에 기기를 완전히 지워야 합니다.";
+
+/* (No Comment) */
+"AMDResult" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDSummary" = "이 동작은 전달된 기기에 지정한 단일 백업을 복원합니다.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "지정한 백업에서 기기 복원";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "백업";
+
+/* AMKeyword localized strings */
+"configurator" = "configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "휴대 전화";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2022 Apple Inc. 모든 권리 보유.";
+

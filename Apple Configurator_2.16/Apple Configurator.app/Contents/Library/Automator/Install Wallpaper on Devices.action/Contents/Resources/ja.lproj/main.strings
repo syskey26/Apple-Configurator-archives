@@ -1,0 +1,102 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "use device name for overlay checkbox"; ObjectID = "0LB-2n-JGN"; */
+"0LB-2n-JGN.ibExternalAccessibilityDescription" = "オーバーレイにデバイス名を使用するチェックボックス";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Select to use the device name as the overlay text"; ObjectID = "0LB-2n-JGN"; */
+"0LB-2n-JGN.ibExternalAccessibilityHelp" = "オーバーレイテキストとしてデバイス名を使用するときに選択します";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select to use the device name as the overlay text"; ObjectID = "0LB-2n-JGN"; */
+"0LB-2n-JGN.ibShadowedToolTip" = "オーバーレイテキストとしてデバイス名を使用するときに選択します";
+
+/* Class = "AMTokenField"; ibExternalAccessibilityDescription = "overlay text input"; ObjectID = "6js-q3-1L1"; */
+"6js-q3-1L1.ibExternalAccessibilityDescription" = "オーバーレイテキスト入力";
+
+/* Class = "AMTokenField"; ibExternalAccessibilityHelp = "Enter a short text string to be overlaid on the wallpaper"; ObjectID = "6js-q3-1L1"; */
+"6js-q3-1L1.ibExternalAccessibilityHelp" = "壁紙にオーバーレイ表示する短いテキスト文字列を入力します";
+
+/* Class = "AMTokenField"; ibShadowedToolTip = "Enter a short text string to be overlaid on the wallpaper"; ObjectID = "6js-q3-1L1"; */
+"6js-q3-1L1.ibShadowedToolTip" = "壁紙にオーバーレイ表示する短いテキスト文字列を入力します";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8i1-fn-6eJ"; */
+"8i1-fn-6eJ.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8nx-dA-L7f"; */
+"8nx-dA-L7f.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Image file:"; ObjectID = "9gs-8G-Wef"; */
+"9gs-8G-Wef.title" = "イメージファイル:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate:"; ObjectID = "a1d-W5-cwy"; */
+"a1d-W5-cwy.title" = "証明書:";
+
+/* Class = "NSButtonCell"; title = "Use device name"; ObjectID = "GJ9-2z-J5E"; */
+"GJ9-2z-J5E.title" = "デバイス名を使用";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityDescription = "supervision certificate file selection popup"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.ibExternalAccessibilityDescription" = "監視証明書ファイル選択ポップアップ";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityHelp = "Select the supervision certificate file"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.ibExternalAccessibilityHelp" = "監視証明書ファイルを選択します";
+
+/* Class = "AMPathPopUpButton"; ibShadowedToolTip = "Select the supervision certificate file"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.ibShadowedToolTip" = "監視証明書ファイルを選択します";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select certificate…"; ObjectID = "gxe-uK-YkT"; */
+"gxe-uK-YkT.placeholder" = "証明書を選択…";
+
+/* Class = "NSTextFieldCell"; title = "Screen:"; ObjectID = "KZv-fQ-Fyg"; */
+"KZv-fQ-Fyg.title" = "画面:";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityDescription = "private key file chooser popup"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.ibExternalAccessibilityDescription" = "秘密鍵ファイルセレクタのポップアップ";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityHelp = "Select the private key file"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.ibExternalAccessibilityHelp" = "秘密鍵ファイルを選択します";
+
+/* Class = "AMPathPopUpButton"; ibShadowedToolTip = "Select the private key file"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.ibShadowedToolTip" = "秘密鍵ファイルを選択します";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select private key…"; ObjectID = "LMA-6v-i7E"; */
+"LMA-6v-i7E.placeholder" = "秘密鍵を選択…";
+
+/* Class = "NSMenuItem"; title = "Lock Screen"; ObjectID = "m1q-cd-KIy"; */
+"m1q-cd-KIy.title" = "ロック画面";
+
+/* Class = "NSTextFieldCell"; title = "Changing the wallpaper requires a supervised device identity."; ObjectID = "oks-M1-pj7"; */
+"oks-M1-pj7.title" = "壁紙の変更には監視対象デバイスのIDが必要です。";
+
+/* Class = "NSTextFieldCell"; title = "Private Key:"; ObjectID = "Rfs-jC-pF1"; */
+"Rfs-jC-pF1.title" = "秘密鍵:";
+
+/* Class = "NSTextFieldCell"; title = "Text:"; ObjectID = "rSQ-U0-gYW"; */
+"rSQ-U0-gYW.title" = "テキスト:";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityDescription = "image file chooser popup"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.ibExternalAccessibilityDescription" = "イメージ・ファイル・セレクタのポップアップ";
+
+/* Class = "AMPathPopUpButton"; ibExternalAccessibilityHelp = "Choose the image file to use as the wallpaper"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.ibExternalAccessibilityHelp" = "壁紙として使用するイメージファイルを選択します";
+
+/* Class = "AMPathPopUpButton"; ibShadowedToolTip = "Choose the image file to use as the wallpaper"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.ibShadowedToolTip" = "壁紙として使用するイメージファイルを選択します";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Choose JPEG image file…"; ObjectID = "RVA-C8-eVz"; */
+"RVA-C8-eVz.placeholder" = "JPEGイメージファイルを選択…";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "screen selector popup"; ObjectID = "s4f-kj-8yl"; */
+"s4f-kj-8yl.ibExternalAccessibilityDescription" = "画面セレクタのポップアップ";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "Select which screen the wallpaper is to be used with"; ObjectID = "s4f-kj-8yl"; */
+"s4f-kj-8yl.ibExternalAccessibilityHelp" = "壁紙を使用する画面を選択します";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select which screen the wallpaper is to be used with"; ObjectID = "s4f-kj-8yl"; */
+"s4f-kj-8yl.ibShadowedToolTip" = "壁紙を使用する画面を選択します";
+
+/* Class = "NSMenuItem"; title = "Both"; ObjectID = "sj8-Op-xFJ"; */
+"sj8-Op-xFJ.title" = "両方";
+
+/* Class = "NSMenuItem"; title = "Home Screen"; ObjectID = "ThN-YU-1uI"; */
+"ThN-YU-1uI.title" = "ホーム画面";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YWS-yK-njm"; */
+"YWS-yK-njm.title" = "OtherViews";
+

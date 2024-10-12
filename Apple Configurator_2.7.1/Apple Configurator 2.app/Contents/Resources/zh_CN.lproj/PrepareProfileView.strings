@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "aE8-vF-dts"; */
+"aE8-vF-dts.title" = "选取…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Network Profile"; ObjectID = "Dit-aQ-ckj"; */
+"Dit-aQ-ckj.ibExternalAccessibilityDescription" = "移除网络描述文件";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the selected network profile."; ObjectID = "Dit-aQ-ckj"; */
+"Dit-aQ-ckj.ibShadowedToolTip" = "移除所选网络描述文件。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "None"; ObjectID = "ePs-Is-0Qt"; */
+"ePs-Is-0Qt.placeholderString" = "无";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "f2B-hE-jSs"; */
+"f2B-hE-jSs.ibShadowedIsNilPlaceholder" = "无";
+
+/* Class = "NSTextFieldCell"; title = "The device will communicate with the Device Enrollment Program and the MDM server to complete enrollment. If needed, choose a configuration profile containing your Wi-Fi network settings. "; ObjectID = "HfJ-8R-qsT"; */
+"HfJ-8R-qsT.title" = "设备将与“设备注册计划”以及 MDM 服务器通信以完成注册。如果需要，请选取包含您 Wi-Fi 网络设置的配置描述文件。";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "mYl-Bp-ATg"; */
+"mYl-Bp-ATg.title" = "描述文件：";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL>>"; ObjectID = "rgc-GB-MZO"; */
+"rgc-GB-MZO.title" = "<<DNL>>";
+

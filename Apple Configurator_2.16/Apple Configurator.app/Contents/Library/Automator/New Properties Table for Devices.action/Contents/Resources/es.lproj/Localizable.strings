@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-06-CANCEL_BUTTON_TITLE" = "Cancelar";
+
+/* (No Comment) */
+"CNFGACT-06-CONTINUE_BUTTON_TITLE" = "Volver a seleccionar";
+
+/* (No Comment) */
+"CNFGACT-06-DATA_CONVERSION_ERROR" = "No se han convertido los datos";
+
+/* (No Comment) */
+"CNFGACT-06-DEFAULT_TABLE_TITLE" = "Propiedades del dispositivo";
+
+/* INPUT ERRORS */
+"CNFGACT-06-NO_INPUT_ERROR" = "No se ha derivado a esta acción ninguna referencia de ECID a los dispositivos conectados.";
+
+/* (No Comment) */
+"CNFGACT-06-PROPERTY_NOT_SUPPORTED" = "Las propiedades Apps y “Apps del sistema” no son compatibles con esta acción.";
+
+/* (No Comment) */
+"CNFGACT-06-PROPERTY_NOT_SUPPORTED_TITLE" = "PROPIEDAD INCOMPATIBLE";
+

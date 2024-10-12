@@ -1,0 +1,39 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name"; ObjectID = "5oW-xG-enW"; */
+"5oW-xG-enW.ibExternalAccessibilityDescription" = "名稱";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "7w9-QV-YQl"; */
+"7w9-QV-YQl.placeholderString" = "必填";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "agF-Ik-sIQ"; */
+"agF-Ik-sIQ.title" = "儲存";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "azH-yX-wdO"; */
+"azH-yX-wdO.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "bTX-4M-eOS"; */
+"bTX-4M-eOS.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Enrollment URL:"; ObjectID = "C60-db-8E6"; */
+"C60-db-8E6.title" = "註冊 URL：";
+
+/* Class = "NSTextFieldCell"; title = "Click (+) to add certificates."; ObjectID = "CCI-d4-rdc"; */
+"CCI-d4-rdc.title" = "按一下（+）來加入憑證。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dHK-ke-nQN"; */
+"dHK-ke-nQN.title" = "Text Cell";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enrollment URL"; ObjectID = "hab-ub-sjp"; */
+"hab-ub-sjp.ibExternalAccessibilityDescription" = "註冊 URL";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "NgJ-El-y6Z"; */
+"NgJ-El-y6Z.title" = "名稱：";
+
+/* Class = "NSTextFieldCell"; title = "No Trust Anchors"; ObjectID = "Qdg-g5-ZA2"; */
+"Qdg-g5-ZA2.title" = "沒有信任錨";
+
+/* Class = "NSTextFieldCell"; title = "Trust Certificates:"; ObjectID = "XSH-Jw-AWq"; */
+"XSH-Jw-AWq.title" = "信任憑證：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "YUo-fv-8Qv"; */
+"YUo-fv-8Qv.placeholderString" = "必填";
+

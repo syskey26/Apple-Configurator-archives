@@ -1,0 +1,21 @@
+/* Class = "AMPathPopUpButton"; placeholder = "Select certificate…"; ObjectID = "1pe-gx-iVg"; */
+"1pe-gx-iVg.placeholder" = "Selecteer certificaat…";
+
+/* Class = "NSTextFieldCell"; title = "IMPORTANT: A supervision identity is not required for devices running iOS 9 or higher."; ObjectID = "dp8-hL-Bct"; */
+"dp8-hL-Bct.title" = "BELANGRIJK: Voor apparaten met iOS 9 of hoger is geen toezichtidentiteit vereist.";
+
+/* Class = "NSTextFieldCell"; title = "Private Key:"; ObjectID = "e4w-4Y-oTj"; */
+"e4w-4Y-oTj.title" = "Private sleutel:";
+
+/* Class = "AMPathPopUpButton"; placeholder = "Select private key…"; ObjectID = "IsL-dw-wmp"; */
+"IsL-dw-wmp.placeholder" = "Selecteer private sleutel…";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "uFG-7G-RjY"; */
+"uFG-7G-RjY.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Certificate:"; ObjectID = "Ug1-Vr-nhK"; */
+"Ug1-Vr-nhK.title" = "Certificaat:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "y2U-Q4-IFS"; */
+"y2U-Q4-IFS.title" = "OtherViews";
+

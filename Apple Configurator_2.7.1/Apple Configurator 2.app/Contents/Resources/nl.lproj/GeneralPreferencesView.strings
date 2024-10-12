@@ -1,0 +1,51 @@
+/* Class = "NSTextFieldCell"; title = "Play sound on warning:"; ObjectID = "8ev-C9-EHW"; */
+"8ev-C9-EHW.title" = "Speel geluid af bij waarschuwing:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "B7c-Jc-n36"; */
+"B7c-Jc-n36.title" = "OtherViews";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "Drl-qR-pFB"; */
+"Drl-qR-pFB.ibShadowedIsNilPlaceholder" = "Geen";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "None"; ObjectID = "Drl-qR-pFB"; */
+"Drl-qR-pFB.ibShadowedNoSelectionPlaceholder" = "Geen";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "EhW-Nr-oIb"; */
+"EhW-Nr-oIb.ibShadowedIsNilPlaceholder" = "Geen";
+
+/* Class = "NSMenuItem"; title = "Alert"; ObjectID = "hc4-0k-A9P"; */
+"hc4-0k-A9P.title" = "Waarschuwing";
+
+/* Class = "NSTextFieldCell"; title = "Reset all warning dialogs:"; ObjectID = "HSH-Fp-rri"; */
+"HSH-Fp-rri.title" = "Stel alle waarschuwingsvensters opnieuw in:";
+
+/* Class = "NSTextFieldCell"; title = "Play sound on completion:"; ObjectID = "IPT-Ud-IIY"; */
+"IPT-Ud-IIY.title" = "Speel geluid af bij voltooiing:";
+
+/* Class = "NSMenuItem"; title = "Done"; ObjectID = "Lc9-Un-I6y"; */
+"Lc9-Un-I6y.title" = "Gereed";
+
+/* Class = "NSButtonCell"; title = "Reset Warnings"; ObjectID = "lhf-uz-7vj"; */
+"lhf-uz-7vj.title" = "Stel opnieuw in";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Play sound on completion"; ObjectID = "LuX-Dn-hlG"; */
+"LuX-Dn-hlG.ibExternalAccessibilityDescription" = "Speel geluid af bij voltooiing";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "nP0-c2-roy"; */
+"nP0-c2-roy.ibShadowedIsNilPlaceholder" = "Geen";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedNoSelectionPlaceholder = "None"; ObjectID = "nP0-c2-roy"; */
+"nP0-c2-roy.ibShadowedNoSelectionPlaceholder" = "Geen";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Ovs-Mu-A6q"; */
+"Ovs-Mu-A6q.title" = "OtherViews";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Play sound on warning"; ObjectID = "PbK-Vq-eLU"; */
+"PbK-Vq-eLU.ibExternalAccessibilityDescription" = "Speel geluid af bij waarschuwing";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "pnP-Md-wqz"; */
+"pnP-Md-wqz.ibShadowedIsNilPlaceholder" = "Geen";
+
+/* Class = "NSButtonCell"; title = "Always show device window on launch"; ObjectID = "WTa-Ud-4Hn"; */
+"WTa-Ud-4Hn.title" = "Toon apparaatvenster altijd bij starten";
+

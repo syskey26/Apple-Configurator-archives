@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; title = "Choose an app"; ObjectID = "0Ji-g4-eCs"; */
+"0Ji-g4-eCs.title" = "選擇 App";
+
+/* Class = "NSTextFieldCell"; title = "com.example.app"; ObjectID = "0qz-aS-mlh"; */
+"0qz-aS-mlh.title" = "com.example.app";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "1eX-D8-NrF"; */
+"1eX-D8-NrF.title" = "選擇";
+
+/* Class = "NSTextFieldCell"; title = "No Internet Connection"; ObjectID = "2Ai-dF-OYi"; */
+"2Ai-dF-OYi.title" = "沒有 Internet 連線";
+
+/* Class = "NSTextFieldCell"; title = "System App"; ObjectID = "Bjo-s0-7OV"; */
+"Bjo-s0-7OV.title" = "系統 App";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "c8r-Dd-mB2"; */
+"c8r-Dd-mB2.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Drw-mW-UPL"; */
+"Drw-mW-UPL.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Choose App…"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "選擇 App⋯";
+
+/* Class = "NSTextFieldCell"; title = "<DNL Body Text>"; ObjectID = "FHk-pN-H7W"; */
+"FHk-pN-H7W.title" = "<DNL Body Text>";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bundle Identifier"; ObjectID = "Hre-ga-Hfm"; */
+"Hre-ga-Hfm.headerCell.title" = "套件識別碼";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "LvI-uH-tLa"; */
+"LvI-uH-tLa.headerCell.title" = "App 名稱";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "N6T-bl-6ED"; */
+"N6T-bl-6ED.title" = "範例 App";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qRK-5p-pns"; */
+"qRK-5p-pns.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Category"; ObjectID = "XDh-Le-1aE"; */
+"XDh-Le-1aE.headerCell.title" = "類別";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ymo-Ln-1v8"; */
+"ymo-Ln-1v8.title" = "Text Cell";
+

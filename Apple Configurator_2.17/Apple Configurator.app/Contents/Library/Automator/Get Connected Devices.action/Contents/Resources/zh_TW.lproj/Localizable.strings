@@ -1,0 +1,10 @@
+/* Localizable.strings
+  Get Connected Devices
+
+  Created by Sal Soghoian on 1/14/15.
+  Copyright © 2015-2023 Apple Inc. All rights reserved. */
+"CNFGACT-10-NO_FILTERS_SELECTED" = "未在動作介面中選取裝置類型。";
+
+/* (No Comment) */
+"CNFGACT-10-NO_MATCHED_DEVICES" = "沒有符合所選類型的裝置附加至此電腦。";
+

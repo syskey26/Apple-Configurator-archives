@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "重要事項：執行 iOS 9 或以上版本的裝置無需使用監管憑證和專用密鑰檔案。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作將會清除裝置（其識別碼已傳送到此動作作為輸入）上的內容和設定。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "清除裝置";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. 保留一切權利。";
+

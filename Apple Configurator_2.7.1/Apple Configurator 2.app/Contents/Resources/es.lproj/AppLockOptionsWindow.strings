@@ -1,0 +1,99 @@
+/* Class = "NSButtonCell"; title = "VoiceOver"; ObjectID = "0V5-eD-jLX"; */
+"0V5-eD-jLX.title" = "VoiceOver";
+
+/* Class = "NSButtonCell"; title = "AssistiveTouch"; ObjectID = "2ar-sU-vOk"; */
+"2ar-sU-vOk.title" = "AssistiveTouch";
+
+/* Class = "NSButtonCell"; title = "Zoom"; ObjectID = "2NT-Nv-laz"; */
+"2NT-Nv-laz.title" = "Zoom";
+
+/* Class = "NSTextFieldCell"; title = "Choose which features to enable in Single App Mode."; ObjectID = "5Gp-Ef-IV3"; */
+"5Gp-Ef-IV3.title" = "Selecciona las características que se activarán en el modo de app única.";
+
+/* Class = "NSButtonCell"; title = "Touch"; ObjectID = "6Bv-R2-Dix"; */
+"6Bv-R2-Dix.title" = "Tacto";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8iR-0V-ywe"; */
+"8iR-0V-ywe.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "VoiceOver"; ObjectID = "aC9-U6-bmM"; */
+"aC9-U6-bmM.title" = "VoiceOver";
+
+/* Class = "NSButtonCell"; title = "Zoom"; ObjectID = "Ael-qC-uZ5"; */
+"Ael-qC-uZ5.title" = "Zoom";
+
+/* Class = "NSButtonCell"; title = "Invert Colors"; ObjectID = "Awa-UU-igg"; */
+"Awa-UU-igg.title" = "Invertir colores";
+
+/* Class = "NSButtonCell"; title = "Invert Colors"; ObjectID = "bhY-yk-ZUi"; */
+"bhY-yk-ZUi.title" = "Invertir colores";
+
+/* Class = "NSButtonCell"; title = "Volume Buttons"; ObjectID = "Dob-Qe-O7S"; */
+"Dob-Qe-O7S.title" = "Botones de volumen";
+
+/* Class = "NSButtonCell"; title = "Auto-Lock"; ObjectID = "fgM-16-0pf"; */
+"fgM-16-0pf.title" = "Bloqueo automático";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "IgH-IB-rKt"; */
+"IgH-IB-rKt.title" = "Aplicar";
+
+/* Class = "NSButtonCell"; title = "Side Switch"; ObjectID = "Il1-hY-ydO"; */
+"Il1-hY-ydO.title" = "Botón lateral";
+
+/* Class = "NSButtonCell"; title = "AssistiveTouch"; ObjectID = "kAM-6J-mvM"; */
+"kAM-6J-mvM.title" = "AssistiveTouch";
+
+/* Class = "NSTextFieldCell"; title = "Always Enabled:"; ObjectID = "KaS-vW-Izh"; */
+"KaS-vW-Izh.title" = "Siempre activado:";
+
+/* Class = "NSButtonCell"; title = "Zoom"; ObjectID = "n3n-Rn-nsB"; */
+"n3n-Rn-nsB.title" = "Zoom";
+
+/* Class = "NSTextFieldCell"; title = "Choose which features to enable in Single App Mode."; ObjectID = "paR-Po-Vto"; */
+"paR-Po-Vto.title" = "Selecciona las características que se activarán en el modo de app única.";
+
+/* Class = "NSButtonCell"; title = "Sleep/Wake Button"; ObjectID = "q67-o6-tNk"; */
+"q67-o6-tNk.title" = "Botón de activación/reposo";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "Rb0-bS-M85"; */
+"Rb0-bS-M85.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Accessibility Shortcut:"; ObjectID = "SE6-ie-6GE"; */
+"SE6-ie-6GE.title" = "Función rápida de accesibilidad:";
+
+/* Class = "NSButtonCell"; title = "VoiceOver"; ObjectID = "sfQ-jL-JgX"; */
+"sfQ-jL-JgX.title" = "VoiceOver";
+
+/* Class = "NSButtonCell"; title = "Invert Colors"; ObjectID = "SIi-mS-wEn"; */
+"SIi-mS-wEn.title" = "Invertir colores";
+
+/* Class = "NSButtonCell"; title = "Touch"; ObjectID = "Tij-qg-fIj"; */
+"Tij-qg-fIj.title" = "Tacto";
+
+/* Class = "NSTextFieldCell"; title = "Always Enabled:"; ObjectID = "Tyk-wP-VkJ"; */
+"Tyk-wP-VkJ.title" = "Siempre activado:";
+
+/* Class = "NSButtonCell"; title = "Zoom"; ObjectID = "UKq-su-9AM"; */
+"UKq-su-9AM.title" = "Zoom";
+
+/* Class = "NSButtonCell"; title = "Auto-Lock"; ObjectID = "VLl-5B-Ufw"; */
+"VLl-5B-Ufw.title" = "Bloqueo automático";
+
+/* Class = "NSButtonCell"; title = "VoiceOver"; ObjectID = "vQw-zI-ZGk"; */
+"vQw-zI-ZGk.title" = "VoiceOver";
+
+/* Class = "NSButtonCell"; title = "Mono Audio"; ObjectID = "VyC-ib-ZT1"; */
+"VyC-ib-ZT1.title" = "Audio mono";
+
+/* Class = "NSButtonCell"; title = "Speak Selection"; ObjectID = "Wvq-0C-RCz"; */
+"Wvq-0C-RCz.title" = "Leer selección";
+
+/* Class = "NSButtonCell"; title = "Invert Colors"; ObjectID = "xJ3-yg-XI9"; */
+"xJ3-yg-XI9.title" = "Invertir colores";
+
+/* Class = "NSTextFieldCell"; title = "Accessibility Shortcut:"; ObjectID = "yNz-Ek-neS"; */
+"yNz-Ek-neS.title" = "Función rápida de accesibilidad:";
+
+/* Class = "NSButtonCell"; title = "Motion (Screen Rotation)"; ObjectID = "ZUe-ye-ZDe"; */
+"ZUe-ye-ZDe.title" = "Movimiento (rotación pantalla)";
+

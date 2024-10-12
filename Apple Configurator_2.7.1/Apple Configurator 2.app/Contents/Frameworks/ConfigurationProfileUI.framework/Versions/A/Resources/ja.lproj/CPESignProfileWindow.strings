@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Signing a profile prevents it from being changed and authenticates the original author. Profiles cannot be edited while they are signed."; ObjectID = "88l-jS-sas"; */
+"88l-jS-sas.title" = "プロファイルを署名することで、プロファイルが変更できなくなり、元の作成者が認証されます。プロファイルは署名中は編集できません。";
+
+/* Class = "NSMenu"; title = "<<DNL Identity Name>>"; ObjectID = "Dmw-1g-pxZ"; */
+"Dmw-1g-pxZ.title" = "<<DNL Identity Name>>";
+
+/* Class = "NSButtonCell"; title = "Sign"; ObjectID = "Oyw-23-GGV"; */
+"Oyw-23-GGV.title" = "署名";
+
+/* Class = "NSMenuItem"; title = "<<DNL Identity Name>>"; ObjectID = "QL4-gx-1sg"; */
+"QL4-gx-1sg.title" = "<<DNL Identity Name>>";
+
+/* Class = "NSTextFieldCell"; title = "Signing Identity:"; ObjectID = "Tad-3R-sQF"; */
+"Tad-3R-sQF.title" = "署名 ID：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "tBQ-K8-tIT"; */
+"tBQ-K8-tIT.title" = "キャンセル";
+
+/* Class = "NSWindow"; title = "Sign Profile Window"; ObjectID = "tZI-5j-6Y7"; */
+"tZI-5j-6Y7.title" = "プロファイル署名ウインドウ";
+

@@ -1,0 +1,27 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "00:00:00:00:00:00"; ObjectID = "2aF-aK-84e"; */
+"2aF-aK-84e.ibShadowedIsNilPlaceholder" = "00:00:00:00:00:00";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "00:00:00:00:00:00"; ObjectID = "9Vw-s8-1Y4"; */
+"9Vw-s8-1Y4.ibShadowedIsNilPlaceholder" = "00:00:00:00:00:00";
+
+/* Class = "NSTextFieldCell"; title = "Allowed Remotes (tvOS only)"; ObjectID = "a1t-93-AN4"; */
+"a1t-93-AN4.title" = "允许的遥控器（仅限 tvOS）";
+
+/* Class = "NSTextFieldCell"; title = "Add the MAC addresses of permitted iOS devices to this list to enable remote control with only these devices"; ObjectID = "cE2-V3-ydB"; */
+"cE2-V3-ydB.title" = "将受允许的 iOS 设备的 MAC 地址添加到此列表，以仅使用这些设备来启用远程控制";
+
+/* Class = "NSTextFieldCell"; title = "Add the MAC addresses of permitted tvOS devices to this list to restrict remote control to only these devices"; ObjectID = "cSG-Gm-bQC"; */
+"cSG-Gm-bQC.title" = "将受允许的 tvOS 设备的 MAC 地址添加到此列表，以限制仅远程控制这些设备";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Domains payload"; ObjectID = "nDO-9G-9S7"; */
+"nDO-9G-9S7.ibShadowedToolTip" = "移除“域”有效负载";
+
+/* Class = "NSTextFieldCell"; title = "Allowed TVs (iOS only)"; ObjectID = "Qqv-4p-oBV"; */
+"Qqv-4p-oBV.title" = "允许的电视（仅限 iOS）";
+
+/* Class = "NSTextFieldCell"; title = "TV Remote"; ObjectID = "Tqg-oa-Zrt"; */
+"Tqg-oa-Zrt.title" = "电视遥控器";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Zjk-FU-fD1"; */
+"Zjk-FU-fD1.title" = "（仅限被监督的设备）";
+

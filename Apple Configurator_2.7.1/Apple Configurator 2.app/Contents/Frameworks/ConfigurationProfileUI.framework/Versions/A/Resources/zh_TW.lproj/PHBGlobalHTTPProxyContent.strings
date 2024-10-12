@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Proxy Type"; ObjectID = "0bS-Sq-cUP"; */
+"0bS-Sq-cUP.title" = "代理伺服器類型";
+
+/* Class = "NSMenuItem"; title = "Manual"; ObjectID = "3Lc-zB-yQz"; */
+"3Lc-zB-yQz.title" = "手動";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "4KS-5O-CYl"; */
+"4KS-5O-CYl.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Proxy PAC URL is required"; ObjectID = "4v2-Op-gQz"; */
+"4v2-Op-gQz.ibShadowedToolTip" = "需要代理伺服器 PAC URL";
+
+/* Class = "NSButtonCell"; title = "Allow direct connection if PAC is unreachable"; ObjectID = "5An-Ip-5Jh"; */
+"5An-Ip-5Jh.title" = "若無法連接 PAC 則允許直接連線";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "7QE-Of-B2K"; */
+"7QE-Of-B2K.ibShadowedIsNilPlaceholder" = "[必要]";
+
+/* Class = "NSButtonCell"; title = "Allow bypassing proxy to access captive networks"; ObjectID = "a0C-nO-RT3"; */
+"a0C-nO-RT3.title" = "允許略過代理伺服器來連接限制網路";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Server Port:"; ObjectID = "c8j-k9-0fQ"; */
+"c8j-k9-0fQ.ibExternalAccessibilityDescription" = "代理伺服器傳輸埠：";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Server Domain Name:"; ObjectID = "d60-qj-oLD"; */
+"d60-qj-oLD.ibExternalAccessibilityDescription" = "代理伺服器網域名稱：";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "FKz-D3-RQo"; */
+"FKz-D3-RQo.ibExternalAccessibilityDescription" = "密碼：";
+
+/* Class = "NSTextFieldCell"; title = "Password used to authenticate with the proxy"; ObjectID = "hRM-vF-ltc"; */
+"hRM-vF-ltc.title" = "用以認證代理伺服器的密碼";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "n3p-jJ-Tap"; */
+"n3p-jJ-Tap.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSTextFieldCell"; title = "User name used to connect to the proxy"; ObjectID = "NqD-0m-39B"; */
+"NqD-0m-39B.title" = "用以連接代理伺服器的使用者名稱";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Server and Port"; ObjectID = "nt0-gf-kst"; */
+"nt0-gf-kst.title" = "代理伺服器和傳輸埠";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "pQo-Qh-lIR"; */
+"pQo-Qh-lIR.ibExternalAccessibilityDescription" = "使用者名稱：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Qqe-Sk-dIM"; */
+"Qqe-Sk-dIM.ibShadowedIsNilPlaceholder" = "[必要]";
+
+/* Class = "NSButtonCell"; title = "Allow bypassing proxy to access captive networks"; ObjectID = "rgZ-yw-4PL"; */
+"rgZ-yw-4PL.title" = "允許略過代理伺服器來連接限制網路";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Global HTTP Proxy payload"; ObjectID = "t1F-Ng-iwa"; */
+"t1F-Ng-iwa.ibShadowedToolTip" = "移除全域 HTTP 代理伺服器承載資料";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "T2h-ka-AQb"; */
+"T2h-ka-AQb.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "URL used to retrieve proxy settings"; ObjectID = "tbB-sS-uvV"; */
+"tbB-sS-uvV.title" = "用以取得代理伺服器設定的 URL";
+
+/* Class = "NSTextFieldCell"; title = "Proxy PAC URL"; ObjectID = "ui1-1R-E76"; */
+"ui1-1R-E76.title" = "代理伺服器 PAC URL";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for the proxy server"; ObjectID = "Uui-35-Ikw"; */
+"Uui-35-Ikw.title" = "主機名稱或 IP 位址，以及代理伺服器的埠號";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "VEV-FI-vvO"; */
+"VEV-FI-vvO.title" = "自動";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "wkh-Me-AaL"; */
+"wkh-Me-AaL.title" = "密碼";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "xBB-9O-vzt"; */
+"xBB-9O-vzt.title" = "使用者名稱";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "yFx-EM-VmV"; */
+"yFx-EM-VmV.title" = "（僅限監管）";
+
+/* Class = "NSTextFieldCell"; title = "Global HTTP Proxy"; ObjectID = "YQs-dZ-qYt"; */
+"YQs-dZ-qYt.title" = "全域 HTTP 代理伺服器";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Zgi-zM-RFl"; */
+"Zgi-zM-RFl.title" = ":";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy PAC URL:"; ObjectID = "zpX-Eh-Hc6"; */
+"zpX-Eh-Hc6.ibExternalAccessibilityDescription" = "代理伺服器 PAC URL：";
+

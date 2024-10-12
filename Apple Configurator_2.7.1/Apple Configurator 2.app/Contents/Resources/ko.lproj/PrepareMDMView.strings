@@ -1,0 +1,18 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Server"; ObjectID = "IFW-gv-cBB"; */
+"IFW-gv-cBB.ibExternalAccessibilityDescription" = "서버";
+
+/* Class = "NSMenuItem"; title = "Do not enroll in MDM"; ObjectID = "IXX-oE-f2P"; */
+"IXX-oE-f2P.title" = "MDM에 등록 안 함";
+
+/* Class = "NSTextFieldCell"; title = "Choose an MDM server to manage the devices remotely over the air, if desired."; ObjectID = "QqI-zl-5pj"; */
+"QqI-zl-5pj.title" = "원하는 경우 기기를 원격으로 관리할 MDM 서버를 선택하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "UxY-ig-KbX"; */
+"UxY-ig-KbX.title" = "서버:";
+
+/* Class = "NSMenuItem"; title = "<< DNL Existing Servers >>"; ObjectID = "WbY-Tq-2XL"; */
+"WbY-Tq-2XL.title" = "<< DNL Existing Servers >>";
+
+/* Class = "NSMenuItem"; title = "New Server…"; ObjectID = "Xgn-if-NnP"; */
+"Xgn-if-NnP.title" = "새로운 서버...";
+

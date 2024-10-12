@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "No es obligatorio especificar un nombre de usuario y una contraseña.";
+
+/* (No Comment) */
+"AMDRequires" = "Se necesita una referencia a un perfil de configuración existente que contenga una red Wi-Fi, así como una conexión activa a internet.";
+
+/* (No Comment) */
+"AMDResult" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Esta acción prepara los dispositivos, cuyos identificadores se pasan a esta acción como entrada, para la inscripción automática (DEP).";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Preparar dispositivos con “Inscripción automática”";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. Todos los derechos reservados.";
+

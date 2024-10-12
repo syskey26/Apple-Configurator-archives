@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mCj-Ny-M2g"; */
+"mCj-Ny-M2g.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Change Color…"; ObjectID = "y3n-2B-aHg"; */
+"y3n-2B-aHg.title" = "Modifier la couleur…";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "YzH-eW-tuf"; */
+"YzH-eW-tuf.headerCell.title" = "Nom";
+

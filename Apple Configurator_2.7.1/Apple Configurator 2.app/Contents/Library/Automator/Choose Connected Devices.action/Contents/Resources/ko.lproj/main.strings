@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "This action displays a list of devices connected to this computer and allows the user to choose from them."; ObjectID = "1Mi-pB-9eR"; */
+"1Mi-pB-9eR.title" = "이 동작은 이 컴퓨터에 연결된 기기의 목록을 표시하며 사용자가 선택하도록 허용합니다.";
+
+/* Class = "NSMenuItem"; title = "Device Type"; ObjectID = "d97-Wa-bgd"; */
+"d97-Wa-bgd.title" = "기기 유형";
+
+/* Class = "NSButtonCell"; title = "Device Serial Number"; ObjectID = "ihr-Cf-nmE"; */
+"ihr-Cf-nmE.title" = "기기 일련 번호";
+
+/* Class = "NSTextFieldCell"; title = "+  Device Name  +"; ObjectID = "Kci-QG-DwY"; */
+"Kci-QG-DwY.title" = "+  기기 이름  +";
+
+/* Class = "NSMenuItem"; title = "Device Class"; ObjectID = "ugR-wI-CkB"; */
+"ugR-wI-CkB.title" = "기기 클래스";
+
+/* Class = "NSTextFieldCell"; title = "+  Device ECID"; ObjectID = "Uon-Au-3DR"; */
+"Uon-Au-3DR.title" = "+  기기 ECID";
+
+/* Class = "NSTextFieldCell"; title = "Example:"; ObjectID = "XbP-Es-QOo"; */
+"XbP-Es-QOo.title" = "예제:";
+
+/* Class = "NSTextFieldCell"; title = "Select the data that should be displayed for each device:"; ObjectID = "zo8-3V-5Nj"; */
+"zo8-3V-5Nj.title" = "표시할 각 기기의 데이터 선택:";
+

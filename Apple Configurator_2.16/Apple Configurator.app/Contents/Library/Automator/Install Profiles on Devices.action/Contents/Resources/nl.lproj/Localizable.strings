@@ -1,0 +1,24 @@
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_EXIST" = "Dit certificaatbestand is niet op de verwachte plaats gevonden: ";
+
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_SET" = "Er is geen certificaatbestand gekozen.";
+
+/* DIALOG PROMPT */
+"CNFGACT-03-DIALOG_PROMPT" = "Kies de profielen die je op de apparaten wilt installeren:";
+
+/* INPUT ERRORS */
+"CNFGACT-03-NO_INPUT_ERROR" = "Er zijn geen ECID-verwijzingen naar aangesloten apparaten aan deze taak doorgegeven.";
+
+/* (No Comment) */
+"CNFGACT-03-NO_SELECTION_ERROR" = "Er zijn geen profielbestanden gekozen.";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_EXIST" = "Dit private-sleutelbestand is niet op de verwachte plaats gevonden: ";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_SET" = "Er is geen private-sleutelbestand gekozen.";
+
+/* (No Comment) */
+"CNFGACT-03-PROFILE_FILE_NOT_EXIST" = "Dit profiel is niet op de verwachte plaats gevonden: ";
+

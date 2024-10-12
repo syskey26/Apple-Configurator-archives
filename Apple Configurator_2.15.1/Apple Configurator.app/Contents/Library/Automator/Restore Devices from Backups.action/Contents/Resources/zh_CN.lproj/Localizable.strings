@@ -1,0 +1,9 @@
+/* INPUT ERRORS */
+"CNFGACT-13-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH" = "设备备份的密码尚未在“从备份恢复设备”操作界面中输入和确认。";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "密码错误";
+

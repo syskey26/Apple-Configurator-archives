@@ -1,0 +1,423 @@
+/* Class = "NSButtonCell"; title = "Automatically join Classroom classes without prompting (supervised only)"; ObjectID = "0B6-W0-K6C"; */
+"0B6-W0-K6C.title" = "“クラスルーム”のクラスにプロンプトなしで自動的に参加（監視対象のみ）";
+
+/* Class = "NSTextFieldCell"; title = "Sets the maximum allowed ratings"; ObjectID = "0gS-xX-2vi"; */
+"0gS-xX-2vi.title" = "許可する最大レーティングを設定します";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to lock to an app and lock the device without prompting (supervised only)"; ObjectID = "0qH-8b-FXH"; */
+"0qH-8b-FXH.title" = "“クラスルーム”にプロンプトなしでの App の制限とデバイスのロックを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Force encrypted backups"; ObjectID = "0Y2-4l-JMW"; */
+"0Y2-4l-JMW.title" = "強制的に暗号化バックアップ";
+
+/* Class = "NSButtonCell"; title = "Allow adding VPN configurations (supervised only)"; ObjectID = "1fJ-hd-xoe"; */
+"1fJ-hd-xoe.title" = "VPN構成の追加を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow Define (supervised only)"; ObjectID = "1q3-kS-Zfe"; */
+"1q3-kS-Zfe.title" = "定義を許可（監視対象のみ）";
+
+/* Class = "NSTextFieldCell"; title = "Sets the region for the ratings"; ObjectID = "1YH-eP-WV9"; */
+"1YH-eP-WV9.title" = "レーティングの地域を設定します";
+
+/* Class = "NSButtonCell"; title = "Allow dictation (supervised only)"; ObjectID = "2vN-is-nHX"; */
+"2vN-is-nHX.title" = "音声入力を許可（監視対象のみ）";
+
+/* Class = "NSMenuItem"; title = "Japan"; ObjectID = "3nh-NO-5xI"; */
+"3nh-NO-5xI.title" = "日本";
+
+/* Class = "NSButtonCell"; title = "Enable JavaScript"; ObjectID = "3RZ-VN-kEK"; */
+"3RZ-VN-kEK.title" = "JavaScript を有効にする";
+
+/* Class = "NSMenuItem"; title = "Only allow some apps"; ObjectID = "3u0-wt-4t2"; */
+"3u0-wt-4t2.title" = "一部の App のみを許可";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular plan settings (supervised only)"; ObjectID = "4Gl-jW-47m"; */
+"4Gl-jW-47m.title" = "モバイルデータ通信プラン設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4Id-HF-776"; */
+"4Id-HF-776.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "From current website only"; ObjectID = "4jq-RJ-3GY"; */
+"4jq-RJ-3GY.title" = "現在の Web サイトからのみ";
+
+/* Class = "NSButtonCell"; title = "Require Face ID authentication before AutoFill (supervised only)"; ObjectID = "5hD-GF-Shf"; */
+"5hD-GF-Shf.title" = "自動入力の前にFace ID認証を要求（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying account settings (supervised only)"; ObjectID = "5Vq-za-axl"; */
+"5Vq-za-axl.title" = "アカウント設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Enable Siri profanity filter (supervised only)"; ObjectID = "6bL-R3-anA"; */
+"6bL-R3-anA.title" = "Siriの不適切な単語フィルタを有効にする（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Disallow AirPrint to destinations with untrusted certificates (supervised only)"; ObjectID = "6BT-32-ox1"; */
+"6BT-32-ox1.title" = "証明書が信頼されていない出力先へのAirPrintを禁止（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow Handoff"; ObjectID = "7Cz-Ad-jhg"; */
+"7Cz-Ad-jhg.title" = "Handoff を許可";
+
+/* Class = "NSButtonCell"; title = "Allow explicit sexual content in iBooks Store"; ObjectID = "7mE-uj-8Ko"; */
+"7mE-uj-8Ko.title" = "iBooks Store で不適切な性的描写のあるブックの閲覧を許可";
+
+/* Class = "NSButtonCell"; title = "Show user-generated content in Siri (supervised only)"; ObjectID = "7ZE-K2-JGS"; */
+"7ZE-K2-JGS.title" = "Siriにユーザ生成コンテンツを表示（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow spell check (supervised only)"; ObjectID = "8Y4-oV-Rjs"; */
+"8Y4-oV-Rjs.title" = "スペルチェックを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Library"; ObjectID = "9jN-FC-shr"; */
+"9jN-FC-shr.title" = "iCloud フォトライブラリを許可";
+
+/* Class = "NSButtonCell"; title = "Allow setting up new nearby devices (supervised only)"; ObjectID = "9Lc-kC-L6B"; */
+"9Lc-kC-L6B.title" = "近くのデバイスの新規設定を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow Apple Music (supervised only)"; ObjectID = "71t-Hh-dbR"; */
+"71t-Hh-dbR.title" = "Apple Musicを許可（監視対象のみ）";
+
+/* Class = "NSTextFieldCell"; title = "Restrictions"; ObjectID = "A3z-D6-Muc"; */
+"A3z-D6-Muc.title" = "制限";
+
+/* Class = "NSButtonCell"; title = "Allow managed apps to store data in iCloud"; ObjectID = "a5e-0e-9Q8"; */
+"a5e-0e-9Q8.title" = "管理対象 App が iCloud にデータを保存することを許可";
+
+/* Class = "NSButtonCell"; title = "Allow keyboard shortcuts (supervised only)"; ObjectID = "a8L-jR-9fK"; */
+"a8L-jR-9fK.title" = "キーボードショートカットを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Force fraud warning"; ObjectID = "Adp-BI-EVC"; */
+"Adp-BI-EVC.title" = "強制的に詐欺警告";
+
+/* Class = "NSButtonCell"; title = "Allow iBooks Store (supervised only)"; ObjectID = "ae5-Yb-0hp"; */
+"ae5-Yb-0hp.title" = "iBooks Storeを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Sharing"; ObjectID = "aIl-Fr-DGY"; */
+"aIl-Fr-DGY.title" = "iCloud での写真共有を許可";
+
+/* Class = "NSButtonCell"; title = "Allow multiplayer gaming (supervised only)"; ObjectID = "Awk-IL-Zp6"; */
+"Awk-IL-Zp6.title" = "マルチプレイヤーゲームを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Force limited ad tracking"; ObjectID = "AwO-qo-882"; */
+"AwO-qo-882.title" = "強制的に追跡型広告を制限";
+
+/* Class = "NSButtonCell"; title = "Allow predictive keyboard (supervised only)"; ObjectID = "b3o-Lw-Qf3"; */
+"b3o-Lw-Qf3.title" = "予測表示キーボードを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow playback of explicit music, podcasts & iTunes U media"; ObjectID = "B5r-rK-xAv"; */
+"B5r-rK-xAv.title" = "不適切なミュージック、Podcast、iTunes U メディアの再生を許可";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Remote app (tvOS only)"; ObjectID = "c3B-OD-p7h"; */
+"c3B-OD-p7h.title" = "Remote Appとのペアリングを許可（tvOSのみ）";
+
+/* Class = "NSTextFieldCell"; title = "Accept cookies"; ObjectID = "cId-Oh-89y"; */
+"cId-Oh-89y.title" = "Cookie の受け入れ";
+
+/* Class = "NSButtonCell"; title = "Treat AirDrop as unmanaged destination"; ObjectID = "COC-1o-iu8"; */
+"COC-1o-iu8.title" = "AirDrop を管理対象外の出力先とみなす";
+
+/* Class = "NSTextFieldCell"; title = "TV Shows:"; ObjectID = "cQS-2G-kb1"; */
+"cQS-2G-kb1.title" = "テレビ番組：";
+
+/* Class = "NSButtonCell"; title = "Allow storage of AirPrint credentials in Keychain (supervised only)"; ObjectID = "czs-vo-RkA"; */
+"czs-vo-RkA.title" = "キーチェーンへのAirPrint資格情報の保存を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Bluetooth settings (supervised only)"; ObjectID = "d2R-Fc-7fF"; */
+"d2R-Fc-7fF.title" = "Bluetooth設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSMenuItem"; title = "From websites I visit"; ObjectID = "DDb-j3-CfW"; */
+"DDb-j3-CfW.title" = "訪問した Web サイトから";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "dio-Gq-2r4"; */
+"dio-Gq-2r4.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "United Kingdom"; ObjectID = "dLJ-Bj-MeC"; */
+"dLJ-Bj-MeC.title" = "イギリス";
+
+/* Class = "NSButtonCell"; title = "Defer software updates for"; ObjectID = "Dml-bm-sgS"; */
+"Dml-bm-sgS.title" = "ソフトウェア・アップデートの遅延:";
+
+/* Class = "NSButtonCell"; title = "Allow USB accessories while device is locked (supervised only)"; ObjectID = "DoI-q4-7IY"; */
+"DoI-q4-7IY.title" = "デバイスのロック中もUSBアクセサリを許可（監理対象のみ）";
+
+/* Class = "NSMenuItem"; title = "Ireland"; ObjectID = "drH-te-3JJ"; */
+"drH-te-3JJ.title" = "アイルランド";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "DRj-ZE-e8g"; */
+"DRj-ZE-e8g.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Require passcode on first AirPlay pairing"; ObjectID = "E1k-ol-9XO"; */
+"E1k-ol-9XO.title" = "最初の AirPlay ペアリングでパスコードを要求";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[0] = "Functionality"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[0]" = "機能";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[1] = "Apps"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[1]" = "App";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[2] = "Media Content"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[2]" = "メディアコンテンツ";
+
+/* Class = "NSButtonCell"; title = "Allow automatic app downloads (supervised only)"; ObjectID = "EHd-Mw-7OG"; */
+"EHd-Mw-7OG.title" = "Appの自動ダウンロードを許可（監視対象のみ）";
+
+/* Class = "NSMenuItem"; title = "Australia"; ObjectID = "EkE-Sr-GAB"; */
+"EkE-Sr-GAB.title" = "オーストラリア";
+
+/* Class = "NSButtonCell"; title = "Show Today view in Lock screen"; ObjectID = "EPc-22-i7Y"; */
+"EPc-22-i7Y.title" = "ロック画面に今日表示を表示";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular data app settings (supervised only)"; ObjectID = "fet-eL-1tV"; */
+"fet-eL-1tV.title" = "モバイルデータ通信App設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow Wallet notifications in Lock screen"; ObjectID = "Fex-gB-fdh"; */
+"Fex-gB-fdh.title" = "ロック画面での Wallet 通知を許可";
+
+/* Class = "NSButtonCell"; title = "Allow documents from unmanaged sources in managed destinations"; ObjectID = "FRy-Ib-alv"; */
+"FRy-Ib-alv.title" = "管理対象出力先で管理対象外ソースからの書類を許可";
+
+/* Class = "NSButtonCell"; title = "Allow backup of enterprise books"; ObjectID = "g0l-5R-sjb"; */
+"g0l-5R-sjb.title" = "エンタープライズブックのバックアップを許可";
+
+/* Class = "NSTextFieldCell"; title = "Apps:"; ObjectID = "GoC-0i-NlS"; */
+"GoC-0i-NlS.title" = "App：";
+
+/* Class = "NSButtonCell"; title = "Allow discovery of AirPrint printers using iBeacons (supervised only)"; ObjectID = "got-w9-Z6k"; */
+"got-w9-Z6k.title" = "iBeaconを使ったAirPrintプリンタの検出を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow use of Safari"; ObjectID = "HbG-wk-FfB"; */
+"HbG-wk-FfB.title" = "Safari の使用を許可";
+
+/* Class = "NSTextFieldCell"; title = "Ratings region"; ObjectID = "HhL-55-Qmz"; */
+"HhL-55-Qmz.title" = "レーティングの地域";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "HKg-JH-Le5"; */
+"HKg-JH-Le5.headerCell.title" = "App 名";
+
+/* Class = "NSButtonCell"; title = "Allow in-app purchase"; ObjectID = "HoC-yJ-GNl"; */
+"HoC-yJ-GNl.title" = "App 内課金を許可";
+
+/* Class = "NSButtonCell"; title = "Allow AirPrint (supervised only)"; ObjectID = "HV4-Nn-PJY"; */
+"HV4-Nn-PJY.title" = "AirPrintを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow voice dialing while device is locked"; ObjectID = "Hx6-f3-0hD"; */
+"Hx6-f3-0hD.title" = "デバイスのロック中も音声ダイヤルを許可";
+
+/* Class = "NSButtonCell"; title = "Allow FaceTime"; ObjectID = "hXe-UE-CVw"; */
+"hXe-UE-CVw.title" = "FaceTime を許可";
+
+/* Class = "NSButtonCell"; title = "Allow modifying diagnostics settings (supervised only)"; ObjectID = "HyF-8X-NuK"; */
+"HyF-8X-NuK.title" = "診断設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Show Control Center in Lock screen"; ObjectID = "iGP-M5-iHw"; */
+"iGP-M5-iHw.title" = "ロック画面にコントロールセンターを表示";
+
+/* Class = "NSButtonCell"; title = "Allow use of iTunes Store"; ObjectID = "ihX-yL-qQc"; */
+"ihX-yL-qQc.title" = "iTunes Store の使用を許可";
+
+/* Class = "NSButtonCell"; title = "Join only Wi-Fi networks installed by a Wi-Fi payload (supervised only)"; ObjectID = "izz-0X-Sqt"; */
+"izz-0X-Sqt.title" = "Wi-FiペイロードによってインストールされたWi-Fiネットワークのみに接続（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow automatic sync while roaming"; ObjectID = "j6a-Mq-bSC"; */
+"j6a-Mq-bSC.title" = "ローミング中の自動同期を許可";
+
+/* Class = "NSTextFieldCell"; title = "Restrict App Usage (supervised only)"; ObjectID = "Jeq-mv-xeB"; */
+"Jeq-mv-xeB.title" = "Appの使用を制限（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Find My Friends settings (supervised only)"; ObjectID = "jIl-Rh-G02"; */
+"jIl-Rh-G02.title" = "“友達を探す”設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JKU-Rp-d7Z"; */
+"JKU-Rp-d7Z.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Do not allow some apps"; ObjectID = "jlw-gD-gRt"; */
+"jlw-gD-gRt.title" = "一部の App を許可しない";
+
+/* Class = "NSButtonCell"; title = "Allow trusting new enterprise app authors"; ObjectID = "kI8-lJ-suJ"; */
+"kI8-lJ-suJ.title" = "新しいエンタープライズ App 作成者の信頼を許可";
+
+/* Class = "NSButtonCell"; title = "Allow removing system apps (supervised only)"; ObjectID = "kkM-Bb-xz7"; */
+"kkM-Bb-xz7.title" = "システムAppの削除を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps"; ObjectID = "kkU-Do-vn5"; */
+"kkU-Do-vn5.title" = "App のインストールを許可";
+
+/* Class = "NSButtonCell"; title = "Allow modifying restrictions (supervised only)"; ObjectID = "Kuc-3z-033"; */
+"Kuc-3z-033.title" = "制限の変更を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow installing configuration profiles (supervised only)"; ObjectID = "L4z-om-2yl"; */
+"L4z-om-2yl.title" = "構成プロファイルのインストールを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps using App Store (supervised only)"; ObjectID = "Lc2-ax-anS"; */
+"Lc2-ax-anS.title" = "App StoreからのAppのインストールを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow use of News (supervised only)"; ObjectID = "lPc-wI-edp"; */
+"lPc-wI-edp.title" = "“ニュース”の使用を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow AirPlay and View Screen by Classroom"; ObjectID = "Lwc-eb-eCs"; */
+"Lwc-eb-eCs.title" = "“クラスルーム”による AirPlay と“画面を表示”を許可";
+
+/* Class = "NSMenuItem"; title = "France"; ObjectID = "LzS-ZU-HaA"; */
+"LzS-ZU-HaA.title" = "フランス";
+
+/* Class = "NSButtonCell"; title = "Allow auto correction (supervised only)"; ObjectID = "MaY-dz-I4v"; */
+"MaY-dz-I4v.title" = "自動修正を許可（監視対象のみ）";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "mJs-ff-dPg"; */
+"mJs-ff-dPg.title" = "常に";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Keychain"; ObjectID = "MnI-Vu-kXd"; */
+"MnI-Vu-kXd.title" = "iCloud キーチェーンを許可";
+
+/* Class = "NSButtonCell"; title = "Allow use of Game Center (supervised only)"; ObjectID = "mOQ-gG-834"; */
+"mOQ-gG-834.title" = "Game Centerの使用を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to perform AirPlay and View Screen without prompting (supervised only)"; ObjectID = "N9X-zG-Ux4"; */
+"N9X-zG-Ux4.title" = "“クラスルーム”にプロンプトなしでのAirPlayと“画面を表示”の実行を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Wallpaper (supervised only)"; ObjectID = "nt5-Dd-9PT"; */
+"nt5-Dd-9PT.title" = "壁紙の変更を許可（監視対象のみ）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Restrictions payload"; ObjectID = "o5s-UI-ygh"; */
+"o5s-UI-ygh.ibShadowedToolTip" = "制限ペイロードを取り除きます";
+
+/* Class = "NSButtonCell"; title = "Allow Touch ID / Face ID to unlock device"; ObjectID = "O8F-NJ-2z7"; */
+"O8F-NJ-2z7.title" = "Touch ID/Face IDによるデバイスロック解除を許可";
+
+/* Class = "NSButtonCell"; title = "Allow Radio (supervised only)"; ObjectID = "Okg-vm-QPh"; */
+"Okg-vm-QPh.title" = "Radioを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud documents & data"; ObjectID = "oKy-td-LGy"; */
+"oKy-td-LGy.title" = "iCloud 書類とデータを許可";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "onz-Bf-5Iv"; */
+"onz-Bf-5Iv.title" = "受け入れない";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[app bundle identifier]"; ObjectID = "Oyi-6U-vIi"; */
+"Oyi-6U-vIi.ibShadowedIsNilPlaceholder" = "[App バンドル識別子]";
+
+/* Class = "NSButtonCell"; title = "Allow use of Podcasts (supervised only)"; ObjectID = "Ozd-jU-Kbj"; */
+"Ozd-jU-Kbj.title" = "Podcastの使用を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow adding Game Center friends"; ObjectID = "P1m-cs-0JM"; */
+"P1m-cs-0JM.title" = "Game Center の友達の追加を許可";
+
+/* Class = "NSButtonCell"; title = "Allow Siri Suggestions"; ObjectID = "P8b-S8-S2K"; */
+"P8b-S8-S2K.title" = "Siri の検索候補を許可";
+
+/* Class = "NSButtonCell"; title = "Allow modifying device name (supervised only)"; ObjectID = "q82-0Z-SL5"; */
+"q82-0Z-SL5.title" = "デバイス名の変更を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Require iTunes Store password for all purchases"; ObjectID = "QmL-p3-AuT"; */
+"QmL-p3-AuT.title" = "購入時に常にiTunes Storeパスワードを要求";
+
+/* Class = "NSTextFieldCell"; title = "Movies:"; ObjectID = "r8y-MF-Al8"; */
+"r8y-MF-Al8.title" = "ムービー：";
+
+/* Class = "NSButtonCell"; title = "Allow Siri while device is locked"; ObjectID = "rEm-w3-fK4"; */
+"rEm-w3-fK4.title" = "デバイスのロック中も Siri を許可";
+
+/* Class = "NSButtonCell"; title = "Block pop-ups"; ObjectID = "RYU-j0-AnO"; */
+"RYU-j0-AnO.title" = "ポップアップを開かない";
+
+/* Class = "NSButtonCell"; title = "Show Notification Center in Lock screen"; ObjectID = "s2U-AI-aeF"; */
+"s2U-AI-aeF.title" = "ロック画面に通知センターを表示";
+
+/* Class = "NSButtonCell"; title = "Allow removing apps (supervised only)"; ObjectID = "S3b-0B-Kcb"; */
+"S3b-0B-Kcb.title" = "Appの削除を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Enable AutoFill"; ObjectID = "Szq-xc-NgQ"; */
+"Szq-xc-NgQ.title" = "自動入力を有効にする";
+
+/* Class = "NSButtonCell"; title = "Allow Siri"; ObjectID = "TdO-92-QxM"; */
+"TdO-92-QxM.title" = "Siri を許可";
+
+/* Class = "NSTextFieldCell"; title = "days (supervised only)"; ObjectID = "Tfa-6p-nX6"; */
+"Tfa-6p-nX6.title" = "日間（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow Erase All Content and Settings (supervised only)"; ObjectID = "TgG-ZN-qc3"; */
+"TgG-ZN-qc3.title" = "“すべてのコンテンツと設定を消去”を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Touch ID fingerprints / Face ID faces (supervised only)"; ObjectID = "TUM-Lo-RlT"; */
+"TUM-Lo-RlT.title" = "Touch IDの指紋/Face IDの顔の変更を許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Require teacher permission to leave Classroom unmanaged classes (supervised only)"; ObjectID = "tvf-FA-dMF"; */
+"tvf-FA-dMF.title" = "“クラスルーム”の管理対象外クラスを退席するときに教師の許可を要求（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow documents from managed sources in unmanaged destinations"; ObjectID = "TXi-lj-fkV"; */
+"TXi-lj-fkV.title" = "管理対象外出力先で管理対象ソースからの書類を許可";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "u5G-Ob-dEJ"; */
+"u5G-Ob-dEJ.title" = "サンプル App";
+
+/* Class = "NSButtonCell"; title = "Allow notes and highlights sync for enterprise books"; ObjectID = "vCI-GN-sjx"; */
+"vCI-GN-sjx.title" = "エンタープライズブックのメモとハイライトの同期を許可";
+
+/* Class = "NSButtonCell"; title = "Force Apple Watch wrist detection"; ObjectID = "vH2-UC-dXV"; */
+"vH2-UC-dXV.title" = "Apple Watch の手首検出を強制";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud backup"; ObjectID = "voz-XM-2Zg"; */
+"voz-XM-2Zg.title" = "iCloud バックアップを許可";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with non-Configurator hosts (supervised only)"; ObjectID = "VWA-9U-8IK"; */
+"VWA-9U-8IK.title" = "Configurator以外のホストとのペアリングを許可（監視対象のみ）";
+
+/* Class = "NSMenuItem"; title = "Germany"; ObjectID = "WBd-Cy-qrD"; */
+"WBd-Cy-qrD.title" = "ドイツ";
+
+/* Class = "NSButtonCell"; title = "Allow incoming AirPlay requests (tvOS only)"; ObjectID = "Wnw-qO-PzC"; */
+"Wnw-qO-PzC.title" = "AirPlay要求受信を許可（tvOSのみ）";
+
+/* Class = "NSMenuItem"; title = "Allow all apps"; ObjectID = "Wqr-XV-m0E"; */
+"Wqr-XV-m0E.title" = "すべての App を許可";
+
+/* Class = "NSButtonCell"; title = "Allow My Photo Stream (disallowing can cause data loss)"; ObjectID = "Wwu-cp-A9R"; */
+"Wwu-cp-A9R.title" = "“自分のフォトストリーム”を許可（許可しないとデータ損失の\n可能性あり）";
+
+/* Class = "NSMenuItem"; title = "New Zealand"; ObjectID = "WXA-x4-Sg2"; */
+"WXA-x4-Sg2.title" = "ニュージーランド";
+
+/* Class = "NSButtonCell"; title = "Allow users to accept untrusted TLS certificates"; ObjectID = "Xc4-WH-wlp"; */
+"Xc4-WH-wlp.title" = "信頼されていない TLS 証明書の受け入れをユーザに許可";
+
+/* Class = "NSMenuItem"; title = "United States"; ObjectID = "xHL-0R-cuV"; */
+"xHL-0R-cuV.title" = "アメリカ";
+
+/* Class = "NSButtonCell"; title = "Allow sending diagnostic and usage data to Apple"; ObjectID = "xHT-z2-ce7"; */
+"xHT-z2-ce7.title" = "Apple への診断情報と使用状況データの送信を許可";
+
+/* Class = "NSButtonCell"; title = "Allow automatic updates to certificate trust settings"; ObjectID = "XVo-8o-bbO"; */
+"XVo-8o-bbO.title" = "証明書信頼設定の自動アップデートを許可";
+
+/* Class = "NSButtonCell"; title = "Allow use of camera"; ObjectID = "Y4L-jD-IRx"; */
+"Y4L-jD-IRx.title" = "カメラの使用を許可";
+
+/* Class = "NSMenuItem"; title = "Canada"; ObjectID = "Yep-uV-EyS"; */
+"Yep-uV-EyS.title" = "カナダ";
+
+/* Class = "NSButtonCell"; title = "Allow AirDrop (supervised only)"; ObjectID = "yNA-Sf-jSK"; */
+"yNA-Sf-jSK.title" = "AirDropを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow screenshots and screen recording"; ObjectID = "YRO-iy-0qu"; */
+"YRO-iy-0qu.title" = "スクリーンショットと画面収録を許可";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YuF-w4-7dI"; */
+"YuF-w4-7dI.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow modifying notification settings (supervised only)"; ObjectID = "YvP-g2-uSW"; */
+"YvP-g2-uSW.title" = "通知設定の変更を許可（監視対象のみ）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YWw-SQ-hoJ"; */
+"YWw-SQ-hoJ.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Apple Watch (supervised only)"; ObjectID = "Z9Z-KB-npQ"; */
+"Z9Z-KB-npQ.title" = "Apple Watchとのペアリングを許可（監視対象のみ）";
+
+/* Class = "NSButtonCell"; title = "Allow iMessage (supervised only)"; ObjectID = "Ze7-tf-9mq"; */
+"Ze7-tf-9mq.title" = "iMessageを許可（監視対象のみ）";
+
+/* Class = "NSTextFieldCell"; title = "Allowed content ratings"; ObjectID = "zfH-dV-32a"; */
+"zfH-dV-32a.title" = "許可されるコンテンツレーティング";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "ZNS-5y-Oes"; */
+"ZNS-5y-Oes.title" = "30";
+
+/* Class = "NSButtonCell"; title = "Allow modifying passcode (supervised only)"; ObjectID = "zTh-3f-4PF"; */
+"zTh-3f-4PF.title" = "パスコードの変更を許可（監視対象のみ）";
+

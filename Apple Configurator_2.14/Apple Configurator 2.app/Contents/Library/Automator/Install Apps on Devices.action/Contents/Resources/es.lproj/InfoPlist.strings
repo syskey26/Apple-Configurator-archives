@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDNote" = "Haz clic en el botón Actualizar para mostrar una lista de los archivos de apps para móviles en el ordenador.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Esta acción instalará las apps para móviles seleccionadas en los dispositivos cuyos identificadores se han derivado a esta acción como datos de entrada.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Instalar apps en dispositivos";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. Todos los derechos reservados.";
+

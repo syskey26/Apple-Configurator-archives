@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Provider Configuration"; ObjectID = "0GB-QU-3tY"; */
+"0GB-QU-3tY.title" = "Configuración del proveedor";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "5A0-sq-nQI"; */
+"5A0-sq-nQI.ibShadowedIsNilPlaceholder" = "[obligatorio]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "6vX-EO-GCM"; */
+"6vX-EO-GCM.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "URL:"; ObjectID = "8UT-L0-gEb"; */
+"8UT-L0-gEb.ibExternalAccessibilityDescription" = "URL:";
+
+/* Class = "NSButtonCell"; title = "Remove Configuration"; ObjectID = "79P-Op-1vw"; */
+"79P-Op-1vw.title" = "Eliminar configuración";
+
+/* Class = "NSTextFieldCell"; title = "Vendor specific configuration values"; ObjectID = "bEH-4z-nyi"; */
+"bEH-4z-nyi.title" = "Valores de configuración específicos del proveedor";
+
+/* Class = "NSTextFieldCell"; title = "App Bundle ID"; ObjectID = "BoB-PW-izz"; */
+"BoB-PW-izz.title" = "ID de paquete de la app";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "bOf-5c-E5t"; */
+"bOf-5c-E5t.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSButtonCell"; title = "Upload File…"; ObjectID = "cZX-b9-8fu"; */
+"cZX-b9-8fu.title" = "Cargar…";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name:"; ObjectID = "e2Y-RG-5L6"; */
+"e2Y-RG-5L6.ibExternalAccessibilityDescription" = "Nombre:";
+
+/* Class = "NSTextFieldCell"; title = "Provider Bundle ID"; ObjectID = "HZA-cP-CpH"; */
+"HZA-cP-CpH.title" = "ID de paquete del proveedor";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "nN8-FZ-W4g"; */
+"nN8-FZ-W4g.title" = "(solo con supervisión)";
+
+/* Class = "NSTextFieldCell"; title = "DNS Proxy"; ObjectID = "RC3-yr-TrW"; */
+"RC3-yr-TrW.title" = "Proxy DNS";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the app containing the DNS proxy network extention"; ObjectID = "vFg-KA-GxF"; */
+"vFg-KA-GxF.title" = "Identificador del paquete de la app que contiene la extensión de la red proxy DNS";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove DNS payload"; ObjectID = "WnN-UT-Qkz"; */
+"WnN-UT-Qkz.ibShadowedToolTip" = "Eliminar carga DNS";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the DNS proxy network extension to use"; ObjectID = "wuI-UK-bae"; */
+"wuI-UK-bae.title" = "Identificador de paquete de la extensión de la red proxy DNS que se utilizará";
+

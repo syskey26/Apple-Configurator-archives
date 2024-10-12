@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Ci sono opzioni che consentono di impostare opzioni di installazione personalizzata. Di default, vengono utilizzate le versioni del prodotto più recenti.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Questa azione ripristina i dispositivi i cui identificatori sono stati passati a questa azione come input.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Ripristina dispositivi";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Tutti i diritti riservati.";
+

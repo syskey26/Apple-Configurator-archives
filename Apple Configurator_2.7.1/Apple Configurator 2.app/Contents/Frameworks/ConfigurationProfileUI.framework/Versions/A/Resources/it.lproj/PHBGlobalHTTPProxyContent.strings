@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Proxy Type"; ObjectID = "0bS-Sq-cUP"; */
+"0bS-Sq-cUP.title" = "Tipo proxy";
+
+/* Class = "NSMenuItem"; title = "Manual"; ObjectID = "3Lc-zB-yQz"; */
+"3Lc-zB-yQz.title" = "Manuale";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "4KS-5O-CYl"; */
+"4KS-5O-CYl.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Proxy PAC URL is required"; ObjectID = "4v2-Op-gQz"; */
+"4v2-Op-gQz.ibShadowedToolTip" = "L'URL del PAC proxy è richiesto";
+
+/* Class = "NSButtonCell"; title = "Allow direct connection if PAC is unreachable"; ObjectID = "5An-Ip-5Jh"; */
+"5An-Ip-5Jh.title" = "Con PAC irraggiungibile, consenti connessione diretta";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "7QE-Of-B2K"; */
+"7QE-Of-B2K.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSButtonCell"; title = "Allow bypassing proxy to access captive networks"; ObjectID = "a0C-nO-RT3"; */
+"a0C-nO-RT3.title" = "Consenti esclusione proxy per le reti Captive";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Server Port:"; ObjectID = "c8j-k9-0fQ"; */
+"c8j-k9-0fQ.ibExternalAccessibilityDescription" = "Porta del server proxy:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Server Domain Name:"; ObjectID = "d60-qj-oLD"; */
+"d60-qj-oLD.ibExternalAccessibilityDescription" = "Nome di dominio del server proxy:";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "FKz-D3-RQo"; */
+"FKz-D3-RQo.ibExternalAccessibilityDescription" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Password used to authenticate with the proxy"; ObjectID = "hRM-vF-ltc"; */
+"hRM-vF-ltc.title" = "Password utilizzata per l'autenticazione con il proxy";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "n3p-jJ-Tap"; */
+"n3p-jJ-Tap.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "User name used to connect to the proxy"; ObjectID = "NqD-0m-39B"; */
+"NqD-0m-39B.title" = "Nome utente utilizzato per connettersi al server proxy";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Server and Port"; ObjectID = "nt0-gf-kst"; */
+"nt0-gf-kst.title" = "Server proxy e porta";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "pQo-Qh-lIR"; */
+"pQo-Qh-lIR.ibExternalAccessibilityDescription" = "Nome utente:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Qqe-Sk-dIM"; */
+"Qqe-Sk-dIM.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSButtonCell"; title = "Allow bypassing proxy to access captive networks"; ObjectID = "rgZ-yw-4PL"; */
+"rgZ-yw-4PL.title" = "Consenti esclusione proxy per le reti Captive";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Global HTTP Proxy payload"; ObjectID = "t1F-Ng-iwa"; */
+"t1F-Ng-iwa.ibShadowedToolTip" = "Rimuovi payload del proxy HTTP globale";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "T2h-ka-AQb"; */
+"T2h-ka-AQb.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "URL used to retrieve proxy settings"; ObjectID = "tbB-sS-uvV"; */
+"tbB-sS-uvV.title" = "URL utilizzato per recuperare le impostazioni del proxy";
+
+/* Class = "NSTextFieldCell"; title = "Proxy PAC URL"; ObjectID = "ui1-1R-E76"; */
+"ui1-1R-E76.title" = "URL PAC proxy";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for the proxy server"; ObjectID = "Uui-35-Ikw"; */
+"Uui-35-Ikw.title" = "Nome host o indirizzo IP e numero di porta per il server proxy";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "VEV-FI-vvO"; */
+"VEV-FI-vvO.title" = "Automatico";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "wkh-Me-AaL"; */
+"wkh-Me-AaL.title" = "Password";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "xBB-9O-vzt"; */
+"xBB-9O-vzt.title" = "Nome utente";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "yFx-EM-VmV"; */
+"yFx-EM-VmV.title" = "(solo supervisionati)";
+
+/* Class = "NSTextFieldCell"; title = "Global HTTP Proxy"; ObjectID = "YQs-dZ-qYt"; */
+"YQs-dZ-qYt.title" = "Proxy HTTP globale";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Zgi-zM-RFl"; */
+"Zgi-zM-RFl.title" = ":";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy PAC URL:"; ObjectID = "zpX-Eh-Hc6"; */
+"zpX-Eh-Hc6.ibExternalAccessibilityDescription" = "URL PAC proxy:";
+

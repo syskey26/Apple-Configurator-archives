@@ -1,0 +1,18 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Organization"; ObjectID = "IFW-gv-cBB"; */
+"IFW-gv-cBB.ibExternalAccessibilityDescription" = "Organisation";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "IXX-oE-f2P"; */
+"IXX-oE-f2P.title" = "Aucune";
+
+/* Class = "NSTextFieldCell"; title = "Choose the organization which will be used to supervise the devices. Settings > General > About will display the organization's contact information, which cannot be changed without erasing the devices."; ObjectID = "QqI-zl-5pj"; */
+"QqI-zl-5pj.title" = "Choisissez l’organisation utilisée pour superviser les appareils. Vous trouverez dans Réglages > Général > Informations les coordonnées de l’organisation, qui ne peuvent pas être modifiées sans effacer les appareils.";
+
+/* Class = "NSTextFieldCell"; title = "Organization:"; ObjectID = "UxY-ig-KbX"; */
+"UxY-ig-KbX.title" = "Organisation :";
+
+/* Class = "NSMenuItem"; title = "<< DNL Existing Organizations >>"; ObjectID = "WbY-Tq-2XL"; */
+"WbY-Tq-2XL.title" = "<< DNL Existing Organizations >>";
+
+/* Class = "NSMenuItem"; title = "New Organization…"; ObjectID = "Xgn-if-NnP"; */
+"Xgn-if-NnP.title" = "Nouvelle organisation…";
+

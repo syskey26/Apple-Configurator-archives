@@ -1,0 +1,327 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "0xE-X5-kUr"; */
+"0xE-X5-kUr.ibExternalAccessibilityDescription" = "Nom d’utilisateur :";
+
+/* Class = "NSTextFieldCell"; title = "Mail Server and Port"; ObjectID = "1kH-H2-gb7"; */
+"1kH-H2-gb7.title" = "Serveur et port de courrier";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "1qy-6x-bPQ"; */
+"1qy-6x-bPQ.ibShadowedIsNilPlaceholder" = "[définir sur l’appareil]";
+
+/* Class = "NSTextFieldCell"; title = "Path Prefix:"; ObjectID = "1rT-3X-pw9"; */
+"1rT-3X-pw9.title" = "Préfixe du chemin :";
+
+/* Class = "NSTextFieldCell"; title = "The user name used to connect to the server for incoming mail"; ObjectID = "2E8-pl-CXG"; */
+"2E8-pl-CXG.title" = "Le nom d’utilisateur pour se connecter au serveur de messagerie entrant";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "3ha-6n-oSq"; */
+"3ha-6n-oSq.title" = " :";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "3Hz-zC-iJS"; */
+"3Hz-zC-iJS.title" = "Aucune";
+
+/* Class = "NSTextFieldCell"; title = "SMTP authentication uses the same password as POP/IMAP"; ObjectID = "3IT-uj-XdI"; */
+"3IT-uj-XdI.title" = "L’authentification SMTP utilise le même mot de passe que POP/IMAP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "3Lv-fQ-9Pv"; */
+"3Lv-fQ-9Pv.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSTextFieldCell"; title = "Allow Mail Drop for this account"; ObjectID = "4wy-y5-dZL"; */
+"4wy-y5-dZL.title" = "Autoriser Mail Drop pour ce compte";
+
+/* Class = "NSTabViewItem"; label = "Outgoing Mail"; ObjectID = "5ho-d4-fMm"; */
+"5ho-d4-fMm.label" = "Courrier sortant";
+
+/* Class = "NSTextFieldCell"; title = "The address of the account (e.g. \"john@example.com\")"; ObjectID = "5Lh-K6-n8L"; */
+"5Lh-K6-n8L.title" = "Adresse du compte (ex : « jean@example.com »)";
+
+/* Class = "NSTextFieldCell"; title = "55555"; ObjectID = "6bh-hb-J2h"; */
+"6bh-hb-J2h.title" = "55555";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6fw-Hg-GBv"; */
+"6fw-Hg-GBv.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "The password for the outgoing mail server"; ObjectID = "6Vp-mG-DlO"; */
+"6Vp-mG-DlO.title" = "Le mot de passe pour le serveur d’envoi";
+
+/* Class = "NSMenuItem"; title = "Password"; ObjectID = "7p8-n2-WGW"; */
+"7p8-n2-WGW.title" = "Mot de passe";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificate' tab"; ObjectID = "978-r7-8pO"; */
+"978-r7-8pO.ibShadowedToolTip" = "Ajouter des identités au profil via l’onglet « Certificat »";
+
+/* Class = "NSTextFieldCell"; title = "Signing Certificate"; ObjectID = "ARP-r2-tp1"; */
+"ARP-r2-tp1.title" = "Certificat de signature";
+
+/* Class = "NSTextFieldCell"; title = "User Display Name"; ObjectID = "bfC-fT-B2e"; */
+"bfC-fT-B2e.title" = "Nom d’utilisateur affiché";
+
+/* Class = "NSMenuItem"; title = "IMAP"; ObjectID = "bJp-Dw-34O"; */
+"bJp-Dw-34O.title" = "IMAP";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the account (e.g. \"Company Mail Account\")"; ObjectID = "c4V-fb-zYK"; */
+"c4V-fb-zYK.title" = "Le nom d’affichage du compte (ex : Compte de courrier de la société)";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "Coz-n6-fRB"; */
+"Coz-n6-fRB.title" = "<content here>";
+
+/* Class = "NSMenuItem"; title = "HTTP MD5 Digest"; ObjectID = "dqj-g3-5bR"; */
+"dqj-g3-5bR.title" = "Digest MD5 HTTP";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Mail Server Port:"; ObjectID = "eGV-mq-05q"; */
+"eGV-mq-05q.ibExternalAccessibilityDescription" = "Port du serveur de messagerie :";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "fEL-Ze-Q9L"; */
+"fEL-Ze-Q9L.title" = "Mot de passe";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "FPO-5i-mQk"; */
+"FPO-5i-mQk.ibShadowedToolTip" = "Ce champ est requis pour les appareils en cours de préparation ou supervisés";
+
+/* Class = "NSMenuItem"; title = "POP"; ObjectID = "fQV-24-2Ev"; */
+"fQV-24-2Ev.title" = "POP";
+
+/* Class = "NSTextFieldCell"; title = "Certificate used to decrypt messages sent to this account"; ObjectID = "G4q-x0-ffr"; */
+"G4q-x0-ffr.title" = "Certificat utilisé pour déchiffrer les messages envoyés à ce compte";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "g5g-H4-ErH"; */
+"g5g-H4-ErH.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Type"; ObjectID = "gQH-EH-xPb"; */
+"gQH-EH-xPb.title" = "Type d’authentification";
+
+/* Class = "NSButtonCell"; title = "Enable S/MIME message signing"; ObjectID = "h9A-gj-nzC"; */
+"h9A-gj-nzC.title" = "Activer la signature des messages S/MIME";
+
+/* Class = "NSButtonCell"; title = "Enable Per-Message Encryption Switch"; ObjectID = "HaL-Cv-ubf"; */
+"HaL-Cv-ubf.title" = "Activer le commutateur de chiffrement par message";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Mail payload"; ObjectID = "hbC-JI-Ye5"; */
+"hbC-JI-Ye5.ibShadowedToolTip" = "Ajouter les données utiles de Mail";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "hfp-Ww-TiD"; */
+"hfp-Ww-TiD.ibShadowedToolTip" = "Ce champ est requis pour les appareils en cours de préparation ou supervisés";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Hhw-7m-4jR"; */
+"Hhw-7m-4jR.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for outgoing mail"; ObjectID = "hiA-aF-YVd"; */
+"hiA-aF-YVd.title" = "Nom d’hôte ou adresse IP et numéro de port pour le courrier sortant";
+
+/* Class = "NSMenuItem"; title = "HTTP MD5 Digest"; ObjectID = "hoR-Dq-1Wt"; */
+"hoR-Dq-1Wt.title" = "Digest MD5 HTTP";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the user (e.g. \"John Appleseed\")"; ObjectID = "HQI-lA-5uv"; */
+"HQI-lA-5uv.title" = "Le nom d’affichage de l’utilisateur (ex : « Jean Dupont »)";
+
+/* Class = "NSMenuItem"; title = "MD5 Challenge-Response"; ObjectID = "IkR-do-aie"; */
+"IkR-do-aie.title" = "Réponse au défi MD5";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificate payload"; ObjectID = "Imm-8j-zeD"; */
+"Imm-8j-zeD.ibShadowedIsNilPlaceholder" = "Ajouter des certificats aux données utiles Certificat";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Type"; ObjectID = "J2l-1L-Xu9"; */
+"J2l-1L-Xu9.title" = "Type d’authentification";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "JAQ-4f-DZq"; */
+"JAQ-4f-DZq.ibShadowedIsNilPlaceholder" = "[définir sur l’appareil]";
+
+/* Class = "NSTextFieldCell"; title = "The user name used to connect to the server for outgoing mail"; ObjectID = "Jf9-Wl-q8y"; */
+"Jf9-Wl-q8y.title" = "Le nom d’utilisateur pour se connecter au serveur de messagerie sortant";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "jHg-Qm-OXF"; */
+"jHg-Qm-OXF.title" = " :";
+
+/* Class = "NSTextFieldCell"; title = "Mail"; ObjectID = "JoP-ap-veb"; */
+"JoP-ap-veb.title" = "Mail";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "k6O-yp-H10"; */
+"k6O-yp-H10.ibShadowedToolTip" = "Ce champ est requis pour les appareils en cours de préparation ou supervisés";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "k7b-aa-txQ"; */
+"k7b-aa-txQ.ibExternalAccessibilityDescription" = "Nom d’utilisateur :";
+
+/* Class = "NSTextFieldCell"; title = "Messages can be moved from this account to another"; ObjectID = "kDf-DV-7YV"; */
+"kDf-DV-7YV.title" = "Vous pouvez déplacer les messages entre ce compte et un autre compte";
+
+/* Class = "NSButtonCell"; title = "Allow Mail Drop"; ObjectID = "ke3-nC-W2o"; */
+"ke3-nC-W2o.title" = "Autoriser Mail Drop";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "KgB-No-Vls"; */
+"KgB-No-Vls.ibExternalAccessibilityDescription" = "Nom du compte :";
+
+/* Class = "NSTextFieldCell"; title = "Certificate used to sign messages sent from this account"; ObjectID = "LgX-d9-6Ub"; */
+"LgX-d9-6Ub.title" = "Certificat utilisé pour signer les messages envoyés à partir de ce compte";
+
+/* Class = "NSSegmentedCell"; llG-Pc-mOX.ibShadowedLabels[0] = "Incoming Mail"; ObjectID = "llG-Pc-mOX"; */
+"llG-Pc-mOX.ibShadowedLabels[0]" = "Courrier entrant";
+
+/* Class = "NSSegmentedCell"; llG-Pc-mOX.ibShadowedLabels[1] = "Outgoing Mail"; ObjectID = "llG-Pc-mOX"; */
+"llG-Pc-mOX.ibShadowedLabels[1]" = "Courrier sortant";
+
+/* Class = "NSTextFieldCell"; title = "Send outgoing mail through secure socket layer"; ObjectID = "lyF-4O-3mV"; */
+"lyF-4O-3mV.title" = "Envoyer le courrier sortant via SSL";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "mbD-na-hVt"; */
+"mbD-na-hVt.title" = "Description du compte";
+
+/* Class = "NSMenuItem"; title = "MD5 Challenge-Response"; ObjectID = "mMG-hw-z7F"; */
+"mMG-hw-z7F.title" = "Réponse au défi MD5";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Muv-F0-1EF"; */
+"Muv-F0-1EF.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSTextFieldCell"; title = "The authentication method for the outgoing mail server"; ObjectID = "MWh-qO-Na4"; */
+"MWh-qO-Na4.title" = "Méthode d’authentification du serveur d’envoi";
+
+/* Class = "NSTextFieldCell"; title = "55555"; ObjectID = "N1u-SA-iQw"; */
+"N1u-SA-iQw.title" = "55555";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "There is no Certificate payload associated with this UUID"; ObjectID = "N6s-8D-Yv2"; */
+"N6s-8D-Yv2.ibShadowedToolTip" = "Pas de données utiles de certificat associées à cet UUID";
+
+/* Class = "NSTabViewItem"; label = "Incoming Mail"; ObjectID = "nAw-CD-nD8"; */
+"nAw-CD-nD8.label" = "Courrier entrant";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "User Display Name:"; ObjectID = "nP2-kr-qcq"; */
+"nP2-kr-qcq.ibExternalAccessibilityDescription" = "Nom d’utilisateur affiché :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "Nxl-J2-3rv"; */
+"Nxl-J2-3rv.ibExternalAccessibilityDescription" = "Mot de passe :";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "O5s-yH-6qR"; */
+"O5s-yH-6qR.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow recent addresses to be synced"; ObjectID = "Od8-Jm-6ED"; */
+"Od8-Jm-6ED.title" = "Autoriser la synchronisation des adresses récentes";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "OGT-IV-rdl"; */
+"OGT-IV-rdl.title" = "Aucune";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "ojW-6B-sXG"; */
+"ojW-6B-sXG.title" = "Adresse e-mail";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for incoming mail"; ObjectID = "Osa-9L-5UN"; */
+"Osa-9L-5UN.title" = "Nom d’hôte ou adresse IP et numéro de port pour le courrier entrant";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Email Address:"; ObjectID = "PGk-ku-nfy"; */
+"PGk-ku-nfy.ibExternalAccessibilityDescription" = "Adresse e-mail :";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "There is no Certificate payload associated with this UUID"; ObjectID = "ppb-IW-tgT"; */
+"ppb-IW-tgT.ibShadowedToolTip" = "Pas de données utiles de certificat associées à cet UUID";
+
+/* Class = "NSTextFieldCell"; title = "Sign messages from this account by default"; ObjectID = "PpE-EH-P7G"; */
+"PpE-EH-P7G.title" = "Signer les messages de ce compte par défaut";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "pws-wf-LKO"; */
+"pws-wf-LKO.title" = "Utiliser SSL";
+
+/* Class = "NSTextFieldCell"; title = "Allow the user to choose whether to encrypt each message"; ObjectID = "px5-OB-j4K"; */
+"px5-OB-j4K.title" = "Donner le choix à l’utilisateur de chiffrer ou non les messages";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificate payload"; ObjectID = "q9L-Za-uyL"; */
+"q9L-Za-uyL.ibShadowedIsNilPlaceholder" = "Ajouter des certificats aux données utiles Certificat";
+
+/* Class = "NSButtonCell"; title = "Enable S/MIME message encryption"; ObjectID = "q9Y-pn-hQ3"; */
+"q9Y-pn-hQ3.title" = "Activer le chiffrement des messages S/MIME";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "Qsw-3Y-3b2"; */
+"Qsw-3Y-3b2.ibExternalAccessibilityDescription" = "Mot de passe :";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "scq-wr-mIM"; */
+"scq-wr-mIM.title" = "Utiliser SSL";
+
+/* Class = "NSTextFieldCell"; title = "Retrieve incoming mail through secure socket layer"; ObjectID = "sli-FT-Pfj"; */
+"sli-FT-Pfj.title" = "Relever le courrier entrant via SSL";
+
+/* Class = "NSTextFieldCell"; title = "The protocol for accessing the email account"; ObjectID = "Tbz-cd-Iph"; */
+"Tbz-cd-Iph.title" = "Protocole d’accès au compte de courrier";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "teX-FW-Qz9"; */
+"teX-FW-Qz9.title" = "<content here>";
+
+/* Class = "NSButtonCell"; title = "Outgoing password same as incoming"; ObjectID = "Thm-e2-uqg"; */
+"Thm-e2-uqg.title" = "Mot de passe pour l’envoi identique à celui pour la\nréception";
+
+/* Class = "NSTextFieldCell"; title = "The authentication method for the incoming mail server"; ObjectID = "tqL-ic-vPZ"; */
+"tqL-ic-vPZ.title" = "Méthode d’authentification du serveur de réception";
+
+/* Class = "NSTextFieldCell"; title = "Encrypt messages from this account by default"; ObjectID = "Tzk-3h-OFu"; */
+"Tzk-3h-OFu.title" = "Chiffrer les messages de ce compte par défaut";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Mail Server Hostname:"; ObjectID = "u77-xs-CRD"; */
+"u77-xs-CRD.ibExternalAccessibilityDescription" = "Nom d’hôte du serveur de messagerie :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Path Prefix:"; ObjectID = "UFQ-8Y-1gP"; */
+"UFQ-8Y-1gP.ibExternalAccessibilityDescription" = "Préfixe du chemin :";
+
+/* Class = "NSTextFieldCell"; title = "Mail Server and Port"; ObjectID = "uGb-I5-Rjz"; */
+"uGb-I5-Rjz.title" = "Serveur et port de courrier";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Uka-jo-9e4"; */
+"Uka-jo-9e4.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "Encryption Certificate"; ObjectID = "uL3-2X-6gh"; */
+"uL3-2X-6gh.title" = "Certificat de chiffrement";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select an encryption certificate to enable this switch"; ObjectID = "unO-Cq-6ij"; */
+"unO-Cq-6ij.ibShadowedToolTip" = "Sélectionner un certificat de chiffrement pour activer ce commutateur";
+
+/* Class = "NSButtonCell"; title = "Use only in Mail"; ObjectID = "urf-AM-YRj"; */
+"urf-AM-YRj.title" = "Utiliser uniquement dans Mail";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "v4u-52-dmI"; */
+"v4u-52-dmI.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "va6-Da-aeB"; */
+"va6-Da-aeB.title" = "Mot de passe";
+
+/* Class = "NSTextFieldCell"; title = "Send outgoing mail from this account only from Mail app"; ObjectID = "Vhb-2C-IPl"; */
+"Vhb-2C-IPl.title" = "Envoyer seulement à partir de l’app Mail le courrier sortant de ce compte ";
+
+/* Class = "NSTextFieldCell"; title = "The password for the incoming mail server"; ObjectID = "WbU-0V-pfO"; */
+"WbU-0V-pfO.title" = "Le mot de passe pour le serveur de réception";
+
+/* Class = "NSTextFieldCell"; title = "Include this account in recent address syncing"; ObjectID = "X02-9T-knb"; */
+"X02-9T-knb.title" = "Inclure ce compte à la synchronisation des adresses récentes";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "X5M-sC-NO2"; */
+"X5M-sC-NO2.ibShadowedIsNilPlaceholder" = "[définir sur l’appareil]";
+
+/* Class = "NSMenuItem"; title = "Password"; ObjectID = "Xbz-af-d1y"; */
+"Xbz-af-d1y.title" = "Mot de passe";
+
+/* Class = "NSMenuItem"; title = "NTLM"; ObjectID = "XlT-Zr-eR7"; */
+"XlT-Zr-eR7.title" = "NTLM";
+
+/* Class = "NSButtonCell"; title = "Allow user to move messages from this account"; ObjectID = "xvX-Ba-Xw9"; */
+"xvX-Ba-Xw9.title" = "Autoriser l’utilisateur à déplacer des messages de ce compte";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "yl8-Uc-1dM"; */
+"yl8-Uc-1dM.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "ZAP-Ao-kyy"; */
+"ZAP-Ao-kyy.title" = "Nom d’utilisateur";
+
+/* Class = "NSMenuItem"; title = "NTLM"; ObjectID = "ZbZ-Ve-sAI"; */
+"ZbZ-Ve-sAI.title" = "NTLM";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Mail Server Port:"; ObjectID = "ZGr-9U-aaf"; */
+"ZGr-9U-aaf.ibExternalAccessibilityDescription" = "Port du serveur de messagerie :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Mail Server Host Name"; ObjectID = "Zlj-xc-IXl"; */
+"Zlj-xc-IXl.ibExternalAccessibilityDescription" = "Nom d’hôte du serveur de messagerie";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Mail payload"; ObjectID = "zlw-d4-beM"; */
+"zlw-d4-beM.ibShadowedToolTip" = "Supprimer les données utiles de Mail";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZMZ-3u-Ly5"; */
+"ZMZ-3u-Ly5.title" = "Box";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificate' tab"; ObjectID = "ZPo-v1-aaK"; */
+"ZPo-v1-aaK.ibShadowedToolTip" = "Ajouter des identités au profil via l’onglet « Certificat »";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "zQf-La-dSR"; */
+"zQf-La-dSR.title" = "Nom d’utilisateur";
+
+/* Class = "NSTextFieldCell"; title = "Account Type"; ObjectID = "zsP-Xd-Fd1"; */
+"zsP-Xd-Fd1.title" = "Type de compte";
+

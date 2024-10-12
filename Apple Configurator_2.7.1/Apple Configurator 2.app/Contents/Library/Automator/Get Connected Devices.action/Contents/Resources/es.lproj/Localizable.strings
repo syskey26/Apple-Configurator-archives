@@ -1,0 +1,10 @@
+/* Localizable.strings
+  Get Connected Devices
+
+  Created by Sal Soghoian on 1/14/15.
+  Copyright (c) 2015-2018 Apple Inc. All rights reserved. */
+"CNFGACT-10-NO_FILTERS_SELECTED" = "No se ha seleccionado ningún tipo de dispositivo en la interfaz de acciones.";
+
+/* (No Comment) */
+"CNFGACT-10-NO_MATCHED_DEVICES" = "No hay ningún dispositivo conectado a este ordenador que se corresponda con los tipos seleccionados.";
+

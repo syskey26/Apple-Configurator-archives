@@ -1,0 +1,75 @@
+/* Class = "NSTextFieldCell"; title = "Certificate"; ObjectID = "0W9-aP-iWN"; */
+"0W9-aP-iWN.title" = "Certificato";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Certificate payload"; ObjectID = "1Gn-ri-Cpt"; */
+"1Gn-ri-Cpt.ibShadowedToolTip" = "Rimuovi payload Certificato";
+
+/* Class = "NSTextFieldCell"; title = "Name or description of the certificate"; ObjectID = "5RT-JT-Evd"; */
+"5RT-JT-Evd.title" = "Nome o descrizione del certificato";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "8jh-wq-Rsp"; */
+"8jh-wq-Rsp.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "8So-7c-AnC"; */
+"8So-7c-AnC.title" = "Password";
+
+/* Class = "NSTabViewItem"; label = "PKCS12"; ObjectID = "Anq-9i-RKI"; */
+"Anq-9i-RKI.label" = "PKCS12";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aPk-Ko-gEz"; */
+"aPk-Ko-gEz.title" = "Box";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This certificate has expired"; ObjectID = "bTC-xN-TXw"; */
+"bTC-xN-TXw.ibShadowedToolTip" = "Il certificato è scaduto";
+
+/* Class = "NSTextFieldCell"; title = "Password protecting the PKCS12 file, used for installation without prompting"; ObjectID = "cHg-Hv-7Py"; */
+"cHg-Hv-7Py.title" = "Password che protegge il file PKCS12, usata per eseguire l'installazione senza richiesta";
+
+/* Class = "NSTextFieldCell"; title = "Unsupported Certificate Type"; ObjectID = "DoQ-4G-0Il"; */
+"DoQ-4G-0Il.title" = "Tipo di certificato non supportato";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[optional]"; ObjectID = "Fgg-M3-nY8"; */
+"Fgg-M3-nY8.placeholderString" = "[facoltativo]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Certificate Name:"; ObjectID = "jKT-jd-SQk"; */
+"jKT-jd-SQk.ibExternalAccessibilityDescription" = "Nome certificato:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Name"; ObjectID = "KbT-1D-8Ua"; */
+"KbT-1D-8Ua.title" = "Nome certificato";
+
+/* Class = "NSTextFieldCell"; title = "(Expired)"; ObjectID = "kvD-JT-Gz4"; */
+"kvD-JT-Gz4.title" = "(Scaduto)";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "pPb-Vq-u5G"; */
+"pPb-Vq-u5G.title" = "Box";
+
+/* Class = "NSTabViewItem"; label = "PKCS1"; ObjectID = "pVX-ZS-r6v"; */
+"pVX-ZS-r6v.label" = "PKCS1";
+
+/* Class = "NSTextFieldCell"; title = "PKCS1 (.cer, etc) or PKCS12 (.p12) files for inclusion on device"; ObjectID = "QCa-Is-AaF"; */
+"QCa-Is-AaF.title" = "File PKCS1 (.cer, ecc) o PKCS12 (.p12) da includere nel dispositivo";
+
+/* Class = "NSTextFieldCell"; title = "This content is stored in Personal Information Exchange (PKCS12) format, and is password protected.  Other than the file name, no information can be displayed."; ObjectID = "QXi-OO-qe1"; */
+"QXi-OO-qe1.title" = "Questo contenuto è archiviato in formato Personal Information Exchange (PKCS12) ed è protetto da password. Non è possibile visualizzare nessun'altra informazione oltre il nome del file.";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "RsR-yk-QYD"; */
+"RsR-yk-QYD.title" = "Etichetta";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "rVT-Ps-wp1"; */
+"rVT-Ps-wp1.ibShadowedIsNilPlaceholder" = " ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Certificate payload"; ObjectID = "TPC-86-ycf"; */
+"TPC-86-ycf.ibShadowedToolTip" = "Aggiungi payload Certificato";
+
+/* Class = "NSTabViewItem"; label = "Unknown Cer"; ObjectID = "ua0-ax-aZb"; */
+"ua0-ax-aZb.label" = "Cer sconosciuto";
+
+/* Class = "NSTextFieldCell"; title = "Certificate or Identity Data"; ObjectID = "WDP-o8-oyd"; */
+"WDP-o8-oyd.title" = "Dati identità o certificato";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "wrR-b5-iTO"; */
+"wrR-b5-iTO.ibExternalAccessibilityDescription" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Personal Information Exchange"; ObjectID = "yNI-UP-f6c"; */
+"yNI-UP-f6c.title" = "Personal Information Exchange";
+

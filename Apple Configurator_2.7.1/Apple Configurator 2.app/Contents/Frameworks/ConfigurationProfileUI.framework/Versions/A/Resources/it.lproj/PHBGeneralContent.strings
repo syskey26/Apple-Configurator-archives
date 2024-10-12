@@ -1,0 +1,114 @@
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "4ka-as-P3V"; */
+"4ka-as-P3V.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Security"; ObjectID = "5aX-uj-Neb"; */
+"5aX-uj-Neb.title" = "Sicurezza";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "5p3-zP-6Vr"; */
+"5p3-zP-6Vr.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "Organization"; ObjectID = "6vS-nB-kwA"; */
+"6vS-nB-kwA.title" = "Organizzazione";
+
+/* Class = "NSMenuItem"; title = "After interval"; ObjectID = "7hA-Jo-HkS"; */
+"7hA-Jo-HkS.title" = "Dopo intervallo";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "8tT-GM-2b8"; */
+"8tT-GM-2b8.title" = "Sempre";
+
+/* Class = "NSTextFieldCell"; title = "Name of the organization which created the profile"; ObjectID = "9bc-CD-ubP"; */
+"9bc-CD-ubP.title" = "Nome dell'organizzazione che ha creato il profilo";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Password"; ObjectID = "65Y-4L-gGM"; */
+"65Y-4L-gGM.placeholderString" = "Password";
+
+/* Class = "NSMenuItem"; title = "With Authorization"; ObjectID = "96v-A6-3IO"; */
+"96v-A6-3IO.title" = "Con autorizzazione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "bD4-A3-tBv"; */
+"bD4-A3-tBv.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "Authorization password"; ObjectID = "bvv-od-jdj"; */
+"bvv-od-jdj.title" = "Password di autorizzazione";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Cbc-QQ-P0A"; */
+"Cbc-QQ-P0A.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Automatically Remove Profile"; ObjectID = "CoH-he-m9G"; */
+"CoH-he-m9G.title" = "Rimuovi profilo automaticamente";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "ei7-Vg-pK4"; */
+"ei7-Vg-pK4.title" = "Mai";
+
+/* Class = "NSTextFieldCell"; title = "General"; ObjectID = "gbv-VL-bJN"; */
+"gbv-VL-bJN.title" = "Generale";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Hcq-r1-KgM"; */
+"Hcq-r1-KgM.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "A message that will be displayed during profile installation"; ObjectID = "Jkj-8F-5eu"; */
+"Jkj-8F-5eu.title" = "Un messaggio che verrà mostrato durante l'installazione del profilo";
+
+/* Class = "NSDatePicker"; ibExternalAccessibilityDescription = "Date:"; ObjectID = "jXD-cA-gyE"; */
+"jXD-cA-gyE.ibExternalAccessibilityDescription" = "Data:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Number Of Days:"; ObjectID = "KaZ-2c-Up4"; */
+"KaZ-2c-Up4.ibExternalAccessibilityDescription" = "Numero di giorni:";
+
+/* Class = "NSTextFieldCell"; title = "Consent Message"; ObjectID = "kfc-WJ-5Gd"; */
+"kfc-WJ-5Gd.title" = "Messaggio di consenso";
+
+/* Class = "NSTextFieldCell"; title = "days"; ObjectID = "Kir-vs-pCw"; */
+"Kir-vs-pCw.title" = "giorni";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the profile - will be shown on the device"; ObjectID = "l0k-Sb-KNd"; */
+"l0k-Sb-KNd.title" = "Nome visualizzato del profilo (mostrato sul dispositivo)";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "M7U-cL-79c"; */
+"M7U-cL-79c.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Brief explanation of the contents or purpose of the profile"; ObjectID = "mBZ-b2-8U5"; */
+"mBZ-b2-8U5.title" = "Breve descrizione del contenuto o dello scopo del profilo";
+
+/* Class = "NSTextFieldCell"; title = "Settings for automatic profile removal"; ObjectID = "MwI-Bc-Y3H"; */
+"MwI-Bc-Y3H.title" = "Impostazioni per la rimozione automatica del profilo";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required - e.g. com.company.profile]"; ObjectID = "ndH-oJ-3Zp"; */
+"ndH-oJ-3Zp.ibShadowedIsNilPlaceholder" = "[obbligatorio - ad es. com.societa.profilo]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Number Of Hours:"; ObjectID = "NPl-gb-Nx4"; */
+"NPl-gb-Nx4.ibExternalAccessibilityDescription" = "Numero di ore:";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "ohk-ar-Ibj"; */
+"ohk-ar-Ibj.title" = "Mai";
+
+/* Class = "NSTextFieldCell"; title = "Controls when the profile can be removed"; ObjectID = "oPa-jN-oYe"; */
+"oPa-jN-oYe.title" = "Controlla quando il profilo può essere rimosso";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "p8X-De-j1Z"; */
+"p8X-De-j1Z.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This date is in the past. The profile will be removed from the device immediately."; ObjectID = "pnS-vQ-6jv"; */
+"pnS-vQ-6jv.ibShadowedToolTip" = "Questa data è nel passato. Il profilo verrà rimosso dal dispositivo immediatamente.";
+
+/* Class = "NSTextFieldCell"; title = "Identifier"; ObjectID = "Pt8-NH-xS0"; */
+"Pt8-NH-xS0.title" = "Identificatore";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "qws-MK-DiM"; */
+"qws-MK-DiM.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "On date"; ObjectID = "udo-Bf-YEu"; */
+"udo-Bf-YEu.title" = "In data";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "VNu-eO-OpD"; */
+"VNu-eO-OpD.title" = "Nome";
+
+/* Class = "NSTextFieldCell"; title = "hours"; ObjectID = "VTm-au-nbU"; */
+"VTm-au-nbU.title" = "ore";
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "X3Q-Be-8Ej"; */
+"X3Q-Be-8Ej.title" = "Descrizione";
+
+/* Class = "NSTextFieldCell"; title = "Unique profile identifier - installing the profile on devices will replace any installed profiles with the same identifier"; ObjectID = "ZQz-bl-ADe"; */
+"ZQz-bl-ADe.title" = "Identificatore unico del profilo (l'installazione del profilo su un dispositivo sostituirà qualsiasi profilo installato con lo stesso identificatore)";
+

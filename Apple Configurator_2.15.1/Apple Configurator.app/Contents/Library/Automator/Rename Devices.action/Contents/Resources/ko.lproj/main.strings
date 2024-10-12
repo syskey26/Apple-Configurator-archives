@@ -1,0 +1,45 @@
+/* Class = "NSMenuItem"; title = "000"; ObjectID = "3HX-gE-PPz"; */
+"3HX-gE-PPz.title" = "000";
+
+/* Class = "NSMenuItem"; title = "space"; ObjectID = "5JL-6n-VKN"; */
+"5JL-6n-VKN.title" = "공백";
+
+/* Class = "NSMenuItem"; title = "00000"; ObjectID = "b5a-KJ-Wzb"; */
+"b5a-KJ-Wzb.title" = "00000";
+
+/* Class = "NSTextFieldCell"; title = "Starting number:"; ObjectID = "bdt-3S-Qyi"; */
+"bdt-3S-Qyi.title" = "시작 번호:";
+
+/* Class = "NSTextFieldCell"; title = "Minimum digits:"; ObjectID = "e5A-vU-0d9"; */
+"e5A-vU-0d9.title" = "최소 숫자:";
+
+/* Class = "NSTextFieldCell"; title = "Example:"; ObjectID = "E5p-0d-Jfo"; */
+"E5p-0d-Jfo.title" = "예제:";
+
+/* Class = "NSTextFieldCell"; title = "Separator:"; ObjectID = "G4a-ve-Bry"; */
+"G4a-ve-Bry.title" = "분리자";
+
+/* Class = "NSMenuItem"; title = "dash"; ObjectID = "IZ3-0q-sMu"; */
+"IZ3-0q-sMu.title" = "대시";
+
+/* Class = "NSTextFieldCell"; title = "Base name:"; ObjectID = "Llf-Vz-5NL"; */
+"Llf-Vz-5NL.title" = "기본 이름:";
+
+/* Class = "NSTextFieldCell"; title = "10000"; ObjectID = "qHR-RC-xQ6"; */
+"qHR-RC-xQ6.title" = "10000";
+
+/* Class = "NSMenuItem"; title = "underscore"; ObjectID = "Rev-zz-obI"; */
+"Rev-zz-obI.title" = "밑줄";
+
+/* Class = "NSMenuItem"; title = "00"; ObjectID = "vti-Tj-yeY"; */
+"vti-Tj-yeY.title" = "00";
+
+/* Class = "NSMenuItem"; title = "0000"; ObjectID = "xsE-st-ksM"; */
+"xsE-st-ksM.title" = "0000";
+
+/* Class = "NSMenuItem"; title = "none"; ObjectID = "ZR9-Jh-4al"; */
+"ZR9-Jh-4al.title" = "없음";
+
+/* Class = "NSMenuItem"; title = "none"; ObjectID = "zRC-wC-ANq"; */
+"zRC-wC-ANq.title" = "없음";
+

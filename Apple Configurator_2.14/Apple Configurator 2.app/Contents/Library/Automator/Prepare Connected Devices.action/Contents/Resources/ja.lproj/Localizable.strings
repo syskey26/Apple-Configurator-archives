@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-08-INVALID_CERTIFICATE_TYPE" = "指定された証明書ファイルは、タイプが“public.x509-certificate”ではありません";
+
+/* (No Comment) */
+"CNFGACT-08-MISSING_ENROLLMENT_URL" = "MDM登録URLが提供されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_FOUND" = "トラストアンカー証明書ファイルが指定された場所で見つかりませんでした。";
+
+/* MDM ERRORS */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_INDICATED" = "トラストアンカー証明書ファイルがアクションインターフェイスで選択されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_FOUND" = "ホスト証明書ファイルが指定された場所で見つかりませんでした。";
+
+/* SUPERVISION ERRORS */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_INDICATED" = "ホスト証明書ファイルがアクションインターフェイスで選択されませんでした。";
+
+/* INPUT ERRORS */
+"CNFGACT-08-NO_INPUT_ERROR" = "接続されたデバイスのECID参照がこのアクションに渡されませんでした。";
+

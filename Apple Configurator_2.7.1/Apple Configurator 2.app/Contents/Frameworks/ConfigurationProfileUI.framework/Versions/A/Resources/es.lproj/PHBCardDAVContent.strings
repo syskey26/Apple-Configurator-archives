@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Account Password"; ObjectID = "0ku-x9-yRd"; */
+"0ku-x9-yRd.title" = "Contraseña de la cuenta";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "0UB-UQ-Mb1"; */
+"0UB-UQ-Mb1.ibShadowedToolTip" = "Este campo es obligatorio para los dispositivos que se están preparando o supervisando";
+
+/* Class = "NSTextFieldCell"; title = "Account Host Name and Port"; ObjectID = "6sG-7o-SQY"; */
+"6sG-7o-SQY.title" = "Nombre de host de la cuenta y puerto";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "58W-WU-YgK"; */
+"58W-WU-YgK.title" = "Descripción de la cuenta";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "B1m-eE-McK"; */
+"B1m-eE-McK.title" = ":";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "cHQ-VQ-s92"; */
+"cHQ-VQ-s92.ibShadowedIsNilPlaceholder" = "[ajustar en el dispositivo]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Principal URL:"; ObjectID = "CKg-8B-oex"; */
+"CKg-8B-oex.ibExternalAccessibilityDescription" = "URL principal:";
+
+/* Class = "NSTextFieldCell"; title = "The Principal URL for the CardDAV account"; ObjectID = "CTM-bh-Crg"; */
+"CTM-bh-Crg.title" = "La URL principal de la cuenta CardDAV";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Czy-oA-DDt"; */
+"Czy-oA-DDt.ibShadowedIsNilPlaceholder" = "[obligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "The CardDAV password"; ObjectID = "DKQ-Er-P0h"; */
+"DKQ-Er-P0h.title" = "La contraseña CardDAV";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Contacts payload"; ObjectID = "Dlv-ay-bj5"; */
+"Dlv-ay-bj5.ibShadowedToolTip" = "Añadir carga Contactos";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "dwO-Iu-oW2"; */
+"dwO-Iu-oW2.title" = "Usar SSL";
+
+/* Class = "NSTextFieldCell"; title = "Principal URL"; ObjectID = "dZg-It-9k8"; */
+"dZg-It-9k8.title" = "URL principal";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "fD3-bI-2Dn"; */
+"fD3-bI-2Dn.ibExternalAccessibilityDescription" = "Nombre de la cuenta:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Host Name"; ObjectID = "ieS-8O-QGe"; */
+"ieS-8O-QGe.ibExternalAccessibilityDescription" = "Nombre de host de la cuenta";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "J5d-UQ-c7Z"; */
+"J5d-UQ-c7Z.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSTextFieldCell"; placeholderString = "http://carddav.example.com/"; ObjectID = "JwH-kk-2ha"; */
+"JwH-kk-2ha.placeholderString" = "http://carddav.example.com/";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the account (e.g. \"Company CardDAV Account\")"; ObjectID = "kbr-W6-Bhb"; */
+"kbr-W6-Bhb.title" = "El nombre visible de la cuenta (p. ej. “Cuenta CardDAV de la empresa”)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Lm4-kP-gxw"; */
+"Lm4-kP-gxw.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSTextFieldCell"; title = "The CardDAV host name or IP address and port number"; ObjectID = "mpd-cf-xBt"; */
+"mpd-cf-xBt.title" = "El nombre de host o la dirección IP de CardDAV y el número de puerto";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "NTF-eu-gEu"; */
+"NTF-eu-gEu.ibShadowedIsNilPlaceholder" = "[opcional]";
+
+/* Class = "NSTextFieldCell"; title = "The CardDAV user name"; ObjectID = "TAd-bv-pO2"; */
+"TAd-bv-pO2.title" = "El nombre de usuario CardDAV";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Account Password:"; ObjectID = "Tzm-Wj-b46"; */
+"Tzm-Wj-b46.ibExternalAccessibilityDescription" = "Contraseña de la cuenta:";
+
+/* Class = "NSTextFieldCell"; title = "Contacts"; ObjectID = "U6U-KU-WDS"; */
+"U6U-KU-WDS.title" = "Contactos";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Contacts payload"; ObjectID = "um5-4n-JU5"; */
+"um5-4n-JU5.ibShadowedToolTip" = "Eliminar carga Contactos";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Username:"; ObjectID = "V4i-CX-0ph"; */
+"V4i-CX-0ph.ibExternalAccessibilityDescription" = "Nombre de usuario de la cuenta:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "carddavserver.example.com"; ObjectID = "Y98-ga-3cg"; */
+"Y98-ga-3cg.placeholderString" = "servidorcarddav.example.com";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Port"; ObjectID = "yjV-Dj-YpS"; */
+"yjV-Dj-YpS.ibExternalAccessibilityDescription" = "Puerto";
+
+/* Class = "NSTextFieldCell"; title = "Account User Name"; ObjectID = "yzI-zv-p2a"; */
+"yzI-zv-p2a.title" = "Nombre de usuario de la cuenta";
+

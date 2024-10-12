@@ -1,0 +1,9 @@
+/* CHECK ERRORS */
+"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "De gekozen reservekopie van het apparaat bestaat niet op dit systeem.";
+
+/* INPUT ERRORS */
+"CNFGACT-12-NO_INPUT_ERROR" = "Er zijn geen ECID-verwijzingen naar aangesloten apparaten aan deze taak doorgegeven.";
+
+/* (No Comment) */
+"CNFGACT-12-NO_SELECTION_ERROR" = "Er is geen reservekopie geselecteerd in de taakinterface.";
+

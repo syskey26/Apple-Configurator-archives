@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Cxl-sK-88M"; */
+"Cxl-sK-88M.title" = "（仅限被监督的设备）";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "dMw-M6-ZU8"; */
+"dMw-M6-ZU8.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSTextFieldCell"; title = "Conference Room Display"; ObjectID = "h0Q-vt-djc"; */
+"h0Q-vt-djc.title" = "会议室显示";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed on-screen in Conference Room Display mode"; ObjectID = "tiz-EG-ryi"; */
+"tiz-EG-ryi.title" = "“会议室显示”模式下屏幕上显示的信息";
+
+/* Class = "NSTextFieldCell"; title = "Custom Message"; ObjectID = "Ypp-Fg-qmf"; */
+"Ypp-Fg-qmf.title" = "自定信息";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "yxj-3K-sb3"; */
+"yxj-3K-sb3.ibExternalAccessibilityDescription" = "帐户名称：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Conference Room Display payload"; ObjectID = "zqg-Jh-OH0"; */
+"zqg-Jh-OH0.ibShadowedToolTip" = "移除“会议室显示”有效负载";
+

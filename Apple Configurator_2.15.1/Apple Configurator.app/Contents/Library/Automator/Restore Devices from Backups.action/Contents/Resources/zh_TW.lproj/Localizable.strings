@@ -1,0 +1,9 @@
+/* INPUT ERRORS */
+"CNFGACT-13-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH" = "未輸入裝置備份的密碼，且未在「從備份回復裝置」動作介面中確認。";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "密碼錯誤";
+

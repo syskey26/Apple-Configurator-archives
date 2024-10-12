@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-aanduidingen";
+
+/* (No Comment) */
+"AMDNote" = "Deze taak bevat geen methode om in te stellen of de reservekopieën moeten worden gecodeerd of niet. Het inschakelen van codering voor reservekopieën en het instellen van een wachtwoord voor het apparaatarchief moet worden uitgevoerd in het programma Apple Configurator.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID-aanduidingen";
+
+/* (No Comment) */
+"AMDSummary" = "Met deze taak maak je reservekopieën van de voorbereide iOS-apparaten waarvan de ECID's als invoer zijn doorgegeven aan deze taak. Er kan alleen een reservekopie van een opgestart iOS-apparaat worden gemaakt nadat de configuratie-assistent is afgesloten. De reservekopieën van de iOS-apparaten worden bewaard op de locatie die ook door het programma iTunes wordt gebruikt.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Maak reservekopie van opgegeven apparaten";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Alle rechten voorbehouden.";
+

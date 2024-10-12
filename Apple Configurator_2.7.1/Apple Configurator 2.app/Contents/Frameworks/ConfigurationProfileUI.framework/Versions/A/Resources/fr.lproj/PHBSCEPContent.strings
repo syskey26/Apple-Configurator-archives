@@ -1,0 +1,156 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1T3-8o-MiC"; */
+"1T3-8o-MiC.title" = "OtherViews";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Retries:"; ObjectID = "1Yr-2h-S57"; */
+"1Yr-2h-S57.ibExternalAccessibilityDescription" = "Essais :";
+
+/* Class = "NSTextFieldCell"; title = "Used as the pre-shared secret for automatic enrollment"; ObjectID = "2bw-xs-qvW"; */
+"2bw-xs-qvW.title" = "Utilisé comme secret pré-partagé pour l’inscription automatique";
+
+/* Class = "NSTextFieldCell"; title = "Subject Alternative Name Value"; ObjectID = "2Q1-7E-czy"; */
+"2Q1-7E-czy.title" = "Valeur de nom alternatif du sujet";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "3Ri-am-26B"; */
+"3Ri-am-26B.title" = "999";
+
+/* Class = "NSTextFieldCell"; title = "Retry Delay"; ObjectID = "8Xd-M6-CJB"; */
+"8Xd-M6-CJB.title" = "Délai avant de réessayer";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "25p-nh-Wbb"; */
+"25p-nh-Wbb.title" = "Nom";
+
+/* Class = "NSMenuItem"; title = "2048"; ObjectID = "45n-iu-VTM"; */
+"45n-iu-VTM.title" = "2048";
+
+/* Class = "NSTextFieldCell"; title = "SCEP"; ObjectID = "91a-x4-Ti5"; */
+"91a-x4-Ti5.title" = "SCEP";
+
+/* Class = "NSButtonCell"; title = "Use for key encipherment"; ObjectID = "275-D7-j6f"; */
+"275-D7-j6f.title" = "Utiliser pour le chiffrement de clé";
+
+/* Class = "NSTextFieldCell"; title = "Key Size"; ObjectID = "a2Q-pT-cOX"; */
+"a2Q-pT-cOX.title" = "Dimension de clé";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove SCEP payload"; ObjectID = "aDJ-AC-jSl"; */
+"aDJ-AC-jSl.ibShadowedToolTip" = "Supprimer les données utiles du SCEP";
+
+/* Class = "NSTextFieldCell"; title = "The number of seconds to wait between poll attempts"; ObjectID = "AS6-uM-1Ps"; */
+"AS6-uM-1Ps.title" = "Le nombre de secondes entre tentatives de recherche";
+
+/* Class = "NSTextFieldCell"; title = "NT Principal Name"; ObjectID = "AwF-BI-qZZ"; */
+"AwF-BI-qZZ.title" = "Nom principal NT";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "bIf-OO-948"; */
+"bIf-OO-948.ibShadowedIsNilPlaceholder" = "[requis]";
+
+/* Class = "NSTextFieldCell"; title = "Retries"; ObjectID = "ckm-N2-CbP"; */
+"ckm-N2-CbP.title" = "Essais";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add SCEP payload"; ObjectID = "dHQ-Kb-FsD"; */
+"dHQ-Kb-FsD.ibShadowedToolTip" = "Ajouter les données utiles du SCEP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "DJO-4Q-bv3"; */
+"DJO-4Q-bv3.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional] e.g. O=Company Name/CN=Foo"; ObjectID = "eV5-oH-VtL"; */
+"eV5-oH-VtL.ibShadowedIsNilPlaceholder" = "[facultatif] Ex. : O=Nom société/CN=Indéfini";
+
+/* Class = "NSButtonCell"; title = "Create from Certificate…"; ObjectID = "eVf-jL-WcL"; */
+"eVf-jL-WcL.title" = "Créer à partir d’un certificat…";
+
+/* Class = "NSButtonCell"; title = "Use as digital signature"; ObjectID = "EwP-H5-V3R"; */
+"EwP-H5-V3R.title" = "Utiliser comme signature numérique";
+
+/* Class = "NSTextFieldCell"; title = "URL"; ObjectID = "EYX-fR-NEK"; */
+"EYX-fR-NEK.title" = "URL";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Fingerprint:"; ObjectID = "IfH-Bl-Rdw"; */
+"IfH-Bl-Rdw.ibExternalAccessibilityDescription" = "Empreinte digitale :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Subject Alternative Value Name:"; ObjectID = "JJS-Ha-Rbx"; */
+"JJS-Ha-Rbx.ibExternalAccessibilityDescription" = "Nom de valeur alternatif du sujet :";
+
+/* Class = "NSMenuItem"; title = "1024"; ObjectID = "JW7-V4-Q9T"; */
+"JW7-V4-Q9T.title" = "1024";
+
+/* Class = "NSTextFieldCell"; title = "999"; ObjectID = "KHg-kE-ofU"; */
+"KHg-kE-ofU.title" = "999";
+
+/* Class = "NSTextFieldCell"; title = "The type of a subject alternative name"; ObjectID = "kVi-C8-XDH"; */
+"kVi-C8-XDH.title" = "Le type de nom alternatif du sujet";
+
+/* Class = "NSTextFieldCell"; title = "The name of the instance: CA-IDENT"; ObjectID = "LDd-Y2-UHs"; */
+"LDd-Y2-UHs.title" = "Nom de l’instance : CA-IDENT";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "M2Q-EO-Iad"; */
+"M2Q-EO-Iad.title" = "Aucun";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "URL:"; ObjectID = "mBS-Qb-cxb"; */
+"mBS-Qb-cxb.ibExternalAccessibilityDescription" = "URL :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Challenge:"; ObjectID = "MKA-PA-fxF"; */
+"MKA-PA-fxF.ibExternalAccessibilityDescription" = "Défi :";
+
+/* Class = "NSTextFieldCell"; title = "Fingerprint"; ObjectID = "mmN-vB-Tip"; */
+"mmN-vB-Tip.title" = "Empreinte digitale";
+
+/* Class = "NSTextFieldCell"; title = "The number of times to poll the SCEP server for a signed certificate before giving up"; ObjectID = "NvZ-pS-FKK"; */
+"NvZ-pS-FKK.title" = "Le nombre de tentatives de demande d’un certificat signé au serveur SCEP avant abandon";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name:"; ObjectID = "Oa0-rk-evQ"; */
+"Oa0-rk-evQ.ibExternalAccessibilityDescription" = "Nom :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "NT Principal Name:"; ObjectID = "pEz-Js-4tv"; */
+"pEz-Js-4tv.ibExternalAccessibilityDescription" = "Nom principal NT :";
+
+/* Class = "NSMenuItem"; title = "Uniform Resource Identifier"; ObjectID = "rcX-XV-wM3"; */
+"rcX-XV-wM3.title" = "Identifiant de ressource uniforme";
+
+/* Class = "NSTextFieldCell"; title = "The value of a subject alternative name"; ObjectID = "rsI-2v-zIg"; */
+"rsI-2v-zIg.title" = "La valeur d’un de nom alternatif du sujet";
+
+/* Class = "NSMenuItem"; title = "DNS Name"; ObjectID = "rTa-iy-5dS"; */
+"rTa-iy-5dS.title" = "Nom DNS";
+
+/* Class = "NSTextFieldCell"; title = "Challenge"; ObjectID = "rW7-27-YVd"; */
+"rW7-27-YVd.title" = "Défi";
+
+/* Class = "NSTextFieldCell"; title = "An NT principal name for use in the certificate request"; ObjectID = "s2n-Wi-wYE"; */
+"s2n-Wi-wYE.title" = "Nom principal NT à utiliser dans la requête de certificat";
+
+/* Class = "NSTextFieldCell"; title = "The base URL for the SCEP server"; ObjectID = "ShV-t8-295"; */
+"ShV-t8-295.title" = "La base URL pour le serveur SCEP";
+
+/* Class = "NSTextFieldCell"; title = "Subject Alternative Name Type"; ObjectID = "ThM-KG-J38"; */
+"ThM-KG-J38.title" = "Type de nom alternatif du sujet";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "TlS-Hu-yzW"; */
+"TlS-Hu-yzW.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "tQg-si-kgM"; */
+"tQg-si-kgM.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "RFC 822 Name"; ObjectID = "vd8-0h-YLX"; */
+"vd8-0h-YLX.title" = "Nom RFC 822";
+
+/* Class = "NSTextFieldCell"; title = "Enter hex string to be used as a fingerprint or use button to create fingerprint from Certificate"; ObjectID = "vR2-Gi-Yc0"; */
+"vR2-Gi-Yc0.title" = "Saisissez la chaîne hexadécimale à utiliser en tant qu’empreinte digitale ou utilisez le bouton pour créer une empreinte digitale à partir d’un certificat";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "WkL-QY-07G"; */
+"WkL-QY-07G.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "Representation of a X.500 name"; ObjectID = "wXW-vV-ihK"; */
+"wXW-vV-ihK.title" = "Représentation d’un nom X.500";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Retry Delay:"; ObjectID = "xp2-CY-TvK"; */
+"xp2-CY-TvK.ibExternalAccessibilityDescription" = "Délai avant de réessayer :";
+
+/* Class = "NSTextFieldCell"; title = "Key size in bits"; ObjectID = "XRP-JY-xbW"; */
+"XRP-JY-xbW.title" = "Dimension de clé en bits";
+
+/* Class = "NSTextFieldCell"; title = "Subject"; ObjectID = "ZAS-ab-LvD"; */
+"ZAS-ab-LvD.title" = "Objet";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Subject:"; ObjectID = "zF9-yd-7Sn"; */
+"zF9-yd-7Sn.ibExternalAccessibilityDescription" = "Objet :";
+

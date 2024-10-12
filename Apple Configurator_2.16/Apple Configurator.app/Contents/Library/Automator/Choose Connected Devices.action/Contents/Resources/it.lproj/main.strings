@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "This action displays a list of devices connected to this computer and allows the user to choose from them."; ObjectID = "1Mi-pB-9eR"; */
+"1Mi-pB-9eR.title" = "Questa azione mostra un elenco dei dispositivi collegati al computer e consente all'utente di scegliere tra di essi.";
+
+/* Class = "NSMenuItem"; title = "Device Type"; ObjectID = "d97-Wa-bgd"; */
+"d97-Wa-bgd.title" = "Tipo dispositivo";
+
+/* Class = "NSButtonCell"; title = "Device Serial Number"; ObjectID = "ihr-Cf-nmE"; */
+"ihr-Cf-nmE.title" = "Numero di serie del dispositivo";
+
+/* Class = "NSTextFieldCell"; title = "+  Device Name  +"; ObjectID = "Kci-QG-DwY"; */
+"Kci-QG-DwY.title" = "+  Nome dispositivo  +";
+
+/* Class = "NSMenuItem"; title = "Device Class"; ObjectID = "ugR-wI-CkB"; */
+"ugR-wI-CkB.title" = "Classe dispositivo";
+
+/* Class = "NSTextFieldCell"; title = "+  Device ECID"; ObjectID = "Uon-Au-3DR"; */
+"Uon-Au-3DR.title" = "+  ECID dispositivo";
+
+/* Class = "NSTextFieldCell"; title = "Example:"; ObjectID = "XbP-Es-QOo"; */
+"XbP-Es-QOo.title" = "Esempio:";
+
+/* Class = "NSTextFieldCell"; title = "Select the data that should be displayed for each device:"; ObjectID = "zo8-3V-5Nj"; */
+"zo8-3V-5Nj.title" = "Seleziona i dati da mostrare per ogni dispositivo:";
+

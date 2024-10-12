@@ -1,0 +1,63 @@
+/* Class = "NSButtonCell"; title = "Removable"; ObjectID = "2zq-zv-dlO"; */
+"2zq-zv-dlO.title" = "Extraíble";
+
+/* Class = "NSTextFieldCell"; title = "The icon to use for the Web Clip"; ObjectID = "6pd-JZ-Que"; */
+"6pd-JZ-Que.title" = "El icono que se usará con el Web Clip";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Web Clip payload"; ObjectID = "07d-gB-kpW"; */
+"07d-gB-kpW.ibShadowedToolTip" = "Eliminar carga “Web Clip”";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "059-EM-e9c"; */
+"059-EM-e9c.title" = "Seleccionar…";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "AB2-QR-i8J"; */
+"AB2-QR-i8J.ibShadowedIsNilPlaceholder" = "[obligatorio]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Label:"; ObjectID = "bLe-js-JBO"; */
+"bLe-js-JBO.ibExternalAccessibilityDescription" = "Etiqueta:";
+
+/* Class = "NSTextFieldCell"; title = "The name to display for the Web Clip"; ObjectID = "cps-He-AEq"; */
+"cps-He-AEq.title" = "El nombre que se mostrará en el Web Clip";
+
+/* Class = "NSButtonCell"; title = "Precomposed Icon"; ObjectID = "Eff-2j-cE7"; */
+"Eff-2j-cE7.title" = "Icono precompuesto";
+
+/* Class = "NSTextFieldCell"; title = "Icon"; ObjectID = "GAQ-Ur-CKw"; */
+"GAQ-Ur-CKw.title" = "Icono";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Web Clip payload"; ObjectID = "Gob-NS-nEI"; */
+"Gob-NS-nEI.ibShadowedToolTip" = "Añadir carga “Web Clip”";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "hGI-Du-UGj"; */
+"hGI-Du-UGj.title" = "Etiqueta";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "URL:"; ObjectID = "ikv-mv-Dxl"; */
+"ikv-mv-Dxl.ibExternalAccessibilityDescription" = "URL:";
+
+/* Class = "NSTextFieldCell"; title = "The icon must be smaller than 1.4 MB"; ObjectID = "jfu-zc-jmX"; */
+"jfu-zc-jmX.title" = "El icono debe ocupar menos de 1,4 MB";
+
+/* Class = "NSTextFieldCell"; title = "Enable removal of the Web Clip"; ObjectID = "jH8-TI-ERb"; */
+"jH8-TI-ERb.title" = "Permitir eliminación del Web Clip";
+
+/* Class = "NSTextFieldCell"; title = "The icon will be displayed with no added visual effects"; ObjectID = "N4U-DA-3dr"; */
+"N4U-DA-3dr.title" = "El icono se mostrará sin efectos visuales añadidos";
+
+/* Class = "NSTextFieldCell"; title = "Web Clip"; ObjectID = "NBa-Sw-BME"; */
+"NBa-Sw-BME.title" = "Web Clip";
+
+/* Class = "NSTextFieldCell"; title = "The URL to be displayed when opening the Web Clip"; ObjectID = "PT5-cY-NjF"; */
+"PT5-cY-NjF.title" = "La URL que se mostrará al abrir el Web Clip";
+
+/* Class = "NSButtonCell"; title = "Full Screen"; ObjectID = "ug8-gp-xh4"; */
+"ug8-gp-xh4.title" = "Pantalla completa";
+
+/* Class = "NSTextFieldCell"; title = "Displays the web clip as a full screen application"; ObjectID = "Unc-gQ-X6u"; */
+"Unc-gQ-X6u.title" = "Muestra el Web Clip como una app a pantalla completa";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Vj0-f5-7Yd"; */
+"Vj0-f5-7Yd.ibShadowedIsNilPlaceholder" = "[obligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "URL"; ObjectID = "Wx7-8R-4C5"; */
+"Wx7-8R-4C5.title" = "URL";
+

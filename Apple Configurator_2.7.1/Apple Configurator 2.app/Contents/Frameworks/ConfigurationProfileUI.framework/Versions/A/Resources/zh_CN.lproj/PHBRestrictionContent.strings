@@ -1,0 +1,423 @@
+/* Class = "NSButtonCell"; title = "Automatically join Classroom classes without prompting (supervised only)"; ObjectID = "0B6-W0-K6C"; */
+"0B6-W0-K6C.title" = "在不提示的情况下自动加入“课堂”班级（仅限被监督的设备）";
+
+/* Class = "NSTextFieldCell"; title = "Sets the maximum allowed ratings"; ObjectID = "0gS-xX-2vi"; */
+"0gS-xX-2vi.title" = "设定许可的最大评级";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to lock to an app and lock the device without prompting (supervised only)"; ObjectID = "0qH-8b-FXH"; */
+"0qH-8b-FXH.title" = "允许“课堂”在不提示的情况下锁定到应用和锁定设备（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Force encrypted backups"; ObjectID = "0Y2-4l-JMW"; */
+"0Y2-4l-JMW.title" = "强制加密备份";
+
+/* Class = "NSButtonCell"; title = "Allow adding VPN configurations (supervised only)"; ObjectID = "1fJ-hd-xoe"; */
+"1fJ-hd-xoe.title" = "允许添加 VPN 配置（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow Define (supervised only)"; ObjectID = "1q3-kS-Zfe"; */
+"1q3-kS-Zfe.title" = "允许定义（仅限被监督的设备）";
+
+/* Class = "NSTextFieldCell"; title = "Sets the region for the ratings"; ObjectID = "1YH-eP-WV9"; */
+"1YH-eP-WV9.title" = "设定评级的地区";
+
+/* Class = "NSButtonCell"; title = "Allow dictation (supervised only)"; ObjectID = "2vN-is-nHX"; */
+"2vN-is-nHX.title" = "允许听写（仅限被监督的设备）";
+
+/* Class = "NSMenuItem"; title = "Japan"; ObjectID = "3nh-NO-5xI"; */
+"3nh-NO-5xI.title" = "日本";
+
+/* Class = "NSButtonCell"; title = "Enable JavaScript"; ObjectID = "3RZ-VN-kEK"; */
+"3RZ-VN-kEK.title" = "启用 JavaScript";
+
+/* Class = "NSMenuItem"; title = "Only allow some apps"; ObjectID = "3u0-wt-4t2"; */
+"3u0-wt-4t2.title" = "仅允许部分应用";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular plan settings (supervised only)"; ObjectID = "4Gl-jW-47m"; */
+"4Gl-jW-47m.title" = "允许修改蜂窝移动套餐设置（仅限被监督的设备）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4Id-HF-776"; */
+"4Id-HF-776.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "From current website only"; ObjectID = "4jq-RJ-3GY"; */
+"4jq-RJ-3GY.title" = "仅来自当前的网站";
+
+/* Class = "NSButtonCell"; title = "Require Face ID authentication before AutoFill (supervised only)"; ObjectID = "5hD-GF-Shf"; */
+"5hD-GF-Shf.title" = "必须通过面容 ID 鉴定才能自动填充（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying account settings (supervised only)"; ObjectID = "5Vq-za-axl"; */
+"5Vq-za-axl.title" = "允许修改帐户设置（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Enable Siri profanity filter (supervised only)"; ObjectID = "6bL-R3-anA"; */
+"6bL-R3-anA.title" = "启用 Siri 脏话过滤器（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Disallow AirPrint to destinations with untrusted certificates (supervised only)"; ObjectID = "6BT-32-ox1"; */
+"6BT-32-ox1.title" = "不允许在含不信任证书的目的位置使用隔空打印（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow Handoff"; ObjectID = "7Cz-Ad-jhg"; */
+"7Cz-Ad-jhg.title" = "允许使用接力";
+
+/* Class = "NSButtonCell"; title = "Allow explicit sexual content in iBooks Store"; ObjectID = "7mE-uj-8Ko"; */
+"7mE-uj-8Ko.title" = "允许 iBooks Store 中包含儿童不宜的成人内容";
+
+/* Class = "NSButtonCell"; title = "Show user-generated content in Siri (supervised only)"; ObjectID = "7ZE-K2-JGS"; */
+"7ZE-K2-JGS.title" = "在 Siri 中显示用户生成的内容（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow spell check (supervised only)"; ObjectID = "8Y4-oV-Rjs"; */
+"8Y4-oV-Rjs.title" = "允许拼写检查（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Library"; ObjectID = "9jN-FC-shr"; */
+"9jN-FC-shr.title" = "允许 iCloud 照片图库";
+
+/* Class = "NSButtonCell"; title = "Allow setting up new nearby devices (supervised only)"; ObjectID = "9Lc-kC-L6B"; */
+"9Lc-kC-L6B.title" = "允许设置新的附近设备（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow Apple Music (supervised only)"; ObjectID = "71t-Hh-dbR"; */
+"71t-Hh-dbR.title" = "允许 Apple Music（仅限被监督的设备）";
+
+/* Class = "NSTextFieldCell"; title = "Restrictions"; ObjectID = "A3z-D6-Muc"; */
+"A3z-D6-Muc.title" = "访问限制";
+
+/* Class = "NSButtonCell"; title = "Allow managed apps to store data in iCloud"; ObjectID = "a5e-0e-9Q8"; */
+"a5e-0e-9Q8.title" = "允许被管理的应用将数据储存到 iCloud";
+
+/* Class = "NSButtonCell"; title = "Allow keyboard shortcuts (supervised only)"; ObjectID = "a8L-jR-9fK"; */
+"a8L-jR-9fK.title" = "允许键盘快捷键（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Force fraud warning"; ObjectID = "Adp-BI-EVC"; */
+"Adp-BI-EVC.title" = "强制发出欺诈警告";
+
+/* Class = "NSButtonCell"; title = "Allow iBooks Store (supervised only)"; ObjectID = "ae5-Yb-0hp"; */
+"ae5-Yb-0hp.title" = "允许使用 iBooks Store（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Photo Sharing"; ObjectID = "aIl-Fr-DGY"; */
+"aIl-Fr-DGY.title" = "允许 iCloud 照片共享";
+
+/* Class = "NSButtonCell"; title = "Allow multiplayer gaming (supervised only)"; ObjectID = "Awk-IL-Zp6"; */
+"Awk-IL-Zp6.title" = "允许多人游戏（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Force limited ad tracking"; ObjectID = "AwO-qo-882"; */
+"AwO-qo-882.title" = "强制限制广告跟踪";
+
+/* Class = "NSButtonCell"; title = "Allow predictive keyboard (supervised only)"; ObjectID = "b3o-Lw-Qf3"; */
+"b3o-Lw-Qf3.title" = "允许使用输入预测键盘（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow playback of explicit music, podcasts & iTunes U media"; ObjectID = "B5r-rK-xAv"; */
+"B5r-rK-xAv.title" = "允许回放儿童不宜的音乐、播客与 iTunes U 媒体";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Remote app (tvOS only)"; ObjectID = "c3B-OD-p7h"; */
+"c3B-OD-p7h.title" = "允许与“遥控器”应用配对（仅限 tvOS）";
+
+/* Class = "NSTextFieldCell"; title = "Accept cookies"; ObjectID = "cId-Oh-89y"; */
+"cId-Oh-89y.title" = "接受 Cookie";
+
+/* Class = "NSButtonCell"; title = "Treat AirDrop as unmanaged destination"; ObjectID = "COC-1o-iu8"; */
+"COC-1o-iu8.title" = "将“隔空投送”视为未被管理的目的位置";
+
+/* Class = "NSTextFieldCell"; title = "TV Shows:"; ObjectID = "cQS-2G-kb1"; */
+"cQS-2G-kb1.title" = "电视节目：";
+
+/* Class = "NSButtonCell"; title = "Allow storage of AirPrint credentials in Keychain (supervised only)"; ObjectID = "czs-vo-RkA"; */
+"czs-vo-RkA.title" = "允许在钥匙串中储存“隔空打印”凭证（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Bluetooth settings (supervised only)"; ObjectID = "d2R-Fc-7fF"; */
+"d2R-Fc-7fF.title" = "允许修改蓝牙设置（仅限被监督的设备）";
+
+/* Class = "NSMenuItem"; title = "From websites I visit"; ObjectID = "DDb-j3-CfW"; */
+"DDb-j3-CfW.title" = "来自我访问的网站";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "dio-Gq-2r4"; */
+"dio-Gq-2r4.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "United Kingdom"; ObjectID = "dLJ-Bj-MeC"; */
+"dLJ-Bj-MeC.title" = "英国";
+
+/* Class = "NSButtonCell"; title = "Defer software updates for"; ObjectID = "Dml-bm-sgS"; */
+"Dml-bm-sgS.title" = "推迟软件更新";
+
+/* Class = "NSButtonCell"; title = "Allow USB accessories while device is locked (supervised only)"; ObjectID = "DoI-q4-7IY"; */
+"DoI-q4-7IY.title" = "设备锁定时允许 USB 配件（仅限被监督的设备）";
+
+/* Class = "NSMenuItem"; title = "Ireland"; ObjectID = "drH-te-3JJ"; */
+"drH-te-3JJ.title" = "爱尔兰";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "DRj-ZE-e8g"; */
+"DRj-ZE-e8g.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Require passcode on first AirPlay pairing"; ObjectID = "E1k-ol-9XO"; */
+"E1k-ol-9XO.title" = "首次进行“隔空播放”配对时要求密码";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[0] = "Functionality"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[0]" = "功能";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[1] = "Apps"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[1]" = "应用";
+
+/* Class = "NSSegmentedCell"; eDL-39-U08.ibShadowedLabels[2] = "Media Content"; ObjectID = "eDL-39-U08"; */
+"eDL-39-U08.ibShadowedLabels[2]" = "媒体内容";
+
+/* Class = "NSButtonCell"; title = "Allow automatic app downloads (supervised only)"; ObjectID = "EHd-Mw-7OG"; */
+"EHd-Mw-7OG.title" = "允许自动下载应用（仅限被监督的设备）";
+
+/* Class = "NSMenuItem"; title = "Australia"; ObjectID = "EkE-Sr-GAB"; */
+"EkE-Sr-GAB.title" = "澳大利亚";
+
+/* Class = "NSButtonCell"; title = "Show Today view in Lock screen"; ObjectID = "EPc-22-i7Y"; */
+"EPc-22-i7Y.title" = "在锁定屏幕中显示今天视图";
+
+/* Class = "NSButtonCell"; title = "Allow modifying cellular data app settings (supervised only)"; ObjectID = "fet-eL-1tV"; */
+"fet-eL-1tV.title" = "允许修改蜂窝移动数据应用设置（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow Wallet notifications in Lock screen"; ObjectID = "Fex-gB-fdh"; */
+"Fex-gB-fdh.title" = "允许在锁定屏幕中显示“钱包”通知";
+
+/* Class = "NSButtonCell"; title = "Allow documents from unmanaged sources in managed destinations"; ObjectID = "FRy-Ib-alv"; */
+"FRy-Ib-alv.title" = "允许被管理的目的位置中包含来自未被管理的来源中的文稿";
+
+/* Class = "NSButtonCell"; title = "Allow backup of enterprise books"; ObjectID = "g0l-5R-sjb"; */
+"g0l-5R-sjb.title" = "允许备份企业级图书";
+
+/* Class = "NSTextFieldCell"; title = "Apps:"; ObjectID = "GoC-0i-NlS"; */
+"GoC-0i-NlS.title" = "应用：";
+
+/* Class = "NSButtonCell"; title = "Allow discovery of AirPrint printers using iBeacons (supervised only)"; ObjectID = "got-w9-Z6k"; */
+"got-w9-Z6k.title" = "允许使用 iBeacon 发现“隔空打印”打印机（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow use of Safari"; ObjectID = "HbG-wk-FfB"; */
+"HbG-wk-FfB.title" = "允许使用 Safari 浏览器";
+
+/* Class = "NSTextFieldCell"; title = "Ratings region"; ObjectID = "HhL-55-Qmz"; */
+"HhL-55-Qmz.title" = "评级地区";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "HKg-JH-Le5"; */
+"HKg-JH-Le5.headerCell.title" = "应用名称";
+
+/* Class = "NSButtonCell"; title = "Allow in-app purchase"; ObjectID = "HoC-yJ-GNl"; */
+"HoC-yJ-GNl.title" = "允许 App 内购买";
+
+/* Class = "NSButtonCell"; title = "Allow AirPrint (supervised only)"; ObjectID = "HV4-Nn-PJY"; */
+"HV4-Nn-PJY.title" = "允许隔空打印（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow voice dialing while device is locked"; ObjectID = "Hx6-f3-0hD"; */
+"Hx6-f3-0hD.title" = "设备锁定时允许语音拨号";
+
+/* Class = "NSButtonCell"; title = "Allow FaceTime"; ObjectID = "hXe-UE-CVw"; */
+"hXe-UE-CVw.title" = "允许 FaceTime 通话";
+
+/* Class = "NSButtonCell"; title = "Allow modifying diagnostics settings (supervised only)"; ObjectID = "HyF-8X-NuK"; */
+"HyF-8X-NuK.title" = "允许修改诊断设置（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Show Control Center in Lock screen"; ObjectID = "iGP-M5-iHw"; */
+"iGP-M5-iHw.title" = "在锁定屏幕中显示控制中心";
+
+/* Class = "NSButtonCell"; title = "Allow use of iTunes Store"; ObjectID = "ihX-yL-qQc"; */
+"ihX-yL-qQc.title" = "允许使用 iTunes Store";
+
+/* Class = "NSButtonCell"; title = "Join only Wi-Fi networks installed by a Wi-Fi payload (supervised only)"; ObjectID = "izz-0X-Sqt"; */
+"izz-0X-Sqt.title" = "仅加入由 Wi-Fi 有效负载安装的 Wi-Fi 网络（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow automatic sync while roaming"; ObjectID = "j6a-Mq-bSC"; */
+"j6a-Mq-bSC.title" = "允许在漫游时自动同步";
+
+/* Class = "NSTextFieldCell"; title = "Restrict App Usage (supervised only)"; ObjectID = "Jeq-mv-xeB"; */
+"Jeq-mv-xeB.title" = "限制应用使用（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Find My Friends settings (supervised only)"; ObjectID = "jIl-Rh-G02"; */
+"jIl-Rh-G02.title" = "允许修改“查找我的朋友”设置（仅限被监督的设备）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JKU-Rp-d7Z"; */
+"JKU-Rp-d7Z.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Do not allow some apps"; ObjectID = "jlw-gD-gRt"; */
+"jlw-gD-gRt.title" = "不允许部分应用";
+
+/* Class = "NSButtonCell"; title = "Allow trusting new enterprise app authors"; ObjectID = "kI8-lJ-suJ"; */
+"kI8-lJ-suJ.title" = "允许信任新企业级应用作者";
+
+/* Class = "NSButtonCell"; title = "Allow removing system apps (supervised only)"; ObjectID = "kkM-Bb-xz7"; */
+"kkM-Bb-xz7.title" = "允许移除系统应用（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps"; ObjectID = "kkU-Do-vn5"; */
+"kkU-Do-vn5.title" = "允许安装应用";
+
+/* Class = "NSButtonCell"; title = "Allow modifying restrictions (supervised only)"; ObjectID = "Kuc-3z-033"; */
+"Kuc-3z-033.title" = "允许修改访问限制（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow installing configuration profiles (supervised only)"; ObjectID = "L4z-om-2yl"; */
+"L4z-om-2yl.title" = "允许安装配置描述文件（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow installing apps using App Store (supervised only)"; ObjectID = "Lc2-ax-anS"; */
+"Lc2-ax-anS.title" = "允许使用 App Store 安装应用（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow use of News (supervised only)"; ObjectID = "lPc-wI-edp"; */
+"lPc-wI-edp.title" = "允许使用“新闻”（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow AirPlay and View Screen by Classroom"; ObjectID = "Lwc-eb-eCs"; */
+"Lwc-eb-eCs.title" = "允许通过“课堂”隔空播放和屏幕巡视";
+
+/* Class = "NSMenuItem"; title = "France"; ObjectID = "LzS-ZU-HaA"; */
+"LzS-ZU-HaA.title" = "法国";
+
+/* Class = "NSButtonCell"; title = "Allow auto correction (supervised only)"; ObjectID = "MaY-dz-I4v"; */
+"MaY-dz-I4v.title" = "允许自动改正（仅限被监督的设备）";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "mJs-ff-dPg"; */
+"mJs-ff-dPg.title" = "始终";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud Keychain"; ObjectID = "MnI-Vu-kXd"; */
+"MnI-Vu-kXd.title" = "允许 iCloud 钥匙串";
+
+/* Class = "NSButtonCell"; title = "Allow use of Game Center (supervised only)"; ObjectID = "mOQ-gG-834"; */
+"mOQ-gG-834.title" = "允许使用 Game Center（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow Classroom to perform AirPlay and View Screen without prompting (supervised only)"; ObjectID = "N9X-zG-Ux4"; */
+"N9X-zG-Ux4.title" = "允许“课堂”在不提示的情况下执行“隔空播放”和“屏幕巡视”（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Wallpaper (supervised only)"; ObjectID = "nt5-Dd-9PT"; */
+"nt5-Dd-9PT.title" = "允许修改墙纸（仅限被监督的设备）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Restrictions payload"; ObjectID = "o5s-UI-ygh"; */
+"o5s-UI-ygh.ibShadowedToolTip" = "移除“访问限制”有效负载";
+
+/* Class = "NSButtonCell"; title = "Allow Touch ID / Face ID to unlock device"; ObjectID = "O8F-NJ-2z7"; */
+"O8F-NJ-2z7.title" = "允许用触控 ID / 面容 ID 解锁设备";
+
+/* Class = "NSButtonCell"; title = "Allow Radio (supervised only)"; ObjectID = "Okg-vm-QPh"; */
+"Okg-vm-QPh.title" = "允许广播（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud documents & data"; ObjectID = "oKy-td-LGy"; */
+"oKy-td-LGy.title" = "允许 iCloud 文稿与数据";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "onz-Bf-5Iv"; */
+"onz-Bf-5Iv.title" = "永不";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[app bundle identifier]"; ObjectID = "Oyi-6U-vIi"; */
+"Oyi-6U-vIi.ibShadowedIsNilPlaceholder" = "[应用捆绑包标识符]";
+
+/* Class = "NSButtonCell"; title = "Allow use of Podcasts (supervised only)"; ObjectID = "Ozd-jU-Kbj"; */
+"Ozd-jU-Kbj.title" = "允许使用“播客”（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow adding Game Center friends"; ObjectID = "P1m-cs-0JM"; */
+"P1m-cs-0JM.title" = "允许添加 Game Center 朋友";
+
+/* Class = "NSButtonCell"; title = "Allow Siri Suggestions"; ObjectID = "P8b-S8-S2K"; */
+"P8b-S8-S2K.title" = "允许 Siri 建议";
+
+/* Class = "NSButtonCell"; title = "Allow modifying device name (supervised only)"; ObjectID = "q82-0Z-SL5"; */
+"q82-0Z-SL5.title" = "允许修改设备名称（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Require iTunes Store password for all purchases"; ObjectID = "QmL-p3-AuT"; */
+"QmL-p3-AuT.title" = "所有购买都必须输入 iTunes Store 密码";
+
+/* Class = "NSTextFieldCell"; title = "Movies:"; ObjectID = "r8y-MF-Al8"; */
+"r8y-MF-Al8.title" = "影片：";
+
+/* Class = "NSButtonCell"; title = "Allow Siri while device is locked"; ObjectID = "rEm-w3-fK4"; */
+"rEm-w3-fK4.title" = "设备锁定时允许 Siri";
+
+/* Class = "NSButtonCell"; title = "Block pop-ups"; ObjectID = "RYU-j0-AnO"; */
+"RYU-j0-AnO.title" = "阻止弹出式窗口";
+
+/* Class = "NSButtonCell"; title = "Show Notification Center in Lock screen"; ObjectID = "s2U-AI-aeF"; */
+"s2U-AI-aeF.title" = "在锁定屏幕中显示通知中心";
+
+/* Class = "NSButtonCell"; title = "Allow removing apps (supervised only)"; ObjectID = "S3b-0B-Kcb"; */
+"S3b-0B-Kcb.title" = "允许移除应用（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Enable AutoFill"; ObjectID = "Szq-xc-NgQ"; */
+"Szq-xc-NgQ.title" = "启用自动填充";
+
+/* Class = "NSButtonCell"; title = "Allow Siri"; ObjectID = "TdO-92-QxM"; */
+"TdO-92-QxM.title" = "允许 Siri";
+
+/* Class = "NSTextFieldCell"; title = "days (supervised only)"; ObjectID = "Tfa-6p-nX6"; */
+"Tfa-6p-nX6.title" = "天（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow Erase All Content and Settings (supervised only)"; ObjectID = "TgG-ZN-qc3"; */
+"TgG-ZN-qc3.title" = "允许抹掉所有内容和设置（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow modifying Touch ID fingerprints / Face ID faces (supervised only)"; ObjectID = "TUM-Lo-RlT"; */
+"TUM-Lo-RlT.title" = "允许修改触控 ID 指纹 / 面容 ID 面孔（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Require teacher permission to leave Classroom unmanaged classes (supervised only)"; ObjectID = "tvf-FA-dMF"; */
+"tvf-FA-dMF.title" = "需要教师的许可才能离开“课堂”中未受管理的班级（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow documents from managed sources in unmanaged destinations"; ObjectID = "TXi-lj-fkV"; */
+"TXi-lj-fkV.title" = "允许未被管理的目的位置中包含来自被管理的来源中的文稿";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "u5G-Ob-dEJ"; */
+"u5G-Ob-dEJ.title" = "示例应用";
+
+/* Class = "NSButtonCell"; title = "Allow notes and highlights sync for enterprise books"; ObjectID = "vCI-GN-sjx"; */
+"vCI-GN-sjx.title" = "允许同步企业级图书的笔记和重点";
+
+/* Class = "NSButtonCell"; title = "Force Apple Watch wrist detection"; ObjectID = "vH2-UC-dXV"; */
+"vH2-UC-dXV.title" = "强制 Apple Watch 进行手腕检测";
+
+/* Class = "NSButtonCell"; title = "Allow iCloud backup"; ObjectID = "voz-XM-2Zg"; */
+"voz-XM-2Zg.title" = "允许 iCloud 云备份";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with non-Configurator hosts (supervised only)"; ObjectID = "VWA-9U-8IK"; */
+"VWA-9U-8IK.title" = "允许与未安装 Configurator 的主机配对（仅限被监督的设备）";
+
+/* Class = "NSMenuItem"; title = "Germany"; ObjectID = "WBd-Cy-qrD"; */
+"WBd-Cy-qrD.title" = "德国";
+
+/* Class = "NSButtonCell"; title = "Allow incoming AirPlay requests (tvOS only)"; ObjectID = "Wnw-qO-PzC"; */
+"Wnw-qO-PzC.title" = "允许传入“隔空播放”请求（仅限 tvOS）";
+
+/* Class = "NSMenuItem"; title = "Allow all apps"; ObjectID = "Wqr-XV-m0E"; */
+"Wqr-XV-m0E.title" = "允许所有应用";
+
+/* Class = "NSButtonCell"; title = "Allow My Photo Stream (disallowing can cause data loss)"; ObjectID = "Wwu-cp-A9R"; */
+"Wwu-cp-A9R.title" = "允许“我的照片流”（若不允许可能会导致数据丢失）";
+
+/* Class = "NSMenuItem"; title = "New Zealand"; ObjectID = "WXA-x4-Sg2"; */
+"WXA-x4-Sg2.title" = "新西兰";
+
+/* Class = "NSButtonCell"; title = "Allow users to accept untrusted TLS certificates"; ObjectID = "Xc4-WH-wlp"; */
+"Xc4-WH-wlp.title" = "允许用户接受不信任的 TLS 证书";
+
+/* Class = "NSMenuItem"; title = "United States"; ObjectID = "xHL-0R-cuV"; */
+"xHL-0R-cuV.title" = "美国";
+
+/* Class = "NSButtonCell"; title = "Allow sending diagnostic and usage data to Apple"; ObjectID = "xHT-z2-ce7"; */
+"xHT-z2-ce7.title" = "允许向 Apple 发送诊断和使用数据";
+
+/* Class = "NSButtonCell"; title = "Allow automatic updates to certificate trust settings"; ObjectID = "XVo-8o-bbO"; */
+"XVo-8o-bbO.title" = "允许自动更新证书信任设置";
+
+/* Class = "NSButtonCell"; title = "Allow use of camera"; ObjectID = "Y4L-jD-IRx"; */
+"Y4L-jD-IRx.title" = "允许使用相机";
+
+/* Class = "NSMenuItem"; title = "Canada"; ObjectID = "Yep-uV-EyS"; */
+"Yep-uV-EyS.title" = "加拿大";
+
+/* Class = "NSButtonCell"; title = "Allow AirDrop (supervised only)"; ObjectID = "yNA-Sf-jSK"; */
+"yNA-Sf-jSK.title" = "允许隔空投送（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow screenshots and screen recording"; ObjectID = "YRO-iy-0qu"; */
+"YRO-iy-0qu.title" = "允许屏幕快照和屏幕录制";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YuF-w4-7dI"; */
+"YuF-w4-7dI.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow modifying notification settings (supervised only)"; ObjectID = "YvP-g2-uSW"; */
+"YvP-g2-uSW.title" = "允许修改通知设置（仅限被监督的设备）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YWw-SQ-hoJ"; */
+"YWw-SQ-hoJ.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Allow pairing with Apple Watch (supervised only)"; ObjectID = "Z9Z-KB-npQ"; */
+"Z9Z-KB-npQ.title" = "允许与 Apple Watch 配对（仅限被监督的设备）";
+
+/* Class = "NSButtonCell"; title = "Allow iMessage (supervised only)"; ObjectID = "Ze7-tf-9mq"; */
+"Ze7-tf-9mq.title" = "允许 iMessage 信息（仅限被监督的设备）";
+
+/* Class = "NSTextFieldCell"; title = "Allowed content ratings"; ObjectID = "zfH-dV-32a"; */
+"zfH-dV-32a.title" = "允许的内容评级";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "ZNS-5y-Oes"; */
+"ZNS-5y-Oes.title" = "30";
+
+/* Class = "NSButtonCell"; title = "Allow modifying passcode (supervised only)"; ObjectID = "zTh-3f-4PF"; */
+"zTh-3f-4PF.title" = "允许修改密码（仅限被监督的设备）";
+

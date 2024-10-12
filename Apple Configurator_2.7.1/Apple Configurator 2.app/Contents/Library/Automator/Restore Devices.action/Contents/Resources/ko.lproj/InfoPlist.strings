@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "사용자 설치 옵션을 설정하는 옵션입니다. 기본적으로 최신 버전의 제품이 사용됩니다.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDSummary" = "이 동작은 식별자가 이 동작에 입력으로 전달된 기기를 복원합니다.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "기기 복원";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. 모든 권리 보유.";
+

@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Install apps from your purchase history or Mac."; ObjectID = "7tb-nT-p52"; */
+"7tb-nT-p52.title" = "Instala apps desde el historial de compras o el Mac.";
+
+/* Class = "NSTextFieldCell"; title = "Choose documents from your Mac and add them to apps."; ObjectID = "gga-rZ-bJn"; */
+"gga-rZ-bJn.title" = "Selecciona documentos del Mac y añádelos a las apps.";
+
+/* Class = "NSTextFieldCell"; title = "Install configuration and provisioning profiles."; ObjectID = "Jgq-zU-eHZ"; */
+"Jgq-zU-eHZ.title" = "Instala perfiles de datos y de configuración.";
+
+/* Class = "NSTextFieldCell"; title = "Documents"; ObjectID = "kVL-L8-Hl1"; */
+"kVL-L8-Hl1.title" = "Documentos";
+
+/* Class = "NSTextFieldCell"; title = "Profiles"; ObjectID = "Qmu-x4-BSR"; */
+"Qmu-x4-BSR.title" = "Perfiles";
+
+/* Class = "NSTextFieldCell"; title = "Apps"; ObjectID = "ru0-8W-DD6"; */
+"ru0-8W-DD6.title" = "Apps";
+

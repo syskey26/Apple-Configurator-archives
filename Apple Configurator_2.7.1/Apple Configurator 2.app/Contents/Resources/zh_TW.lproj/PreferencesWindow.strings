@@ -1,0 +1,33 @@
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "1"; */
+"1.title" = "偏好設定";
+
+/* Class = "NSToolbarItem"; label = "Organizations"; ObjectID = "9jL-hy-ylc"; */
+"9jL-hy-ylc.label" = "組織";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Organizations"; ObjectID = "9jL-hy-ylc"; */
+"9jL-hy-ylc.paletteLabel" = "組織";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "18"; */
+"18.label" = "一般";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "18"; */
+"18.paletteLabel" = "一般";
+
+/* Class = "NSToolbarItem"; label = "Tags"; ObjectID = "HiP-fT-yja"; */
+"HiP-fT-yja.label" = "標記";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tags"; ObjectID = "HiP-fT-yja"; */
+"HiP-fT-yja.paletteLabel" = "標記";
+
+/* Class = "NSToolbarItem"; label = "Servers"; ObjectID = "IqE-Jv-Ruf"; */
+"IqE-Jv-Ruf.label" = "伺服器";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Servers"; ObjectID = "IqE-Jv-Ruf"; */
+"IqE-Jv-Ruf.paletteLabel" = "伺服器";
+
+/* Class = "NSToolbarItem"; label = "Backups"; ObjectID = "K4J-PG-P56"; */
+"K4J-PG-P56.label" = "備份";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Backups"; ObjectID = "K4J-PG-P56"; */
+"K4J-PG-P56.paletteLabel" = "備份";
+

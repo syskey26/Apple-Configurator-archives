@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "기본 이름 및 숫자 문자열 간에 선행 제로 및 분리자를 표시하는 옵션입니다.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDSummary" = "이 동작은 식별자가 이 동작에 입력으로 전달된 기기의 이름을 번호순대로 변경합니다.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "기기 이름 변경";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. 모든 권리 보유.";
+

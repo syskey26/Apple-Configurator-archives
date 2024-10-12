@@ -1,0 +1,24 @@
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_EXIST" = "この証明書ファイルは、所定の場所にありませんでした:";
+
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_SET" = "証明書ファイルが選択されませんでした。";
+
+/* DIALOG PROMPT */
+"CNFGACT-03-DIALOG_PROMPT" = "デバイスにインストールするプロファイルを選択してください:";
+
+/* INPUT ERRORS */
+"CNFGACT-03-NO_INPUT_ERROR" = "接続されたデバイスのECID参照がこのアクションに渡されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-03-NO_SELECTION_ERROR" = "プロファイルファイルが選択されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_EXIST" = "この秘密鍵ファイルは、所定の場所にありませんでした:";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_SET" = "秘密鍵ファイルが選択されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-03-PROFILE_FILE_NOT_EXIST" = "このプロファイルは、所定の場所にありませんでした:";
+

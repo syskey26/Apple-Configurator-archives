@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID識別子";
+
+/* (No Comment) */
+"AMDNote" = "ヒント: 書類をデバイスにコピーするワークフローを作成するときは、コピーする書類に関連付けるアプリごとにこのアクションのコピーを追加してください。";
+
+/* (No Comment) */
+"AMDOptions" = "ポップアップのアプリメニューを使用できる場合は、“アップデート”ボタンをクリックするとコンピュータ上のモバイルアプリファイルのポップアップリストが表示されます。";
+
+/* (No Comment) */
+"AMDRequires" = "書類がiOSデバイスにコピーされるときは、コピーされる書類に関連付けられたアプリの識別子を含める必要があります。このアクションでは、App IDを指定するために 1）関連付けるアプリをこのコンピュータに保存されているアプリファイルのリストから選択するか、または 2）用意されたテキスト入力フィールドにApp IDを入力できます。";
+
+/* (No Comment) */
+"AMDResult" = "ECID識別子";
+
+/* (No Comment) */
+"AMDSummary" = "このアクションにより、識別子が入力としてこのアクションに渡されたデバイスに、選択した書類ファイルがインストールされます。";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "書類をデバイスにコピー";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. All rights reserved.";
+

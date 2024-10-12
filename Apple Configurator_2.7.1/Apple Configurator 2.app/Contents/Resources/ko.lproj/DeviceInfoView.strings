@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; title = "SUPERVISED"; ObjectID = "3bL-U3-ngj"; */
+"3bL-U3-ngj.title" = "감독됨";
+
+/* Class = "NSButtonCell"; title = "Update…"; ObjectID = "4ep-0z-hUx"; */
+"4ep-0z-hUx.title" = "업데이트…";
+
+/* Class = "NSTextFieldCell"; title = "tvOS Version"; ObjectID = "8AY-VX-ux4"; */
+"8AY-VX-ux4.title" = "tvOS 버전";
+
+/* Class = "NSTextFieldCell"; title = "iOS Version"; ObjectID = "9hN-ON-Zjw"; */
+"9hN-ON-Zjw.title" = "iOS 버전";
+
+/* Class = "NSTextFieldCell"; title = "Backs up passwords and other private data."; ObjectID = "BhX-gE-1fc"; */
+"BhX-gE-1fc.title" = "암호 및 기타 개인 데이터를 백업하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Battery"; ObjectID = "dDu-yR-NCG"; */
+"dDu-yR-NCG.title" = "배터리";
+
+/* Class = "NSTextFieldCell"; placeholderString = "100%"; ObjectID = "DiD-ER-vXt"; */
+"DiD-ER-vXt.placeholderString" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "Tags"; ObjectID = "g5f-2w-0Vb"; */
+"g5f-2w-0Vb.title" = "태그";
+
+/* Class = "NSButtonCell"; title = "Encrypt local backup"; ObjectID = "IRj-X4-YXz"; */
+"IRj-X4-YXz.title" = "로컬 백업 암호화";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Value>>"; ObjectID = "k82-Rs-sN9"; */
+"k82-Rs-sN9.title" = "<<DNL Value>>";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Value>>"; ObjectID = "NDx-tu-hUe"; */
+"NDx-tu-hUe.title" = "<<DNL Value>>";
+
+/* Class = "NSBox"; title = "Image Box"; ObjectID = "oSK-7e-Izw"; */
+"oSK-7e-Izw.title" = "이미지 상자";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[Device Name]"; ObjectID = "VCF-gM-xDt"; */
+"VCF-gM-xDt.placeholderString" = "[기기 이름]";
+
+/* Class = "NSButtonCell"; title = "Change Password…"; ObjectID = "wtu-R4-diB"; */
+"wtu-R4-diB.title" = "암호 변경...";
+
+/* Class = "NSButtonCell"; title = "Update…"; ObjectID = "zAS-em-hdz"; */
+"zAS-em-hdz.title" = "업데이트…";
+

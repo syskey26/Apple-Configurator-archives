@@ -1,0 +1,6 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Removes these actions from the blueprint."; ObjectID = "xIP-18-Wgn"; */
+"xIP-18-Wgn.ibShadowedToolTip" = "從藍圖中移除這些動作。";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Header>>"; ObjectID = "xuk-BG-Xh2"; */
+"xuk-BG-Xh2.title" = "<<DNL Header>>";
+

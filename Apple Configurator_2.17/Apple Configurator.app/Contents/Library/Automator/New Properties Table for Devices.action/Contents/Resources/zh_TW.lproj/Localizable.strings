@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-06-CANCEL_BUTTON_TITLE" = "取消";
+
+/* (No Comment) */
+"CNFGACT-06-CONTINUE_BUTTON_TITLE" = "再次選擇";
+
+/* (No Comment) */
+"CNFGACT-06-DATA_CONVERSION_ERROR" = "資料未轉換";
+
+/* (No Comment) */
+"CNFGACT-06-DEFAULT_TABLE_TITLE" = "裝置屬性";
+
+/* INPUT ERRORS */
+"CNFGACT-06-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
+
+/* (No Comment) */
+"CNFGACT-06-PROPERTY_NOT_SUPPORTED" = "不支援搭配此動作使用「Apps」與「System Apps」屬性。";
+
+/* (No Comment) */
+"CNFGACT-06-PROPERTY_NOT_SUPPORTED_TITLE" = "不支援屬性";
+

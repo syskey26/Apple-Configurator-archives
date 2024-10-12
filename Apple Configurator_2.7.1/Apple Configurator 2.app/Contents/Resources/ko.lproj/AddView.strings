@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Install apps from your purchase history or Mac."; ObjectID = "7tb-nT-p52"; */
+"7tb-nT-p52.title" = "구입 내역 또는 Mac에서 앱을 설치하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Choose documents from your Mac and add them to apps."; ObjectID = "gga-rZ-bJn"; */
+"gga-rZ-bJn.title" = "Mac에서 도큐멘트를 선택하여 앱에 추가하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Install configuration and provisioning profiles."; ObjectID = "Jgq-zU-eHZ"; */
+"Jgq-zU-eHZ.title" = "구성 및 권한 설정 프로파일을 설치하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Documents"; ObjectID = "kVL-L8-Hl1"; */
+"kVL-L8-Hl1.title" = "도큐멘트";
+
+/* Class = "NSTextFieldCell"; title = "Profiles"; ObjectID = "Qmu-x4-BSR"; */
+"Qmu-x4-BSR.title" = "프로파일";
+
+/* Class = "NSTextFieldCell"; title = "Apps"; ObjectID = "ru0-8W-DD6"; */
+"ru0-8W-DD6.title" = "앱";
+

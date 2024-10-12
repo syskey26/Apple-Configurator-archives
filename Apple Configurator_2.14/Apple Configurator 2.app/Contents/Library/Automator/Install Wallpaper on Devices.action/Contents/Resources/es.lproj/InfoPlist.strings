@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Existe una opción para indicar que una pequeña cantidad de texto se debe superponer en la pantalla bloqueada del dispositivo. Selecciona la casilla para utilizar el nombre del dispositivo como superposición.";
+
+/* (No Comment) */
+"AMDRequires" = "Esta acción funciona únicamente con dispositivos supervisados y requiere la utilización de archivos de claves privadas y certificados.";
+
+/* (No Comment) */
+"AMDResult" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Esta acción copiará un archivo JPEG a los dispositivos especificados y lo establecerá como fondo de pantalla por omisión con los parámetros indicados.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Instalar fondo de pantalla en dispositivos";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. Todos los derechos reservados.";
+

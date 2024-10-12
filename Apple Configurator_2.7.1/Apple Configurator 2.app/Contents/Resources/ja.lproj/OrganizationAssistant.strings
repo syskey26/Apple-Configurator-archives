@@ -1,0 +1,3 @@
+/* Class = "NSTextFieldCell"; title = "An organization contains the contact information and supervision identity for a supervised device. The contact information will be shown under Settings > General > About on supervised devices, and cannot be changed without erasing the device."; ObjectID = "LvZ-yN-qTk"; */
+"LvZ-yN-qTk.title" = "組織に監視対象デバイスの連絡先情報と監視識別情報が含まれています。連絡先情報は、監視対象デバイスの“設定”＞“一般”＞“情報”に表示され、デバイスを消去しないと変更できません。";
+

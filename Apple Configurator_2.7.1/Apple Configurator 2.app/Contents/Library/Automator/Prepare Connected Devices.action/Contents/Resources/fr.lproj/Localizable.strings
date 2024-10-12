@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-08-INVALID_CERTIFICATE_TYPE" = "Le fichier de certificat indiqué n’est pas de type : « public.x509-certificate »";
+
+/* (No Comment) */
+"CNFGACT-08-MISSING_ENROLLMENT_URL" = "Aucune URL d’inscription au programme MDM n’a été fournie.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_FOUND" = "Aucun fichier de certificat d’ancrage fiable n’a été trouvé à l’emplacement indiqué.";
+
+/* MDM ERRORS */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_INDICATED" = "Aucun fichier de certificat d’ancrage fiable n’a été sélectionné dans l’interface de l’action.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_FOUND" = "Aucun fichier de certificat d’hôte n’a été trouvé à l’emplacement indiqué.";
+
+/* SUPERVISION ERRORS */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_INDICATED" = "Aucun fichier de certificat d’hôte n’a été sélectionné dans l’interface de l’action.";
+
+/* INPUT ERRORS */
+"CNFGACT-08-NO_INPUT_ERROR" = "Aucune référence ECID aux appareils connectés n’a été transmise à cette action.";
+

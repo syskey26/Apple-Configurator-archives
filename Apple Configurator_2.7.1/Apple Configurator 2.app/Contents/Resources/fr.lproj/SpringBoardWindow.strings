@@ -1,0 +1,12 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "JcT-wT-MZJ"; */
+"JcT-wT-MZJ.title" = "Fenêtre";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "TRd-pn-jtm"; */
+"TRd-pn-jtm.title" = "Annuler";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "Vx4-FA-S9w"; */
+"Vx4-FA-S9w.title" = "Appliquer";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Modify the home screen on X selected devices>>"; ObjectID = "ZG9-Ex-hIK"; */
+"ZG9-Ex-hIK.title" = "<<DNL Modify the home screen on X selected devices>>";
+

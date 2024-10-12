@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-aanduidingen";
+
+/* (No Comment) */
+"AMDNote" = "Sommige kenmerken zijn niet ingeschakeld voor gebruik in tabellen.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "Het programma Numbers uit het iWork-programmapakket.";
+
+/* (No Comment) */
+"AMDResult" = "ECID-aanduidingen";
+
+/* (No Comment) */
+"AMDSummary" = "Met deze taak wordt er een nieuwe tabel in het programma Numbers aangemaakt, met daarin de waarden van de geselecteerde kenmerken voor de apparaten waarvan de aanduidingen als invoer aan deze taak zijn doorgegeven.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Nieuwe kenmerkentabel voor apparaten";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Alle rechten voorbehouden.";
+

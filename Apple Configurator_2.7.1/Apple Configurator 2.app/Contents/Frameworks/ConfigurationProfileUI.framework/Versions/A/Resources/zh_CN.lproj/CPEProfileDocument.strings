@@ -1,0 +1,9 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "窗口";
+
+/* Class = "NSBox"; title = "Signed Profile Warning View"; ObjectID = "LQe-72-fDP"; */
+"LQe-72-fDP.title" = "已签名的描述文件警告视图";
+
+/* Class = "NSTextFieldCell"; title = "This profile has been signed and cannot be edited."; ObjectID = "rNF-LI-f5Q"; */
+"rNF-LI-f5Q.title" = "此描述文件已签名，无法编辑。";
+

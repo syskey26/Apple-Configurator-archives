@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID識別子";
+
+/* (No Comment) */
+"AMDNote" = "一部のプロパティはテーブルで使用できません。";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "iWorkアプリケーションスイートに含まれているNumbersアプリケーション。";
+
+/* (No Comment) */
+"AMDResult" = "ECID識別子";
+
+/* (No Comment) */
+"AMDSummary" = "このアクションにより、新しいテーブルがNumbersアプリケーションで作成されます。このテーブルには、識別子が入力としてこのアクションに渡されたデバイスに関して、選択したプロパティの値が含まれます。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "デバイスの新規プロパティテーブル";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. All rights reserved.";
+

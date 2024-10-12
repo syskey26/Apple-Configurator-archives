@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Generate a new supervision identity"; ObjectID = "Knf-rv-Wih"; */
+"Knf-rv-Wih.title" = "新しい監視識別情報を生成";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "ujt-0c-7Yr"; */
+"ujt-0c-7Yr.title" = "ラジオボタン";
+
+/* Class = "NSButtonCell"; title = "Choose an existing supervision identity"; ObjectID = "x4P-82-257"; */
+"x4P-82-257.title" = "既存の監視識別情報を選択";
+
+/* Class = "NSTextFieldCell"; title = "Generate or choose a supervision identity."; ObjectID = "X6F-eh-22r"; */
+"X6F-eh-22r.title" = "監視識別情報を生成または選択します。";
+

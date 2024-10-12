@@ -1,0 +1,474 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0sZ-Il-KTh"; */
+"0sZ-Il-KTh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TLS Maximum Version"; ObjectID = "1BE-A6-K2s"; */
+"1BE-A6-K2s.title" = "Maximale versie TLS";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "1mj-lB-dIt"; */
+"1mj-lB-dIt.title" = "Gebruikersnaam";
+
+/* Class = "NSTextFieldCell"; title = "Whitelist specific apps"; ObjectID = "2da-eh-Vjc"; */
+"2da-eh-Vjc.title" = "Specifieke apps op witte lijst";
+
+/* Class = "NSMenuItem"; title = "Manual"; ObjectID = "2IJ-OO-Oqs"; */
+"2IJ-OO-Oqs.title" = "Handmatig";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "3bJ-gi-URq"; */
+"3bJ-gi-URq.title" = "Geen";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "3kb-Cr-kB6"; */
+"3kb-Cr-kB6.headerCell.title" = "Sleutel";
+
+/* Class = "NSButtonCell"; title = "Provision PAC Anonymously"; ObjectID = "3oa-iH-a3M"; */
+"3oa-iH-a3M.title" = "Verschaf PAC anoniem";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "4jS-Oa-tDE"; */
+"4jS-Oa-tDE.headerCell.title" = "Naam";
+
+/* Class = "NSMenuItem"; title = "Restrict QoS marking"; ObjectID = "4Sn-83-TSd"; */
+"4Sn-83-TSd.title" = "Beperk QoS-markeringen";
+
+/* Class = "NSMenuItem"; title = "Any (Enterprise)"; ObjectID = "4Tp-74-Rat"; */
+"4Tp-74-Rat.title" = "Willekeurig (bedrijfsniveau)";
+
+/* Class = "NSTextFieldCell"; title = "Roaming Consortium Organization Identifiers"; ObjectID = "5CH-cE-AUT"; */
+"5CH-cE-AUT.title" = "Organisatie-aanduidingen roamingsconsortium";
+
+/* Class = "NSTextFieldCell"; title = "Password used to authenticate with the proxy"; ObjectID = "5SX-YN-Xh1"; */
+"5SX-YN-Xh1.title" = "Wachtwoord voor de identiteitscontrole bij de proxy";
+
+/* Class = "NSMenuItem"; title = "1.2"; ObjectID = "6d2-Su-H6l"; */
+"6d2-Su-H6l.title" = "1.2";
+
+/* Class = "NSTextFieldCell"; title = "EAP-SIM"; ObjectID = "6Gl-oA-WrX"; */
+"6Gl-oA-WrX.title" = "EAP-SIM";
+
+/* Class = "NSButtonCell"; title = "Use Per-Connection Password"; ObjectID = "6Kj-7m-Ebl"; */
+"6Kj-7m-Ebl.title" = "Gebruik nieuw wachtwoord voor elke verbinding";
+
+/* Class = "NSButtonCell"; title = "Hidden Network"; ObjectID = "8ax-P9-jUm"; */
+"8ax-P9-jUm.title" = "Verborgen netwerk";
+
+/* Class = "NSMenuItem"; title = "OS Default"; ObjectID = "8Yr-wG-EKL"; */
+"8Yr-wG-EKL.title" = "Standaardmethode van systeem";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Server URL"; ObjectID = "9M2-yT-ur1"; */
+"9M2-yT-ur1.title" = "URL proxyserver";
+
+/* Class = "NSMenuItem"; title = "EAP (new in iOS 9 and OS X 10.11)"; ObjectID = "9vO-wX-sUs"; */
+"9vO-wX-sUs.title" = "EAP (nieuw in iOS 9 en OS X 10.11)";
+
+/* Class = "NSButtonCell"; title = "Enable QoS marking"; ObjectID = "9Wh-RI-xB2"; */
+"9Wh-RI-xB2.title" = "Schakel QoS-markeringen in";
+
+/* Class = "NSTextFieldCell"; title = "Network Type"; ObjectID = "19q-s9-w1x"; */
+"19q-s9-w1x.title" = "Netwerktype";
+
+/* Class = "NSMenuItem"; title = "1.0"; ObjectID = "31N-ic-14z"; */
+"31N-ic-14z.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "Outer Identity"; ObjectID = "65O-DV-YyB"; */
+"65O-DV-YyB.title" = "Externe identiteit";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "68q-6T-mj6"; */
+"68q-6T-mj6.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Trusted Certificates"; ObjectID = "78J-tc-gh2"; */
+"78J-tc-gh2.title" = "Vertrouwde certificaten";
+
+/* Class = "NSButtonCell"; title = "Use PAC"; ObjectID = "A5N-t3-0bl"; */
+"A5N-t3-0bl.title" = "Gebruik PAC";
+
+/* Class = "NSMenuItem"; title = "Passpoint"; ObjectID = "aEJ-2a-PRO"; */
+"aEJ-2a-PRO.title" = "Passpoint";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove MCC/MNC"; ObjectID = "Ahm-Rc-LKi"; */
+"Ahm-Rc-LKi.ibShadowedToolTip" = "Verwijder MCC/MNC";
+
+/* Class = "NSTextFieldCell"; title = "Security Type"; ObjectID = "amK-Fo-f5A"; */
+"amK-Fo-f5A.title" = "Beveiligingstype";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "apw-CZ-g83"; */
+"apw-CZ-g83.title" = "Geen";
+
+/* Class = "NSButtonCell"; title = "Whitelist Apple audio/video calling"; ObjectID = "Atl-5w-fhQ"; */
+"Atl-5w-fhQ.title" = "Apple audio-/videogesprekken op witte lijst";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "aud-5e-zkT"; */
+"aud-5e-zkT.ibShadowedIsNilPlaceholder" = "[optioneel]";
+
+/* Class = "NSMenuItem"; title = "CHAP"; ObjectID = "axg-Pg-sT0"; */
+"axg-Pg-sT0.title" = "CHAP";
+
+/* Class = "NSSegmentedCell"; B3F-MW-hL2.ibShadowedLabels[0] = "Protocols"; ObjectID = "B3F-MW-hL2"; */
+"B3F-MW-hL2.ibShadowedLabels[0]" = "Protocollen";
+
+/* Class = "NSSegmentedCell"; B3F-MW-hL2.ibShadowedLabels[1] = "Trust"; ObjectID = "B3F-MW-hL2"; */
+"B3F-MW-hL2.ibShadowedLabels[1]" = "Vertrouw";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "bBT-e2-jwV"; */
+"bBT-e2-jwV.title" = ":";
+
+/* Class = "NSButtonCell"; title = "EAP-AKA"; ObjectID = "Bdc-Vk-J3K"; */
+"Bdc-Vk-J3K.title" = "EAP-AKA";
+
+/* Class = "NSTextFieldCell"; title = "Authentication protocols supported on target network"; ObjectID = "BFN-6k-f7Y"; */
+"BFN-6k-f7Y.title" = "Door het doelnetwerk ondersteunde protocollen voor identiteitscontrole";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "bhU-LQ-s0g"; */
+"bhU-LQ-s0g.title" = "Gebruikersnaam";
+
+/* Class = "NSTextFieldCell"; title = "Domain name of the Passpoint service provider"; ObjectID = "Bje-xW-AZe"; */
+"Bje-xW-AZe.title" = "Domeinnaam van de Passpoint-aanbieder";
+
+/* Class = "NSMenuItem"; title = "WPA2 Enterprise (iOS 8 or later except Apple TV)"; ObjectID = "bVc-aC-qaj"; */
+"bVc-aC-qaj.title" = "WPA2 - bedrijfsniveau (iOS 8 of hoger behalve Apple TV)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "c6r-an-deS"; */
+"c6r-an-deS.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "[No certificates available -- use 'Certificates' tab to add]"; ObjectID = "cBl-Q2-cIw"; */
+"cBl-Q2-cIw.title" = "[Geen certificaten beschikbaar -- gebruik het tabblad 'Certificaten' om certificaten toe te voegen]";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "cgJ-zq-8cd"; */
+"cgJ-zq-8cd.headerCell.title" = "Appnaam";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add realm name"; ObjectID = "cVz-y7-MsE"; */
+"cVz-y7-MsE.ibShadowedToolTip" = "Voeg naam realm toe";
+
+/* Class = "NSTextFieldCell"; title = "Identity Certificate"; ObjectID = "d1z-o0-eIW"; */
+"d1z-o0-eIW.title" = "Identiteitscertificaat";
+
+/* Class = "NSMenuItem"; title = "Dynamic WEP"; ObjectID = "D02-cb-NZK"; */
+"D02-cb-NZK.title" = "Dynamische WEP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "dkW-bc-ugd"; */
+"dkW-bc-ugd.ibShadowedIsNilPlaceholder" = "[optioneel]";
+
+/* Class = "NSTextFieldCell"; title = "Identification of the wireless network to connect to"; ObjectID = "DNO-Zg-GFi"; */
+"DNO-Zg-GFi.title" = "Identificatie van het draadloze netwerk waarmee verbinding wordt gemaakt";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "No identity selected"; ObjectID = "E0a-6v-8KT"; */
+"E0a-6v-8KT.ibShadowedIsNilPlaceholder" = "Er is geen identiteit geselecteerd";
+
+/* Class = "NSTextFieldCell"; title = "MCC/MNCs"; ObjectID = "e46-mW-COR"; */
+"e46-mW-COR.title" = "MCC/MNC's";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "ECj-B0-XXK"; */
+"ECj-B0-XXK.title" = "Wachtwoord";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[optional]"; ObjectID = "EJG-gx-aAx"; */
+"EJG-gx-aAx.placeholderString" = "[optioneel]";
+
+/* Class = "NSTextFieldCell"; title = "Wireless network encryption to use when connecting"; ObjectID = "eKj-zB-U46"; */
+"eKj-zB-U46.title" = "Draadloze netwerkcodering die wordt gebruikt bij verbinding";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "eP5-QE-PJe"; */
+"eP5-QE-PJe.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Wi-Fi payload"; ObjectID = "fQs-Vz-Riu"; */
+"fQs-Vz-Riu.ibShadowedToolTip" = "Verwijder de wifipayload";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "fR6-Iz-4bv"; */
+"fR6-Iz-4bv.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Disable Captive Network Detection"; ObjectID = "fTG-Yx-3d0"; */
+"fTG-Yx-3d0.title" = "Schakel detectie afvangnetwerken uit";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "g1U-SJ-1Fv"; */
+"g1U-SJ-1Fv.title" = "<inhoud hier>";
+
+/* Class = "NSTextFieldCell"; title = "Enterprise Settings"; ObjectID = "Gba-f0-VQ1"; */
+"Gba-f0-VQ1.title" = "Instellingen op bedrijfsniveau";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "gDf-fd-20F"; */
+"gDf-fd-20F.title" = "Automatisch";
+
+/* Class = "NSTextFieldCell"; title = "Client identity for wireless network. Required for TLS. Enables 2‑factor for TTLS, EAP‑FAST, and PEAP."; ObjectID = "GEg-yR-aFZ"; */
+"GEg-yR-aFZ.title" = "Clientidentiteit voor draadloos netwerk. Vereist voor TLS. Schakelt twee-factor-authenticatie in voor TTLS, EAP‑FAST en PEAP.";
+
+/* Class = "NSButtonCell"; title = "EAP-SIM"; ObjectID = "ghg-gm-zAl"; */
+"ghg-gm-zAl.title" = "EAP-SIM";
+
+/* Class = "NSTextFieldCell"; title = "Mobile Country Code and Mobile Network Configuration "; ObjectID = "gQ1-bj-MdP"; */
+"gQ1-bj-MdP.title" = "Configuratie landcode en mobiel netwerk";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Setup"; ObjectID = "gTR-Bk-Wpg"; */
+"gTR-Bk-Wpg.title" = "Proxyconfiguratie";
+
+/* Class = "NSButtonCell"; title = "Allow direct connection if PAC is unreachable"; ObjectID = "HfF-Q3-FKY"; */
+"HfF-Q3-FKY.title" = "Sta directe verbinding toe als PAC onbereikbaar is";
+
+/* Class = "NSMenuItem"; title = "Do not restrict QoS marking"; ObjectID = "hId-BW-kPE"; */
+"hId-BW-kPE.title" = "Beperk QoS-markeringen niet";
+
+/* Class = "NSTextFieldCell"; title = "User name for connection to wireless network"; ObjectID = "hpH-MG-bAp"; */
+"hpH-MG-bAp.title" = "Gebruikersnaam voor verbinding met draadloos netwerk";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[required]"; ObjectID = "I8c-Qj-8DS"; */
+"I8c-Qj-8DS.placeholderString" = "[vereist]";
+
+/* Class = "NSTextFieldCell"; title = "Domain Name"; ObjectID = "idQ-RY-rR8"; */
+"idQ-RY-rR8.title" = "Domeinnaam";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add MCC/MNC"; ObjectID = "JbA-5d-g4V"; */
+"JbA-5d-g4V.ibShadowedToolTip" = "Voeg MCC/MNC toe";
+
+/* Class = "NSTextFieldCell"; title = "Authentication protocol (for use only with TTLS)"; ObjectID = "JBC-di-pDQ"; */
+"JBC-di-pDQ.title" = "Identiteitscontroleprotocol (alleen voor gebruik met TTLS)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JCh-gk-0j2"; */
+"JCh-gk-0j2.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Allow Two RANDs"; ObjectID = "jfA-KB-wYr"; */
+"jfA-KB-wYr.title" = "Sta twee RAND’s toe";
+
+/* Class = "NSMenuItem"; title = "WEP"; ObjectID = "JhJ-ya-1Un"; */
+"JhJ-ya-1Un.title" = "WEP";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "kbI-Sh-lQK"; */
+"kbI-Sh-lQK.title" = "Wachtwoord";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "keh-AI-dUb"; */
+"keh-AI-dUb.title" = "Geen";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "Kiy-Dc-gNr"; */
+"Kiy-Dc-gNr.title" = "Geen";
+
+/* Class = "NSTextFieldCell"; title = "Inner Authentication"; ObjectID = "Kml-2K-wlT"; */
+"Kml-2K-wlT.title" = "Interne identiteitscontrole";
+
+/* Class = "NSTextFieldCell"; title = "Do not show the captive network assistant"; ObjectID = "kOv-bt-4f0"; */
+"kOv-bt-4f0.title" = "Toon assistent voor afvangnetwerken niet";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Wi-Fi payload"; ObjectID = "kPc-G2-zIP"; */
+"kPc-G2-zIP.ibShadowedToolTip" = "Voeg een Wi-Fi-payload toe";
+
+/* Class = "NSButtonCell"; title = "EAP-FAST"; ObjectID = "KRJ-wE-Mhc"; */
+"KRJ-wE-Mhc.title" = "EAP-FAST";
+
+/* Class = "NSTextFieldCell"; title = "Password for the wireless network"; ObjectID = "Kvk-GH-Wdy"; */
+"Kvk-GH-Wdy.title" = "Wachtwoord voor het draadloze netwerk";
+
+/* Class = "NSButtonCell"; title = "Auto Join"; ObjectID = "l7K-Qs-Ueh"; */
+"l7K-Qs-Ueh.title" = "Verbind automatisch";
+
+/* Class = "NSTextFieldCell"; title = "User name used to connect to the proxy"; ObjectID = "lBD-hC-zAN"; */
+"lBD-hC-zAN.title" = "Gebruikersnaam om verbinding te maken met de proxy";
+
+/* Class = "NSButtonCell"; title = "Connect to roaming partner Passpoint networks"; ObjectID = "lcV-j5-5ot"; */
+"lcV-j5-5ot.title" = "Verbind met Passpoint-netwerken van roamingpartner";
+
+/* Class = "NSTextFieldCell"; title = "Trusted Server Certificate Names"; ObjectID = "lEr-FC-ESR"; */
+"lEr-FC-ESR.title" = "Vertrouwde certificaatnamen van server";
+
+/* Class = "NSTextFieldCell"; title = "Roaming Consortium OIs"; ObjectID = "lgk-JZ-ECg"; */
+"lgk-JZ-ECg.title" = "OI's roamingconsortium";
+
+/* Class = "NSMenuItem"; title = "1.2"; ObjectID = "lSE-jR-PDL"; */
+"lSE-jR-PDL.title" = "1.2";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "lya-yZ-el0"; */
+"lya-yZ-el0.title" = "Wachtwoord";
+
+/* Class = "NSMenuItem"; title = "WPA2 Personal (iOS 8 or later except Apple TV)"; ObjectID = "maW-ck-H0M"; */
+"maW-ck-H0M.title" = "WPA2 - persoonlijk (iOS 8 of hoger behalve Apple TV)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "mCl-8G-2mX"; */
+"mCl-8G-2mX.ibShadowedIsNilPlaceholder" = "[ingesteld op apparaat]";
+
+/* Class = "NSTextFieldCell"; title = "Allow authenticating to server providing only two RAND values"; ObjectID = "mHd-EU-6Tb"; */
+"mHd-EU-6Tb.title" = "Sta inloggen op server met slechts twee RAND-waarden toe";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the Passpoint service provider"; ObjectID = "mts-o3-opc"; */
+"mts-o3-opc.title" = "Weergegeven naam van de Passpoint-aanbieder";
+
+/* Class = "NSTextFieldCell"; title = "NAI Realm Names"; ObjectID = "NAU-Lc-PSQ"; */
+"NAU-Lc-PSQ.title" = "Namen NAI-realms";
+
+/* Class = "NSButtonCell"; title = "TLS"; ObjectID = "nEa-20-xMY"; */
+"nEa-20-xMY.title" = "TLS";
+
+/* Class = "NSButtonCell"; title = "LEAP"; ObjectID = "NgN-kO-RD0"; */
+"NgN-kO-RD0.title" = "LEAP";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Npa-oH-aRO"; */
+"Npa-oH-aRO.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "NS9-qt-cEh"; */
+"NS9-qt-cEh.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1.1"; ObjectID = "OBK-wl-2S5"; */
+"OBK-wl-2S5.title" = "1.1";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "OeU-DE-bYT"; */
+"OeU-DE-bYT.ibShadowedToolTip" = "Dit veld is vereist voor apparaten die worden voorbereid of beheerd";
+
+/* Class = "NSMenuItem"; title = "Legacy Hotspot"; ObjectID = "Ohi-Xt-1pr"; */
+"Ohi-Xt-1pr.title" = "Verouderde hotspot";
+
+/* Class = "NSTextFieldCell"; title = "Externally visible identification (for TTLS, PEAP, and EAP-FAST)"; ObjectID = "oJ2-SV-pqX"; */
+"oJ2-SV-pqX.title" = "Van buitenaf zichtbare identificatie (voor TTLS, PEAP en EAP-FAST)";
+
+/* Class = "NSTextFieldCell"; title = "Password for the provided user"; ObjectID = "Ojz-FQ-Lmx"; */
+"Ojz-FQ-Lmx.title" = "Wachtwoord voor de opgegeven gebruiker";
+
+/* Class = "NSTextFieldCell"; title = "Configures network to appear as legacy or Passpoint hotspot"; ObjectID = "Omi-ff-7fr"; */
+"Omi-ff-7fr.title" = "Netwerk configureren om te verschijnen als oude versie of Passpoint-hotspot";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "oy0-z6-raa"; */
+"oy0-z6-raa.title" = "Voorbeeldapp";
+
+/* Class = "NSTextFieldCell"; title = "Fast Lane QoS Marking"; ObjectID = "Pdp-mq-sR2"; */
+"Pdp-mq-sR2.title" = "Fast Lane QoS-markeringen";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for the proxy server"; ObjectID = "pGx-dY-nFs"; */
+"pGx-dY-nFs.title" = "Hostnaam of IP-adres, en poortnummer voor de proxyserver";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "PjW-3Y-k8J"; */
+"PjW-3Y-k8J.ibShadowedIsNilPlaceholder" = "[vereist]";
+
+/* Class = "NSTextFieldCell"; title = "URL used to retrieve proxy settings"; ObjectID = "Q0n-O1-fA2"; */
+"Q0n-O1-fA2.title" = "URL voor het ophalen van proxy-instellingen";
+
+/* Class = "NSTextFieldCell"; title = "EAP-FAST"; ObjectID = "qbq-rm-wGC"; */
+"qbq-rm-wGC.title" = "EAP-FAST";
+
+/* Class = "NSMenuItem"; title = "1.1"; ObjectID = "QD3-BD-QZP"; */
+"QD3-BD-QZP.title" = "1.1";
+
+/* Class = "NSTextFieldCell"; title = "Configuration of Protected Access Credential (PAC)"; ObjectID = "QdY-te-L1D"; */
+"QdY-te-L1D.title" = "Configuratie van PAC (Protected Access Credential)";
+
+/* Class = "NSTextFieldCell"; title = "Request during connection and send with authentication"; ObjectID = "qEh-au-YRa"; */
+"qEh-au-YRa.title" = "Vraag tijdens verbinden en verzend samen met de gegevens voor identiteitscontrole";
+
+/* Class = "NSTextFieldCell"; title = "Network Access Identifier Realm Names"; ObjectID = "qSa-iJ-BRk"; */
+"qSa-iJ-BRk.title" = "Namen Network Access Identifier-realms";
+
+/* Class = "NSMenuItem"; title = "PAP"; ObjectID = "qvb-hM-qCa"; */
+"qvb-hM-qCa.title" = "PAP";
+
+/* Class = "NSButtonCell"; title = "Provision PAC"; ObjectID = "QXY-Ek-k8e"; */
+"QXY-Ek-k8e.title" = "Verschaf PAC";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "R2o-SY-ow5"; */
+"R2o-SY-ow5.ibShadowedIsNilPlaceholder" = "[optioneel]";
+
+/* Class = "NSMenuItem"; title = "Any (Personal)"; ObjectID = "rxf-Hc-2oF"; */
+"rxf-Hc-2oF.title" = "Willekeurig (persoonlijk)";
+
+/* Class = "NSTextFieldCell"; title = "Certificate names expected from authentication server"; ObjectID = "RyB-Hs-NT5"; */
+"RyB-Hs-NT5.title" = "Certificaatnamen die van server voor identiteitscontrole worden verwacht";
+
+/* Class = "NSTextFieldCell"; title = "Configures proxies to be used with this network"; ObjectID = "s6v-CZ-hyr"; */
+"s6v-CZ-hyr.title" = "Proxy's configureren voor gebruik met dit netwerk";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "[optional]"; ObjectID = "S29-34-uBa"; */
+"S29-34-uBa.placeholderString" = "[optioneel]";
+
+/* Class = "NSMenuItem"; title = "MSCHAP"; ObjectID = "SaW-8z-EKe"; */
+"SaW-8z-EKe.title" = "MSCHAP";
+
+/* Class = "NSTextFieldCell"; title = "TLS Minimum Version"; ObjectID = "Sbq-6l-ebf"; */
+"Sbq-6l-ebf.title" = "Minimale versie TLS";
+
+/* Class = "NSMenuItem"; title = "Standard"; ObjectID = "sNJ-uH-P6e"; */
+"sNJ-uH-P6e.title" = "Standaard";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove roaming OI"; ObjectID = "Ssa-70-zq3"; */
+"Ssa-70-zq3.ibShadowedToolTip" = "Verwijder roaming OI";
+
+/* Class = "NSTextFieldCell"; title = "Server and Port"; ObjectID = "SuL-C8-Tre"; */
+"SuL-C8-Tre.title" = "Server en poort";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "svD-fj-b5V"; */
+"svD-fj-b5V.headerCell.title" = "Naam";
+
+/* Class = "NSMenuItem"; title = "WPA / WPA2 Personal"; ObjectID = "t29-sj-Sri"; */
+"t29-sj-Sri.title" = "WPA / WPA2 - persoonlijk";
+
+/* Class = "NSButtonCell"; title = "TTLS"; ObjectID = "T61-TS-cWk"; */
+"T61-TS-cWk.title" = "TTLS";
+
+/* Class = "NSTextFieldCell"; title = "Wi-Fi"; ObjectID = "TQH-fv-DHb"; */
+"TQH-fv-DHb.title" = "Wifi";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Tvo-xC-Luf"; */
+"Tvo-xC-Luf.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tzp-gM-Tqf"; */
+"tzp-gM-Tqf.title" = "Text Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "ufL-qm-WT3"; */
+"ufL-qm-WT3.ibShadowedIsNilPlaceholder" = "[vereist]";
+
+/* Class = "NSMenuItem"; title = "WPA / WPA2 Enterprise"; ObjectID = "UIr-Mb-TwU"; */
+"UIr-Mb-TwU.title" = "WPA/WPA2 - bedrijfsniveau";
+
+/* Class = "NSTableColumn"; headerCell.title = "MNC"; ObjectID = "UJ6-3g-VMW"; */
+"UJ6-3g-VMW.headerCell.title" = "MNC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uMv-VE-zvs"; */
+"uMv-VE-zvs.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Urp-IU-fIf"; */
+"Urp-IU-fIf.headerCell.title" = "Naam";
+
+/* Class = "NSTextFieldCell"; title = "Certificates trusted/expected for authentication"; ObjectID = "uSX-DR-4hF"; */
+"uSX-DR-4hF.title" = "Vertrouwde/verwachte certificaten voor identiteitscontrole";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove realm name"; ObjectID = "v6K-sB-62V"; */
+"v6K-sB-62V.ibShadowedToolTip" = "Verwijder realmnaam";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Vp0-cu-D9I"; */
+"Vp0-cu-D9I.ibShadowedIsNilPlaceholder" = "[vereist]";
+
+/* Class = "NSTextFieldCell"; title = "Automatically join this wireless network"; ObjectID = "VpS-QP-bp9"; */
+"VpS-QP-bp9.title" = "Verbind automatisch met dit draadloze netwerk";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "W5m-kg-fYB"; */
+"W5m-kg-fYB.title" = "OtherViews";
+
+/* Class = "NSTableColumn"; headerCell.title = "MCC"; ObjectID = "w8y-bc-xmq"; */
+"w8y-bc-xmq.headerCell.title" = "MCC";
+
+/* Class = "NSMenuItem"; title = "MSCHAPv2"; ObjectID = "Wlf-6b-nuj"; */
+"Wlf-6b-nuj.title" = "MSCHAPv2";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wri-kH-ldT"; */
+"wri-kH-ldT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Provider Display Name"; ObjectID = "XcN-e9-tRI"; */
+"XcN-e9-tRI.title" = "Weergegeven naam van aanbieder";
+
+/* Class = "NSTextFieldCell"; title = "Service Set Identifier (SSID)"; ObjectID = "XKI-Cf-yeh"; */
+"XKI-Cf-yeh.title" = "SSID (Service Set Identifier)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "XOG-4n-Vw7"; */
+"XOG-4n-Vw7.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "PEAP"; ObjectID = "xzA-DH-Wxl"; */
+"xzA-DH-Wxl.title" = "PEAP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "YEf-2N-9h3"; */
+"YEf-2N-9h3.ibShadowedIsNilPlaceholder" = "[ingesteld op apparaat]";
+
+/* Class = "NSTextFieldCell"; title = "Enable if target network is not open or broadcasting"; ObjectID = "yJ4-1E-hqB"; */
+"yJ4-1E-hqB.title" = "Schakel in als doelnetwerk niet geopend is of uitzendt";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "yJW-Ag-hA2"; */
+"yJW-Ag-hA2.ibShadowedToolTip" = "Dit veld is vereist voor apparaten die worden voorbereid of beheerd";
+
+/* Class = "NSTextFieldCell"; title = "Configuration of protocols, authentication, and trust"; ObjectID = "YkJ-k5-F6g"; */
+"YkJ-k5-F6g.title" = "Configuratie van protocollen, identiteitscontrole en vertrouwen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add roaming OI"; ObjectID = "Zd7-9r-4rT"; */
+"Zd7-9r-4rT.ibShadowedToolTip" = "Voeg roaming OI toe";
+
+/* Class = "NSMenuItem"; title = "1.0"; ObjectID = "zMR-KA-Th8"; */
+"zMR-KA-Th8.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "Accepted EAP Types"; ObjectID = "Zy4-Cg-aqi"; */
+"Zy4-Cg-aqi.title" = "Geaccepteerde EAP-typen";
+

@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-08-INVALID_CERTIFICATE_TYPE" = "指出的憑證檔案不是此類型：「public.x509-certificate」";
+
+/* (No Comment) */
+"CNFGACT-08-MISSING_ENROLLMENT_URL" = "未提供 MDM 註冊 URL。";
+
+/* (No Comment) */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_FOUND" = "指定的位置找不到信任錨憑證檔案。";
+
+/* MDM ERRORS */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_INDICATED" = "未在動作介面中選取信任錨憑證檔案。";
+
+/* (No Comment) */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_FOUND" = "指定的位置找不到主機憑證檔案。";
+
+/* SUPERVISION ERRORS */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_INDICATED" = "未在動作介面中選取主機憑證檔案。";
+
+/* INPUT ERRORS */
+"CNFGACT-08-NO_INPUT_ERROR" = "沒有已連接裝置的 ECID 參考傳送到此動作。";
+

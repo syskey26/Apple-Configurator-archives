@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Save As:"; ObjectID = "f4i-q4-4p0"; */
+"f4i-q4-4p0.title" = "名前：";
+
+/* Class = "NSTextFieldCell"; title = "Specify the name of your favorites group."; ObjectID = "feU-rd-H1S"; */
+"feU-rd-H1S.title" = "よく使う項目のグループの名前を指定してください。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hhZ-Q2-j5Z"; */
+"hhZ-Q2-j5Z.title" = "キャンセル";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "ウインドウ";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "RoW-QJ-3Uy"; */
+"RoW-QJ-3Uy.title" = "保存";
+

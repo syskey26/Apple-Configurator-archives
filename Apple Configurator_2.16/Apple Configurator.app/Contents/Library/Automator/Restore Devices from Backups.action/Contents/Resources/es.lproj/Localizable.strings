@@ -1,0 +1,9 @@
+/* INPUT ERRORS */
+"CNFGACT-13-NO_INPUT_ERROR" = "No se ha derivado a esta acción ninguna referencia de ECID a los dispositivos conectados.";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH" = "La contraseña para las copias de seguridad del dispositivo no se ha introducido ni confirmado en la interfaz de acciones “Restaurar dispositivos desde copias de seguridad”.";
+
+/* (No Comment) */
+"CNFGACT-13-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "ERROR DE CONTRASEÑA";
+

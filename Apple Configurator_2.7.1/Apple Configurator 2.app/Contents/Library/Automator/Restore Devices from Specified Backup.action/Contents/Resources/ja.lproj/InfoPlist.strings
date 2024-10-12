@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別子";
+
+/* (No Comment) */
+"AMDNote" = "一部の非公開データ（パスワードなど）は、バックアップがパスワード付きで暗号化されていたか、ターゲットデバイスがバックアップのオリジナルソースであった場合にのみ復元されます。";
+
+/* (No Comment) */
+"AMDOptions" = "選択したバックアップが暗号化されている場合は、パスワード入力フィールドにそのパスワードを入力する必要があります。";
+
+/* (No Comment) */
+"AMDRequires" = "バックアップをデバイスに復元するには、デバイスが完全に消去されている必要があります。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別子";
+
+/* (No Comment) */
+"AMDSummary" = "このアクションにより、渡されたデバイスが指定した単一バックアップから復元されます。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "指定したバックアップからデバイスを復元";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "バックアップ";
+
+/* AMKeyword localized strings */
+"configurator" = "Configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "モバイル";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. All rights reserved.";
+

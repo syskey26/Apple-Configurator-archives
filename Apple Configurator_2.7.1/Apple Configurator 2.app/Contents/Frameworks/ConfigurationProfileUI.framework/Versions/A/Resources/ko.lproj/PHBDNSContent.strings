@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Provider Configuration"; ObjectID = "0GB-QU-3tY"; */
+"0GB-QU-3tY.title" = "제공업체 구성";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "5A0-sq-nQI"; */
+"5A0-sq-nQI.ibShadowedIsNilPlaceholder" = "[필수사항]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "6vX-EO-GCM"; */
+"6vX-EO-GCM.ibShadowedIsNilPlaceholder" = "[선택사항]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "URL:"; ObjectID = "8UT-L0-gEb"; */
+"8UT-L0-gEb.ibExternalAccessibilityDescription" = "URL:";
+
+/* Class = "NSButtonCell"; title = "Remove Configuration"; ObjectID = "79P-Op-1vw"; */
+"79P-Op-1vw.title" = "구성 삭제";
+
+/* Class = "NSTextFieldCell"; title = "Vendor specific configuration values"; ObjectID = "bEH-4z-nyi"; */
+"bEH-4z-nyi.title" = "공급업체 특정 구성 값";
+
+/* Class = "NSTextFieldCell"; title = "App Bundle ID"; ObjectID = "BoB-PW-izz"; */
+"BoB-PW-izz.title" = "앱 번들 ID";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "bOf-5c-E5t"; */
+"bOf-5c-E5t.ibShadowedIsNilPlaceholder" = "[선택사항]";
+
+/* Class = "NSButtonCell"; title = "Upload File…"; ObjectID = "cZX-b9-8fu"; */
+"cZX-b9-8fu.title" = "파일 업로드...";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name:"; ObjectID = "e2Y-RG-5L6"; */
+"e2Y-RG-5L6.ibExternalAccessibilityDescription" = "이름:";
+
+/* Class = "NSTextFieldCell"; title = "Provider Bundle ID"; ObjectID = "HZA-cP-CpH"; */
+"HZA-cP-CpH.title" = "제공업체 번들 ID";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "nN8-FZ-W4g"; */
+"nN8-FZ-W4g.title" = "(감독 중인 기기만)";
+
+/* Class = "NSTextFieldCell"; title = "DNS Proxy"; ObjectID = "RC3-yr-TrW"; */
+"RC3-yr-TrW.title" = "DNS 프록시";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the app containing the DNS proxy network extention"; ObjectID = "vFg-KA-GxF"; */
+"vFg-KA-GxF.title" = "DNS 프록시 네트워크 확장 프로그램을 포함하는 앱 번들 식별자";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove DNS payload"; ObjectID = "WnN-UT-Qkz"; */
+"WnN-UT-Qkz.ibShadowedToolTip" = "DNS 페이로드 삭제";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the DNS proxy network extension to use"; ObjectID = "wuI-UK-bae"; */
+"wuI-UK-bae.title" = "사용할 DNS 프록시 네트워크 확장 프로그램의 앱 번들 식별자";
+

@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDNote" = "Esta acción no proporciona ningún mecanismo para definir si el archivo de copia de seguridad se va a encriptar. El proceso para activar la encriptación de copia de seguridad y establecer una contraseña para el archivo del dispositivo debe realizarse en la app Apple Configurator.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Esta acción creará archivos de copia de seguridad para los dispositivos iOS preparados cuyos identificadores ECID se pasen a esta acción como entrada. Es posible que se coja una copia de seguridad de un dispositivo iOS iniciado una vez que haya salido del asistente de configuración. Las copias de seguridad creadas del dispositivo iOS se almacenan en la misma ubicación que utiliza la app iTunes.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Guardar copia de seguridad de los dispositivos especificados";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. Todos los derechos reservados.";
+

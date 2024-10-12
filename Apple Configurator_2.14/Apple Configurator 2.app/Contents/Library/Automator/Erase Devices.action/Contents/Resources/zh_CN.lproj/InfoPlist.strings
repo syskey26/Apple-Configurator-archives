@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "重要信息：运行 iOS 9 或更高版本的设备不要求使用监督证书和私钥文件。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDSummary" = "此操作将抹掉设备（其标识符作为输入传递到此操作）上的内容和设置。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "抹掉设备";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. 保留一切权利。";
+

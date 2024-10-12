@@ -1,0 +1,9 @@
+/* CHECK ERRORS */
+"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "選択されたデバイスバックアップがこのシステムに存在しません。";
+
+/* INPUT ERRORS */
+"CNFGACT-12-NO_INPUT_ERROR" = "接続されたデバイスの ECID 参照がこのアクションに渡されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-12-NO_SELECTION_ERROR" = "デバイスバックアップがアクションインターフェイスで選択されていません。";
+

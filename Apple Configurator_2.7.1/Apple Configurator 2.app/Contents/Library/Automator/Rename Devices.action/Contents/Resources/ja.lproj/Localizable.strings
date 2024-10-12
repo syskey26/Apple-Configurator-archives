@@ -1,0 +1,6 @@
+/* (No Comment) */
+"CNFGACT-07-NO_BASE_NAME_PROVIDED" = "基本名がアクションインターフェイスで入力されませんでした。";
+
+/* INPUT ERRORS */
+"CNFGACT-07-NO_INPUT_ERROR" = "接続されたデバイスの ECID 参照がこのアクションに渡されませんでした。";
+

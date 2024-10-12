@@ -1,0 +1,60 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "2gQ-Ou-fBG"; */
+"2gQ-Ou-fBG.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Description:"; ObjectID = "5bq-2k-E2z"; */
+"5bq-2k-E2z.ibExternalAccessibilityDescription" = "Descrizione:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "8Xf-Ga-kQ3"; */
+"8Xf-Ga-kQ3.ibShadowedIsNilPlaceholder" = "[obbligatorio]";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "27c-Mz-VoM"; */
+"27c-Mz-VoM.title" = "Nome utente";
+
+/* Class = "NSTextFieldCell"; title = "The user name for this subscription"; ObjectID = "82p-7Z-Our"; */
+"82p-7Z-Our.title" = "Nome utente per questa iscrizione";
+
+/* Class = "NSTextFieldCell"; title = "The URL of the calendar file"; ObjectID = "ABN-2i-SkJ"; */
+"ABN-2i-SkJ.title" = "URL del file del calendario";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "AJh-pQ-vc9"; */
+"AJh-pQ-vc9.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Subscribed Calendar payload"; ObjectID = "bXC-ut-N11"; */
+"bXC-ut-N11.ibShadowedToolTip" = "Aggiungi payload calendari con iscrizione";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "h3A-gw-jJY"; */
+"h3A-gw-jJY.title" = "Utilizza SSL";
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "hI1-Yn-7Eq"; */
+"hI1-Yn-7Eq.title" = "Descrizione";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "ihW-GT-Rsw"; */
+"ihW-GT-Rsw.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "JhY-Bn-LrN"; */
+"JhY-Bn-LrN.ibExternalAccessibilityDescription" = "Password:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Username:"; ObjectID = "Jmy-tR-Rlc"; */
+"Jmy-tR-Rlc.ibExternalAccessibilityDescription" = "Nome utente:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Subscribed Calendar payload"; ObjectID = "OXd-Xb-qqI"; */
+"OXd-Xb-qqI.ibShadowedToolTip" = "Rimuovi payload calendari con iscrizione";
+
+/* Class = "NSTextFieldCell"; title = "Subscribed Calendar"; ObjectID = "qWO-El-JA7"; */
+"qWO-El-JA7.title" = "Calendario con iscrizione";
+
+/* Class = "NSTextFieldCell"; title = "URL"; ObjectID = "ROO-1S-5oG"; */
+"ROO-1S-5oG.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "The description of the calendar subscription"; ObjectID = "rxi-kC-uvG"; */
+"rxi-kC-uvG.title" = "La descrizione dell'iscrizione al calendario";
+
+/* Class = "NSTextFieldCell"; title = "The password for this subscription"; ObjectID = "w7q-h4-e3C"; */
+"w7q-h4-e3C.title" = "La password per l'iscrizione";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "URL:"; ObjectID = "xfP-y3-cn7"; */
+"xfP-y3-cn7.ibExternalAccessibilityDescription" = "URL:";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "ycu-TU-w3P"; */
+"ycu-TU-w3P.title" = "Password";
+

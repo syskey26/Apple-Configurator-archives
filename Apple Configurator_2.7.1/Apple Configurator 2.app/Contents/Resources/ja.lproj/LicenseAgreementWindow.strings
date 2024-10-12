@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "5ot-0k-rU1"; */
+"5ot-0k-rU1.title" = "同意する";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "Bgc-mP-j8u"; */
+"Bgc-mP-j8u.title" = "プレビュー";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "obQ-fb-4cb"; */
+"obQ-fb-4cb.title" = "同意しない";
+
+/* Class = "NSWindow"; title = "License Agreement"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "使用許諾契約";
+

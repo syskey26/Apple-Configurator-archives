@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "d0u-lg-d7t"; */
+"d0u-lg-d7t.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Encrypted"; ObjectID = "Gyx-xA-DC7"; */
+"Gyx-xA-DC7.headerCell.title" = "Chiffré";
+
+/* Class = "NSTextFieldCell"; title = "No Device Backups"; ObjectID = "tSC-eb-0dF"; */
+"tSC-eb-0dF.title" = "Aucune sauvegarde d’appareil";
+
+/* Class = "NSButtonCell"; title = "Delete Backup"; ObjectID = "vuC-QO-sHL"; */
+"vuC-QO-sHL.title" = "Supprimer la sauvegarde";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device"; ObjectID = "XC5-hu-LRE"; */
+"XC5-hu-LRE.headerCell.title" = "Appareil";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "YQq-uh-q5P"; */
+"YQq-uh-q5P.headerCell.title" = "Date";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zIJ-Sf-qfn"; */
+"zIJ-Sf-qfn.title" = "Text Cell";
+

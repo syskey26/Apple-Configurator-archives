@@ -1,0 +1,183 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "0Hv-au-1NO"; */
+"0Hv-au-1NO.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Filter Name"; ObjectID = "0ub-tI-iny"; */
+"0ub-tI-iny.title" = "过滤器名称";
+
+/* Class = "NSTextFieldCell"; title = "Bundle identifier of the app containing filter providers"; ObjectID = "1zH-90-NsP"; */
+"1zH-90-NsP.title" = "包含过滤器提供商的应用捆绑包标识符";
+
+/* Class = "NSTextFieldCell"; title = "Password for authenticating the service"; ObjectID = "2nV-O5-VYa"; */
+"2nV-O5-VYa.title" = "对服务进行鉴定的密码";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "3at-bt-nMY"; */
+"3at-bt-nMY.title" = "用户名";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "4Q7-wS-sUm"; */
+"4Q7-wS-sUm.headerCell.title" = "URL";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Content Filter payload"; ObjectID = "5XQ-VA-FIj"; */
+"5XQ-VA-FIj.ibShadowedToolTip" = "移除“内容过滤器”有效负载";
+
+/* Class = "NSTextFieldCell"; title = "Service Address"; ObjectID = "9qy-73-tOo"; */
+"9qy-73-tOo.title" = "服务地址";
+
+/* Class = "NSButtonCell"; title = "Filter WebKit Traffic"; ObjectID = "AgY-C4-0Bu"; */
+"AgY-C4-0Bu.title" = "过滤 WebKit 流量";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "ahv-OB-lEF"; */
+"ahv-OB-lEF.title" = "<在此输入内容>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "AJH-eP-ncR"; */
+"AJH-eP-ncR.ibShadowedIsNilPlaceholder" = "在“证书”有效负载中添加证书";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address or URL for the device"; ObjectID = "bdz-fE-KTL"; */
+"bdz-fE-KTL.title" = "设备的主机名、IP 地址或 URL";
+
+/* Class = "NSTextFieldCell"; title = "Content Filter"; ObjectID = "BgD-Ac-dss"; */
+"BgD-Ac-dss.title" = "内容过滤器";
+
+/* Class = "NSTextFieldCell"; title = "Additional URLs that will not be allowed"; ObjectID = "C1Q-o9-BZc"; */
+"C1Q-o9-BZc.title" = "不允许的附加 URL";
+
+/* Class = "NSTextFieldCell"; title = "Custom Data"; ObjectID = "ciD-n0-eAj"; */
+"ciD-n0-eAj.title" = "自定数据";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "CnD-19-coF"; */
+"CnD-19-coF.ibShadowedIsNilPlaceholder" = "[必填]";
+
+/* Class = "NSMenuItem"; title = "Plugin (Third Party App)"; ObjectID = "Cvn-4H-TH7"; */
+"Cvn-4H-TH7.title" = "插件（第三方应用）";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dLC-L1-GSh"; */
+"dLC-L1-GSh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Blacklisted URLs"; ObjectID = "e2v-dv-oua"; */
+"e2v-dv-oua.title" = "列入黑名单中的 URL";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "E2w-8u-xH3"; */
+"E2w-8u-xH3.ibShadowedIsNilPlaceholder" = "新条目";
+
+/* Class = "NSTextFieldCell"; title = "Filter Type"; ObjectID = "eQV-4M-GYX"; */
+"eQV-4M-GYX.title" = "过滤器类型";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "g3W-hr-CBr"; */
+"g3W-hr-CBr.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "hHq-bp-tH7"; */
+"hHq-bp-tH7.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hlr-RC-w2B"; */
+"hlr-RC-w2B.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "idt-sk-YwH"; */
+"idt-sk-YwH.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JKe-uu-9TB"; */
+"JKe-uu-9TB.title" = "Text Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "kAI-CN-c7u"; */
+"kAI-CN-c7u.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "kcj-0Q-gvp"; */
+"kcj-0Q-gvp.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSTextFieldCell"; title = "Allowed URLs which will be shown as bookmarks"; ObjectID = "kjP-nT-iNa"; */
+"kjP-nT-iNa.title" = "允许的 URL（将显示为书签）";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "Lab-q2-kwT"; */
+"Lab-q2-kwT.ibShadowedIsNilPlaceholder" = "[可选]";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bookmark"; ObjectID = "mqo-Pe-SVA"; */
+"mqo-Pe-SVA.headerCell.title" = "书签";
+
+/* Class = "NSTextFieldCell"; title = "User name for authenticating the service"; ObjectID = "mTp-8Z-M06"; */
+"mTp-8Z-M06.title" = "对服务进行鉴定的用户名";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Mtr-As-7PF"; */
+"Mtr-As-7PF.title" = "（仅限被监督的设备）";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "N5e-xt-GaJ"; */
+"N5e-xt-GaJ.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NX1-9c-5zX"; */
+"NX1-9c-5zX.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Organization parameter for use by the filter provider"; ObjectID = "oeX-uw-B6U"; */
+"oeX-uw-B6U.title" = "供过滤器提供商使用的组织参数";
+
+/* Class = "NSTextFieldCell"; title = "Specific URLs that will be allowed"; ObjectID = "Olw-LJ-aq2"; */
+"Olw-LJ-aq2.title" = "允许的特定 URL";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "OQT-NS-7mm"; */
+"OQT-NS-7mm.ibShadowedIsNilPlaceholder" = "新条目";
+
+/* Class = "NSDictionaryController"; Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "Key"; ObjectID = "Q3T-eW-fv8"; */
+"Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "键";
+
+/* Class = "NSDictionaryController"; Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1] = "Value"; ObjectID = "Q3T-eW-fv8"; */
+"Q3T-eW-fv8.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Certificate"; ObjectID = "QlE-Re-aiD"; */
+"QlE-Re-aiD.title" = "证书";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "QSa-6V-iYc"; */
+"QSa-6V-iYc.headerCell.title" = "名称";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "QVz-FC-ItS"; */
+"QVz-FC-ItS.ibShadowedIsNilPlaceholder" = "新条目";
+
+/* Class = "NSTextFieldCell"; title = "Specific Websites"; ObjectID = "rdL-eB-5vW"; */
+"rdL-eB-5vW.title" = "特定网站";
+
+/* Class = "NSButtonCell"; title = "Filter Socket Traffic"; ObjectID = "v6n-R7-1i8"; */
+"v6n-R7-1i8.title" = "过滤套接字流量";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "vL7-Oc-SQD"; */
+"vL7-Oc-SQD.ibShadowedIsNilPlaceholder" = "新条目";
+
+/* Class = "NSTextFieldCell"; title = "Certificate for authenticating to the service"; ObjectID = "vor-OP-m3h"; */
+"vor-OP-m3h.title" = "对服务进行鉴定的证书";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "New entry"; ObjectID = "W8L-5z-Pxe"; */
+"W8L-5z-Pxe.ibShadowedIsNilPlaceholder" = "新条目";
+
+/* Class = "NSTextFieldCell"; title = "Permitted URLs"; ObjectID = "WJN-Ai-Zmt"; */
+"WJN-Ai-Zmt.title" = "允许的 URL";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "WYG-0N-QKU"; */
+"WYG-0N-QKU.headerCell.title" = "键";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wyw-T9-Iop"; */
+"wyw-T9-Iop.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Organization"; ObjectID = "xCh-10-eXA"; */
+"xCh-10-eXA.title" = "组织";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the filter in the app and on the device"; ObjectID = "XQ1-Fr-Nes"; */
+"XQ1-Fr-Nes.title" = "在应用和设备上显示过滤器的名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "y8f-r3-ubL"; */
+"y8f-r3-ubL.headerCell.title" = "URL";
+
+/* Class = "NSMenuItem"; title = "Built-in: Specific Websites Only"; ObjectID = "yAw-zm-rTP"; */
+"yAw-zm-rTP.title" = "内建：只允许特定网站";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "yf3-SX-l4O"; */
+"yf3-SX-l4O.ibShadowedIsNilPlaceholder" = "[必填]";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "YnK-mc-9oo"; */
+"YnK-mc-9oo.title" = "密码";
+
+/* Class = "NSMenuItem"; title = "Built-in: Limit Adult Content"; ObjectID = "z44-Sb-NV4"; */
+"z44-Sb-NV4.title" = "内建：限制成人内容";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZhA-s7-Edw"; */
+"ZhA-s7-Edw.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Custom configuration data for the filter"; ObjectID = "zHv-3e-HRd"; */
+"zHv-3e-HRd.title" = "自定过滤器的配置数据";
+
+/* Class = "NSTextFieldCell"; title = "Identifier"; ObjectID = "zNe-jc-n6a"; */
+"zNe-jc-n6a.title" = "标识符";
+

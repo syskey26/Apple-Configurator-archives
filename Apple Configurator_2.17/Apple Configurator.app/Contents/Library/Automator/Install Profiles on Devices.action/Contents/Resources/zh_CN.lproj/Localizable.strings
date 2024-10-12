@@ -1,0 +1,24 @@
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_EXIST" = "此证书文件不在预期的位置中：";
+
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_SET" = "未选取证书文件。";
+
+/* DIALOG PROMPT */
+"CNFGACT-03-DIALOG_PROMPT" = "选择要在设备上安装的描述文件：";
+
+/* INPUT ERRORS */
+"CNFGACT-03-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
+
+/* (No Comment) */
+"CNFGACT-03-NO_SELECTION_ERROR" = "未选取描述文件。";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_EXIST" = "此专用密钥文件不在预期的位置中：";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_SET" = "未选取专用密钥文件。";
+
+/* (No Comment) */
+"CNFGACT-03-PROFILE_FILE_NOT_EXIST" = "此描述文件不在预期的位置中：";
+

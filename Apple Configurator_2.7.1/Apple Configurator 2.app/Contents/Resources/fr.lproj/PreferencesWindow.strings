@@ -1,0 +1,33 @@
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "1"; */
+"1.title" = "Préférences";
+
+/* Class = "NSToolbarItem"; label = "Organizations"; ObjectID = "9jL-hy-ylc"; */
+"9jL-hy-ylc.label" = "Organisations";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Organizations"; ObjectID = "9jL-hy-ylc"; */
+"9jL-hy-ylc.paletteLabel" = "Organisations";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "18"; */
+"18.label" = "Général";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "18"; */
+"18.paletteLabel" = "Général";
+
+/* Class = "NSToolbarItem"; label = "Tags"; ObjectID = "HiP-fT-yja"; */
+"HiP-fT-yja.label" = "Tags";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tags"; ObjectID = "HiP-fT-yja"; */
+"HiP-fT-yja.paletteLabel" = "Tags";
+
+/* Class = "NSToolbarItem"; label = "Servers"; ObjectID = "IqE-Jv-Ruf"; */
+"IqE-Jv-Ruf.label" = "Serveurs";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Servers"; ObjectID = "IqE-Jv-Ruf"; */
+"IqE-Jv-Ruf.paletteLabel" = "Serveurs";
+
+/* Class = "NSToolbarItem"; label = "Backups"; ObjectID = "K4J-PG-P56"; */
+"K4J-PG-P56.label" = "Sauvegardes";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Backups"; ObjectID = "K4J-PG-P56"; */
+"K4J-PG-P56.paletteLabel" = "Sauvegardes";
+

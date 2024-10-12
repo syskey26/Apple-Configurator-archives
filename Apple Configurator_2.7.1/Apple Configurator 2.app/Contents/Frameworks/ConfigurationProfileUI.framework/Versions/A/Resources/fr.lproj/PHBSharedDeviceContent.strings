@@ -1,0 +1,30 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "0Bv-Le-3ej"; */
+"0Bv-Le-3ej.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "5t2-xo-qfv"; */
+"5t2-xo-qfv.ibShadowedIsNilPlaceholder" = "[facultatif]";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Cxl-sK-88M"; */
+"Cxl-sK-88M.title" = "(sous supervision)";
+
+/* Class = "NSTextFieldCell"; title = "Lock Screen Message"; ObjectID = "h0Q-vt-djc"; */
+"h0Q-vt-djc.title" = "Message sur l’écran verrouillé";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed at the bottom of the login window and lock screen"; ObjectID = "sbv-SZ-dpI"; */
+"sbv-SZ-dpI.title" = "Message affiché en bas de la fenêtre de connexion et de l’écran verrouillé";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed on the login window and lock screen"; ObjectID = "tiz-EG-ryi"; */
+"tiz-EG-ryi.title" = "Message affiché dans la fenêtre de connexion et sur l’écran verrouillé";
+
+/* Class = "NSTextFieldCell"; title = "Asset Tag Information"; ObjectID = "UwA-ul-QbA"; */
+"UwA-ul-QbA.title" = "Informations sur le tag de ressource";
+
+/* Class = "NSTextFieldCell"; title = "\"If Lost, Return to…\" Message"; ObjectID = "Ypp-Fg-qmf"; */
+"Ypp-Fg-qmf.title" = "Message « En cas de perte, renvoyer à… »";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "yxj-3K-sb3"; */
+"yxj-3K-sb3.ibExternalAccessibilityDescription" = "Nom du compte :";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Lock Screen Message payload"; ObjectID = "zqg-Jh-OH0"; */
+"zqg-Jh-OH0.ibShadowedToolTip" = "Supprimer les données utiles Message sur l’écran verrouillé";
+

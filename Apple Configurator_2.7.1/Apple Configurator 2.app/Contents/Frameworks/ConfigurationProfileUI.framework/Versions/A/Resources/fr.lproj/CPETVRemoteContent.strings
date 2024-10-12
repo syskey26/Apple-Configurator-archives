@@ -1,0 +1,27 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "00:00:00:00:00:00"; ObjectID = "2aF-aK-84e"; */
+"2aF-aK-84e.ibShadowedIsNilPlaceholder" = "00:00:00:00:00:00";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "00:00:00:00:00:00"; ObjectID = "9Vw-s8-1Y4"; */
+"9Vw-s8-1Y4.ibShadowedIsNilPlaceholder" = "00:00:00:00:00:00";
+
+/* Class = "NSTextFieldCell"; title = "Allowed Remotes (tvOS only)"; ObjectID = "a1t-93-AN4"; */
+"a1t-93-AN4.title" = "Télécommandes autorisées (tvOS uniquement)";
+
+/* Class = "NSTextFieldCell"; title = "Add the MAC addresses of permitted iOS devices to this list to enable remote control with only these devices"; ObjectID = "cE2-V3-ydB"; */
+"cE2-V3-ydB.title" = "Ajoutez les adresses MAC des appareils iOS autorisés à cette liste pour activer la télécommande avec ces appareils uniquement.";
+
+/* Class = "NSTextFieldCell"; title = "Add the MAC addresses of permitted tvOS devices to this list to restrict remote control to only these devices"; ObjectID = "cSG-Gm-bQC"; */
+"cSG-Gm-bQC.title" = "Ajoutez les adresses MAC des appareils tvOS autorisés à cette liste pour restreindre la télécommande à ces appareils uniquement.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Domains payload"; ObjectID = "nDO-9G-9S7"; */
+"nDO-9G-9S7.ibShadowedToolTip" = "Supprimer les données utiles des domaines";
+
+/* Class = "NSTextFieldCell"; title = "Allowed TVs (iOS only)"; ObjectID = "Qqv-4p-oBV"; */
+"Qqv-4p-oBV.title" = "TV autorisées (iOS uniquement)";
+
+/* Class = "NSTextFieldCell"; title = "TV Remote"; ObjectID = "Tqg-oa-Zrt"; */
+"Tqg-oa-Zrt.title" = "TV Remote";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Zjk-FU-fD1"; */
+"Zjk-FU-fD1.title" = "(sous supervision)";
+

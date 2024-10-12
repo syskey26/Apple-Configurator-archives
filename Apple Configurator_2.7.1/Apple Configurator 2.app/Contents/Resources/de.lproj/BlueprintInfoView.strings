@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Restore from"; ObjectID = "1a1-Kv-ySm"; */
+"1a1-Kv-ySm.title" = "Wiederherstellen von";
+
+/* Class = "NSTextFieldCell"; title = "Target"; ObjectID = "1Bw-PZ-Ngq"; */
+"1Bw-PZ-Ngq.title" = "Ziel";
+
+/* Class = "NSTextFieldCell"; title = "Wallpaper"; ObjectID = "9Lh-qh-qdy"; */
+"9Lh-qh-qdy.title" = "Hintergrundbild";
+
+/* Class = "NSMenuItem"; title = "iPad, iPhone, and iPod touch"; ObjectID = "73n-Jz-00x"; */
+"73n-Jz-00x.title" = "iPad, iPhone und iPod touch";
+
+/* Class = "NSTextFieldCell"; title = "Storage"; ObjectID = "ebT-BL-rmc"; */
+"ebT-BL-rmc.title" = "Speicher";
+
+/* Class = "NSTextFieldCell"; title = "Tags"; ObjectID = "g5f-2w-0Vb"; */
+"g5f-2w-0Vb.title" = "Tags";
+
+/* Class = "NSMenuItem"; title = "iPhone and iPod touch"; ObjectID = "g72-yv-iYn"; */
+"g72-yv-iYn.title" = "iPhone und iPod touch";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "N/A"; ObjectID = "hTa-uP-LOX"; */
+"hTa-uP-LOX.ibShadowedIsNilPlaceholder" = "n. v.";
+
+/* Class = "NSTextFieldCell"; title = "Perform prepare, restore, or update actions and they will appear here."; ObjectID = "ImX-69-uFh"; */
+"ImX-69-uFh.title" = "Vorbereitungs-, Wiederherstellungs- oder\nAktualisierungsaktionen werden hier angezeigt.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear Name"; ObjectID = "iXJ-Rg-4sQ"; */
+"iXJ-Rg-4sQ.ibExternalAccessibilityDescription" = "Name löschen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the Modify Device Name action from the blueprint."; ObjectID = "iXJ-Rg-4sQ"; */
+"iXJ-Rg-4sQ.ibShadowedToolTip" = "Entfernt die Funktion „Gerätenamen ändern“ vom Entwurf.";
+
+/* Class = "NSBox"; title = "Name Editing Box"; ObjectID = "jFJ-dR-cj5"; */
+"jFJ-dR-cj5.title" = "Feld zum Bearbeiten des Namens";
+
+/* Class = "NSTextFieldCell"; title = "Device Name"; ObjectID = "kCX-Mt-8oJ"; */
+"kCX-Mt-8oJ.title" = "Gerätename";
+
+/* Class = "NSTextFieldCell"; title = "No Actions"; ObjectID = "KUM-YM-G5x"; */
+"KUM-YM-G5x.title" = "Keine Aktionen";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear Wallpaper"; ObjectID = "ldT-sZ-lSx"; */
+"ldT-sZ-lSx.ibExternalAccessibilityDescription" = "Hintergrundbild löschen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the Modify Wallpaper action from the blueprint."; ObjectID = "ldT-sZ-lSx"; */
+"ldT-sZ-lSx.ibShadowedToolTip" = "Entfernt die Funktion „Hintergrundbild ändern“ vom Entwurf.";
+
+/* Class = "NSTextFieldCell"; title = "Perform other device actions and they will appear here."; ObjectID = "NhD-6C-vNN"; */
+"NhD-6C-vNN.title" = "Weitere Geräteaktionen werden hier angezeigt.";
+
+/* Class = "NSTextFieldCell"; title = "No Actions"; ObjectID = "Nk8-jo-Ijy"; */
+"Nk8-jo-Ijy.title" = "Keine Aktionen";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "N/A"; ObjectID = "Nmt-aG-3Je"; */
+"Nmt-aG-3Je.ibShadowedIsNilPlaceholder" = "n. v.";
+
+/* Class = "NSTextFieldCell"; title = "Home Screen"; ObjectID = "NnX-Qh-HuZ"; */
+"NnX-Qh-HuZ.title" = "Home-Bildschirm";
+
+/* Class = "NSBox"; title = "Image Box"; ObjectID = "oSK-7e-Izw"; */
+"oSK-7e-Izw.title" = "Bildfeld";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear Tags"; ObjectID = "owY-sA-8rB"; */
+"owY-sA-8rB.ibExternalAccessibilityDescription" = "Tags löschen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Removes the Add Tags action from the blueprint."; ObjectID = "owY-sA-8rB"; */
+"owY-sA-8rB.ibShadowedToolTip" = "Entfernt die Funktion „Tags erlauben“ vom Entwurf.";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "targets"; ObjectID = "PmW-LN-QEH"; */
+"PmW-LN-QEH.ibExternalAccessibilityDescription" = "Ziele";
+
+/* Class = "NSTextFieldCell"; title = "DNL Total"; ObjectID = "Rhf-JM-Ei9"; */
+"Rhf-JM-Ei9.title" = "DNL Total";
+
+/* Class = "NSMenuItem"; title = "Apple TV"; ObjectID = "Thm-JL-w09"; */
+"Thm-JL-w09.title" = "Apple TV";
+
+/* Class = "NSMenuItem"; title = "iPad"; ObjectID = "UiK-GB-wPy"; */
+"UiK-GB-wPy.title" = "iPad";
+
+/* Class = "NSTextFieldCell"; placeholderString = "DNL Device Name"; ObjectID = "VCF-gM-xDt"; */
+"VCF-gM-xDt.placeholderString" = "DNL Device Name";
+
+/* Class = "NSTextFieldCell"; title = "Lock Screen"; ObjectID = "xuM-XK-MaB"; */
+"xuM-XK-MaB.title" = "Sperrbildschirm";
+

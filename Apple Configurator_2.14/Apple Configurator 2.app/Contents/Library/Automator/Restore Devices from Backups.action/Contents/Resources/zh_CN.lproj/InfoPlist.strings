@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDNote" = "仅当备份已通过密码加密或目标设备为原始备份源时，部分隐私数据（如密码）才会被恢复。";
+
+/* (No Comment) */
+"AMDOptions" = "可能需要在操作视图中输入用于访问所有加密设备备份的单个共享密码。";
+
+/* (No Comment) */
+"AMDRequires" = "必须在抹掉设备后才能恢复备份。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDSummary" = "此操作会将备份恢复至指定的设备。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "从备份恢复设备";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "备份";
+
+/* AMKeyword localized strings */
+"configurator" = "configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "移动";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. 保留一切权利。";
+

@@ -1,0 +1,21 @@
+/* DIALOG PROMPT */
+"CNFGACT-04-DIALOG_PROMPT" = "Seleziona i documenti da copiare nei dispositivi:";
+
+/* (No Comment) */
+"CNFGACT-04-DOCUMENT_NOT_EXIST" = "Questo file documento non era nella posizione prevista: ";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APP_ID_PROVIDED" = "Nessun ID app è stato inserito nel campo di input del testo di azione.";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APPS_ALERT_MESSAGE" = "RISORSA MANCANTE";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APPS_ALERT_TITLE" = "Nessun file di app iOS è stato rilevato nel sistema.";
+
+/* INPUT ERRORS */
+"CNFGACT-04-NO_INPUT_ERROR" = "Nessun riferimento ECID ai dispositivi collegati è stato passato a questa azione.";
+
+/* SELECTION ERRORS */
+"CNFGACT-04-NO_SELECTION_ERROR" = "Nessun file documento scelto.";
+

@@ -1,0 +1,81 @@
+/* Class = "NSTextFieldCell"; title = "Settings:"; ObjectID = "3gO-AL-jRa"; */
+"3gO-AL-jRa.title" = "Impostazioni:";
+
+/* Class = "NSButtonCell"; title = "Sounds"; ObjectID = "04f-mz-3ei"; */
+"04f-mz-3ei.title" = "Suoni";
+
+/* Class = "NSButtonCell"; title = "Badge App Icon"; ObjectID = "4WZ-q6-ycL"; */
+"4WZ-q6-ycL.title" = "Icona app badge";
+
+/* Class = "NSButtonCell"; title = "Show on Lock Screen"; ObjectID = "4xJ-Vs-jY8"; */
+"4xJ-Vs-jY8.title" = "Mostra in “Blocco schermo”";
+
+/* Class = "NSMenuItem"; title = "Multiple Styles"; ObjectID = "6nd-ss-mJQ"; */
+"6nd-ss-mJQ.title" = "Stili multipli";
+
+/* Class = "NSTextFieldCell"; title = "<DNL App Name>"; ObjectID = "7XJ-eh-WL5"; */
+"7XJ-eh-WL5.title" = "<DNL App Name>";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "Multiple Apps"; ObjectID = "19r-6Y-pFE"; */
+"19r-6Y-pFE.ibShadowedMultipleValuesPlaceholder" = "App multiple";
+
+/* Class = "NSTextFieldCell"; title = "App Name:"; ObjectID = "a5L-Ia-StL"; */
+"a5L-Ia-StL.title" = "Nome app:";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "AF2-Xl-RfQ"; */
+"AF2-Xl-RfQ.title" = "App di esempio";
+
+/* Class = "NSTextFieldCell"; title = "<DNL body text>"; ObjectID = "B6s-x8-oLL"; */
+"B6s-x8-oLL.title" = "<DNL body text>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "db2-nl-0Aj"; */
+"db2-nl-0Aj.title" = "Annulla";
+
+/* Class = "NSTextFieldCell"; title = "Unlocked Alert Style:"; ObjectID = "g2J-Bl-4eU"; */
+"g2J-Bl-4eU.title" = "Stile avvisi quando sbloccato:";
+
+/* Class = "NSMenuItem"; title = "Banners"; ObjectID = "hcB-BS-PmB"; */
+"hcB-BS-PmB.title" = "Banner";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IBm-2e-PdY"; */
+"IBm-2e-PdY.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "IXZ-LA-rob"; */
+"IXZ-LA-rob.title" = "Nessuna";
+
+/* Class = "NSTextFieldCell"; title = "Configure notification settings for each app"; ObjectID = "JUm-Xb-hqQ"; */
+"JUm-Xb-hqQ.title" = "Configura le impostazioni relative alle notifiche per ciascuna app";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "kqa-kb-mcd"; */
+"kqa-kb-mcd.title" = "Salva";
+
+/* Class = "NSMenuItem"; title = "Alerts"; ObjectID = "OgT-HX-7lA"; */
+"OgT-HX-7lA.title" = "Avvisi";
+
+/* Class = "NSTextFieldCell"; title = "Notification Settings"; ObjectID = "pHu-KL-1X4"; */
+"pHu-KL-1X4.title" = "Impostazioni notifiche";
+
+/* Class = "NSTextFieldCell"; title = "<DNL Notification Settings for “X”>"; ObjectID = "PWb-dI-dpj"; */
+"PWb-dI-dpj.title" = "<DNL Notification Settings for “X”>";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Notifications payload"; ObjectID = "t1F-Ng-iwa"; */
+"t1F-Ng-iwa.ibShadowedToolTip" = "Rimuovi payload notifiche";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "UQb-wM-3u2"; */
+"UQb-wM-3u2.title" = "Finestra";
+
+/* Class = "NSButtonCell"; title = "Show in Notification Center"; ObjectID = "uQX-td-mfo"; */
+"uQX-td-mfo.title" = "Mostra in Centro Notifiche";
+
+/* Class = "NSButtonCell"; title = "Allow Notifications"; ObjectID = "XcA-hz-OiS"; */
+"XcA-hz-OiS.title" = "Consenti notifiche";
+
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "yFx-EM-VmV"; */
+"yFx-EM-VmV.title" = "(solo supervisionati)";
+
+/* Class = "NSTextFieldCell"; title = "Notifications"; ObjectID = "YQs-dZ-qYt"; */
+"YQs-dZ-qYt.title" = "Notifiche";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "zqr-Om-gKg"; */
+"zqr-Om-gKg.headerCell.title" = "Nome app";
+

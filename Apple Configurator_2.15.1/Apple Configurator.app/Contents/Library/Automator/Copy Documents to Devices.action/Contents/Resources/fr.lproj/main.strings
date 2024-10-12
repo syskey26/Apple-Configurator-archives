@@ -1,0 +1,45 @@
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "0x4-d1-iFh"; */
+"0x4-d1-iFh.title" = "Élément 1";
+
+/* Class = "NSMenuItem"; title = "by entering its bundle identifier…"; ObjectID = "7xP-vC-IJu"; */
+"7xP-vC-IJu.title" = "en saisissant son identifiant de paquet…";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "75x-Qy-aLu"; */
+"75x-Qy-aLu.title" = "Mettre à jour";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Aww-gB-qXx"; */
+"Aww-gB-qXx.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "Hfm-Xr-cwX"; */
+"Hfm-Xr-cwX.title" = "Ajouter";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "LFs-xq-AZf"; */
+"LFs-xq-AZf.title" = "Supprimer";
+
+/* Class = "NSTextFieldCell"; title = "Identify the application to be associated with the documents:"; ObjectID = "lNJ-Rr-eJE"; */
+"lNJ-Rr-eJE.title" = "Identifiez l’application à associer aux documents :";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ODu-qw-w1n"; */
+"ODu-qw-w1n.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Document filename"; ObjectID = "Om4-dC-Zy6"; */
+"Om4-dC-Zy6.headerCell.title" = "Nom de fichier du document";
+
+/* Class = "NSButtonCell"; title = "Clear All"; ObjectID = "R03-Sy-VXk"; */
+"R03-Sy-VXk.title" = "Tout effacer";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "RwQ-KM-w67"; */
+"RwQ-KM-w67.headerCell.title" = "Chemin";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "sZk-kP-POo"; */
+"sZk-kP-POo.title" = "Élément 3";
+
+/* Class = "NSTextFieldCell"; title = "Add the documents to copy, associated with the app indicated above, to the list below:"; ObjectID = "t1g-Gd-9KR"; */
+"t1g-Gd-9KR.title" = "Ajoutez à la liste ci-dessous les documents à copier associés avec l’app indiquée ci-dessus :";
+
+/* Class = "NSMenuItem"; title = "by choosing its app file on this computer…"; ObjectID = "tfP-dR-KxG"; */
+"tfP-dR-KxG.title" = "en choisissant son fichier d’app sur cet ordinateur…";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "vWs-qg-puM"; */
+"vWs-qg-puM.title" = "Élément 2";
+

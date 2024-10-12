@@ -1,0 +1,12 @@
+/* (No Comment) */
+"CNFGACT-05-MISSING_FILE" = "此移动应用文件不在指定的位置中：";
+
+/* (No Comment) */
+"CNFGACT-05-NO_APPS_LOCATED" = "未在此系统上找到移动应用文件。";
+
+/* INPUT ERRORS */
+"CNFGACT-05-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
+
+/* (No Comment) */
+"CNFGACT-05-NO_SELECTION_ERROR" = "未选定移动应用文件。";
+

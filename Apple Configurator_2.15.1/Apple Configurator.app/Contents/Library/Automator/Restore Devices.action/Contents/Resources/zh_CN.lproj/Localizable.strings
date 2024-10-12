@@ -1,0 +1,10 @@
+/* Localizable.strings
+  Restore Devices
+
+  Created by Sal Soghoian on 1/15/15.
+  Copyright (c) 2015-2022 Apple Inc. All rights reserved. */
+"CNFGACT-09-NO_INPUT_ERROR" = "无已连接设备的 ECID 引用传递到此操作。";
+
+/* (No Comment) */
+"CNFGACT-09-PROBLEM_RESTORING" = "恢复设备时出现问题。";
+

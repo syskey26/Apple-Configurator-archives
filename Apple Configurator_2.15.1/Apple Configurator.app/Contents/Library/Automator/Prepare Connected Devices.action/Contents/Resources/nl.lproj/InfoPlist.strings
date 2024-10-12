@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-ID's";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Er zijn drie groepen voorbereidingsparameters: MDM-beheer, toezicht en opties voor de configuratie-assistent van het apparaat.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID-ID's";
+
+/* (No Comment) */
+"AMDSummary" = "Met deze taak bereid je de apparaten voor waarvan de ID's als invoer aan deze taak zijn doorgegeven.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Bereid apparaten voor";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2016-2022 Apple Inc. Alle rechten voorbehouden.";
+

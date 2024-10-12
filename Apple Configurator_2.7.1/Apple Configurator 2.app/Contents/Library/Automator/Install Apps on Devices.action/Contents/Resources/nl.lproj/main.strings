@@ -1,0 +1,24 @@
+/* Class = "NSTableColumn"; headerCell.title = "Mobile App Name"; ObjectID = "DJw-gN-C7w"; */
+"DJw-gN-C7w.headerCell.title" = "Naam mobiele app";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DYA-6a-Ugq"; */
+"DYA-6a-Ugq.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Fif-dz-FEK"; */
+"Fif-dz-FEK.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "FTP-2t-ZLm"; */
+"FTP-2t-ZLm.headerCell.title" = "Versie";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "n8K-u5-MZj"; */
+"n8K-u5-MZj.headerCell.title" = "Pad";
+
+/* Class = "NSTextFieldCell"; title = "Select the mobile application files to install:"; ObjectID = "Pzt-7Z-Rhk"; */
+"Pzt-7Z-Rhk.title" = "Selecteer de bestanden van mobiele apps die je wilt installeren:";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "QWV-3L-Vy2"; */
+"QWV-3L-Vy2.title" = "Werk bij";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vfx-uZ-v3A"; */
+"vfx-uZ-v3A.title" = "Text Cell";
+

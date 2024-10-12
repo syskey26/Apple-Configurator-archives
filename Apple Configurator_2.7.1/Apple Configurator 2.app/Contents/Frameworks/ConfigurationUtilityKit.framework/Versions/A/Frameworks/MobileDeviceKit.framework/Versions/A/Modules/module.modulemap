@@ -1,0 +1,6 @@
+framework module MobileDeviceKit {
+  umbrella header "MobileDeviceKit.h"
+
+  export *
+  module * { export * }
+}

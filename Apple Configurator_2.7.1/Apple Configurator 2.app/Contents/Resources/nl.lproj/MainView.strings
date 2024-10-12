@@ -1,0 +1,174 @@
+/* Class = "NSMenuItem"; title = "Set Locale…"; ObjectID = "1bM-3N-Fet"; */
+"1bM-3N-Fet.title" = "Stel locale in...";
+
+/* Class = "NSMenuItem"; title = "Clear Restrictions Passcode"; ObjectID = "3ey-2q-YV6"; */
+"3ey-2q-YV6.title" = "Wis beperkingencode";
+
+/* Class = "NSMenuItem"; title = "Export"; ObjectID = "3ss-rl-WOs"; */
+"3ss-rl-WOs.title" = "Exporteer";
+
+/* Class = "NSMenuItem"; title = "Documents…"; ObjectID = "5FE-fs-j2w"; */
+"5FE-fs-j2w.title" = "Documenten…";
+
+/* Class = "NSMenu"; title = "Export"; ObjectID = "6Uw-WA-Ryg"; */
+"6Uw-WA-Ryg.title" = "Exporteer";
+
+/* Class = "NSMenuItem"; title = "Erase All Content and Settings"; ObjectID = "6Vh-tK-vp2"; */
+"6Vh-tK-vp2.title" = "Wis alle inhoud en instellingen";
+
+/* Class = "NSMenuItem"; title = "Add Apps from iTunes Store…"; ObjectID = "7oF-n7-AvR"; */
+"7oF-n7-AvR.title" = "Voeg apps toe uit de iTunes Store…";
+
+/* Class = "NSMenuItem"; title = "Prepare…"; ObjectID = "8fi-iq-o8A"; */
+"8fi-iq-o8A.title" = "Bereid voor…";
+
+/* Class = "NSMenuItem"; title = "Shell Command..."; ObjectID = "8sc-UT-p5P"; */
+"8sc-UT-p5P.title" = "Shellcommando...";
+
+/* Class = "NSMenuItem"; title = "Back Up"; ObjectID = "9TI-P4-X17"; */
+"9TI-P4-X17.title" = "Reservekopie";
+
+/* Class = "NSMenu"; title = "Actions"; ObjectID = "aKX-jy-8gw"; */
+"aKX-jy-8gw.title" = "Taken";
+
+/* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "BMG-5S-8lD"; */
+"BMG-5S-8lD.title" = "Geavanceerd";
+
+/* Class = "NSMenuItem"; title = "Restore from Backup…"; ObjectID = "cit-r7-mRV"; */
+"cit-r7-mRV.title" = "Zet terug vanaf reservekopie…";
+
+/* Class = "NSMenu"; title = "Internal"; ObjectID = "DuM-Rd-WH2"; */
+"DuM-Rd-WH2.title" = "Intern";
+
+/* Class = "NSMenuItem"; title = "Apps…"; ObjectID = "gNM-we-1EO"; */
+"gNM-we-1EO.title" = "Apps…";
+
+/* Class = "NSMenuItem"; title = "Profiles…"; ObjectID = "Idz-Ak-hDn"; */
+"Idz-Ak-hDn.title" = "Profielen…";
+
+/* Class = "NSMenuItem"; title = "Set Send Diagnostics…"; ObjectID = "IId-BL-deY"; */
+"IId-BL-deY.title" = "Stel diagnose-info voor versturen in…";
+
+/* Class = "NSMenuItem"; title = "Activate"; ObjectID = "iRW-hI-LFC"; */
+"iRW-hI-LFC.title" = "Activeer";
+
+/* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "IVl-yG-kWJ"; */
+"IVl-yG-kWJ.title" = "Toon info";
+
+/* Class = "NSMenuItem"; title = "Revive Device"; ObjectID = "iwS-Bp-m0o"; */
+"iwS-Bp-m0o.title" = "Reactiveer apparaat";
+
+/* Class = "NSMenuItem"; title = "Update…"; ObjectID = "KTQ-se-yKd"; */
+"KTQ-se-yKd.title" = "Werk bij…";
+
+/* Class = "NSMenuItem"; title = "SSH as root"; ObjectID = "LDb-9x-ReV"; */
+"LDb-9x-ReV.title" = "SSH als root";
+
+/* Class = "NSMenuItem"; title = "Apps…"; ObjectID = "LIu-8I-d9H"; */
+"LIu-8I-d9H.title" = "Apps…";
+
+/* Class = "NSMenu"; title = "Remove"; ObjectID = "Lln-Yz-OzO"; */
+"Lln-Yz-OzO.title" = "Verwijder";
+
+/* Class = "NSMenu"; title = "Modify"; ObjectID = "Lpc-YP-ndn"; */
+"Lpc-YP-ndn.title" = "Wijzig";
+
+/* Class = "NSMenuItem"; title = "Wallpapers…"; ObjectID = "nBT-yB-Kn0"; */
+"nBT-yB-Kn0.title" = "Achtergronden...";
+
+/* Class = "NSMenuItem"; title = "Restart Device"; ObjectID = "nH4-ok-IVf"; */
+"nH4-ok-IVf.title" = "Start apparaat opnieuw op";
+
+/* Class = "NSMenuItem"; title = "Modify"; ObjectID = "ni0-aE-FS6"; */
+"ni0-aE-FS6.title" = "Wijzig";
+
+/* Class = "NSMenu"; title = "Advanced"; ObjectID = "nmh-kN-6fE"; */
+"nmh-kN-6fE.title" = "Geavanceerd";
+
+/* Class = "NSMenuItem"; title = "Restore"; ObjectID = "Nqg-Rg-CNK"; */
+"Nqg-Rg-CNK.title" = "Herstel";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "NUN-yi-aeA"; */
+"NUN-yi-aeA.title" = "Verwijder";
+
+/* Class = "NSMenuItem"; title = "Info…"; ObjectID = "o8J-s6-1ZA"; */
+"o8J-s6-1ZA.title" = "Info…";
+
+/* Class = "NSMenuItem"; title = "Enter Recovery"; ObjectID = "O51-3T-es9"; */
+"O51-3T-es9.title" = "Start herstelmodus";
+
+/* Class = "NSMenuItem"; title = "Enable Encrypted Backups…"; ObjectID = "rh6-mM-utP"; */
+"rh6-mM-utP.title" = "Sta gecodeerde reservekopieën toe...";
+
+/* Class = "NSMenuItem"; title = "Save Unlock Token"; ObjectID = "rPF-nW-MmJ"; */
+"rPF-nW-MmJ.title" = "Bewaar ontgrendelingstoken";
+
+/* Class = "NSMenu"; title = "Apply"; ObjectID = "rrm-hE-4tj"; */
+"rrm-hE-4tj.title" = "Pas toe";
+
+/* Class = "NSMenuItem"; title = "Home Screen Layout…"; ObjectID = "sRJ-Ri-c3N"; */
+"sRJ-Ri-c3N.title" = "Indeling beginscherm…";
+
+/* Class = "NSMenuItem"; title = "Tags…"; ObjectID = "SST-pT-GHT"; */
+"SST-pT-GHT.title" = "Tags…";
+
+/* Class = "NSMenuItem"; title = "Add Apps from Mac…"; ObjectID = "svq-og-Rn6"; */
+"svq-og-Rn6.title" = "Voeg apps toe uit de Mac…";
+
+/* Class = "NSMenuItem"; title = "Set Language…"; ObjectID = "SXN-HA-Wpw"; */
+"SXN-HA-Wpw.title" = "Stel taal in…";
+
+/* Class = "NSMenuItem"; title = "Device Name…"; ObjectID = "sY1-7K-cy8"; */
+"sY1-7K-cy8.title" = "Apparaatnaam…";
+
+/* Class = "NSMenuItem"; title = "Profiles…"; ObjectID = "ulk-WQ-TXC"; */
+"ulk-WQ-TXC.title" = "Profielen…";
+
+/* Class = "NSMenuItem"; title = "Apply"; ObjectID = "uq7-9S-iqQ"; */
+"uq7-9S-iqQ.title" = "Pas toe";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "v1q-vy-mD1"; */
+"v1q-vy-mD1.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Pair with this Mac"; ObjectID = "Vgr-Uo-zY0"; */
+"Vgr-Uo-zY0.title" = "Koppel met deze Mac";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "vHS-je-svH"; */
+"vHS-je-svH.title" = "Geef snel weer";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "vLQ-wk-beP"; */
+"vLQ-wk-beP.title" = "Voeg toe";
+
+/* Class = "NSMenuItem"; title = "Deactivate"; ObjectID = "Vz5-vA-izc"; */
+"Vz5-vA-izc.title" = "Deactiveer";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "WIa-8h-doA"; */
+"WIa-8h-doA.title" = "Dupliceer";
+
+/* Class = "NSMenuItem"; title = "Set Cloud Configuration…"; ObjectID = "XhZ-ZI-HLL"; */
+"XhZ-ZI-HLL.title" = "Stel cloudconfiguratie in...";
+
+/* Class = "NSMenuItem"; title = "Internal"; ObjectID = "XV1-qT-8bU"; */
+"XV1-qT-8bU.title" = "Intern";
+
+/* Class = "NSMenuItem"; title = "Unpair with this Mac"; ObjectID = "XZL-4r-P8t"; */
+"XZL-4r-P8t.title" = "Koppel los van deze Mac";
+
+/* Class = "NSMenuItem"; title = "Get Cloud Configuration…"; ObjectID = "y2y-qy-UfN"; */
+"y2y-qy-UfN.title" = "Toon cloudconfiguratie...";
+
+/* Class = "NSMenuItem"; title = "Clear Passcode"; ObjectID = "yYR-cj-wBo"; */
+"yYR-cj-wBo.title" = "Wis toegangscode";
+
+/* Class = "NSMenu"; title = "Add"; ObjectID = "zJO-E7-u2e"; */
+"zJO-E7-u2e.title" = "Voeg toe";
+
+/* Class = "NSMenuItem"; title = "Shut Down Device"; ObjectID = "zVa-9j-M64"; */
+"zVa-9j-M64.title" = "Zet apparaat uit";
+
+/* Class = "NSMenuItem"; title = "Documents…"; ObjectID = "ZXE-uO-YVa"; */
+"ZXE-uO-YVa.title" = "Documenten…";
+
+/* Class = "NSMenuItem"; title = "Start Single App Mode…"; ObjectID = "zXp-qU-kLv"; */
+"zXp-qU-kLv.title" = "Start één-app-modus…";
+

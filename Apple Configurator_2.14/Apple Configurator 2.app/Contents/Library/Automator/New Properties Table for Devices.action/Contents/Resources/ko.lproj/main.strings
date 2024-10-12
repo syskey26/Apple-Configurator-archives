@@ -1,0 +1,129 @@
+/* Class = "NSButtonCell"; title = "Language"; ObjectID = "0Oy-3b-V9j"; */
+"0Oy-3b-V9j.title" = "언어";
+
+/* Class = "NSButtonCell"; title = "Configuration Profiles"; ObjectID = "1K2-ab-tVS"; */
+"1K2-ab-tVS.title" = "구성 프로파일";
+
+/* Class = "NSButtonCell"; title = "Enclosure Color"; ObjectID = "3fb-bU-xye"; */
+"3fb-bU-xye.title" = "외장 색상";
+
+/* Class = "NSButtonCell"; title = "Backup Will Be Encrypted"; ObjectID = "06b-b7-G6U"; */
+"06b-b7-G6U.title" = "백업이 암호화됩니다.";
+
+/* Class = "NSButtonCell"; title = "Passcode Protected"; ObjectID = "7MC-ww-xXJ"; */
+"7MC-ww-xXJ.title" = "암호로 보호됨";
+
+/* Class = "NSButtonCell"; title = "Provisioning Profiles"; ObjectID = "9eM-YF-1Lc"; */
+"9eM-YF-1Lc.title" = "권한 설정 프로파일";
+
+/* Class = "NSButtonCell"; title = "Locale"; ObjectID = "aEL-a8-Hgb"; */
+"aEL-a8-Hgb.title" = "지역";
+
+/* Class = "NSButtonCell"; title = "Activation State"; ObjectID = "aYw-cF-R8H"; */
+"aYw-cF-R8H.title" = "활성화 상태";
+
+/* Class = "NSButtonCell"; title = "ICCID"; ObjectID = "bz2-Mf-RTV"; */
+"bz2-Mf-RTV.title" = "ICCID";
+
+/* Class = "NSButtonCell"; title = "Serial Number"; ObjectID = "cBf-73-9de"; */
+"cBf-73-9de.title" = "일련 번호";
+
+/* Class = "NSButtonCell"; title = "None"; ObjectID = "D1G-G5-M3u"; */
+"D1G-G5-M3u.title" = "없음";
+
+/* Class = "NSButtonCell"; title = "Battery Current Capacity"; ObjectID = "Ejt-Vl-PCt"; */
+"Ejt-Vl-PCt.title" = "현재 배터리 용량";
+
+/* Class = "NSTextFieldCell"; title = "Table title:"; ObjectID = "FrJ-6j-Wlp"; */
+"FrJ-6j-Wlp.title" = "표 제목:";
+
+/* Class = "NSBox"; title = "Select properties for table:"; ObjectID = "gwB-Dr-qgg"; */
+"gwB-Dr-qgg.title" = "표에 포함할 속성 선택:";
+
+/* Class = "NSButtonCell"; title = "Phone Number"; ObjectID = "ifq-bB-f1z"; */
+"ifq-bB-f1z.title" = "전화번호";
+
+/* Class = "NSButtonCell"; title = "Paired"; ObjectID = "ikS-sv-r8Y"; */
+"ikS-sv-r8Y.title" = "연결됨";
+
+/* Class = "NSButtonCell"; title = "Organization Department"; ObjectID = "iSB-Ds-yi4"; */
+"iSB-Ds-yi4.title" = "부서";
+
+/* Class = "NSButtonCell"; title = "Color"; ObjectID = "JQA-QL-ZLP"; */
+"JQA-QL-ZLP.title" = "색상";
+
+/* Class = "NSButtonCell"; title = "Cloud Backups Are Enabled"; ObjectID = "JYo-qH-Q8U"; */
+"JYo-qH-Q8U.title" = "Cloud 백업이 활성화됨";
+
+/* Class = "NSButtonCell"; title = "Battery Is Charging"; ObjectID = "k8R-aJ-Sqg"; */
+"k8R-aJ-Sqg.title" = "배터리 충전 중";
+
+/* Class = "NSButtonCell"; title = "UDID"; ObjectID = "l3n-or-6nQ"; */
+"l3n-or-6nQ.title" = "UDID";
+
+/* Class = "NSButtonCell"; title = "Organization Phone"; ObjectID = "Ls8-SE-53c"; */
+"Ls8-SE-53c.title" = "전화번호";
+
+/* Class = "NSButtonCell"; title = "Total Disk Capacity"; ObjectID = "Mrf-zJ-ZdZ"; */
+"Mrf-zJ-ZdZ.title" = "총 디스크 용량";
+
+/* Class = "NSButtonCell"; title = "Organization Email"; ObjectID = "MSR-Pp-a75"; */
+"MSR-Pp-a75.title" = "이메일";
+
+/* Class = "NSButtonCell"; title = "Tags"; ObjectID = "nA8-pV-LCy"; */
+"nA8-pV-LCy.title" = "태그";
+
+/* Class = "NSButtonCell"; title = "Supervised"; ObjectID = "NST-QW-DpC"; */
+"NST-QW-DpC.title" = "감독됨";
+
+/* Class = "NSButtonCell"; title = "Create new Numbers document"; ObjectID = "NUc-RU-3tl"; */
+"NUc-RU-3tl.title" = "새로운 Numbers 문서 생성";
+
+/* Class = "NSButtonCell"; title = "Device Class"; ObjectID = "OlD-hl-RrJ"; */
+"OlD-hl-RrJ.title" = "기기 클래스";
+
+/* Class = "NSButtonCell"; title = "Build Version"; ObjectID = "PeP-uS-jlu"; */
+"PeP-uS-jlu.title" = "빌드 버전";
+
+/* Class = "NSButtonCell"; title = "Firmware Version"; ObjectID = "PeQ-x7-OHQ"; */
+"PeQ-x7-OHQ.title" = "펌웨어 버전";
+
+/* Class = "NSButtonCell"; title = "Organization Name"; ObjectID = "PUr-uA-WQv"; */
+"PUr-uA-WQv.title" = "조직명";
+
+/* Class = "NSButtonCell"; title = "Organization Address"; ObjectID = "qNc-U3-DU8"; */
+"qNc-U3-DU8.title" = "조직 주소";
+
+/* Class = "NSButtonCell"; title = "ECID"; ObjectID = "Rtm-6s-jHf"; */
+"Rtm-6s-jHf.title" = "ECID";
+
+/* Class = "NSButtonCell"; title = "Name"; ObjectID = "rVU-bs-2cX"; */
+"rVU-bs-2cX.title" = "이름";
+
+/* Class = "NSButtonCell"; title = "Bluetooth Address"; ObjectID = "sdv-mI-gAa"; */
+"sdv-mI-gAa.title" = "Bluetooth 주소";
+
+/* Class = "NSButtonCell"; title = "IMEI"; ObjectID = "sfR-Xt-UYf"; */
+"sfR-Xt-UYf.title" = "IMEI";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "UBI-Pz-a2F"; */
+"UBI-Pz-a2F.title" = "모두";
+
+/* Class = "NSButtonCell"; title = "Booted State"; ObjectID = "uNm-G6-Rnj"; */
+"uNm-G6-Rnj.title" = "시동 상태";
+
+/* Class = "NSButtonCell"; title = "Allows Pairing"; ObjectID = "vkn-MA-SUA"; */
+"vkn-MA-SUA.title" = "쌍으로 연결 허용";
+
+/* Class = "NSButtonCell"; title = "Device Type"; ObjectID = "wAw-7C-Mfz"; */
+"wAw-7C-Mfz.title" = "기기 유형";
+
+/* Class = "NSButtonCell"; title = "Wi-Fi Address"; ObjectID = "yAG-C1-JU0"; */
+"yAG-C1-JU0.title" = "Wi-Fi 주소";
+
+/* Class = "NSButtonCell"; title = "Telephony Capable"; ObjectID = "Yg4-Wu-VPC"; */
+"Yg4-Wu-VPC.title" = "전화 가능 여부";
+
+/* Class = "NSButtonCell"; title = "Location ID"; ObjectID = "yZ5-t1-7Ev"; */
+"yZ5-t1-7Ev.title" = "위치 ID";
+

@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identifiants ECID";
+
+/* (No Comment) */
+"AMDNote" = "Certaines propriétés ne peuvent pas être utilisées dans des tableaux.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "L’application Numbers de la suite d’applications iWork.";
+
+/* (No Comment) */
+"AMDResult" = "Identifiants ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Cette action crée dans l’application Numbers un nouveau tableau qui contient les valeurs des propriétés sélectionnées pour les appareils dont les identifiants sont indiqués à cette action comme entrées.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Nouveau tableau de propriétés pour les appareils";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Tous droits réservés.";
+

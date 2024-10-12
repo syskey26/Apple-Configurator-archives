@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDNote" = "提示：製作工作流程以將文件拷貝至裝置時，請為要與拷貝文件產生關聯的每個 App 加入此動作的拷貝。";
+
+/* (No Comment) */
+"AMDOptions" = "當彈出式 App 選單顯示時，請按一下「更新」按鈕，以在你電腦上顯示行動 App 檔案的彈出式列表。";
+
+/* (No Comment) */
+"AMDRequires" = "當文件被拷貝至 iOS 裝置時，必須包含與拷貝文件相關聯的 App 識別碼。在此動作中，App ID 可以透過下列方式指定：1) 從這部電腦上所儲存的 App 檔案列表中選擇關聯的 App，或者 2) 在提供的文字輸入欄位中輸入 App ID。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作將會在其識別碼已傳送到此動作作為輸入的裝置上安裝所選文件檔案。";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "拷貝文件至裝置";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2022 Apple Inc. 保留一切權利。";
+

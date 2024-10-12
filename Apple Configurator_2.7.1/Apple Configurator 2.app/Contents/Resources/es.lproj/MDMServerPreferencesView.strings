@@ -1,0 +1,33 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add MDM Server"; ObjectID = "70G-IE-fJ6"; */
+"70G-IE-fJ6.ibExternalAccessibilityDescription" = "Añadir servidor MDM";
+
+/* Class = "NSTextFieldCell"; title = "No Servers"; ObjectID = "eaQ-Rv-8PT"; */
+"eaQ-Rv-8PT.title" = "No hay ningún servidor";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL My Server>>"; ObjectID = "ght-b4-DWQ"; */
+"ght-b4-DWQ.title" = "<<DNL My Server>>";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL My Server>>"; ObjectID = "IK7-Hj-5jb"; */
+"IK7-Hj-5jb.title" = "<<DNL My Server>>";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "JQD-0I-65s"; */
+"JQD-0I-65s.title" = "Editar";
+
+/* Class = "NSTextFieldCell"; title = "Enrollment URL:"; ObjectID = "ni5-gm-bQO"; */
+"ni5-gm-bQO.title" = "URL de inscripción:";
+
+/* Class = "NSTextFieldCell"; title = "Click add (+) to create a new server."; ObjectID = "PYS-X7-rJA"; */
+"PYS-X7-rJA.title" = "Haz clic en Añadir (+) para crear un nuevo servidor.";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL URL>>"; ObjectID = "RC5-C2-blZ"; */
+"RC5-C2-blZ.title" = "<<DNL URL>>";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove MDM Server"; ObjectID = "REd-sa-djJ"; */
+"REd-sa-djJ.ibExternalAccessibilityDescription" = "Eliminar servidor MDM";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL My Server>>"; ObjectID = "rIb-S8-Fuw"; */
+"rIb-S8-Fuw.title" = "<<DNL My Server>>";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "zpz-hK-GSo"; */
+"zpz-hK-GSo.title" = "Nombre:";
+

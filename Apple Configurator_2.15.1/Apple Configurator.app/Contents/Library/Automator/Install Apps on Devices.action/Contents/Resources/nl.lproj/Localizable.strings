@@ -1,0 +1,12 @@
+/* (No Comment) */
+"CNFGACT-05-MISSING_FILE" = "Dit mobiele-appbestand is niet op de opgegeven plaats gevonden: ";
+
+/* (No Comment) */
+"CNFGACT-05-NO_APPS_LOCATED" = "Er zijn geen mobiele-appbestanden gevonden op dit systeem.";
+
+/* INPUT ERRORS */
+"CNFGACT-05-NO_INPUT_ERROR" = "Er zijn geen ECID-verwijzingen naar aangesloten apparaten aan deze taak doorgegeven.";
+
+/* (No Comment) */
+"CNFGACT-05-NO_SELECTION_ERROR" = "Er zijn geen mobiele-appbestanden geselecteerd.";
+

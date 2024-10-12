@@ -1,0 +1,10 @@
+/* Localizable.strings
+  Restore Devices
+
+  Created by Sal Soghoian on 1/15/15.
+  Copyright © 2015-2023 Apple Inc. All rights reserved. */
+"CNFGACT-09-NO_INPUT_ERROR" = "Er zijn geen ECID-verwijzingen naar aangesloten apparaten aan deze taak doorgegeven.";
+
+/* (No Comment) */
+"CNFGACT-09-PROBLEM_RESTORING" = "Er heeft zich een probleem voorgedaan bij het herstel van de apparaten.";
+

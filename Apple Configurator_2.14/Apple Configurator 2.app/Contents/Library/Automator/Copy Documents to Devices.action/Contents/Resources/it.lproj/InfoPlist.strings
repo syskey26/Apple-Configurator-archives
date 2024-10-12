@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDNote" = "SUGGERIMENTO: durante la creazione di un flusso di lavoro per la copia di documenti nei dispositivi, aggiungi una copia di questa azione per ciascuna delle app da associare ai documenti da copiare.";
+
+/* (No Comment) */
+"AMDOptions" = "Quando il menu a comparsa dell'app è visibile, fai clic sul pulsante Aggiorna per visualizzare un elenco a comparsa dei file di app mobili sul computer.";
+
+/* (No Comment) */
+"AMDRequires" = "Quando i documenti vengono copiati nei dispositivi iOS, deve essere incluso un identificatore per l'app associata ai documenti copiati. In questa azione, l'ID app può essere indicato 1) selezionando l'app di associazione da un elenco di file di app archiviati su questo computer o 2) inserendo l'ID app nell'input di testo fornito.";
+
+/* (No Comment) */
+"AMDResult" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Questa azione installerà i file documento selezionati sui dispositivi i cui identificatori sono stati passati a questa azione come input.";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Copia documenti nei dispositivi";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. Tutti i diritti riservati.";
+

@@ -1,0 +1,33 @@
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "9jO-qz-l5E"; */
+"9jO-qz-l5E.title" = "描述";
+
+/* Class = "NSTextFieldCell"; title = "Brief explanation of the contents or purpose of the profile"; ObjectID = "ctB-zp-a2N"; */
+"ctB-zp-a2N.title" = "內容的簡短說明或描述檔的用途";
+
+/* Class = "NSTextFieldCell"; title = "Organization"; ObjectID = "ELd-tf-uC7"; */
+"ELd-tf-uC7.title" = "機構";
+
+/* Class = "NSTextFieldCell"; title = "URL of the MDM server the device will connect to"; ObjectID = "gA1-Ti-6tJ"; */
+"gA1-Ti-6tJ.title" = "裝置將與其連接的 MDM 伺服器 URL";
+
+/* Class = "NSTextFieldCell"; title = "Enrollment Profile"; ObjectID = "hmt-wv-8F1"; */
+"hmt-wv-8F1.title" = "註冊描述檔";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "IOP-Jc-7Xp"; */
+"IOP-Jc-7Xp.title" = "名稱";
+
+/* Class = "NSTextFieldCell"; title = "Name of the organization who created the profile"; ObjectID = "JaD-Fu-nH4"; */
+"JaD-Fu-nH4.title" = "製作描述檔的機構名稱";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "jRJ-8D-Meo"; */
+"jRJ-8D-Meo.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Mobile device management profiles cannot be edited"; ObjectID = "NCr-2P-cJD"; */
+"NCr-2P-cJD.title" = "行動裝置管理描述檔無法編輯";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the profile (shown on the device)"; ObjectID = "TwN-8I-rlR"; */
+"TwN-8I-rlR.title" = "描述檔的顯示名稱（顯示於裝置上）";
+
+/* Class = "NSTextFieldCell"; title = "MDM Enrollment URL"; ObjectID = "wfC-8P-xec"; */
+"wfC-8P-xec.title" = "MDM 註冊 URL";
+

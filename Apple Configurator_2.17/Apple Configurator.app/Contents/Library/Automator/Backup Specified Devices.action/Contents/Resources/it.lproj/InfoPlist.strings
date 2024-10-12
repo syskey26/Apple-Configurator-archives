@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDNote" = "L'azione non fornisce un meccanismo per impostare se l'archivio di backup debba essere crittografato o meno. Il processo di abilitazione della crittografia del backup e di impostazione di una password per l'archivio del dispositivo deve essere realizzato nell'applicazione Apple Configurator.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "Identificatori ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Questa azione creerà archivi di backup per i dispositivi iOS preparati i cui identificatori ECID vengono passati a questa azione come input. È possibile eseguire il backup di un dispositivo iOS avviato solo al termine di Impostazione Assistita. I backup del dispositivo iOS creati vengono archiviati nella stessa posizione usata dall'applicazione iTunes.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Esegui il backup dei dispositivi specificati";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. Tutti i diritti riservati.";
+

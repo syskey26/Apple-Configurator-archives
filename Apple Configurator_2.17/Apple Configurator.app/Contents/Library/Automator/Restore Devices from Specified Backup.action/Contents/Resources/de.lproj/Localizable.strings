@@ -1,0 +1,9 @@
+/* CHECK ERRORS */
+"CNFGACT-12-BACKUP_DOES_NOT_EXIST" = "Das ausgewählte Gerätebackup existiert auf diesem System nicht.";
+
+/* INPUT ERRORS */
+"CNFGACT-12-NO_INPUT_ERROR" = "Es wurden keine ECID-Referenzen auf verbundene Geräte an diese Aktion übergeben.";
+
+/* (No Comment) */
+"CNFGACT-12-NO_SELECTION_ERROR" = "In der Aktionsschnittstelle wurde kein Gerätebackup ausgewählt.";
+

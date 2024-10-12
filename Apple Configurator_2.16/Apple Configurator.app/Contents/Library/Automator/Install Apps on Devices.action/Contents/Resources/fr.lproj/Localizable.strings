@@ -1,0 +1,12 @@
+/* (No Comment) */
+"CNFGACT-05-MISSING_FILE" = "Ce fichier d’app mobile n’était pas à l’emplacement indiqué :";
+
+/* (No Comment) */
+"CNFGACT-05-NO_APPS_LOCATED" = "Aucun fichier d’app mobile n’a été trouvé sur ce système.";
+
+/* INPUT ERRORS */
+"CNFGACT-05-NO_INPUT_ERROR" = "Aucune référence ECID aux appareils connectés n’a été transmise à cette action.";
+
+/* (No Comment) */
+"CNFGACT-05-NO_SELECTION_ERROR" = "Aucun fichier d’app mobile sélectionné.";
+

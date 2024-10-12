@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-ID's";
+
+/* (No Comment) */
+"AMDNote" = "Sommige privégegevens, zoals wachtwoorden, worden alleen teruggezet als de reservekopie versleuteld is met een wachtwoord, of als het doelapparaat de originele bron is van de reservekopie.";
+
+/* (No Comment) */
+"AMDOptions" = "Als de geselecteerde reservekopie versleuteld is, moet het bijbehorende wachtwoord worden ingevoerd in het veld 'Wachtwoord'.";
+
+/* (No Comment) */
+"AMDRequires" = "De apparaten moeten volledig worden gewist voordat de reservekopie erop kan worden teruggezet.";
+
+/* (No Comment) */
+"AMDResult" = "ECID-ID's";
+
+/* (No Comment) */
+"AMDSummary" = "Met deze taak zet je één opgegeven reservekopie terug op de doorgegeven apparaten.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Zet opgegeven reservekopie terug op apparaten";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "reservekopie";
+
+/* AMKeyword localized strings */
+"configurator" = "configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "mobiel";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. Alle rechten voorbehouden.";
+

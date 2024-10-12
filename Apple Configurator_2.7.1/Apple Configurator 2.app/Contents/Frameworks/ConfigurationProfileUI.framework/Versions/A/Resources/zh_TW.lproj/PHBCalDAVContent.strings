@@ -1,0 +1,93 @@
+/* Class = "NSTextFieldCell"; title = "Enable Secure Socket Layer communication with CalDAV server"; ObjectID = "0CW-M5-cLn"; */
+"0CW-M5-cLn.title" = "啟用與 CalDAV 伺服器的「安全編碼傳輸」通訊";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "1nm-IY-trA"; */
+"1nm-IY-trA.ibExternalAccessibilityDescription" = "帳號名稱：";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Principal URL:"; ObjectID = "3pl-TF-hUa"; */
+"3pl-TF-hUa.ibExternalAccessibilityDescription" = "主要 URL：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "8tr-JF-YMh"; */
+"8tr-JF-YMh.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSTextFieldCell"; title = "The display name of the account (e.g. \"Company CalDAV Account\")"; ObjectID = "019-OK-xrk"; */
+"019-OK-xrk.title" = "帳號的顯示名稱（例如「公司 CalDAV 帳號 」）";
+
+/* Class = "NSTextFieldCell"; title = "The CalDAV password"; ObjectID = "ami-QI-Aq8"; */
+"ami-QI-Aq8.title" = "CalDAV 密碼";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Calendar payload"; ObjectID = "BVX-yn-GHi"; */
+"BVX-yn-GHi.ibShadowedToolTip" = "移除「行事曆」承載資料";
+
+/* Class = "NSTextFieldCell"; title = "The CalDAV host name or IP address and port number"; ObjectID = "c7S-Wx-fd3"; */
+"c7S-Wx-fd3.title" = "CalDAV 主機名稱或 IP 位址和埠號";
+
+/* Class = "NSTextFieldCell"; title = "Account Description"; ObjectID = "cHt-so-xub"; */
+"cHt-so-xub.title" = "帳號描述";
+
+/* Class = "NSTextFieldCell"; placeholderString = "My CalDAV Account"; ObjectID = "D9a-KD-Xpm"; */
+"D9a-KD-Xpm.placeholderString" = "我的 CalDAV 帳號";
+
+/* Class = "NSTextFieldCell"; title = "Calendar"; ObjectID = "dCQ-y9-GSo"; */
+"dCQ-y9-GSo.title" = "行事曆";
+
+/* Class = "NSTextFieldCell"; title = "The CalDAV user name"; ObjectID = "eb4-sf-3Su"; */
+"eb4-sf-3Su.title" = "CalDAV 使用者名稱";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "gJO-RR-g4j"; */
+"gJO-RR-g4j.title" = ":";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "gUb-th-uxQ"; */
+"gUb-th-uxQ.ibShadowedToolTip" = "要準備或監管的裝置必須填寫此欄位";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "I5U-L3-BZA"; */
+"I5U-L3-BZA.title" = "使用 SSL";
+
+/* Class = "NSTextFieldCell"; placeholderString = "caldavserver.example.com"; ObjectID = "Irp-pu-jRN"; */
+"Irp-pu-jRN.placeholderString" = "caldavserver.example.com";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Calendar payload"; ObjectID = "K8Q-M9-6Rt"; */
+"K8Q-M9-6Rt.ibShadowedToolTip" = "加入「行事曆」承載資料";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "mYz-be-67C"; */
+"mYz-be-67C.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Port"; ObjectID = "pFB-YI-UKW"; */
+"pFB-YI-UKW.ibExternalAccessibilityDescription" = "傳輸埠";
+
+/* Class = "NSTextFieldCell"; title = "The Principal URL for the CalDAV account"; ObjectID = "pSW-hj-dBv"; */
+"pSW-hj-dBv.title" = "CalDAV 帳號的主要 URL";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Host Name"; ObjectID = "Q3T-83-JBe"; */
+"Q3T-83-JBe.ibExternalAccessibilityDescription" = "帳號主機名稱";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "UlM-Mq-9Uw"; */
+"UlM-Mq-9Uw.ibShadowedIsNilPlaceholder" = "[可留空]";
+
+/* Class = "NSTextFieldCell"; title = "Account Host Name and Port"; ObjectID = "UrS-8P-iUO"; */
+"UrS-8P-iUO.title" = "帳號主機名稱和連接埠";
+
+/* Class = "NSTextFieldCell"; title = "Principal URL"; ObjectID = "vVB-Qi-yg4"; */
+"vVB-Qi-yg4.title" = "主要 URL";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "vzJ-FG-cRq"; */
+"vzJ-FG-cRq.ibShadowedIsNilPlaceholder" = "[在裝置上設定]";
+
+/* Class = "NSTextFieldCell"; title = "Account Password"; ObjectID = "wGu-r8-vPK"; */
+"wGu-r8-vPK.title" = "帳號密碼";
+
+/* Class = "NSTextFieldCell"; placeholderString = "http://caldav.example.com/"; ObjectID = "WRv-8Y-njq"; */
+"WRv-8Y-njq.placeholderString" = "http://caldav.example.com/";
+
+/* Class = "NSTextFieldCell"; title = "Account User Name"; ObjectID = "yW8-jS-6S0"; */
+"yW8-jS-6S0.title" = "帳號使用者名稱";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Username:"; ObjectID = "Yxy-Bc-dXI"; */
+"Yxy-Bc-dXI.ibExternalAccessibilityDescription" = "帳號使用者名稱：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Zd6-aW-zqR"; */
+"Zd6-aW-zqR.ibShadowedIsNilPlaceholder" = "[必要]";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Account Password:"; ObjectID = "Zql-Wq-Iab"; */
+"Zql-Wq-Iab.ibExternalAccessibilityDescription" = "帳號密碼：";
+

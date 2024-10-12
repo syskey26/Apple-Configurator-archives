@@ -1,0 +1,474 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0sZ-Il-KTh"; */
+"0sZ-Il-KTh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "TLS Maximum Version"; ObjectID = "1BE-A6-K2s"; */
+"1BE-A6-K2s.title" = "TLS 최대 버전";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "1mj-lB-dIt"; */
+"1mj-lB-dIt.title" = "사용자 이름";
+
+/* Class = "NSTextFieldCell"; title = "Whitelist specific apps"; ObjectID = "2da-eh-Vjc"; */
+"2da-eh-Vjc.title" = "화이트리스트에 특정 앱 추가";
+
+/* Class = "NSMenuItem"; title = "Manual"; ObjectID = "2IJ-OO-Oqs"; */
+"2IJ-OO-Oqs.title" = "수동";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "3bJ-gi-URq"; */
+"3bJ-gi-URq.title" = "없음";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "3kb-Cr-kB6"; */
+"3kb-Cr-kB6.headerCell.title" = "키";
+
+/* Class = "NSButtonCell"; title = "Provision PAC Anonymously"; ObjectID = "3oa-iH-a3M"; */
+"3oa-iH-a3M.title" = "익명으로 PAC 공급";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "4jS-Oa-tDE"; */
+"4jS-Oa-tDE.headerCell.title" = "이름";
+
+/* Class = "NSMenuItem"; title = "Restrict QoS marking"; ObjectID = "4Sn-83-TSd"; */
+"4Sn-83-TSd.title" = "QoS 마킹 제한";
+
+/* Class = "NSMenuItem"; title = "Any (Enterprise)"; ObjectID = "4Tp-74-Rat"; */
+"4Tp-74-Rat.title" = "모두(기업용)";
+
+/* Class = "NSTextFieldCell"; title = "Roaming Consortium Organization Identifiers"; ObjectID = "5CH-cE-AUT"; */
+"5CH-cE-AUT.title" = "로밍 컨소시엄 조직 식별자";
+
+/* Class = "NSTextFieldCell"; title = "Password used to authenticate with the proxy"; ObjectID = "5SX-YN-Xh1"; */
+"5SX-YN-Xh1.title" = "프록시를 인증하는 데 사용되는 암호";
+
+/* Class = "NSMenuItem"; title = "1.2"; ObjectID = "6d2-Su-H6l"; */
+"6d2-Su-H6l.title" = "1.2";
+
+/* Class = "NSTextFieldCell"; title = "EAP-SIM"; ObjectID = "6Gl-oA-WrX"; */
+"6Gl-oA-WrX.title" = "EAP-SIM";
+
+/* Class = "NSButtonCell"; title = "Use Per-Connection Password"; ObjectID = "6Kj-7m-Ebl"; */
+"6Kj-7m-Ebl.title" = "연결당 암호 사용";
+
+/* Class = "NSButtonCell"; title = "Hidden Network"; ObjectID = "8ax-P9-jUm"; */
+"8ax-P9-jUm.title" = "가려진 네트워크";
+
+/* Class = "NSMenuItem"; title = "OS Default"; ObjectID = "8Yr-wG-EKL"; */
+"8Yr-wG-EKL.title" = "OS 기본값";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Server URL"; ObjectID = "9M2-yT-ur1"; */
+"9M2-yT-ur1.title" = "프록시 서버 URL";
+
+/* Class = "NSMenuItem"; title = "EAP (new in iOS 9 and OS X 10.11)"; ObjectID = "9vO-wX-sUs"; */
+"9vO-wX-sUs.title" = "EAP(iOS 9 및 OS X 10.11 새로운 기능)";
+
+/* Class = "NSButtonCell"; title = "Enable QoS marking"; ObjectID = "9Wh-RI-xB2"; */
+"9Wh-RI-xB2.title" = "QoS 마킹 활성화";
+
+/* Class = "NSTextFieldCell"; title = "Network Type"; ObjectID = "19q-s9-w1x"; */
+"19q-s9-w1x.title" = "네트워크 유형";
+
+/* Class = "NSMenuItem"; title = "1.0"; ObjectID = "31N-ic-14z"; */
+"31N-ic-14z.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "Outer Identity"; ObjectID = "65O-DV-YyB"; */
+"65O-DV-YyB.title" = "외부 ID";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "68q-6T-mj6"; */
+"68q-6T-mj6.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Trusted Certificates"; ObjectID = "78J-tc-gh2"; */
+"78J-tc-gh2.title" = "신뢰할 수 있는 인증서";
+
+/* Class = "NSButtonCell"; title = "Use PAC"; ObjectID = "A5N-t3-0bl"; */
+"A5N-t3-0bl.title" = "PAC 사용";
+
+/* Class = "NSMenuItem"; title = "Passpoint"; ObjectID = "aEJ-2a-PRO"; */
+"aEJ-2a-PRO.title" = "Passpoint";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove MCC/MNC"; ObjectID = "Ahm-Rc-LKi"; */
+"Ahm-Rc-LKi.ibShadowedToolTip" = "MCC/MNC 제거";
+
+/* Class = "NSTextFieldCell"; title = "Security Type"; ObjectID = "amK-Fo-f5A"; */
+"amK-Fo-f5A.title" = "보안 유형";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "apw-CZ-g83"; */
+"apw-CZ-g83.title" = "없음";
+
+/* Class = "NSButtonCell"; title = "Whitelist Apple audio/video calling"; ObjectID = "Atl-5w-fhQ"; */
+"Atl-5w-fhQ.title" = "화이트리스트에 Apple 음성/영상 통화 추가";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "aud-5e-zkT"; */
+"aud-5e-zkT.ibShadowedIsNilPlaceholder" = "[선택사항]";
+
+/* Class = "NSMenuItem"; title = "CHAP"; ObjectID = "axg-Pg-sT0"; */
+"axg-Pg-sT0.title" = "CHAP";
+
+/* Class = "NSSegmentedCell"; B3F-MW-hL2.ibShadowedLabels[0] = "Protocols"; ObjectID = "B3F-MW-hL2"; */
+"B3F-MW-hL2.ibShadowedLabels[0]" = "프로토콜";
+
+/* Class = "NSSegmentedCell"; B3F-MW-hL2.ibShadowedLabels[1] = "Trust"; ObjectID = "B3F-MW-hL2"; */
+"B3F-MW-hL2.ibShadowedLabels[1]" = "신뢰";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "bBT-e2-jwV"; */
+"bBT-e2-jwV.title" = ":";
+
+/* Class = "NSButtonCell"; title = "EAP-AKA"; ObjectID = "Bdc-Vk-J3K"; */
+"Bdc-Vk-J3K.title" = "EAP-AKA";
+
+/* Class = "NSTextFieldCell"; title = "Authentication protocols supported on target network"; ObjectID = "BFN-6k-f7Y"; */
+"BFN-6k-f7Y.title" = "대상 네트워크에서 지원되는 인증 프로토콜";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "bhU-LQ-s0g"; */
+"bhU-LQ-s0g.title" = "사용자 이름";
+
+/* Class = "NSTextFieldCell"; title = "Domain name of the Passpoint service provider"; ObjectID = "Bje-xW-AZe"; */
+"Bje-xW-AZe.title" = "Passpoint 서비스 제공업체의 도메인 이름";
+
+/* Class = "NSMenuItem"; title = "WPA2 Enterprise (iOS 8 or later except Apple TV)"; ObjectID = "bVc-aC-qaj"; */
+"bVc-aC-qaj.title" = "기업용 WPA2(Apple TV를 제외하고 iOS 8 이상)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "c6r-an-deS"; */
+"c6r-an-deS.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "[No certificates available -- use 'Certificates' tab to add]"; ObjectID = "cBl-Q2-cIw"; */
+"cBl-Q2-cIw.title" = "[사용 가능한 인증서 없음 -- '인증서' 탭을 사용하여 추가]";
+
+/* Class = "NSTableColumn"; headerCell.title = "App Name"; ObjectID = "cgJ-zq-8cd"; */
+"cgJ-zq-8cd.headerCell.title" = "앱 이름";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add realm name"; ObjectID = "cVz-y7-MsE"; */
+"cVz-y7-MsE.ibShadowedToolTip" = "영역 이름 추가";
+
+/* Class = "NSTextFieldCell"; title = "Identity Certificate"; ObjectID = "d1z-o0-eIW"; */
+"d1z-o0-eIW.title" = "신원 인증서";
+
+/* Class = "NSMenuItem"; title = "Dynamic WEP"; ObjectID = "D02-cb-NZK"; */
+"D02-cb-NZK.title" = "동적 WEP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "dkW-bc-ugd"; */
+"dkW-bc-ugd.ibShadowedIsNilPlaceholder" = "[선택사항]";
+
+/* Class = "NSTextFieldCell"; title = "Identification of the wireless network to connect to"; ObjectID = "DNO-Zg-GFi"; */
+"DNO-Zg-GFi.title" = "연결할 무선 네트워크의 신원";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "No identity selected"; ObjectID = "E0a-6v-8KT"; */
+"E0a-6v-8KT.ibShadowedIsNilPlaceholder" = "선택한 신원 없음";
+
+/* Class = "NSTextFieldCell"; title = "MCC/MNCs"; ObjectID = "e46-mW-COR"; */
+"e46-mW-COR.title" = "MCC/MNC";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "ECj-B0-XXK"; */
+"ECj-B0-XXK.title" = "암호";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[optional]"; ObjectID = "EJG-gx-aAx"; */
+"EJG-gx-aAx.placeholderString" = "[선택사항]";
+
+/* Class = "NSTextFieldCell"; title = "Wireless network encryption to use when connecting"; ObjectID = "eKj-zB-U46"; */
+"eKj-zB-U46.title" = "연결 시 사용할 무선 네트워크 암호화";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "eP5-QE-PJe"; */
+"eP5-QE-PJe.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Wi-Fi payload"; ObjectID = "fQs-Vz-Riu"; */
+"fQs-Vz-Riu.ibShadowedToolTip" = "Wi-Fi 페이로드 제거";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "fR6-Iz-4bv"; */
+"fR6-Iz-4bv.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Disable Captive Network Detection"; ObjectID = "fTG-Yx-3d0"; */
+"fTG-Yx-3d0.title" = "캡티브 네트워크 찾기 비활성화";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "g1U-SJ-1Fv"; */
+"g1U-SJ-1Fv.title" = "<콘텐츠는 여기에>";
+
+/* Class = "NSTextFieldCell"; title = "Enterprise Settings"; ObjectID = "Gba-f0-VQ1"; */
+"Gba-f0-VQ1.title" = "기업용 설정";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "gDf-fd-20F"; */
+"gDf-fd-20F.title" = "자동";
+
+/* Class = "NSTextFieldCell"; title = "Client identity for wireless network. Required for TLS. Enables 2‑factor for TTLS, EAP‑FAST, and PEAP."; ObjectID = "GEg-yR-aFZ"; */
+"GEg-yR-aFZ.title" = "무선 네트워크용 클라이언트 신원. TLS에 요구됨. TTLS, EAP‑FAST 및 PEAP에 2단계를 활성화함.";
+
+/* Class = "NSButtonCell"; title = "EAP-SIM"; ObjectID = "ghg-gm-zAl"; */
+"ghg-gm-zAl.title" = "EAP-SIM";
+
+/* Class = "NSTextFieldCell"; title = "Mobile Country Code and Mobile Network Configuration "; ObjectID = "gQ1-bj-MdP"; */
+"gQ1-bj-MdP.title" = "모바일 국가 코드 및 모바일 네트워크 구성 ";
+
+/* Class = "NSTextFieldCell"; title = "Proxy Setup"; ObjectID = "gTR-Bk-Wpg"; */
+"gTR-Bk-Wpg.title" = "프록시 설정";
+
+/* Class = "NSButtonCell"; title = "Allow direct connection if PAC is unreachable"; ObjectID = "HfF-Q3-FKY"; */
+"HfF-Q3-FKY.title" = "PAC이 연결할 수 없는 경우 직접 연결 허용";
+
+/* Class = "NSMenuItem"; title = "Do not restrict QoS marking"; ObjectID = "hId-BW-kPE"; */
+"hId-BW-kPE.title" = "QoS 마킹 제한 안 함";
+
+/* Class = "NSTextFieldCell"; title = "User name for connection to wireless network"; ObjectID = "hpH-MG-bAp"; */
+"hpH-MG-bAp.title" = "무선 네트워크에 연결하기 위한 사용자 이름";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[required]"; ObjectID = "I8c-Qj-8DS"; */
+"I8c-Qj-8DS.placeholderString" = "[필수사항]";
+
+/* Class = "NSTextFieldCell"; title = "Domain Name"; ObjectID = "idQ-RY-rR8"; */
+"idQ-RY-rR8.title" = "도메인 이름";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add MCC/MNC"; ObjectID = "JbA-5d-g4V"; */
+"JbA-5d-g4V.ibShadowedToolTip" = "MCC/MNC 추가";
+
+/* Class = "NSTextFieldCell"; title = "Authentication protocol (for use only with TTLS)"; ObjectID = "JBC-di-pDQ"; */
+"JBC-di-pDQ.title" = "인증 프로토콜(TTLS만 사용 가능)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JCh-gk-0j2"; */
+"JCh-gk-0j2.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Allow Two RANDs"; ObjectID = "jfA-KB-wYr"; */
+"jfA-KB-wYr.title" = "2개의 RAND 허용";
+
+/* Class = "NSMenuItem"; title = "WEP"; ObjectID = "JhJ-ya-1Un"; */
+"JhJ-ya-1Un.title" = "WEP";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "kbI-Sh-lQK"; */
+"kbI-Sh-lQK.title" = "암호";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "keh-AI-dUb"; */
+"keh-AI-dUb.title" = "없음";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "Kiy-Dc-gNr"; */
+"Kiy-Dc-gNr.title" = "없음";
+
+/* Class = "NSTextFieldCell"; title = "Inner Authentication"; ObjectID = "Kml-2K-wlT"; */
+"Kml-2K-wlT.title" = "내부 인증";
+
+/* Class = "NSTextFieldCell"; title = "Do not show the captive network assistant"; ObjectID = "kOv-bt-4f0"; */
+"kOv-bt-4f0.title" = "캡티브 네트워크 표시 안 함";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Wi-Fi payload"; ObjectID = "kPc-G2-zIP"; */
+"kPc-G2-zIP.ibShadowedToolTip" = "Wi-Fi 페이로드 추가";
+
+/* Class = "NSButtonCell"; title = "EAP-FAST"; ObjectID = "KRJ-wE-Mhc"; */
+"KRJ-wE-Mhc.title" = "EAP-FAST";
+
+/* Class = "NSTextFieldCell"; title = "Password for the wireless network"; ObjectID = "Kvk-GH-Wdy"; */
+"Kvk-GH-Wdy.title" = "무선 네트워크에 대한 암호";
+
+/* Class = "NSButtonCell"; title = "Auto Join"; ObjectID = "l7K-Qs-Ueh"; */
+"l7K-Qs-Ueh.title" = "자동 연결";
+
+/* Class = "NSTextFieldCell"; title = "User name used to connect to the proxy"; ObjectID = "lBD-hC-zAN"; */
+"lBD-hC-zAN.title" = "프록시에 연결하는 데 사용되는 사용자 이름";
+
+/* Class = "NSButtonCell"; title = "Connect to roaming partner Passpoint networks"; ObjectID = "lcV-j5-5ot"; */
+"lcV-j5-5ot.title" = "로밍 협력업체 Passpoint 네트워크에 연결";
+
+/* Class = "NSTextFieldCell"; title = "Trusted Server Certificate Names"; ObjectID = "lEr-FC-ESR"; */
+"lEr-FC-ESR.title" = "신뢰할 수 있는 서버 인증서 이름";
+
+/* Class = "NSTextFieldCell"; title = "Roaming Consortium OIs"; ObjectID = "lgk-JZ-ECg"; */
+"lgk-JZ-ECg.title" = "로밍 컨소시엄 OI";
+
+/* Class = "NSMenuItem"; title = "1.2"; ObjectID = "lSE-jR-PDL"; */
+"lSE-jR-PDL.title" = "1.2";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "lya-yZ-el0"; */
+"lya-yZ-el0.title" = "암호";
+
+/* Class = "NSMenuItem"; title = "WPA2 Personal (iOS 8 or later except Apple TV)"; ObjectID = "maW-ck-H0M"; */
+"maW-ck-H0M.title" = "개인용 WPA2(Apple TV를 제외하고 iOS 8 이상)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "mCl-8G-2mX"; */
+"mCl-8G-2mX.ibShadowedIsNilPlaceholder" = "[기기에서 설정]";
+
+/* Class = "NSTextFieldCell"; title = "Allow authenticating to server providing only two RAND values"; ObjectID = "mHd-EU-6Tb"; */
+"mHd-EU-6Tb.title" = "2개의 RAND 값만 제공하는 서버에 인증 허용";
+
+/* Class = "NSTextFieldCell"; title = "Display name of the Passpoint service provider"; ObjectID = "mts-o3-opc"; */
+"mts-o3-opc.title" = "Passpoint 서비스 제공업체의 표시 이름";
+
+/* Class = "NSTextFieldCell"; title = "NAI Realm Names"; ObjectID = "NAU-Lc-PSQ"; */
+"NAU-Lc-PSQ.title" = "NAI 영역 이름";
+
+/* Class = "NSButtonCell"; title = "TLS"; ObjectID = "nEa-20-xMY"; */
+"nEa-20-xMY.title" = "TLS";
+
+/* Class = "NSButtonCell"; title = "LEAP"; ObjectID = "NgN-kO-RD0"; */
+"NgN-kO-RD0.title" = "LEAP";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Npa-oH-aRO"; */
+"Npa-oH-aRO.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "NS9-qt-cEh"; */
+"NS9-qt-cEh.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1.1"; ObjectID = "OBK-wl-2S5"; */
+"OBK-wl-2S5.title" = "1.1";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "OeU-DE-bYT"; */
+"OeU-DE-bYT.ibShadowedToolTip" = "이 필드는 준비 또는 감독 중인 기기에 필요합니다.";
+
+/* Class = "NSMenuItem"; title = "Legacy Hotspot"; ObjectID = "Ohi-Xt-1pr"; */
+"Ohi-Xt-1pr.title" = "레거시 핫스팟";
+
+/* Class = "NSTextFieldCell"; title = "Externally visible identification (for TTLS, PEAP, and EAP-FAST)"; ObjectID = "oJ2-SV-pqX"; */
+"oJ2-SV-pqX.title" = "외부에서 볼 수 있는 신원(TTLS, PEAP, EAP-FAST용)";
+
+/* Class = "NSTextFieldCell"; title = "Password for the provided user"; ObjectID = "Ojz-FQ-Lmx"; */
+"Ojz-FQ-Lmx.title" = "제공된 사용자에 대한 암호";
+
+/* Class = "NSTextFieldCell"; title = "Configures network to appear as legacy or Passpoint hotspot"; ObjectID = "Omi-ff-7fr"; */
+"Omi-ff-7fr.title" = "레거시 또는 Passpoint 핫스팟으로 나타나도록 네트워크를 구성합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Example App"; ObjectID = "oy0-z6-raa"; */
+"oy0-z6-raa.title" = "견본 앱";
+
+/* Class = "NSTextFieldCell"; title = "Fast Lane QoS Marking"; ObjectID = "Pdp-mq-sR2"; */
+"Pdp-mq-sR2.title" = "Fast Lane QoS 마킹";
+
+/* Class = "NSTextFieldCell"; title = "Host name or IP address, and port number for the proxy server"; ObjectID = "pGx-dY-nFs"; */
+"pGx-dY-nFs.title" = "프록시 서버에 대한 호스트 이름 또는 IP 주소 및 포트 번호";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "PjW-3Y-k8J"; */
+"PjW-3Y-k8J.ibShadowedIsNilPlaceholder" = "[필수사항]";
+
+/* Class = "NSTextFieldCell"; title = "URL used to retrieve proxy settings"; ObjectID = "Q0n-O1-fA2"; */
+"Q0n-O1-fA2.title" = "프록시 설정을 검색할 때 사용되는 URL";
+
+/* Class = "NSTextFieldCell"; title = "EAP-FAST"; ObjectID = "qbq-rm-wGC"; */
+"qbq-rm-wGC.title" = "EAP-FAST";
+
+/* Class = "NSMenuItem"; title = "1.1"; ObjectID = "QD3-BD-QZP"; */
+"QD3-BD-QZP.title" = "1.1";
+
+/* Class = "NSTextFieldCell"; title = "Configuration of Protected Access Credential (PAC)"; ObjectID = "QdY-te-L1D"; */
+"QdY-te-L1D.title" = "PAC(Protected Access Credential) 구성";
+
+/* Class = "NSTextFieldCell"; title = "Request during connection and send with authentication"; ObjectID = "qEh-au-YRa"; */
+"qEh-au-YRa.title" = "연결하는 동안 요청 및 인증과 함께 보내기";
+
+/* Class = "NSTextFieldCell"; title = "Network Access Identifier Realm Names"; ObjectID = "qSa-iJ-BRk"; */
+"qSa-iJ-BRk.title" = "네트워크 접근 식별자 영역 이름";
+
+/* Class = "NSMenuItem"; title = "PAP"; ObjectID = "qvb-hM-qCa"; */
+"qvb-hM-qCa.title" = "PAP";
+
+/* Class = "NSButtonCell"; title = "Provision PAC"; ObjectID = "QXY-Ek-k8e"; */
+"QXY-Ek-k8e.title" = "PAC 공급";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "R2o-SY-ow5"; */
+"R2o-SY-ow5.ibShadowedIsNilPlaceholder" = "[선택사항]";
+
+/* Class = "NSMenuItem"; title = "Any (Personal)"; ObjectID = "rxf-Hc-2oF"; */
+"rxf-Hc-2oF.title" = "모두(개인용)";
+
+/* Class = "NSTextFieldCell"; title = "Certificate names expected from authentication server"; ObjectID = "RyB-Hs-NT5"; */
+"RyB-Hs-NT5.title" = "인증 서버에서 예상하는 인증서 이름";
+
+/* Class = "NSTextFieldCell"; title = "Configures proxies to be used with this network"; ObjectID = "s6v-CZ-hyr"; */
+"s6v-CZ-hyr.title" = "이 네트워크에 사용할 프록시 구성";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "[optional]"; ObjectID = "S29-34-uBa"; */
+"S29-34-uBa.placeholderString" = "[선택사항]";
+
+/* Class = "NSMenuItem"; title = "MSCHAP"; ObjectID = "SaW-8z-EKe"; */
+"SaW-8z-EKe.title" = "MSCHAP";
+
+/* Class = "NSTextFieldCell"; title = "TLS Minimum Version"; ObjectID = "Sbq-6l-ebf"; */
+"Sbq-6l-ebf.title" = "TLS 최소 버전";
+
+/* Class = "NSMenuItem"; title = "Standard"; ObjectID = "sNJ-uH-P6e"; */
+"sNJ-uH-P6e.title" = "표준";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove roaming OI"; ObjectID = "Ssa-70-zq3"; */
+"Ssa-70-zq3.ibShadowedToolTip" = "OI 로밍 제거";
+
+/* Class = "NSTextFieldCell"; title = "Server and Port"; ObjectID = "SuL-C8-Tre"; */
+"SuL-C8-Tre.title" = "서버 및 포트";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "svD-fj-b5V"; */
+"svD-fj-b5V.headerCell.title" = "이름";
+
+/* Class = "NSMenuItem"; title = "WPA / WPA2 Personal"; ObjectID = "t29-sj-Sri"; */
+"t29-sj-Sri.title" = "개인용 WPA/WPA2";
+
+/* Class = "NSButtonCell"; title = "TTLS"; ObjectID = "T61-TS-cWk"; */
+"T61-TS-cWk.title" = "TTLS";
+
+/* Class = "NSTextFieldCell"; title = "Wi-Fi"; ObjectID = "TQH-fv-DHb"; */
+"TQH-fv-DHb.title" = "Wi-Fi";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Tvo-xC-Luf"; */
+"Tvo-xC-Luf.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tzp-gM-Tqf"; */
+"tzp-gM-Tqf.title" = "Text Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "ufL-qm-WT3"; */
+"ufL-qm-WT3.ibShadowedIsNilPlaceholder" = "[필수사항]";
+
+/* Class = "NSMenuItem"; title = "WPA / WPA2 Enterprise"; ObjectID = "UIr-Mb-TwU"; */
+"UIr-Mb-TwU.title" = "기업용 WPA/WPA2";
+
+/* Class = "NSTableColumn"; headerCell.title = "MNC"; ObjectID = "UJ6-3g-VMW"; */
+"UJ6-3g-VMW.headerCell.title" = "MNC";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uMv-VE-zvs"; */
+"uMv-VE-zvs.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Urp-IU-fIf"; */
+"Urp-IU-fIf.headerCell.title" = "이름";
+
+/* Class = "NSTextFieldCell"; title = "Certificates trusted/expected for authentication"; ObjectID = "uSX-DR-4hF"; */
+"uSX-DR-4hF.title" = "인증을 위해 신뢰할 수 있는/예상되는 인증서";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove realm name"; ObjectID = "v6K-sB-62V"; */
+"v6K-sB-62V.ibShadowedToolTip" = "영역 이름 제거";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "Vp0-cu-D9I"; */
+"Vp0-cu-D9I.ibShadowedIsNilPlaceholder" = "[필수사항]";
+
+/* Class = "NSTextFieldCell"; title = "Automatically join this wireless network"; ObjectID = "VpS-QP-bp9"; */
+"VpS-QP-bp9.title" = "자동으로 이 무선 네트워크에 연결";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "W5m-kg-fYB"; */
+"W5m-kg-fYB.title" = "OtherViews";
+
+/* Class = "NSTableColumn"; headerCell.title = "MCC"; ObjectID = "w8y-bc-xmq"; */
+"w8y-bc-xmq.headerCell.title" = "MCC";
+
+/* Class = "NSMenuItem"; title = "MSCHAPv2"; ObjectID = "Wlf-6b-nuj"; */
+"Wlf-6b-nuj.title" = "MSCHAPv2";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wri-kH-ldT"; */
+"wri-kH-ldT.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Provider Display Name"; ObjectID = "XcN-e9-tRI"; */
+"XcN-e9-tRI.title" = "제공업체 표시 이름";
+
+/* Class = "NSTextFieldCell"; title = "Service Set Identifier (SSID)"; ObjectID = "XKI-Cf-yeh"; */
+"XKI-Cf-yeh.title" = "SSID(서비스 설정 식별자)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "XOG-4n-Vw7"; */
+"XOG-4n-Vw7.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "PEAP"; ObjectID = "xzA-DH-Wxl"; */
+"xzA-DH-Wxl.title" = "PEAP";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "YEf-2N-9h3"; */
+"YEf-2N-9h3.ibShadowedIsNilPlaceholder" = "[기기에서 설정]";
+
+/* Class = "NSTextFieldCell"; title = "Enable if target network is not open or broadcasting"; ObjectID = "yJ4-1E-hqB"; */
+"yJ4-1E-hqB.title" = "대상 네트워크가 열려 있지 않거나 브로드캐스트 중일 경우 활성화";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "yJW-Ag-hA2"; */
+"yJW-Ag-hA2.ibShadowedToolTip" = "이 필드는 준비 또는 감독 중인 기기에 필요합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Configuration of protocols, authentication, and trust"; ObjectID = "YkJ-k5-F6g"; */
+"YkJ-k5-F6g.title" = "프로토콜 구성, 인증 및 신뢰";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add roaming OI"; ObjectID = "Zd7-9r-4rT"; */
+"Zd7-9r-4rT.ibShadowedToolTip" = "OI 로밍 추가";
+
+/* Class = "NSMenuItem"; title = "1.0"; ObjectID = "zMR-KA-Th8"; */
+"zMR-KA-Th8.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "Accepted EAP Types"; ObjectID = "Zy4-Cg-aqi"; */
+"Zy4-Cg-aqi.title" = "허용된 EAP 유형";
+

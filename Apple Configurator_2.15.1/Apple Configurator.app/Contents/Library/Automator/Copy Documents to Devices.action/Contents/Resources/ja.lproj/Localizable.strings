@@ -1,0 +1,21 @@
+/* DIALOG PROMPT */
+"CNFGACT-04-DIALOG_PROMPT" = "デバイスにコピーする書類を選択してください:";
+
+/* (No Comment) */
+"CNFGACT-04-DOCUMENT_NOT_EXIST" = "この書類ファイルは、所定の場所にありませんでした:";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APP_ID_PROVIDED" = "App IDがアクションのテキスト入力フィールドに入力されませんでした。";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APPS_ALERT_MESSAGE" = "リソースがありません";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APPS_ALERT_TITLE" = "このシステムでiOS Appファイルが見つかりませんでした。";
+
+/* INPUT ERRORS */
+"CNFGACT-04-NO_INPUT_ERROR" = "接続されたデバイスのECID参照がこのアクションに渡されませんでした。";
+
+/* SELECTION ERRORS */
+"CNFGACT-04-NO_SELECTION_ERROR" = "書類ファイルが選択されませんでした。";
+

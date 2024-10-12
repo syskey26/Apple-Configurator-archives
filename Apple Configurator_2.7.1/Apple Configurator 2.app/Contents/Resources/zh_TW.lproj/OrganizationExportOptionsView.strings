@@ -1,0 +1,9 @@
+/* Class = "NSMenuItem"; title = "Unencrypted DER (.crt and .der, for Automator and cfgutil)"; ObjectID = "HDi-uH-YoW"; */
+"HDi-uH-YoW.title" = "未加密 DER（.crt 和 .der，用於 Automator 和 cfgutil）";
+
+/* Class = "NSMenuItem"; title = "Encrypted PKCS12 (.p12)"; ObjectID = "lkp-lI-ajk"; */
+"lkp-lI-ajk.title" = "已加密 PKCS12（.p12）";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "NIQ-7j-EoU"; */
+"NIQ-7j-EoU.title" = "格式：";
+

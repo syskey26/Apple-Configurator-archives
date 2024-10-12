@@ -1,0 +1,42 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1xM-Sn-arp"; */
+"1xM-Sn-arp.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "5j5-TA-Nmw"; */
+"5j5-TA-Nmw.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Safari Password Autofill Domains (supervised only)"; ObjectID = "17h-ko-Njk"; */
+"17h-ko-Njk.title" = "Safari 암호 자동 완성 도메인(감독 중인 기기만 가능)";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "191-hK-98T"; */
+"191-hK-98T.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Unmarked Email Domains"; ObjectID = "a1t-93-AN4"; */
+"a1t-93-AN4.title" = "표시되지 않은 이메일 도메인";
+
+/* Class = "NSTextFieldCell"; title = "Email addresses not matching any of these domains will be marked in Mail"; ObjectID = "cE2-V3-ydB"; */
+"cE2-V3-ydB.title" = "다음 중 하나의 도메인이라도 일치하지 않는 이메일 주소는 Mail에서 표시됩니다.";
+
+/* Class = "NSTextFieldCell"; title = "URL patterns of domains from which documents will be considered managed"; ObjectID = "cSG-Gm-bQC"; */
+"cSG-Gm-bQC.title" = "도큐멘트가 관리될 것으로 간주되는 도메인의 URL 형태";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "fmU-42-C6x"; */
+"fmU-42-C6x.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "h22-ES-mLw"; */
+"h22-ES-mLw.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Domains payload"; ObjectID = "nDO-9G-9S7"; */
+"nDO-9G-9S7.ibShadowedToolTip" = "도메인 페이로드 제거";
+
+/* Class = "NSTextFieldCell"; title = "URL patterns of websites for which passwords can be saved"; ObjectID = "OIx-BA-9XN"; */
+"OIx-BA-9XN.title" = "암호를 저장할 수 있는 웹 사이트의 URL 형태";
+
+/* Class = "NSTextFieldCell"; title = "Managed Safari Web Domains"; ObjectID = "Qqv-4p-oBV"; */
+"Qqv-4p-oBV.title" = "관리되는 Safari 웹 도메인";
+
+/* Class = "NSTextFieldCell"; title = "Domains"; ObjectID = "Tqg-oa-Zrt"; */
+"Tqg-oa-Zrt.title" = "도메인";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xcA-hx-lab"; */
+"xcA-hx-lab.title" = "Text Cell";
+

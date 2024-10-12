@@ -1,0 +1,21 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name"; ObjectID = "7Aa-4A-Ii3"; */
+"7Aa-4A-Ii3.ibExternalAccessibilityDescription" = "名称";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enrollment URL"; ObjectID = "hMq-5o-Nnk"; */
+"hMq-5o-Nnk.ibExternalAccessibilityDescription" = "注册 URL";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "k32-Ep-ZGc"; */
+"k32-Ep-ZGc.placeholderString" = "必填";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "nlV-a2-4NK"; */
+"nlV-a2-4NK.title" = "名称：";
+
+/* Class = "NSTextFieldCell"; title = "Enter a name and the enrollment URL for this server. If you don't know it, enter the server's host name or IP address, and Configurator will attempt to discover it."; ObjectID = "OH2-7i-Sii"; */
+"OH2-7i-Sii.title" = "输入此服务器的名称和注册 URL。如果您不知道这些信息，请输入服务器的主机名或 IP 地址，Configurator 将尝试查找。";
+
+/* Class = "NSTextFieldCell"; title = "Host name or URL:"; ObjectID = "X0w-f1-FcU"; */
+"X0w-f1-FcU.title" = "主机名或 URL：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "Yof-yi-gKN"; */
+"Yof-yi-gKN.placeholderString" = "必填";
+

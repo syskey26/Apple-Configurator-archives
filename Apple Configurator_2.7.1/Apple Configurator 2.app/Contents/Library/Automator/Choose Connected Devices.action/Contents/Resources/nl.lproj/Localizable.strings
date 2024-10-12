@@ -1,0 +1,13 @@
+/* (No Comment) */
+"CNFGACT-11-DIALOG_PROMPT" = "Selecteer apparaten:";
+
+/* Localizable.strings
+  Choose Connected Devices
+
+  Created by Sal Soghoian on 1/15/15.
+  Copyright (c) 2015-2018 Apple Inc. All rights reserved. */
+"CNFGACT-11-NO_CONNECTED_DEVICES" = "Er zijn geen apparaten op deze computer aangesloten.";
+
+/* (No Comment) */
+"CNFGACT-11-NO_RESPONDING_DEVICES" = "De op deze computer aangesloten apparaten reageren niet.";
+

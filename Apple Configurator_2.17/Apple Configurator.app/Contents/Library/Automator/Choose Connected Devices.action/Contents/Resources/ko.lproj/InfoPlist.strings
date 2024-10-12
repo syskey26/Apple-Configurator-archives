@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "이 동작은 입력을 허용하지 않습니다.";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "각 기기에 표시되는 데이터 문자열에 기기의 일련 번호가 포함되도록 선택할 수 있습니다.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 식별자";
+
+/* (No Comment) */
+"AMDSummary" = "이 동작은 표시된 목록에서 사용자가 선택하여 연결된 iOS 기기에 ECID 식별자 목록을 반환합니다.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "연결된 기기 선택";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. 모든 권리 보유.";
+

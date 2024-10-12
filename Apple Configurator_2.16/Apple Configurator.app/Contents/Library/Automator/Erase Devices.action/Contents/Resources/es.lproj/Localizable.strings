@@ -1,0 +1,15 @@
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_EXIST" = "Este archivo de certificado no se ha encontrado en la ubicación esperada: ";
+
+/* (No Comment) */
+"CNFGACT-02-CERTIFICATE_NOT_SET" = "No se ha seleccionado ningún archivo de certificado.";
+
+/* INPUT ERRORS */
+"CNFGACT-02-NO_INPUT_ERROR" = "No se ha derivado a esta acción ninguna referencia de ECID a los dispositivos conectados.";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_EXIST" = "Este archivo de clave privada no se ha encontrado en la ubicación esperada: ";
+
+/* (No Comment) */
+"CNFGACT-02-PRIVATE_KEY_NOT_SET" = "No se ha seleccionado ningún archivo de clave privada.";
+

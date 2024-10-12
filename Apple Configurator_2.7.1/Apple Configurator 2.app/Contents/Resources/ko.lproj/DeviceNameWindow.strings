@@ -1,0 +1,15 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "윈도우";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hpG-s9-hIn"; */
+"hpG-s9-hIn.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "Click the add (+) button to append a token. Each device will be named identically, numbered sequentially, and the tokens will be replaced with unique variables."; ObjectID = "lNd-7T-HLl"; */
+"lNd-7T-HLl.title" = "토큰을 추가하려면 추가(+) 버튼을 클릭하십시오. 각 기기의 이름이 동일하게 지정되고 번호가 차례대로 추가되며 토큰이 고유 변수로 대치됩니다.";
+
+/* Class = "NSTextFieldCell"; title = "Rename device"; ObjectID = "T4o-TI-1ip"; */
+"T4o-TI-1ip.title" = "기기 이름 변경";
+
+/* Class = "NSButtonCell"; title = "Rename"; ObjectID = "u0i-Uk-3Gn"; */
+"u0i-Uk-3Gn.title" = "이름 변경";
+

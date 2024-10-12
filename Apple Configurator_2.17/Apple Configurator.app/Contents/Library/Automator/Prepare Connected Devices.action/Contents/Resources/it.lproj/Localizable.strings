@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-08-INVALID_CERTIFICATE_TYPE" = "Il file di certificato indicato non è di tipo: “public.x509-certificate”";
+
+/* (No Comment) */
+"CNFGACT-08-MISSING_ENROLLMENT_URL" = "Nessun URL di registrazione MDM fornito.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_FOUND" = "Non è stato trovato nessun file di certificato principale attendibile nella posizione specificata.";
+
+/* MDM ERRORS */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_INDICATED" = "Non è stato specificato nessun file di certificato principale attendibile nell'interfaccia di azione.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_FOUND" = "Nessun file di certificato host è stato trovato nella posizione specificata.";
+
+/* SUPERVISION ERRORS */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_INDICATED" = "Nessun file di certificato host è stato selezionato nell'interfaccia di azione.";
+
+/* INPUT ERRORS */
+"CNFGACT-08-NO_INPUT_ERROR" = "Nessun riferimento ECID ai dispositivi collegati è stato passato a questa azione.";
+

@@ -1,0 +1,27 @@
+/* Class = "NSMenuItem"; title = "Apps only"; ObjectID = "7Ub-is-aqG"; */
+"7Ub-is-aqG.title" = "Solo app";
+
+/* Class = "NSMenuItem"; title = "Latest OS and apps"; ObjectID = "26N-Cj-6zd"; */
+"26N-Cj-6zd.title" = "Il sistema operativo e le app più recenti";
+
+/* Class = "NSWindow"; title = "Update"; ObjectID = "aGe-km-M8h"; */
+"aGe-km-M8h.title" = "Aggiorna";
+
+/* Class = "NSMenuItem"; title = "Latest OS only"; ObjectID = "CHG-nX-bO4"; */
+"CHG-nX-bO4.title" = "Solo il sistema operativo più recente";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Update Menu"; ObjectID = "FOz-K0-UU0"; */
+"FOz-K0-UU0.ibExternalAccessibilityDescription" = "Menu aggiorna";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL Update 'Name' text>>"; ObjectID = "hF5-us-Sv5"; */
+"hF5-us-Sv5.title" = "<<DNL Update 'Name' text>>";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SVK-e6-VFX"; */
+"SVK-e6-VFX.title" = "Annulla";
+
+/* Class = "NSTextFieldCell"; title = "<<DNL 'Update to the latest OS' text>>"; ObjectID = "vuy-IE-zzT"; */
+"vuy-IE-zzT.title" = "<<DNL 'Update to the latest OS' text>>";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "wnB-Y1-p2p"; */
+"wnB-Y1-p2p.title" = "Aggiorna";
+

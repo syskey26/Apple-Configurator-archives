@@ -1,0 +1,15 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Font payload"; ObjectID = "9EB-r1-0kr"; */
+"9EB-r1-0kr.ibShadowedToolTip" = "Schrift-Payload entfernen";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "IPB-BM-IAC"; */
+"IPB-BM-IAC.title" = "Name:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Font payload"; ObjectID = "nDO-9G-9S7"; */
+"nDO-9G-9S7.ibShadowedToolTip" = "Schrift-Payload hinzufügen";
+
+/* Class = "NSTextFieldCell"; title = "Font"; ObjectID = "Tqg-oa-Zrt"; */
+"Tqg-oa-Zrt.title" = "Schrift";
+
+/* Class = "NSTextFieldCell"; title = "<None>"; ObjectID = "Vnt-74-ndp"; */
+"Vnt-74-ndp.title" = "<Ohne>";
+

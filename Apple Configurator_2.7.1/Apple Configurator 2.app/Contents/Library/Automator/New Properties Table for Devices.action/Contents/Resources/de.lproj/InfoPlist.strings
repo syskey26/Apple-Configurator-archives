@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDNote" = "Einige Geräte-Eigenschaften stehen nicht für Tabellen zur Verfügung.";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "Das Programm „Numbers“ aus der iWork-Suite.";
+
+/* (No Comment) */
+"AMDResult" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDSummary" = "Diese Aktion erstellt eine neue Tabelle für das Programm „Numbers“, die die Werte der ausgewählten Eigenschaften für die Geräte, deren IDs als Eingabe an die Aktion übergeben wurden, enthält.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Neue Eigenschaftstabelle von Geräten";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Alle Rechte vorbehalten.";
+

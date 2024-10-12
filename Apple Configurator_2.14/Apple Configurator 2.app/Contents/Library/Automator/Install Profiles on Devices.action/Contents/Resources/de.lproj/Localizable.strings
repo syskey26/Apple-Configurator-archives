@@ -1,0 +1,24 @@
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_EXIST" = "Dieses Zertifikat war nicht am erwarteten Ort: ";
+
+/* (No Comment) */
+"CNFGACT-03-CERTIFICATE_NOT_SET" = "Kein Zertifikat ausgewählt.";
+
+/* DIALOG PROMPT */
+"CNFGACT-03-DIALOG_PROMPT" = "Wähle die Profile für die Installation auf den Geräten aus:";
+
+/* INPUT ERRORS */
+"CNFGACT-03-NO_INPUT_ERROR" = "Es wurden keine ECID-Referenzen auf verbundene Geräte an diese Aktion übergeben.";
+
+/* (No Comment) */
+"CNFGACT-03-NO_SELECTION_ERROR" = "Es wurden keine Profildateien ausgewählt.";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_EXIST" = "Dieser private Schlüssel war nicht am erwarteten Ort: ";
+
+/* (No Comment) */
+"CNFGACT-03-PRIVATE_KEY_NOT_SET" = "Es wurde keine Datei für den privaten Schlüssel ausgewählt.";
+
+/* (No Comment) */
+"CNFGACT-03-PROFILE_FILE_NOT_EXIST" = "Dieses Profil war nicht am erwarteten Ort: ";
+

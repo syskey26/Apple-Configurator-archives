@@ -1,0 +1,42 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "6PI-6a-tha"; */
+"6PI-6a-tha.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "338-h7-0oG"; */
+"338-h7-0oG.title" = "Table View Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Loading…"; ObjectID = "Bfe-H6-fm4"; */
+"Bfe-H6-fm4.ibShadowedIsNilPlaceholder" = "正在载入…";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hDT-cN-gkX"; */
+"hDT-cN-gkX.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Serial Number"; ObjectID = "MBi-XF-xFD"; */
+"MBi-XF-xFD.headerCell.title" = "设备序列号";
+
+/* Class = "NSMenuItem"; title = "CSV"; ObjectID = "Nez-1p-JEo"; */
+"Nez-1p-JEo.title" = "CSV";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "Nw6-kW-hng"; */
+"Nw6-kW-hng.title" = "格式：";
+
+/* Class = "NSWindow"; title = "VPP Assignments"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "VPP 分配";
+
+/* Class = "NSToolbarItem"; label = "Revoke License"; ObjectID = "tEG-PX-73J"; */
+"tEG-PX-73J.label" = "撤销许可证";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Revoke License"; ObjectID = "tEG-PX-73J"; */
+"tEG-PX-73J.paletteLabel" = "撤销许可证";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "X6D-0X-0tM"; */
+"X6D-0X-0tM.title" = "标签";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "xUL-6l-YV3"; */
+"xUL-6l-YV3.label" = "搜索";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "xUL-6l-YV3"; */
+"xUL-6l-YV3.paletteLabel" = "搜索";
+
+/* Class = "NSMenuItem"; title = "Property List"; ObjectID = "ykI-6B-R6x"; */
+"ykI-6B-R6x.title" = "属性列表";
+

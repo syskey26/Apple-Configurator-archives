@@ -1,0 +1,27 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "3Hp-8b-O5d"; */
+"3Hp-8b-O5d.title" = "ウインドウ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Encrypted"; ObjectID = "b6x-RD-Tmf"; */
+"b6x-RD-Tmf.headerCell.title" = "暗号化";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FEy-Lb-H1d"; */
+"FEy-Lb-H1d.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Restore"; ObjectID = "hsf-gZ-8xC"; */
+"hsf-gZ-8xC.title" = "復元";
+
+/* Class = "NSTextFieldCell"; title = "Restore from this backup:"; ObjectID = "kfo-ps-nMd"; */
+"kfo-ps-nMd.title" = "このバックアップから復元：";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "Ms9-GH-d36"; */
+"Ms9-GH-d36.headerCell.title" = "日付";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "VUx-B3-BzM"; */
+"VUx-B3-BzM.title" = "キャンセル";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device"; ObjectID = "xgW-kD-ENl"; */
+"xgW-kD-ENl.headerCell.title" = "デバイス";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xYz-2l-1le"; */
+"xYz-2l-1le.title" = "Text Cell";
+

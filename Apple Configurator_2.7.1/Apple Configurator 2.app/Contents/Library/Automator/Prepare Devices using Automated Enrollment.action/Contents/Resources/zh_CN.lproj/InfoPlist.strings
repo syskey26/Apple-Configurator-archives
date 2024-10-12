@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "可选是否包含用户名和密码。";
+
+/* (No Comment) */
+"AMDRequires" = "要求引用包含 Wi-Fi 网络的现有配置描述文件，以及活跃的互联网连接。";
+
+/* (No Comment) */
+"AMDResult" = "ECID 标识符";
+
+/* (No Comment) */
+"AMDSummary" = "此操作将准备设备（其标识符作为输入传递到此操作），用于自动注册 (DEP)。";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "使用自动注册准备设备";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. 保留一切权利。";
+

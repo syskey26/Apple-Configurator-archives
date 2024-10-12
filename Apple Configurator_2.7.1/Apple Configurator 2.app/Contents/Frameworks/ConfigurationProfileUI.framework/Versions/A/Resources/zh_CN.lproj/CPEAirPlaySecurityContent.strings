@@ -1,0 +1,54 @@
+/* Class = "NSMenuItem"; title = "Devices on any Wi-Fi network"; ObjectID = "2py-9r-1Uo"; */
+"2py-9r-1Uo.title" = "任何 Wi-Fi 网络上的设备";
+
+/* Class = "NSMenuItem"; title = "Passcode"; ObjectID = "6PG-vz-ud6"; */
+"6PG-vz-ud6.title" = "口令";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "aBb-wk-Sey"; */
+"aBb-wk-Sey.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "First-time passcode"; ObjectID = "AfF-pt-gUQ"; */
+"AfF-pt-gUQ.title" = "初次口令";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "akO-ak-ZND"; */
+"akO-ak-ZND.title" = "无";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "B0f-Uw-rMo"; */
+"B0f-Uw-rMo.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "This is supported only on tvOS 11.2 and earlier, and requires a first time on-screen passcode for tvOS 11.3 and later."; ObjectID = "cUi-wT-y8y"; */
+"cUi-wT-y8y.title" = "仅在 tvOS 11.2 及更早版本上支持，tvOS 11.3 及更新版本需要初次屏幕口令。";
+
+/* Class = "NSMenuItem"; title = "Password"; ObjectID = "Ebg-h3-xbp"; */
+"Ebg-h3-xbp.title" = "密码";
+
+/* Class = "NSTextFieldCell"; title = "Security"; ObjectID = "fDv-9O-dkZ"; */
+"fDv-9O-dkZ.title" = "安全性";
+
+/* Class = "NSMenuItem"; title = "Devices on the same Wi-Fi network"; ObjectID = "KbG-kp-ddG"; */
+"KbG-kp-ddG.title" = "同一 Wi-Fi 网络上的设备";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "KW9-IA-wrY"; */
+"KW9-IA-wrY.ibShadowedIsNilPlaceholder" = "[必填]";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove AirPlay Security payload"; ObjectID = "LLF-EZ-aNc"; */
+"LLF-EZ-aNc.ibShadowedToolTip" = "移除“隔空播放安全性”有效负载";
+
+/* Class = "NSTextFieldCell"; title = "Security requirement for devices that connect to the Apple TV using AirPlay"; ObjectID = "ojv-Ky-Wt5"; */
+"ojv-Ky-Wt5.title" = "使用“隔空播放”连接到 Apple TV 的设备的安全性要求";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "pkc-gT-6C8"; */
+"pkc-gT-6C8.title" = "密码";
+
+/* Class = "NSTextFieldCell"; title = "Access"; ObjectID = "qdq-5s-rYU"; */
+"qdq-5s-rYU.title" = "访问";
+
+/* Class = "NSTextFieldCell"; title = "Network requirement for devices that connect to Apple TV using AirPlay"; ObjectID = "wDj-Vk-ozx"; */
+"wDj-Vk-ozx.title" = "使用“隔空播放”连接到 Apple TV 的设备的网络要求";
+
+/* Class = "NSTextFieldCell"; title = "The AirPlay password"; ObjectID = "xRg-ne-qBY"; */
+"xRg-ne-qBY.title" = "“隔空播放”密码";
+
+/* Class = "NSTextFieldCell"; title = "AirPlay Security"; ObjectID = "ZA9-q1-BRX"; */
+"ZA9-q1-BRX.title" = "“隔空播放”安全性";
+

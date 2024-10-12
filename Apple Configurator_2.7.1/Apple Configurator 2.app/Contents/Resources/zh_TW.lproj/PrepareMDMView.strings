@@ -1,0 +1,18 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Server"; ObjectID = "IFW-gv-cBB"; */
+"IFW-gv-cBB.ibExternalAccessibilityDescription" = "伺服器";
+
+/* Class = "NSMenuItem"; title = "Do not enroll in MDM"; ObjectID = "IXX-oE-f2P"; */
+"IXX-oE-f2P.title" = "不要在 MDM 中註冊";
+
+/* Class = "NSTextFieldCell"; title = "Choose an MDM server to manage the devices remotely over the air, if desired."; ObjectID = "QqI-zl-5pj"; */
+"QqI-zl-5pj.title" = "選擇 MDM 伺服器以無線方式來遠端管理裝置（如果您想要的話）。";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "UxY-ig-KbX"; */
+"UxY-ig-KbX.title" = "伺服器：";
+
+/* Class = "NSMenuItem"; title = "<< DNL Existing Servers >>"; ObjectID = "WbY-Tq-2XL"; */
+"WbY-Tq-2XL.title" = "<< DNL Existing Servers >>";
+
+/* Class = "NSMenuItem"; title = "New Server…"; ObjectID = "Xgn-if-NnP"; */
+"Xgn-if-NnP.title" = "新增伺服器⋯";
+

@@ -1,0 +1,15 @@
+/* INPUT ERRORS */
+"CNFGACT-19-NO_INPUT_ERROR" = "Aucune référence ECID aux appareils connectés n’a été transmise à cette action.";
+
+/* (No Comment) */
+"CNFGACT-19-NO_PROFILE_FILE" = "Un profil de configuration contenant un réseau Wi-Fi doit être sélectionné dans l’interface de l’action « Préparer les appareils par le biais de l’inscription automatisée ».";
+
+/* (No Comment) */
+"CNFGACT-19-NO_USER_NAME" = "Aucun nom d’utilisateur n’a été saisi dans l’interface de l’action « Préparer les appareils par le biais de l’inscription automatisée ».";
+
+/* (No Comment) */
+"CNFGACT-19-PASSWORD_MISSING_OR_MISMATCH" = "Le mot de passe pour l’inscription de l’appareil n’a pas été saisi et confirmé dans l’interface de l’action « Préparer les appareils par le biais de l’inscription automatisée ».";
+
+/* (No Comment) */
+"CNFGACT-19-PASSWORD_MISSING_OR_MISMATCH_TITLE" = "ERREUR DE MOT DE PASSE";
+

@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-01-CERTIFICATE_NOT_EXIST" = "Questo file di certificato non era nella posizione prevista: ";
+
+/* (No Comment) */
+"CNFGACT-01-CERTIFICATE_NOT_SET" = "Nessun file di certificato scelto.";
+
+/* INPUT ERRORS */
+"CNFGACT-01-NO_INPUT_ERROR" = "Nessun riferimento ECID ai dispositivi collegati è stato passato a questa azione.";
+
+/* (No Comment) */
+"CNFGACT-01-PRIVATE_KEY_NOT_EXIST" = "Questo file di chiave privata non era nella posizione prevista: ";
+
+/* (No Comment) */
+"CNFGACT-01-PRIVATE_KEY_NOT_SET" = "Nessun file di chiave privata scelto.";
+
+/* (No Comment) */
+"CNFGACT-01-WALLPAPER_NOT_EXIST" = "L'immagine di sfondo non era nella posizione prevista: ";
+
+/* (No Comment) */
+"CNFGACT-01-WALLPAPER_NOT_SET" = "Nessuna immagine di sfondo scelta.";
+

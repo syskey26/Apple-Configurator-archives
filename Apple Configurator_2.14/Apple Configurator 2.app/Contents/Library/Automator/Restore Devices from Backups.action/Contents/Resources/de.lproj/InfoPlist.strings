@@ -1,0 +1,48 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDNote" = "Einige private Daten, wie Passwörter, werden nur wiederhergestellt, wenn das Backup mit einem Passwort verschlüsselt wurde oder das Zielgerät auch das Quellgerät des Backups ist.";
+
+/* (No Comment) */
+"AMDOptions" = "Ein einzelnes geteiltes Passwort, das verwendet wird, um alle verschlüsselten Geräte-Backups zuzugreifen, kann in der Aktionsansicht eingegeben werden.";
+
+/* (No Comment) */
+"AMDRequires" = "Die Geräte müssen vollständig gelöscht werden, bevor Backups darauf wiederhergestellt werden können.";
+
+/* (No Comment) */
+"AMDResult" = "ECID-IDs";
+
+/* (No Comment) */
+"AMDSummary" = "Bei dieser Aktion werden Backups auf die angegebenen Geräte wiederhergestellt.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Geräte von Backups wiederherstellen";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* AMKeyword localized strings */
+"backup" = "Backup";
+
+/* AMKeyword localized strings */
+"configurator" = "Configurator";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* AMKeyword localized strings */
+"iOS" = "iOS";
+
+/* (No Comment) */
+"Message" = "";
+
+/* AMKeyword localized strings */
+"mobile" = "Mobil";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015–2021 Apple Inc. Alle Rechte vorbehalten.";
+

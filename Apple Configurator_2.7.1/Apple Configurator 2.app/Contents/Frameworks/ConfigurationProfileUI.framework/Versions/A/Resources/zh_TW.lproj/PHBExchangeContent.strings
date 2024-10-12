@@ -1,0 +1,213 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Add Exchange payload"; ObjectID = "2Yd-kG-xoh"; */
+"2Yd-kG-xoh.ibShadowedToolTip" = "加入 Exchange 承載資料";
+
+/* Class = "NSButtonCell"; title = "Allow recent addresses to be synced"; ObjectID = "5fa-cE-5A3"; */
+"5fa-cE-5A3.title" = "允許同步最近的位址";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "User:"; ObjectID = "6Co-c1-JcW"; */
+"6Co-c1-JcW.ibExternalAccessibilityDescription" = "使用者：";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "6g0-La-lk1"; */
+"6g0-La-lk1.ibShadowedIsNilPlaceholder" = "[必要]";
+
+/* Class = "NSButtonCell"; title = "Use only in Mail"; ObjectID = "8FB-uY-wUQ"; */
+"8FB-uY-wUQ.title" = "僅在「郵件」中使用";
+
+/* Class = "NSTextFieldCell"; title = "Certificate used to sign messages sent from this account"; ObjectID = "8ym-yi-lOi"; */
+"8ym-yi-lOi.title" = "用來簽署由此帳號傳送之郵件的憑證";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "21j-sq-Y74"; */
+"21j-sq-Y74.ibShadowedIsNilPlaceholder" = "在「憑證」承載資料中加入憑證";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[optional]"; ObjectID = "45C-a1-waj"; */
+"45C-a1-waj.placeholderString" = "[可留空]";
+
+/* Class = "NSTextFieldCell"; title = "The address of the account (e.g. \"john@example.com\")"; ObjectID = "A8s-O1-DfV"; */
+"A8s-O1-DfV.title" = "帳號的位址（例如「john@company.com」）";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Credential Name"; ObjectID = "a9C-65-tKK"; */
+"a9C-65-tKK.title" = "認證憑證名稱";
+
+/* Class = "NSMenuItem"; title = "No Limit"; ObjectID = "A50-3g-BXk"; */
+"A50-3g-BXk.title" = "沒有限制";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "afW-YC-bWL"; */
+"afW-YC-bWL.title" = "<在此處輸入內容>";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Exchange ActiveSync Server:"; ObjectID = "aKn-ga-ipA"; */
+"aKn-ga-ipA.ibExternalAccessibilityDescription" = "Exchange ActiveSync 伺服器：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "AR9-Wa-bdJ"; */
+"AR9-Wa-bdJ.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "auL-R6-JXq"; */
+"auL-R6-JXq.title" = "OtherViews";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[defaults to username@host]"; ObjectID = "B3y-dN-Uuk"; */
+"B3y-dN-Uuk.ibShadowedIsNilPlaceholder" = "[預設為 username@host]";
+
+/* Class = "NSTextFieldCell"; title = "Allow the user to choose whether to encrypt each message"; ObjectID = "B4Q-G2-NP4"; */
+"B4Q-G2-NP4.title" = "允許使用者選擇是否要加密每封郵件";
+
+/* Class = "NSTextFieldCell"; title = "Signing certificate"; ObjectID = "bEX-eX-5TY"; */
+"bEX-eX-5TY.title" = "簽署憑證";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "bGf-ac-fPO"; */
+"bGf-ac-fPO.ibShadowedToolTip" = "要準備或監管的裝置必須填寫此欄位";
+
+/* Class = "NSTextFieldCell"; title = "Name or description for ActiveSync"; ObjectID = "bgM-Ia-jTK"; */
+"bgM-Ia-jTK.title" = "ActiveSync 的名稱或描述";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Exchange payload"; ObjectID = "BM6-WZ-I6B"; */
+"BM6-WZ-I6B.ibShadowedToolTip" = "移除 Exchange 承載資料";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "bT8-Yi-s3q"; */
+"bT8-Yi-s3q.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1 week"; ObjectID = "BtX-29-ioF"; */
+"BtX-29-ioF.title" = "1 週";
+
+/* Class = "NSTextFieldCell"; title = "User"; ObjectID = "Cbh-HO-2N3"; */
+"Cbh-HO-2N3.title" = "使用者";
+
+/* Class = "NSButtonCell"; title = "Enable S/MIME message encryption"; ObjectID = "cic-C9-2lC"; */
+"cic-C9-2lC.title" = "啟用 S/MIME 訊息加密";
+
+/* Class = "NSTextFieldCell"; title = "Exchange ActiveSync Host"; ObjectID = "ckT-eR-qtY"; */
+"ckT-eR-qtY.title" = "Exchange ActiveSync 主機";
+
+/* Class = "NSTextFieldCell"; title = "Include this account in recent address syncing"; ObjectID = "cy5-8K-kBW"; */
+"cy5-8K-kBW.title" = "在最近同步的位址中包含此帳號";
+
+/* Class = "NSButtonCell"; title = "Allow Mail Drop"; ObjectID = "D6y-s0-LSy"; */
+"D6y-s0-LSy.title" = "允許 Mail Drop";
+
+/* Class = "NSTextFieldCell"; title = "Past Days of Mail to Sync"; ObjectID = "Deb-bL-dKr"; */
+"Deb-bL-dKr.title" = "要同步的過去郵件天數";
+
+/* Class = "NSTextFieldCell"; title = "Name for the Exchange ActiveSync account"; ObjectID = "dja-mi-86o"; */
+"dja-mi-86o.title" = "Exchange ActiveSync 帳號的名稱";
+
+/* Class = "NSTextFieldCell"; title = "Allow Mail Drop for this account"; ObjectID = "dre-6L-232"; */
+"dre-6L-232.title" = "允許此帳號使用 Mail Drop";
+
+/* Class = "NSButtonCell"; title = "Enable S/MIME message signing"; ObjectID = "dVl-bW-EyH"; */
+"dVl-bW-EyH.title" = "啟用 S/MIME 訊息簽署";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Description:"; ObjectID = "FFy-9j-aq2"; */
+"FFy-9j-aq2.ibExternalAccessibilityDescription" = "帳號描述：";
+
+/* Class = "NSTextFieldCell"; title = "The number of past days of mail to synchronize"; ObjectID = "fk9-6b-bQL"; */
+"fk9-6b-bQL.title" = "要同步過去幾天的郵件";
+
+/* Class = "NSMenuItem"; title = "1 month"; ObjectID = "gWj-QI-MYx"; */
+"gWj-QI-MYx.title" = "1 個月";
+
+/* Class = "NSTextFieldCell"; title = "Credential for authenticating the ActiveSync account"; ObjectID = "i4W-6T-u2a"; */
+"i4W-6T-u2a.title" = "用以認證 ActiveSync 帳號的憑證";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "Iax-6w-qO4"; */
+"Iax-6w-qO4.title" = "<在此處輸入內容>";
+
+/* Class = "NSTextFieldCell"; title = "Sign messages from this account by default"; ObjectID = "IhM-gI-o6c"; */
+"IhM-gI-o6c.title" = "預設簽署來自此帳號的訊息";
+
+/* Class = "NSMenuItem"; title = "2 weeks"; ObjectID = "Iin-0o-bwv"; */
+"Iin-0o-bwv.title" = "2 週";
+
+/* Class = "NSMenuItem"; title = "3 days"; ObjectID = "IRv-oU-S5W"; */
+"IRv-oU-S5W.title" = "3 天";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Email Address:"; ObjectID = "JFt-xe-y11"; */
+"JFt-xe-y11.ibExternalAccessibilityDescription" = "電子郵件位址：";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "lsb-1E-6CB"; */
+"lsb-1E-6CB.title" = "密碼";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[required]"; ObjectID = "m2H-n7-5hB"; */
+"m2H-n7-5hB.ibShadowedIsNilPlaceholder" = "[必要]";
+
+/* Class = "NSMenuItem"; title = "1 day"; ObjectID = "oxh-z5-aY8"; */
+"oxh-z5-aY8.title" = "1 天";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[defaults to user@host]"; ObjectID = "pTH-fS-imd"; */
+"pTH-fS-imd.placeholderString" = "[預設為 user@host]";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This field is required for devices being prepared or supervised"; ObjectID = "Pxp-wp-tTS"; */
+"Pxp-wp-tTS.ibShadowedToolTip" = "要準備或監管的裝置必須填寫此欄位";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[set on device]"; ObjectID = "PXy-JI-WdP"; */
+"PXy-JI-WdP.ibShadowedIsNilPlaceholder" = "[在裝置上設定]";
+
+/* Class = "NSTextFieldCell"; title = "The password for the account (e.g. \"MyP4ssw0rd!\")"; ObjectID = "qcl-6t-jj9"; */
+"qcl-6t-jj9.title" = "帳號的密碼（例如「MyP4ssw0rd!」）";
+
+/* Class = "NSTextFieldCell"; title = "Send outgoing mail from this account only from Mail app"; ObjectID = "qhD-0n-nmb"; */
+"qhD-0n-nmb.title" = "只能從「郵件」App 傳送此帳號的外寄郵件";
+
+/* Class = "NSButtonCell"; title = "Allow messages to be moved"; ObjectID = "qrp-gc-Lnf"; */
+"qrp-gc-Lnf.title" = "允許搬移郵件";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "qXd-hm-Q0h"; */
+"qXd-hm-Q0h.title" = "帳號名稱";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "QyO-C0-9Rn"; */
+"QyO-C0-9Rn.title" = "使用 SSL";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificates' tab"; ObjectID = "sgb-I5-Tuq"; */
+"sgb-I5-Tuq.ibShadowedToolTip" = "透過「憑證」標籤頁將憑證加入描述檔";
+
+/* Class = "NSButtonCell"; title = "Enable per-message encryption switch"; ObjectID = "t90-hc-PfW"; */
+"t90-hc-PfW.title" = "啟用單一郵件加密切換";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificates' tab"; ObjectID = "tFP-xE-zjU"; */
+"tFP-xE-zjU.ibShadowedToolTip" = "透過「憑證」標籤頁將憑證加入描述檔";
+
+/* Class = "NSTextFieldCell"; title = "Encrypt messages from this account by default"; ObjectID = "tiH-W3-Hcu"; */
+"tiH-W3-Hcu.title" = "預設加密來自此帳號的訊息";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add identities to the profile via the 'Certificates' tab"; ObjectID = "u9A-5i-GB5"; */
+"u9A-5i-GB5.ibShadowedToolTip" = "透過「憑證」標籤頁將憑證加入描述檔";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Authentication Credential Name:"; ObjectID = "ukb-aX-CWN"; */
+"ukb-aX-CWN.ibExternalAccessibilityDescription" = "認證憑證名稱：";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password:"; ObjectID = "US5-Cx-WzL"; */
+"US5-Cx-WzL.ibExternalAccessibilityDescription" = "密碼：";
+
+/* Class = "NSTextFieldCell"; title = "Microsoft Exchange Server"; ObjectID = "VKm-Ok-Tgi"; */
+"VKm-Ok-Tgi.title" = "Microsoft Exchange Server";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Credential"; ObjectID = "vRf-J8-LZw"; */
+"vRf-J8-LZw.title" = "認證憑證";
+
+/* Class = "NSTextFieldCell"; title = "Certificate used to decrypt messages sent to this account"; ObjectID = "VVo-97-8Fx"; */
+"VVo-97-8Fx.title" = "用來解密傳送至此帳號之郵件的憑證";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select an encryption certificate to enable this switch"; ObjectID = "Wcm-aL-z7L"; */
+"Wcm-aL-z7L.ibShadowedToolTip" = "選擇加密憑證來啟用此切換";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Add certificates in the Certificates payload"; ObjectID = "wdv-fs-i2j"; */
+"wdv-fs-i2j.ibShadowedIsNilPlaceholder" = "在「憑證」承載資料中加入憑證";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "xTW-WV-Xny"; */
+"xTW-WV-Xny.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "<content here>"; ObjectID = "xvM-yc-MtE"; */
+"xvM-yc-MtE.title" = "<在此處輸入內容>";
+
+/* Class = "NSTextFieldCell"; title = "Encryption certificate"; ObjectID = "XWW-R0-Vf2"; */
+"XWW-R0-Vf2.title" = "加密憑證";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "yeG-20-Oae"; */
+"yeG-20-Oae.title" = "電子郵件位址";
+
+/* Class = "NSTextFieldCell"; title = "Exchange ActiveSync"; ObjectID = "yrF-SK-iEc"; */
+"yrF-SK-iEc.title" = "Exchange ActiveSync";
+
+/* Class = "NSTextFieldCell"; title = "The user of the account with optional domain (e.g. \"user\" or \"domain\\user\")"; ObjectID = "zlU-YH-Xal"; */
+"zlU-YH-Xal.title" = "帳號的位址（例如「john@company.com」）";
+
+/* Class = "NSTextFieldCell"; title = "Messages can be moved from this account to another"; ObjectID = "zxA-tb-3kC"; */
+"zxA-tb-3kC.title" = "可將郵件從此帳號搬移到其他帳號";
+

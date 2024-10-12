@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "Hay tres grupos de parámetros de preparación: opciones de gestión de MDM, de supervisión y del asistente de configuración de dispositivos.";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "Identificadores ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Esta acción prepara los dispositivos cuyos identificadores se han derivado a esta acción como datos de entrada.";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Preparar dispositivos";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2016-2020 Apple Inc. Todos los derechos reservados.";
+

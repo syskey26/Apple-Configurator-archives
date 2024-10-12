@@ -1,0 +1,21 @@
+/* DIALOG PROMPT */
+"CNFGACT-04-DIALOG_PROMPT" = "Kies de documenten die je naar de apparaten wilt kopiëren:";
+
+/* (No Comment) */
+"CNFGACT-04-DOCUMENT_NOT_EXIST" = "Dit documentbestand is niet op de verwachte plaats gevonden: ";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APP_ID_PROVIDED" = "Er is geen app-ID opgegeven in het invoerveld van de taak.";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APPS_ALERT_MESSAGE" = "ONTBREKENDE RESOURCE";
+
+/* (No Comment) */
+"CNFGACT-04-NO_APPS_ALERT_TITLE" = "Er zijn geen iOS-appbestanden gevonden op dit systeem.";
+
+/* INPUT ERRORS */
+"CNFGACT-04-NO_INPUT_ERROR" = "Er zijn geen ECID-verwijzingen naar aangesloten apparaten aan deze taak doorgegeven.";
+
+/* SELECTION ERRORS */
+"CNFGACT-04-NO_SELECTION_ERROR" = "Er zijn geen documentbestanden gekozen.";
+

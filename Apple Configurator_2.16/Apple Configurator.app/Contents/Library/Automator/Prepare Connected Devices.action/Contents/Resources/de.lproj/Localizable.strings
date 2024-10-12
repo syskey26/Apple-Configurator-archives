@@ -1,0 +1,21 @@
+/* (No Comment) */
+"CNFGACT-08-INVALID_CERTIFICATE_TYPE" = "Die angegebene Zertifikatsdatei ist nicht vom Typ „public.x509-certificate“.";
+
+/* (No Comment) */
+"CNFGACT-08-MISSING_ENROLLMENT_URL" = "Es wurde keine MDM-Registrierungs-URL angegeben.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_FOUND" = "Es wurde keine Datei für ein Zertifikat mit Vertrauensanker an dem angegebenen Ort gefunden.";
+
+/* MDM ERRORS */
+"CNFGACT-08-NO_ANCHOR_CERTIFICATE_FILE_INDICATED" = "In der Aktionsschnittstelle wurde keine Datei für ein Zertifikat mit Vertrauensanker ausgewählt.";
+
+/* (No Comment) */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_FOUND" = "Am angegebenen Ort wurde keine Host-Zertifikat-Datei gefunden.";
+
+/* SUPERVISION ERRORS */
+"CNFGACT-08-NO_HOST_CERTIFICATE_FILE_INDICATED" = "In der Aktionsschnittstelle wurde keine Host-Zertifikat-Datei ausgewählt.";
+
+/* INPUT ERRORS */
+"CNFGACT-08-NO_INPUT_ERROR" = "Es wurden keine ECID-Referenzen auf verbundene Geräte an diese Aktion übergeben.";
+

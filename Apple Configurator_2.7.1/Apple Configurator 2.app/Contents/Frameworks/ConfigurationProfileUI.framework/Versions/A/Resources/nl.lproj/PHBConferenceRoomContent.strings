@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Cxl-sK-88M"; */
+"Cxl-sK-88M.title" = "(alleen beheerd)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "dMw-M6-ZU8"; */
+"dMw-M6-ZU8.ibShadowedIsNilPlaceholder" = "[optioneel]";
+
+/* Class = "NSTextFieldCell"; title = "Conference Room Display"; ObjectID = "h0Q-vt-djc"; */
+"h0Q-vt-djc.title" = "Vergaderruimteweergave";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed on-screen in Conference Room Display mode"; ObjectID = "tiz-EG-ryi"; */
+"tiz-EG-ryi.title" = "Bericht dat op het scherm wordt weergegeven in de modus 'Vergaderruimteweergave'";
+
+/* Class = "NSTextFieldCell"; title = "Custom Message"; ObjectID = "Ypp-Fg-qmf"; */
+"Ypp-Fg-qmf.title" = "Aangepast bericht";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "yxj-3K-sb3"; */
+"yxj-3K-sb3.ibExternalAccessibilityDescription" = "Accountnaam:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Conference Room Display payload"; ObjectID = "zqg-Jh-OH0"; */
+"zqg-Jh-OH0.ibShadowedToolTip" = "Verwijder vergaderruimteweergave-payload";
+

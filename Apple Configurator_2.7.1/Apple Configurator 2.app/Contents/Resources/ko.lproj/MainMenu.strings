@@ -1,0 +1,435 @@
+/* Class = "NSMenuItem"; title = "Apps…"; ObjectID = "0Gq-DH-6I7"; */
+"0Gq-DH-6I7.title" = "앱…";
+
+/* Class = "NSMenu"; title = "Account"; ObjectID = "0JB-Sd-n5a"; */
+"0JB-Sd-n5a.title" = "계정";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "0rS-Tq-OZC"; */
+"0rS-Tq-OZC.title" = "추가";
+
+/* Class = "NSMenuItem"; title = "Profiles…"; ObjectID = "0X9-KI-5vY"; */
+"0X9-KI-5vY.title" = "프로파일…";
+
+/* Class = "NSMenuItem"; title = "Install Automation Tools…"; ObjectID = "4gJ-mP-eOF"; */
+"4gJ-mP-eOF.title" = "자동화 도구 설치…";
+
+/* Class = "NSMenuItem"; title = "New Profile"; ObjectID = "4NU-Pe-Nh6"; */
+"4NU-Pe-Nh6.title" = "새로운 프로파일";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "모두 앞으로 가져오기";
+
+/* Class = "NSMenuItem"; title = "as List"; ObjectID = "5y8-KO-46l"; */
+"5y8-KO-46l.title" = "목록";
+
+/* Class = "NSMenuItem"; title = "SSH as root"; ObjectID = "6wC-Uf-gB5"; */
+"6wC-Uf-gB5.title" = "SSH(루트)";
+
+/* Class = "NSMenu"; title = "Advanced"; ObjectID = "8hy-NS-PVw"; */
+"8hy-NS-PVw.title" = "고급";
+
+/* Class = "NSMenuItem"; title = "Clear Restrictions Passcode"; ObjectID = "8lK-yt-eb6"; */
+"8lK-yt-eb6.title" = "차단 암호 지우기";
+
+/* Class = "NSMenuItem"; title = "Internal"; ObjectID = "9F8-Fg-CLV"; */
+"9F8-Fg-CLV.title" = "내장";
+
+/* Class = "NSMenu"; title = "Add"; ObjectID = "9na-oT-toU"; */
+"9na-oT-toU.title" = "추가";
+
+/* Class = "NSMenuItem"; title = "Unpair with this Mac"; ObjectID = "9PR-4A-wtq"; */
+"9PR-4A-wtq.title" = "이 Mac에서 쌍으로 연결 해제";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "윈도우";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "윈도우 축소";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "윈도우";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "Hide Apple Configurator 2"; ObjectID = "30a-c7-tKA"; */
+"30a-c7-tKA.title" = "Apple Configurator 2 가리기";
+
+/* Class = "NSMenuItem"; title = "Apple Configurator"; ObjectID = "56"; */
+"56.title" = "Apple Configurator";
+
+/* Class = "NSMenu"; title = "Apple Configurator"; ObjectID = "57"; */
+"57.title" = "Apple Configurator";
+
+/* Class = "NSMenuItem"; title = "About Apple Configurator 2"; ObjectID = "58"; */
+"58.title" = "Apple Configurator 2에 관하여";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "열기…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "닫기";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "75"; */
+"75.title" = "저장…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "파일";
+
+/* Class = "NSMenuItem"; title = "New Window"; ObjectID = "82"; */
+"82.title" = "새로운 윈도우";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "파일";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "112"; */
+"112.title" = "저장 시점으로 복귀";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "최근 사용 열기";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "최근 사용 열기";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "메뉴 지우기";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "환경설정…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "서비스";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "서비스";
+
+/* Class = "NSMenuItem"; title = "Quit Apple Configurator 2"; ObjectID = "136"; */
+"136.title" = "Apple Configurator 2 종료";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "기타 가리기";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "모두 보기";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "복사하기";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "전체 선택";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "오려두기";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "삭제";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "붙이기";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "실행 취소";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "실행 복귀";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "확대/축소";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "295"; */
+"295.title" = "보기";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "296"; */
+"296.title" = "보기";
+
+/* Class = "NSMenuItem"; title = "as Collection"; ObjectID = "297"; */
+"297.title" = "모음";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "298"; */
+"298.title" = "도구 막대 사용자화...";
+
+/* Class = "NSMenuItem"; title = "Actions"; ObjectID = "375"; */
+"375.title" = "동작";
+
+/* Class = "NSMenu"; title = "Actions"; ObjectID = "376"; */
+"376.title" = "동작";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "도움말";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "Apple Configurator 2 Help"; ObjectID = "492"; */
+"492.title" = "Apple Configurator 2 도움말";
+
+/* Class = "NSMenuItem"; title = "Enter Recovery"; ObjectID = "a5X-EM-RNU"; */
+"a5X-EM-RNU.title" = "복구 모드 시작";
+
+/* Class = "NSMenuItem"; title = "Set Locale…"; ObjectID = "aRu-d3-hOA"; */
+"aRu-d3-hOA.title" = "위치 설정…";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "AtN-U4-14F"; */
+"AtN-U4-14F.title" = "이름";
+
+/* Class = "NSMenuItem"; title = "VPP Assignments"; ObjectID = "AtU-ow-sSG"; */
+"AtU-ow-sSG.title" = "VPP 할당";
+
+/* Class = "NSMenuItem"; title = "Hide Favorites Bar"; ObjectID = "au4-zh-Rrc"; */
+"au4-zh-Rrc.title" = "즐겨찾기 막대 가리기";
+
+/* Class = "NSMenuItem"; title = "Update…"; ObjectID = "aXe-ep-7KM"; */
+"aXe-ep-7KM.title" = "업데이트…";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "aZ9-t1-tiH"; */
+"aZ9-t1-tiH.title" = "제거";
+
+/* Class = "NSMenuItem"; title = "Activate"; ObjectID = "b61-nS-2Ik"; */
+"b61-nS-2Ik.title" = "활성화";
+
+/* Class = "NSMenuItem"; title = "Start Single App Mode…"; ObjectID = "blR-Pi-GdC"; */
+"blR-Pi-GdC.title" = "단일 앱 모드 시작…";
+
+/* Class = "NSMenu"; title = "Modify"; ObjectID = "Cfw-fP-foe"; */
+"Cfw-fP-foe.title" = "수정";
+
+/* Class = "NSMenuItem"; title = "Restart Device"; ObjectID = "Cop-g3-WCN"; */
+"Cop-g3-WCN.title" = "기기 재시동";
+
+/* Class = "NSMenuItem"; title = "Favorites"; ObjectID = "CSq-2p-ufH"; */
+"CSq-2p-ufH.title" = "즐겨찾기";
+
+/* Class = "NSMenuItem"; title = "Apps…"; ObjectID = "Cxb-O3-0xJ"; */
+"Cxb-O3-0xJ.title" = "앱…";
+
+/* Class = "NSMenuItem"; title = "Wallpapers…"; ObjectID = "d4t-x8-Miw"; */
+"d4t-x8-Miw.title" = "배경화면…";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "eAZ-ef-opb"; */
+"eAZ-ef-opb.title" = "훑어보기";
+
+/* Class = "NSMenuItem"; title = "Info…"; ObjectID = "es7-EM-2AK"; */
+"es7-EM-2AK.title" = "정보…";
+
+/* Class = "NSMenuItem"; title = "Erase All Content and Settings"; ObjectID = "ESb-b9-YuI"; */
+"ESb-b9-YuI.title" = "모든 콘텐츠 및 설정 지우기";
+
+/* Class = "NSMenuItem"; title = "Migration Assistant…"; ObjectID = "f9Q-jy-gDk"; */
+"f9Q-jy-gDk.title" = "마이그레이션 지원…";
+
+/* Class = "NSMenu"; title = "Internal"; ObjectID = "FOH-hc-7d6"; */
+"FOH-hc-7d6.title" = "내장";
+
+/* Class = "NSMenuItem"; title = "Duplicate Blueprint"; ObjectID = "fvL-rt-30P"; */
+"fvL-rt-30P.title" = "청사진 복제";
+
+/* Class = "NSMenuItem"; title = "Go To Folder"; ObjectID = "fzE-3C-1Sj"; */
+"fzE-3C-1Sj.title" = "폴더로 이동";
+
+/* Class = "NSMenu"; title = "Sort by"; ObjectID = "g2G-EG-oca"; */
+"g2G-EG-oca.title" = "다음으로 정렬";
+
+/* Class = "NSMenuItem"; title = "Restore from Backup…"; ObjectID = "Gk3-B5-ffM"; */
+"Gk3-B5-ffM.title" = "백업에서 복원…";
+
+/* Class = "NSMenuItem"; title = "Profiles…"; ObjectID = "h2I-a6-aNP"; */
+"h2I-a6-aNP.title" = "프로파일…";
+
+/* Class = "NSMenuItem"; title = "New Profile"; ObjectID = "h5y-ee-G2V"; */
+"h5y-ee-G2V.title" = "새로운 프로파일";
+
+/* Class = "NSMenuItem"; title = "Revive Device"; ObjectID = "hmk-dj-PXd"; */
+"hmk-dj-PXd.title" = "기기 되살리기";
+
+/* Class = "NSMenuItem"; title = "Resources for Education"; ObjectID = "i2m-zD-TMH"; */
+"i2m-zD-TMH.title" = "교육용 자료";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "iHu-2D-3X0"; */
+"iHu-2D-3X0.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "IQ9-gs-7fl"; */
+"IQ9-gs-7fl.title" = "새로 고침";
+
+/* Class = "NSMenuItem"; title = "Clear Passcode"; ObjectID = "Ja8-mB-Cvn"; */
+"Ja8-mB-Cvn.title" = "암호 지우기";
+
+/* Class = "NSMenu"; title = "Favorites"; ObjectID = "jaH-wG-s0h"; */
+"jaH-wG-s0h.title" = "즐겨찾기";
+
+/* Class = "NSMenuItem"; title = "Modify"; ObjectID = "JMV-Vy-GKZ"; */
+"JMV-Vy-GKZ.title" = "수정";
+
+/* Class = "NSMenuItem"; title = "Set Send Diagnostics…"; ObjectID = "JRY-W9-MSU"; */
+"JRY-W9-MSU.title" = "진단 보내기 설정…";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "Jxd-fx-ilv"; */
+"Jxd-fx-ilv.title" = "전체 화면 시작";
+
+/* Class = "NSMenuItem"; title = "Connected"; ObjectID = "kf0-el-Fdj"; */
+"kf0-el-Fdj.title" = "연결됨";
+
+/* Class = "NSMenuItem"; title = "Back Up"; ObjectID = "Kk9-Zg-nFW"; */
+"Kk9-Zg-nFW.title" = "백업";
+
+/* Class = "NSMenuItem"; title = "All Devices"; ObjectID = "kZe-D9-f2N"; */
+"kZe-D9-f2N.title" = "모든 기기";
+
+/* Class = "NSMenuItem"; title = "New Blueprint"; ObjectID = "lKy-6s-Ml6"; */
+"lKy-6s-Ml6.title" = "새로운 청사진";
+
+/* Class = "NSMenuItem"; title = "Shut Down Device"; ObjectID = "Ltq-rZ-djE"; */
+"Ltq-rZ-djE.title" = "기기 전원 끄기";
+
+/* Class = "NSMenuItem"; title = "Sign In…"; ObjectID = "Lwm-Bf-9e8"; */
+"Lwm-Bf-9e8.title" = "로그인…";
+
+/* Class = "NSMenuItem"; title = "Tag"; ObjectID = "MD2-P2-lM2"; */
+"MD2-P2-lM2.title" = "태그";
+
+/* Class = "NSMenuItem"; title = "Pair with this Mac"; ObjectID = "MhA-LV-eRd"; */
+"MhA-LV-eRd.title" = "이 Mac과 쌍으로 연결";
+
+/* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "mNi-sS-tK5"; */
+"mNi-sS-tK5.title" = "고급";
+
+/* Class = "NSMenuItem"; title = "Software License Agreement…"; ObjectID = "mSm-2S-Xzd"; */
+"mSm-2S-Xzd.title" = "소프트웨어 사용권 계약...";
+
+/* Class = "NSMenuItem"; title = "Sign…"; ObjectID = "n0x-X9-tqQ"; */
+"n0x-X9-tqQ.title" = "서명…";
+
+/* Class = "NSMenuItem"; title = "Hide Toolbar"; ObjectID = "NJt-im-Wm1"; */
+"NJt-im-Wm1.title" = "도구 막대 가리기";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "NTL-dh-1ji"; */
+"NTL-dh-1ji.title" = "복제";
+
+/* Class = "NSMenuItem"; title = "Home Screen Layout…"; ObjectID = "NVA-Uy-3me"; */
+"NVA-Uy-3me.title" = "홈 화면 레이아웃…";
+
+/* Class = "NSMenuItem"; title = "Resources for Enterprise"; ObjectID = "NzJ-QJ-4TP"; */
+"NzJ-QJ-4TP.title" = "기업용 자료";
+
+/* Class = "NSMenuItem"; title = "Deactivate"; ObjectID = "obp-3p-bh0"; */
+"obp-3p-bh0.title" = "비활성화";
+
+/* Class = "NSMenuItem"; title = "Prepare…"; ObjectID = "ouM-cN-4ZS"; */
+"ouM-cN-4ZS.title" = "준비…";
+
+/* Class = "NSMenuItem"; title = "Tags…"; ObjectID = "plX-Uc-gzF"; */
+"plX-Uc-gzF.title" = "태그...";
+
+/* Class = "NSMenuItem"; title = "Documents…"; ObjectID = "Q9B-Qw-6Ua"; */
+"Q9B-Qw-6Ua.title" = "도큐멘트…";
+
+/* Class = "NSMenu"; title = "Apply"; ObjectID = "qSH-KN-EbY"; */
+"qSH-KN-EbY.title" = "적용";
+
+/* Class = "NSMenuItem"; title = "Provide Apple Configurator 2 Feedback…"; ObjectID = "Rav-eM-yTJ"; */
+"Rav-eM-yTJ.title" = "Apple Configurator 2 피드백 제공…";
+
+/* Class = "NSMenuItem"; title = "Shell Command..."; ObjectID = "rfa-xl-sw1"; */
+"rfa-xl-sw1.title" = "셸 명령...";
+
+/* Class = "NSMenuItem"; title = "Slot"; ObjectID = "RNt-7W-gGu"; */
+"RNt-7W-gGu.title" = "슬롯";
+
+/* Class = "NSMenuItem"; title = "Show Status Bar"; ObjectID = "rQC-Hh-yl3"; */
+"rQC-Hh-yl3.title" = "상태 막대 보기";
+
+/* Class = "NSMenuItem"; title = "Acknowledgements…"; ObjectID = "So6-cX-wJT"; */
+"So6-cX-wJT.title" = "승인서…";
+
+/* Class = "NSMenu"; title = "Export"; ObjectID = "sZM-7V-Koy"; */
+"sZM-7V-Koy.title" = "보내기";
+
+/* Class = "NSMenuItem"; title = "Enable Encrypted Backups…"; ObjectID = "T5B-Br-3Nd"; */
+"T5B-Br-3Nd.title" = "암호화된 백업 활성화…";
+
+/* Class = "NSMenuItem"; title = "Model"; ObjectID = "t7I-DU-V8j"; */
+"t7I-DU-V8j.title" = "모델";
+
+/* Class = "NSMenuItem"; title = "Show Useful Tips"; ObjectID = "t9j-74-NRD"; */
+"t9j-74-NRD.title" = "유용한 팁 보기";
+
+/* Class = "NSMenuItem"; title = "New Window"; ObjectID = "TF7-2T-sYi"; */
+"TF7-2T-sYi.title" = "새로운 윈도우";
+
+/* Class = "NSMenuItem"; title = "DNL Account Name"; ObjectID = "Tjd-iv-RtR"; */
+"Tjd-iv-RtR.title" = "DNL Account Name";
+
+/* Class = "NSMenuItem"; title = "State"; ObjectID = "Tyr-6t-Dy6"; */
+"Tyr-6t-Dy6.title" = "상태";
+
+/* Class = "NSMenuItem"; title = "Sort by"; ObjectID = "u5f-2Q-bqA"; */
+"u5f-2Q-bqA.title" = "다음으로 정렬";
+
+/* Class = "NSMenuItem"; title = "Export"; ObjectID = "UzU-fn-L4h"; */
+"UzU-fn-L4h.title" = "보내기";
+
+/* Class = "NSMenuItem"; title = "Set Language…"; ObjectID = "v2A-zs-DKa"; */
+"v2A-zs-DKa.title" = "언어 설정…";
+
+/* Class = "NSMenuItem"; title = "Device Name…"; ObjectID = "v5G-oM-Qle"; */
+"v5G-oM-Qle.title" = "기기 이름…";
+
+/* Class = "NSMenuItem"; title = "Enroll in Device Enrollment Program…"; ObjectID = "vpD-Mf-49l"; */
+"vpD-Mf-49l.title" = "기기 등록 프로그램에서 등록...";
+
+/* Class = "NSMenuItem"; title = "Add Apps from Mac…"; ObjectID = "vWq-qt-3eC"; */
+"vWq-qt-3eC.title" = "Mac에서 앱 추가…";
+
+/* Class = "NSMenuItem"; title = "Account"; ObjectID = "vwx-VA-caf"; */
+"vwx-VA-caf.title" = "계정";
+
+/* Class = "NSMenuItem"; title = "Set Cloud Configuration…"; ObjectID = "VZi-cj-tny"; */
+"VZi-cj-tny.title" = "클라우드 구성 설정…";
+
+/* Class = "NSMenu"; title = "Remove"; ObjectID = "Wfp-Kp-Ojn"; */
+"Wfp-Kp-Ojn.title" = "제거";
+
+/* Class = "NSMenuItem"; title = "Activity"; ObjectID = "WPT-FI-Ser"; */
+"WPT-FI-Ser.title" = "동작";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "WXK-lQ-8pd"; */
+"WXK-lQ-8pd.title" = "종류";
+
+/* Class = "NSMenuItem"; title = "Documents…"; ObjectID = "WxX-ra-MuS"; */
+"WxX-ra-MuS.title" = "도큐멘트…";
+
+/* Class = "NSMenuItem"; title = "Apple Configurator 2 Quick Tour"; ObjectID = "x7j-oO-YvC"; */
+"x7j-oO-YvC.title" = "Apple Configurator 2 간단히 둘러보기";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "XCi-X0-Fz7"; */
+"XCi-X0-Fz7.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Edit Blueprints"; ObjectID = "Xcz-UX-aNa"; */
+"Xcz-UX-aNa.title" = "청사진 편집";
+
+/* Class = "NSMenuItem"; title = "Restore"; ObjectID = "XGa-fD-t3d"; */
+"XGa-fD-t3d.title" = "복원";
+
+/* Class = "NSMenuItem"; title = "Apply"; ObjectID = "XR4-Jl-gJe"; */
+"XR4-Jl-gJe.title" = "적용";
+
+/* Class = "NSMenuItem"; title = "Get Cloud Configuration…"; ObjectID = "YPk-hd-4QC"; */
+"YPk-hd-4QC.title" = "클라우드 구성 가져오기…";
+
+/* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "ytw-dy-pd7"; */
+"ytw-dy-pd7.title" = "정보 가져오기";
+
+/* Class = "NSMenuItem"; title = "Save Unlock Token"; ObjectID = "Z0W-Mg-tV7"; */
+"Z0W-Mg-tV7.title" = "잠금 해제 토큰 저장";
+
+/* Class = "NSMenuItem"; title = "Paired Devices…"; ObjectID = "Z27-iX-Lt8"; */
+"Z27-iX-Lt8.title" = "연결된 기기...";
+
+/* Class = "NSMenuItem"; title = "Add Apps from iTunes Store…"; ObjectID = "ZGj-PQ-G3F"; */
+"ZGj-PQ-G3F.title" = "iTunes Store에서 앱 추가…";
+

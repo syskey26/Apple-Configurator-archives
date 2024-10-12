@@ -1,0 +1,39 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "Identifiants ECID";
+
+/* (No Comment) */
+"AMDNote" = "CONSEIL : lorsque vous créez un processus pour copier des documents sur des appareils, ajoutez une copie de cette action dans chacune des apps associées aux documents à copier.";
+
+/* (No Comment) */
+"AMDOptions" = "Lorsque le menu local d’app est visible, cliquez sur le bouton « Mettre à jour » pour afficher une liste locale des fichiers d’apps mobiles sur votre ordinateur.";
+
+/* (No Comment) */
+"AMDRequires" = "Lorsque des documents sont copiés sur des appareils iOS, un identifiant pour l’app associée aux documents copiés doit être inclus. Dans cette action, l’identifiant d’app peut être indiqué, 1) soit en sélectionnant l’app associée dans une liste de fichiers d’apps stockés sur cet ordinateur, 2) soit en saisissant l’identifiant d’app dans le champ d’entrée textuelle fourni.";
+
+/* (No Comment) */
+"AMDResult" = "Identifiants ECID";
+
+/* (No Comment) */
+"AMDSummary" = "Cette action installe les fichiers de document sélectionnés sur les appareils dont les identifiants sont indiqués à cette action comme entrées.";
+
+/* (No Comment) */
+"AMDWebsite" = "https://configautomation.com";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "Copier les documents sur les appareils";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2018 Apple Inc. Tous droits réservés.";
+

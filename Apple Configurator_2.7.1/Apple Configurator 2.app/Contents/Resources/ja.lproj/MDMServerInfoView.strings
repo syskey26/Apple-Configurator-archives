@@ -1,0 +1,21 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name"; ObjectID = "7Aa-4A-Ii3"; */
+"7Aa-4A-Ii3.ibExternalAccessibilityDescription" = "名前";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enrollment URL"; ObjectID = "hMq-5o-Nnk"; */
+"hMq-5o-Nnk.ibExternalAccessibilityDescription" = "登録 URL";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "k32-Ep-ZGc"; */
+"k32-Ep-ZGc.placeholderString" = "必須";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "nlV-a2-4NK"; */
+"nlV-a2-4NK.title" = "名前：";
+
+/* Class = "NSTextFieldCell"; title = "Enter a name and the enrollment URL for this server. If you don't know it, enter the server's host name or IP address, and Configurator will attempt to discover it."; ObjectID = "OH2-7i-Sii"; */
+"OH2-7i-Sii.title" = "このサーバの名前と登録URLを入力してください。分からない場合は、サーバのホスト名またはIPアドレスを入力すると、自動検出が試みられます。";
+
+/* Class = "NSTextFieldCell"; title = "Host name or URL:"; ObjectID = "X0w-f1-FcU"; */
+"X0w-f1-FcU.title" = "ホスト名またはURL:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "Yof-yi-gKN"; */
+"Yof-yi-gKN.placeholderString" = "必須";
+

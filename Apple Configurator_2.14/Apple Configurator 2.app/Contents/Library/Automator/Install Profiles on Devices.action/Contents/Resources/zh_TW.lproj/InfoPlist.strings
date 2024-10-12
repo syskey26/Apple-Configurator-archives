@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "您可以選擇執行「幕後」安裝，便無需與使用者互動來完成安裝。使用此選項會要求監管憑證與專用密鑰檔案。";
+
+/* (No Comment) */
+"AMDRequires" = "";
+
+/* (No Comment) */
+"AMDResult" = "ECID 識別碼";
+
+/* (No Comment) */
+"AMDSummary" = "此動作將會在其識別碼已傳送到此動作作為輸入的裝置上安裝所選描述檔檔案。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "在裝置上安裝描述檔";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2021 Apple Inc. 保留一切權利。";
+

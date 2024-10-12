@@ -1,0 +1,36 @@
+/* AMDescription localized strings */
+"AMDAlert" = "";
+
+/* (No Comment) */
+"AMDInput" = "ECID識別子";
+
+/* (No Comment) */
+"AMDNote" = "";
+
+/* (No Comment) */
+"AMDOptions" = "";
+
+/* (No Comment) */
+"AMDRequires" = "重要: iOS 9以降が搭載されたデバイスでは、監視証明書と秘密鍵ファイルを使用する必要はありません。";
+
+/* (No Comment) */
+"AMDResult" = "ECID識別子";
+
+/* (No Comment) */
+"AMDSummary" = "このアクションにより、識別子が入力としてこのアクションに渡されたデバイスから、コンテンツと設定が消去されます。";
+
+/* e.g. "Text" = "Text"; */
+"AMName" = "デバイスを消去";
+
+/* AMWarning localized strings */
+"ApplyButton" = "";
+
+/* (No Comment) */
+"IgnoreButton" = "";
+
+/* (No Comment) */
+"Message" = "";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2015-2023 Apple Inc. All rights reserved.";
+

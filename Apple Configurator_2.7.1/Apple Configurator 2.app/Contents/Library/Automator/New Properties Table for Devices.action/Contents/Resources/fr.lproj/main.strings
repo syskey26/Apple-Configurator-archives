@@ -1,0 +1,129 @@
+/* Class = "NSButtonCell"; title = "Language"; ObjectID = "0Oy-3b-V9j"; */
+"0Oy-3b-V9j.title" = "Langue";
+
+/* Class = "NSButtonCell"; title = "Configuration Profiles"; ObjectID = "1K2-ab-tVS"; */
+"1K2-ab-tVS.title" = "Profils de configuration";
+
+/* Class = "NSButtonCell"; title = "Enclosure Color"; ObjectID = "3fb-bU-xye"; */
+"3fb-bU-xye.title" = "Couleur du boîtier";
+
+/* Class = "NSButtonCell"; title = "Backup Will Be Encrypted"; ObjectID = "06b-b7-G6U"; */
+"06b-b7-G6U.title" = "La sauvegarde sera chiffrée";
+
+/* Class = "NSButtonCell"; title = "Passcode Protected"; ObjectID = "7MC-ww-xXJ"; */
+"7MC-ww-xXJ.title" = "Protégé par code";
+
+/* Class = "NSButtonCell"; title = "Provisioning Profiles"; ObjectID = "9eM-YF-1Lc"; */
+"9eM-YF-1Lc.title" = "Profils d’approvisionnement";
+
+/* Class = "NSButtonCell"; title = "Locale"; ObjectID = "aEL-a8-Hgb"; */
+"aEL-a8-Hgb.title" = "Région (langue)";
+
+/* Class = "NSButtonCell"; title = "Activation State"; ObjectID = "aYw-cF-R8H"; */
+"aYw-cF-R8H.title" = "État d’activation";
+
+/* Class = "NSButtonCell"; title = "ICCID"; ObjectID = "bz2-Mf-RTV"; */
+"bz2-Mf-RTV.title" = "ICCID";
+
+/* Class = "NSButtonCell"; title = "Serial Number"; ObjectID = "cBf-73-9de"; */
+"cBf-73-9de.title" = "Numéro de série";
+
+/* Class = "NSButtonCell"; title = "None"; ObjectID = "D1G-G5-M3u"; */
+"D1G-G5-M3u.title" = "Aucun";
+
+/* Class = "NSButtonCell"; title = "Battery Current Capacity"; ObjectID = "Ejt-Vl-PCt"; */
+"Ejt-Vl-PCt.title" = "Capacité actuelle de la batterie";
+
+/* Class = "NSTextFieldCell"; title = "Table title:"; ObjectID = "FrJ-6j-Wlp"; */
+"FrJ-6j-Wlp.title" = "Titre de tableau :";
+
+/* Class = "NSBox"; title = "Select properties for table:"; ObjectID = "gwB-Dr-qgg"; */
+"gwB-Dr-qgg.title" = "Sélectionner des propriétés pour le tableau :";
+
+/* Class = "NSButtonCell"; title = "Phone Number"; ObjectID = "ifq-bB-f1z"; */
+"ifq-bB-f1z.title" = "Numéro de téléphone";
+
+/* Class = "NSButtonCell"; title = "Paired"; ObjectID = "ikS-sv-r8Y"; */
+"ikS-sv-r8Y.title" = "Jumelé";
+
+/* Class = "NSButtonCell"; title = "Organization Department"; ObjectID = "iSB-Ds-yi4"; */
+"iSB-Ds-yi4.title" = "Département de l’organisation";
+
+/* Class = "NSButtonCell"; title = "Color"; ObjectID = "JQA-QL-ZLP"; */
+"JQA-QL-ZLP.title" = "Couleur";
+
+/* Class = "NSButtonCell"; title = "Cloud Backups Are Enabled"; ObjectID = "JYo-qH-Q8U"; */
+"JYo-qH-Q8U.title" = "Les sauvegardes sur le nuage sont activées";
+
+/* Class = "NSButtonCell"; title = "Battery Is Charging"; ObjectID = "k8R-aJ-Sqg"; */
+"k8R-aJ-Sqg.title" = "La batterie est en charge";
+
+/* Class = "NSButtonCell"; title = "UDID"; ObjectID = "l3n-or-6nQ"; */
+"l3n-or-6nQ.title" = "UDID";
+
+/* Class = "NSButtonCell"; title = "Organization Phone"; ObjectID = "Ls8-SE-53c"; */
+"Ls8-SE-53c.title" = "Téléphone de l’organisation";
+
+/* Class = "NSButtonCell"; title = "Total Disk Capacity"; ObjectID = "Mrf-zJ-ZdZ"; */
+"Mrf-zJ-ZdZ.title" = "Capacité du disque total";
+
+/* Class = "NSButtonCell"; title = "Organization Email"; ObjectID = "MSR-Pp-a75"; */
+"MSR-Pp-a75.title" = "E-mail de l’organisation";
+
+/* Class = "NSButtonCell"; title = "Tags"; ObjectID = "nA8-pV-LCy"; */
+"nA8-pV-LCy.title" = "Tags";
+
+/* Class = "NSButtonCell"; title = "Supervised"; ObjectID = "NST-QW-DpC"; */
+"NST-QW-DpC.title" = "Supervisé(s)";
+
+/* Class = "NSButtonCell"; title = "Create new Numbers document"; ObjectID = "NUc-RU-3tl"; */
+"NUc-RU-3tl.title" = "Créer un nouveau document Numbers";
+
+/* Class = "NSButtonCell"; title = "Device Class"; ObjectID = "OlD-hl-RrJ"; */
+"OlD-hl-RrJ.title" = "Classe d’appareil";
+
+/* Class = "NSButtonCell"; title = "Build Version"; ObjectID = "PeP-uS-jlu"; */
+"PeP-uS-jlu.title" = "Version de compilation";
+
+/* Class = "NSButtonCell"; title = "Firmware Version"; ObjectID = "PeQ-x7-OHQ"; */
+"PeQ-x7-OHQ.title" = "Version du programme interne";
+
+/* Class = "NSButtonCell"; title = "Organization Name"; ObjectID = "PUr-uA-WQv"; */
+"PUr-uA-WQv.title" = "Nom de l’organisation";
+
+/* Class = "NSButtonCell"; title = "Organization Address"; ObjectID = "qNc-U3-DU8"; */
+"qNc-U3-DU8.title" = "Adresse de l’organisation";
+
+/* Class = "NSButtonCell"; title = "ECID"; ObjectID = "Rtm-6s-jHf"; */
+"Rtm-6s-jHf.title" = "ECID";
+
+/* Class = "NSButtonCell"; title = "Name"; ObjectID = "rVU-bs-2cX"; */
+"rVU-bs-2cX.title" = "Nom";
+
+/* Class = "NSButtonCell"; title = "Bluetooth Address"; ObjectID = "sdv-mI-gAa"; */
+"sdv-mI-gAa.title" = "Adresse Bluetooth";
+
+/* Class = "NSButtonCell"; title = "IMEI"; ObjectID = "sfR-Xt-UYf"; */
+"sfR-Xt-UYf.title" = "IMEI";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "UBI-Pz-a2F"; */
+"UBI-Pz-a2F.title" = "Tout";
+
+/* Class = "NSButtonCell"; title = "Booted State"; ObjectID = "uNm-G6-Rnj"; */
+"uNm-G6-Rnj.title" = "État de démarrage";
+
+/* Class = "NSButtonCell"; title = "Allows Pairing"; ObjectID = "vkn-MA-SUA"; */
+"vkn-MA-SUA.title" = "Autorise le jumelage";
+
+/* Class = "NSButtonCell"; title = "Device Type"; ObjectID = "wAw-7C-Mfz"; */
+"wAw-7C-Mfz.title" = "Type d’appareil";
+
+/* Class = "NSButtonCell"; title = "Wi-Fi Address"; ObjectID = "yAG-C1-JU0"; */
+"yAG-C1-JU0.title" = "Adresse Wi-Fi";
+
+/* Class = "NSButtonCell"; title = "Telephony Capable"; ObjectID = "Yg4-Wu-VPC"; */
+"Yg4-Wu-VPC.title" = "Compatible avec la téléphonie";
+
+/* Class = "NSButtonCell"; title = "Location ID"; ObjectID = "yZ5-t1-7Ev"; */
+"yZ5-t1-7Ev.title" = "Identifiant de l’emplacement";
+

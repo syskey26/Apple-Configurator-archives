@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "(supervised only)"; ObjectID = "Cxl-sK-88M"; */
+"Cxl-sK-88M.title" = "(solo supervisionati)";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "[optional]"; ObjectID = "dMw-M6-ZU8"; */
+"dMw-M6-ZU8.ibShadowedIsNilPlaceholder" = "[facoltativo]";
+
+/* Class = "NSTextFieldCell"; title = "Conference Room Display"; ObjectID = "h0Q-vt-djc"; */
+"h0Q-vt-djc.title" = "Visualizzazione sala conferenze";
+
+/* Class = "NSTextFieldCell"; title = "Message displayed on-screen in Conference Room Display mode"; ObjectID = "tiz-EG-ryi"; */
+"tiz-EG-ryi.title" = "Messaggio mostrato sullo schermo nella modalità “Visualizzazione sala conferenze”";
+
+/* Class = "NSTextFieldCell"; title = "Custom Message"; ObjectID = "Ypp-Fg-qmf"; */
+"Ypp-Fg-qmf.title" = "Messaggio personalizzato";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Account Name:"; ObjectID = "yxj-3K-sb3"; */
+"yxj-3K-sb3.ibExternalAccessibilityDescription" = "Nome account:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Conference Room Display payload"; ObjectID = "zqg-Jh-OH0"; */
+"zqg-Jh-OH0.ibShadowedToolTip" = "Rimuovi payload visualizzazione sala conferenze";
+
